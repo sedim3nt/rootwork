@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import Badge from '@/components/ui/Badge';
@@ -6,6 +7,7 @@ import PlantCard from '@/components/ui/PlantCard';
 import Disclaimer from '@/components/ui/Disclaimer';
 import SaveButton from '@/components/ui/SaveButton';
 import { plants, getRelatedPlants } from '@/lib/data';
+import plantImages from '@/data/plant-images.json';
 
 export function generateStaticParams() {
   return plants.map((p) => ({ slug: p.slug }));
@@ -31,6 +33,7 @@ export default async function PlantDetailPage({ params }: { params: Promise<{ sl
   const descriptionEntries = Object.entries(plant.description);
 
   const familySlug = plant.family.toLowerCase().replace(/\s+/g, '-') + '-family';
+  const imagePath = (plantImages as Record<string, string>)[plant.slug];
 
   // JSON-LD structured data
   const jsonLd = {
@@ -50,6 +53,53 @@ export default async function PlantDetailPage({ params }: { params: Promise<{ sl
       lastReviewed: new Date().toISOString().split('T')[0],
     },
   };
+
+  const hasCompounds = plant.compounds.length > 0;
+  const hasTraditionalUses = plant.traditionalUses.length > 0;
+  const hasModernUses = plant.modernUses.length > 0;
+
+  const rightColumnContent = (
+    <>
+      {hasCompounds && (
+        <div>
+          <h2 className="text-xl font-semibold text-parchment mb-4" style={{ fontFamily: 'var(--font-display)' }}>
+            Active Compounds
+          </h2>
+          <div className="flex flex-wrap gap-2">
+            {plant.compounds.map((c) => (
+              <Badge key={c} variant="burnt">{c}</Badge>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {hasTraditionalUses && (
+        <div>
+          <h2 className="text-xl font-semibold text-parchment mb-4" style={{ fontFamily: 'var(--font-display)' }}>
+            Traditional Uses
+          </h2>
+          <ul className="space-y-2">
+            {plant.traditionalUses.map((use, i) => (
+              <li key={i} className="text-sm text-parchment pl-4 relative before:content-['•'] before:absolute before:left-0 before:text-burnt">{use}</li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {hasModernUses && (
+        <div>
+          <h2 className="text-xl font-semibold text-parchment mb-4" style={{ fontFamily: 'var(--font-display)' }}>
+            Modern Applications
+          </h2>
+          <ul className="space-y-2">
+            {plant.modernUses.map((use, i) => (
+              <li key={i} className="text-sm text-parchment pl-4 relative before:content-['•'] before:absolute before:left-0 before:text-burnt">{use}</li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </>
+  );
 
   return (
     <div className="space-y-10">
@@ -90,45 +140,25 @@ export default async function PlantDetailPage({ params }: { params: Promise<{ sl
         </section>
       )}
 
-      {/* Compounds */}
-      {plant.compounds.length > 0 && (
-        <section>
-          <h2 className="text-xl font-semibold text-parchment mb-4" style={{ fontFamily: 'var(--font-display)' }}>
-            Active Compounds
-          </h2>
-          <div className="flex flex-wrap gap-2">
-            {plant.compounds.map((c) => (
-              <Badge key={c} variant="burnt">{c}</Badge>
-            ))}
+      {/* Botanical Image + Compounds/Uses (2-column if image exists) */}
+      {imagePath ? (
+        <section className="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div>
+            <Image
+              src={imagePath}
+              alt={`Botanical illustration of ${plant.name} (${plant.latinName})`}
+              width={570}
+              height={760}
+              className="w-full h-auto rounded-[var(--radius-card)]"
+            />
+          </div>
+          <div className="space-y-8">
+            {rightColumnContent}
           </div>
         </section>
-      )}
-
-      {/* Traditional Uses */}
-      {plant.traditionalUses.length > 0 && (
-        <section>
-          <h2 className="text-xl font-semibold text-parchment mb-4" style={{ fontFamily: 'var(--font-display)' }}>
-            Traditional Uses
-          </h2>
-          <ul className="space-y-2">
-            {plant.traditionalUses.map((use, i) => (
-              <li key={i} className="text-sm text-parchment pl-4 relative before:content-['•'] before:absolute before:left-0 before:text-burnt">{use}</li>
-            ))}
-          </ul>
-        </section>
-      )}
-
-      {/* Modern Applications */}
-      {plant.modernUses.length > 0 && (
-        <section>
-          <h2 className="text-xl font-semibold text-parchment mb-4" style={{ fontFamily: 'var(--font-display)' }}>
-            Modern Applications
-          </h2>
-          <ul className="space-y-2">
-            {plant.modernUses.map((use, i) => (
-              <li key={i} className="text-sm text-parchment pl-4 relative before:content-['•'] before:absolute before:left-0 before:text-burnt">{use}</li>
-            ))}
-          </ul>
+      ) : (
+        <section className="space-y-10">
+          {rightColumnContent}
         </section>
       )}
 
