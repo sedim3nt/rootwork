@@ -11,6 +11,20 @@ const featured = [0, 15, 30, 50, 70, 90].map((i) => plants[i % plants.length]);
 const browseCategories = categories.filter((c) => c.uses.length > 0 && c.plantRefs.length > 0);
 const browseFamilies = families.slice(0, 12);
 
+// Plant of the Day — deterministic based on day of year
+function getPlantOfTheDay() {
+  const now = new Date();
+  const start = new Date(now.getFullYear(), 0, 0);
+  const diff = now.getTime() - start.getTime();
+  const dayOfYear = Math.floor(diff / (1000 * 60 * 60 * 24));
+  return plants[dayOfYear % plants.length];
+}
+
+const plantOfTheDay = getPlantOfTheDay();
+
+// Quick symptom shortcuts
+const quickSymptoms = browseCategories.slice(0, 3);
+
 export default function HomePage() {
   return (
     <div className="space-y-16">
@@ -24,6 +38,73 @@ export default function HomePage() {
         </p>
         <div className="mt-8 max-w-lg mx-auto">
           <SearchBar large />
+        </div>
+      </section>
+
+      {/* Plant of the Day */}
+      <section>
+        <h2 className="text-2xl font-semibold text-parchment mb-6" style={{ fontFamily: 'var(--font-display)' }}>
+          Plant of the Day
+        </h2>
+        <Link
+          href={`/plants/${plantOfTheDay.slug}`}
+          className="block bg-surface border-2 border-burnt/30 rounded-[var(--radius-card)] p-6 hover:border-burnt/60 hover:shadow-md transition-all group"
+        >
+          <div className="flex items-start justify-between">
+            <div>
+              <h3 className="text-2xl font-bold text-parchment group-hover:text-burnt transition-colors" style={{ fontFamily: 'var(--font-display)' }}>
+                {plantOfTheDay.name}
+              </h3>
+              <p className="text-sm italic text-text-muted mt-0.5">{plantOfTheDay.latinName}</p>
+            </div>
+            <span className="text-3xl">🌿</span>
+          </div>
+          <p className="mt-3 text-sm text-parchment">
+            <span className="font-medium text-burnt">Did you know?</span>{' '}
+            {plantOfTheDay.traditionalUses[0]}
+          </p>
+        </Link>
+      </section>
+
+      {/* Ask the Garden CTA */}
+      <section>
+        <Link
+          href="/ask"
+          className="block bg-sienna text-cream rounded-[var(--radius-card)] p-8 hover:bg-sienna/90 transition-colors group text-center"
+        >
+          <div className="text-3xl mb-2">🌿</div>
+          <h2 className="text-2xl font-semibold mb-2" style={{ fontFamily: 'var(--font-display)' }}>
+            Ask the Garden
+          </h2>
+          <p className="text-cream/80 max-w-md mx-auto">
+            Ask natural language questions about plant medicine. &quot;What helps with anxiety?&quot; &quot;Tell me about adaptogens.&quot;
+          </p>
+        </Link>
+      </section>
+
+      {/* What's Wrong? Quick Links */}
+      <section>
+        <div className="flex items-center justify-between mb-6">
+          <h2 className="text-2xl font-semibold text-parchment" style={{ fontFamily: 'var(--font-display)' }}>
+            What&apos;s Wrong?
+          </h2>
+          <Link href="/symptoms" className="text-sm text-burnt hover:underline">All symptoms →</Link>
+        </div>
+        <div className="grid grid-cols-3 gap-3">
+          {quickSymptoms.map((cat) => (
+            <Link
+              key={cat.slug}
+              href="/symptoms"
+              className="bg-surface border border-border rounded-[var(--radius-card)] p-4 text-center hover:border-burnt/40 hover:shadow-sm transition-all group"
+            >
+              <h3 className="font-medium text-parchment group-hover:text-burnt transition-colors" style={{ fontFamily: 'var(--font-display)' }}>
+                {cat.name}
+              </h3>
+              <p className="text-xs text-text-muted mt-1">
+                {cat.plantRefs.filter((r) => !r.startsWith('00-')).length} plants
+              </p>
+            </Link>
+          ))}
         </div>
       </section>
 

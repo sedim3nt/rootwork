@@ -4,6 +4,7 @@ import Badge from '@/components/ui/Badge';
 import SafetyCard from '@/components/ui/SafetyCard';
 import PlantCard from '@/components/ui/PlantCard';
 import Disclaimer from '@/components/ui/Disclaimer';
+import SaveButton from '@/components/ui/SaveButton';
 import { plants, getRelatedPlants } from '@/lib/data';
 
 export function generateStaticParams() {
@@ -11,7 +12,6 @@ export function generateStaticParams() {
 }
 
 export function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
-  // Need to resolve synchronously for static generation — use a workaround
   return params.then(({ slug }) => {
     const plant = plants.find((p) => p.slug === slug);
     if (!plant) return { title: 'Plant Not Found' };
@@ -30,21 +30,47 @@ export default async function PlantDetailPage({ params }: { params: Promise<{ sl
   const related = getRelatedPlants(plant);
   const descriptionEntries = Object.entries(plant.description);
 
-  // Find the family slug
   const familySlug = plant.family.toLowerCase().replace(/\s+/g, '-') + '-family';
+
+  // JSON-LD structured data
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: `${plant.name} (${plant.latinName})`,
+    description: `${plant.name}: traditional uses, preparations, safety, and modern applications in plant medicine.`,
+    about: {
+      '@type': 'Thing',
+      name: plant.latinName,
+      alternateName: plant.name,
+    },
+    mainEntity: {
+      '@type': 'MedicalWebPage',
+      name: plant.name,
+      about: plant.latinName,
+      lastReviewed: new Date().toISOString().split('T')[0],
+    },
+  };
 
   return (
     <div className="space-y-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
       {/* Header */}
-      <header>
-        <h1 className="text-4xl font-bold text-parchment" style={{ fontFamily: 'var(--font-display)' }}>
-          {plant.name}
-        </h1>
-        <p className="text-lg italic text-text-muted mt-1">{plant.latinName}</p>
-        <div className="mt-3 flex flex-wrap gap-2">
-          <Badge variant="burnt" href={`/families/${familySlug}`}>{plant.family}</Badge>
-          {plant.nativeRange && <Badge>{plant.nativeRange}</Badge>}
+      <header className="flex items-start justify-between">
+        <div>
+          <h1 className="text-4xl font-bold text-parchment" style={{ fontFamily: 'var(--font-display)' }}>
+            {plant.name}
+          </h1>
+          <p className="text-lg italic text-text-muted mt-1">{plant.latinName}</p>
+          <div className="mt-3 flex flex-wrap gap-2">
+            <Badge variant="burnt" href={`/families/${familySlug}`}>{plant.family}</Badge>
+            {plant.nativeRange && <Badge>{plant.nativeRange}</Badge>}
+          </div>
         </div>
+        <SaveButton slug={plant.slug} size="md" />
       </header>
 
       {/* Description */}
@@ -106,7 +132,7 @@ export default async function PlantDetailPage({ params }: { params: Promise<{ sl
         </section>
       )}
 
-      {/* Safety — PROMINENT, before preparations */}
+      {/* Safety */}
       <SafetyCard
         contraindications={plant.contraindications}
         sideEffects={plant.sideEffects}
@@ -144,7 +170,6 @@ export default async function PlantDetailPage({ params }: { params: Promise<{ sl
         </section>
       )}
 
-      {/* Sticky Disclaimer */}
       <Disclaimer />
     </div>
   );
