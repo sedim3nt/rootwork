@@ -1,0 +1,325 @@
+[
+  {
+    "slug": "adaptogens",
+    "name": "Adaptogens",
+    "uses": [
+      "Stress adaptation and resilience",
+      "Energy and vitality enhancement",
+      "Cortisol balance",
+      "Physical and mental endurance",
+      "Fatigue recovery",
+      "Immune system modulation",
+      "Overall wellness and longevity"
+    ],
+    "plantRefs": [
+      "04-Ginseng",
+      "19-Astragalus",
+      "20-Reishi-Mushroom",
+      "21-Rhodiola",
+      "22-Ashwagandha",
+      "23-Holy-Basil",
+      "24-Schisandra",
+      "00-TRADITIONAL-USES"
+    ]
+  },
+  {
+    "slug": "capsule-extract",
+    "name": "Capsule Extract",
+    "uses": [],
+    "plantRefs": []
+  },
+  {
+    "slug": "circulatory-health",
+    "name": "Circulatory Health",
+    "uses": [
+      "Heart support and strengthening",
+      "Blood circulation improvement",
+      "Blood pressure regulation",
+      "Cardiovascular health maintenance",
+      "Cholesterol support",
+      "Peripheral circulation",
+      "Vascular health"
+    ],
+    "plantRefs": [
+      "02-Turmeric",
+      "06-Garlic",
+      "08-Ginkgo",
+      "16-Saw-Palmetto",
+      "37-Rosemary",
+      "42-Cinnamon",
+      "51-Hawthorn",
+      "00-TRADITIONAL-USES"
+    ]
+  },
+  {
+    "slug": "culinary-medicine",
+    "name": "Culinary Medicine",
+    "uses": [],
+    "plantRefs": []
+  },
+  {
+    "slug": "decoction",
+    "name": "Decoction",
+    "uses": [],
+    "plantRefs": []
+  },
+  {
+    "slug": "digestive-health",
+    "name": "Digestive Health",
+    "uses": [
+      "Nausea and motion sickness",
+      "Indigestion and dyspepsia",
+      "Gas and bloating",
+      "Stomach ulcers and gastritis",
+      "Digestive inflammation",
+      "Appetite stimulation",
+      "Intestinal cramping"
+    ],
+    "plantRefs": [
+      "03-Ginger",
+      "05-Chamomile",
+      "12-Peppermint",
+      "15-Milk-Thistle",
+      "29-Marshmallow",
+      "30-Slippery-Elm",
+      "31-Licorice",
+      "32-Fennel",
+      "38-Sage",
+      "41-Basil",
+      "44-Cardamom",
+      "46-Coriander",
+      "47-Cumin",
+      "49-Nutmeg",
+      "54-Dandelion",
+      "55-Burdock",
+      "56-Yellow-Dock",
+      "77-Wild-Yam",
+      "78-Blessed-Thistle",
+      "85-Oregon-Grape",
+      "96-Lemon-Verbena",
+      "98-Mugwort",
+      "99-Wormwood",
+      "100-Angelica",
+      "00-TRADITIONAL-USES"
+    ]
+  },
+  {
+    "slug": "essential-oil",
+    "name": "Essential Oil",
+    "uses": [],
+    "plantRefs": []
+  },
+  {
+    "slug": "immune-support",
+    "name": "Immune Support",
+    "uses": [
+      "Cold and flu prevention",
+      "Viral infections",
+      "Immune system stimulation",
+      "Antimicrobial support",
+      "Lymphatic congestion",
+      "Recovery from illness",
+      "General immune enhancement"
+    ],
+    "plantRefs": [
+      "01-Echinacea",
+      "06-Garlic",
+      "18-Elderberry",
+      "19-Astragalus",
+      "20-Reishi-Mushroom",
+      "39-Thyme",
+      "53-Nettle",
+      "57-Red-Root",
+      "61-Goldenseal",
+      "62-Bloodroot",
+      "67-Birch",
+      "70-Osha",
+      "79-Pau-DArco",
+      "80-Cats-Claw",
+      "85-Oregon-Grape",
+      "00-TRADITIONAL-USES"
+    ]
+  },
+  {
+    "slug": "natural-medicines-database-index",
+    "name": "Natural Medicines Database Index",
+    "uses": [],
+    "plantRefs": []
+  },
+  {
+    "slug": "nervous-system",
+    "name": "Nervous System",
+    "uses": [
+      "Sleep disorders and insomnia",
+      "Anxiety and nervousness",
+      "Depression and mood support",
+      "Nervous tension and stress",
+      "Mental fatigue",
+      "Restlessness and agitation",
+      "Emotional balance"
+    ],
+    "plantRefs": [
+      "09-St-Johns-Wort",
+      "11-Lavender",
+      "13-Willow-Bark",
+      "14-Valerian",
+      "23-Holy-Basil",
+      "37-Rosemary",
+      "38-Sage",
+      "50-Star-Anise",
+      "52-Lemon-Balm",
+      "81-Damiana",
+      "82-Yerba-Mate",
+      "83-Passionflower",
+      "84-Kanna",
+      "90-Violet",
+      "93-Wood-Betony",
+      "94-Catnip",
+      "95-Skullcap",
+      "96-Lemon-Verbena",
+      "97-Motherwort",
+      "00-TRADITIONAL-USES"
+    ]
+  },
+  {
+    "slug": "respiratory-health",
+    "name": "Respiratory Health",
+    "uses": [
+      "Persistent cough",
+      "Bronchitis and chest congestion",
+      "Respiratory infections",
+      "Lung irritation and inflammation",
+      "Asthma support",
+      "Expectorant action",
+      "Throat soothing"
+    ],
+    "plantRefs": [
+      "33-Mullein",
+      "34-Coltsfoot",
+      "35-Elecampane",
+      "36-Pine-Needle",
+      "39-Thyme",
+      "41-Basil",
+      "43-Clove",
+      "63-Wild-Cherry",
+      "70-Osha",
+      "85-White-Willow",
+      "87-Wintergreen",
+      "90-Violet",
+      "100-Angelica",
+      "00-TRADITIONAL-USES"
+    ]
+  },
+  {
+    "slug": "skin-wounds",
+    "name": "Skin & Wounds",
+    "uses": [
+      "Burns and scalds",
+      "Cuts and wounds",
+      "Skin inflammation and irritation",
+      "Wound healing acceleration",
+      "Astringent and toning action",
+      "Bruises and contusions",
+      "Skin conditions and rashes"
+    ],
+    "plantRefs": [
+      "07-Aloe-Vera",
+      "10-Calendula",
+      "58-Plantain",
+      "59-Yarrow",
+      "60-Comfrey",
+      "65-Witch-Hazel",
+      "72-Borage",
+      "76-Rose-Hips",
+      "90-Violet",
+      "89-Chickweed",
+      "86-Meadowsweet",
+      "88-Arnica",
+      "91-Cleavers",
+      "92-Self-Heal",
+      "00-TRADITIONAL-USES"
+    ]
+  },
+  {
+    "slug": "skin-health",
+    "name": "Skin Health",
+    "uses": [
+      "Wounds and cuts",
+      "Eczema and dermatitis",
+      "Inflammatory skin conditions",
+      "Burns and sunburn",
+      "Acne and blemishes",
+      "Dry and irritated skin",
+      "Skin infections"
+    ],
+    "plantRefs": [
+      "85-Oregon-Grape",
+      "89-Chickweed",
+      "00-TRADITIONAL-USES"
+    ]
+  },
+  {
+    "slug": "tea-infusion",
+    "name": "Tea Infusion",
+    "uses": [],
+    "plantRefs": []
+  },
+  {
+    "slug": "tincture",
+    "name": "Tincture",
+    "uses": [],
+    "plantRefs": []
+  },
+  {
+    "slug": "topical-application",
+    "name": "Topical Application",
+    "uses": [],
+    "plantRefs": []
+  },
+  {
+    "slug": "urinary-health",
+    "name": "Urinary Health",
+    "uses": [
+      "Urinary tract infections",
+      "Kidney and bladder support",
+      "Fluid retention and edema",
+      "Urinary inflammation",
+      "Bladder toning",
+      "Kidney stone prevention",
+      "Diuretic action"
+    ],
+    "plantRefs": [
+      "17-Cranberry",
+      "68-Uva-Ursi",
+      "69-Juniper",
+      "91-Cleavers",
+      "00-TRADITIONAL-USES"
+    ]
+  },
+  {
+    "slug": "women-s-health",
+    "name": "Women's Health",
+    "uses": [
+      "Menopausal symptoms and hot flashes",
+      "PMS and menstrual irregularities",
+      "Menstrual cramping and pain",
+      "Hormonal balance support",
+      "Lactation support",
+      "Reproductive system toning",
+      "Fertility support"
+    ],
+    "plantRefs": [
+      "25-Black-Cohosh",
+      "26-Red-Clover",
+      "27-Dong-Quai",
+      "28-Chaste-Tree",
+      "48-Fenugreek",
+      "71-Evening-Primrose",
+      "73-Blue-Cohosh",
+      "74-Partridge-Berry",
+      "75-Raspberry-Leaf",
+      "77-Wild-Yam",
+      "00-TRADITIONAL-USES"
+    ]
+  }
+]

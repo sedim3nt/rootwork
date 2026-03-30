@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  /* Burnt Paper — Dark Editorial */
+  --color-parchment: #1A1410;
+  --color-paper: #E8D5B7;
+  --color-burnt: #C17817;
+  --color-sienna: #4A3728;
+  --color-cream: #F2E8DC;
+  --color-cream-dark: #D4C4A8;
+
+  /* Semantic */
+  --color-bg: #F2E8DC;
+  --color-surface: #FFFFFF;
+  --color-surface-muted: #E8D5B7;
+  --color-border: #D4C4A8;
+  --color-text: #1A1410;
+  --color-text-muted: #6B5D4F;
+
+  /* Status */
+  --color-safety: #B91C1C;
+  --color-safety-bg: #FEF2F2;
+  --color-caution: #C17817;
+  --color-caution-bg: #FFFBEB;
+  --color-safe: #15803D;
+  --color-safe-bg: #F0FDF4;
+
+  --radius-card: 8px;
+
+  /* Font families */
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-body: 'Literata', Georgia, serif;
+}
+
+@layer base {
+  :root { font-family: var(--font-body); }
+  body { @apply bg-bg text-text antialiased; }
+  h1, h2, h3, h4, h5, h6 { font-family: var(--font-display); }
+}

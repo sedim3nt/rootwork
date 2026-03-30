@@ -1,0 +1,766 @@
+[
+  {
+    "slug": "adoxaceae-family",
+    "name": "Adoxaceae Family",
+    "commonName": "Moschatel Family",
+    "characteristics": {
+      "Key Features": "Compound leaves, flat-topped flower clusters, dark purple berries",
+      "Common Compounds": "Anthocyanins, flavonoids, triterpenes, essential oils",
+      "Traditional Uses": "Immune support, viral infections, respiratory health"
+    },
+    "plantRefs": [
+      "18-Elderberry",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "aizoaceae-family",
+    "name": "Aizoaceae Family",
+    "commonName": "Ice Plant Family",
+    "characteristics": {
+      "Key Features": "Succulent, low-growing plants with small triangular leaves",
+      "Common Compounds": "Mesembrine alkaloids, tannins, flavonoids",
+      "Traditional Uses": "Mood enhancement, stress relief, traditional ceremonial use"
+    },
+    "plantRefs": [
+      "84-Kanna",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "amaryllidaceae-family",
+    "name": "Amaryllidaceae Family",
+    "commonName": "Amaryllis Family",
+    "characteristics": {
+      "Key Features": "Bulbous plants with linear leaves and distinctive flower umbels",
+      "Common Compounds": "Organosulfur compounds (allicin, alliin), flavonoids, saponins",
+      "Traditional Uses": "Antimicrobial action, cardiovascular support, immune enhancement"
+    },
+    "plantRefs": [
+      "06-Garlic",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "apiaceae-family",
+    "name": "Apiaceae Family",
+    "commonName": "Carrot Family",
+    "characteristics": {
+      "Key Features": "Umbellate flower clusters, aromatic seeds and roots, often hollow stems",
+      "Common Compounds": "Essential oils, coumarins, flavonoids, phenolic acids, furocoumarins",
+      "Traditional Uses": "Digestive support, carminative action, women's health, respiratory support"
+    },
+    "plantRefs": [
+      "27-Dong-Quai",
+      "32-Fennel",
+      "46-Coriander",
+      "47-Cumin",
+      "70-Osha",
+      "100-Angelica",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "aquifoliaceae-family",
+    "name": "Aquifoliaceae Family",
+    "commonName": "Holly Family",
+    "characteristics": {
+      "Key Features": "Evergreen leaves, small white flowers, bright red berries",
+      "Common Compounds": "Caffeine, saponins, flavonoids, tannins, xanthines",
+      "Traditional Uses": "Mental stimulation, cognitive enhancement, social beverages"
+    },
+    "plantRefs": [
+      "82-Yerba-Mate",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "araliaceae-family",
+    "name": "Araliaceae Family",
+    "commonName": "Ginseng Family",
+    "characteristics": {
+      "Key Features": "Compound leaves, small flowers in umbels, often woody stems",
+      "Common Compounds": "Ginsenosides, saponins, polysaccharides, volatile oils",
+      "Traditional Uses": "Adaptogenic support, energy enhancement, stress resistance"
+    },
+    "plantRefs": [
+      "04-Ginseng",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "arecaceae-family",
+    "name": "Arecaceae Family",
+    "commonName": "Palm Family",
+    "characteristics": {
+      "Key Features": "Large pinnate or fan-shaped leaves, tall unbranched stems, berry or drupe fruits",
+      "Common Compounds": "Fatty acids, sterols, flavonoids, polysaccharides",
+      "Traditional Uses": "Men's health support, urinary function, prostate health"
+    },
+    "plantRefs": [
+      "16-Saw-Palmetto",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "asphodelaceae-family",
+    "name": "Asphodelaceae Family",
+    "commonName": "Asphodel Family",
+    "characteristics": {
+      "Key Features": "Succulent leaves, rosette growth pattern, gel-filled tissues",
+      "Common Compounds": "Polysaccharides, glycoproteins, amino acids, vitamins, minerals",
+      "Traditional Uses": "Skin healing, burn treatment, wound care, moisturizing"
+    },
+    "plantRefs": [
+      "07-Aloe-Vera",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "asteraceae-family",
+    "name": "Asteraceae Family",
+    "commonName": "Sunflower Family",
+    "characteristics": {
+      "Flower Structure": "Composite flowers (many small flowers in a head)",
+      "Common Compounds": "Sesquiterpene lactones, flavonoids, essential oils",
+      "Traditional Uses": "Anti-inflammatory, immune support, wound healing"
+    },
+    "plantRefs": [
+      "01-Echinacea",
+      "05-Chamomile",
+      "10-Calendula",
+      "15-Milk-Thistle",
+      "34-Coltsfoot",
+      "35-Elecampane",
+      "54-Dandelion",
+      "55-Burdock",
+      "59-Yarrow",
+      "78-Blessed-Thistle",
+      "88-Arnica",
+      "98-Mugwort",
+      "99-Wormwood",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "berberidaceae-family",
+    "name": "Berberidaceae Family",
+    "commonName": "Barberry Family",
+    "characteristics": {
+      "Key Features": "Compound leaves, small flowers in clusters, often spiny margins, alkaloid-rich",
+      "Common Compounds": "Alkaloids (berberine, caulophylline), saponins, resins, tannins",
+      "Traditional Uses": "Skin conditions, digestive health, women's health support, antimicrobial applications"
+    },
+    "plantRefs": [
+      "73-Blue-Cohosh",
+      "85-Oregon-Grape",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "betulaceae-family",
+    "name": "Betulaceae Family",
+    "commonName": "Birch Family",
+    "characteristics": {
+      "Key Features": "Deciduous trees with distinctive peeling bark and catkin flowers",
+      "Common Compounds": "Salicylates, betulin, flavonoids, essential oils",
+      "Traditional Uses": "Anti-inflammatory action, pain relief, skin conditions"
+    },
+    "plantRefs": [
+      "67-Birch",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "bignoniaceae-family",
+    "name": "Bignoniaceae Family",
+    "commonName": "Trumpet Vine Family",
+    "characteristics": {
+      "Key Features": "Tropical trees with compound leaves and tubular flowers, medicinal inner bark",
+      "Common Compounds": "Naphthoquinones (lapachol), anthraquinones, flavonoids, tannins",
+      "Traditional Uses": "Immune support, antimicrobial action, systemic cleansing"
+    },
+    "plantRefs": [
+      "79-Pau-DArco",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "boraginaceae-family",
+    "name": "Boraginaceae Family",
+    "commonName": "Borage Family",
+    "characteristics": {
+      "Key Features": "Often hairy leaves, blue or purple flowers, mucilaginous properties",
+      "Common Compounds": "Allantoin, mucilage, pyrrolizidine alkaloids, essential oils, tannins",
+      "Traditional Uses": "Wound healing, skin health, respiratory support, anti-inflammatory action"
+    },
+    "plantRefs": [
+      "60-Comfrey",
+      "72-Borage",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "brassicaceae-family",
+    "name": "Brassicaceae Family",
+    "commonName": "Mustard Family",
+    "characteristics": {
+      "Key Features": "Four-petaled flowers in cross formation, often with peppery taste",
+      "Common Compounds": "Glucosinolates, flavonoids, vitamin C, minerals",
+      "Traditional Uses": "Wound healing, bleeding control, nutritive support"
+    },
+    "plantRefs": [
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "caprifoliaceae-family",
+    "name": "Caprifoliaceae Family",
+    "commonName": "Honeysuckle Family",
+    "characteristics": {
+      "Key Features": "Opposite leaves, tubular or flat-topped flowers, often fragrant",
+      "Common Compounds": "Valepotriates, essential oils, alkaloids, tannins",
+      "Traditional Uses": "Sleep support, nervous system calming, anxiety relief"
+    },
+    "plantRefs": [
+      "14-Valerian",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "caryophyllaceae-family",
+    "name": "Caryophyllaceae Family",
+    "commonName": "Pink Family",
+    "characteristics": {
+      "Key Features": "Opposite leaves, swollen nodes, small star-shaped flowers",
+      "Common Compounds": "Saponins, mucilage, vitamins, minerals, flavonoids",
+      "Traditional Uses": "Nutritive support, wound healing, anti-inflammatory action"
+    },
+    "plantRefs": [
+      "89-Chickweed",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "crassulaceae-family",
+    "name": "Crassulaceae Family",
+    "commonName": "Stonecrop Family",
+    "characteristics": {
+      "Key Features": "Succulent leaves, star-shaped flowers, drought-resistant growth",
+      "Common Compounds": "Salidroside, rosavins, flavonoids, organic acids",
+      "Traditional Uses": "Stress adaptation, mental fatigue relief, physical endurance"
+    },
+    "plantRefs": [
+      "21-Rhodiola",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "cupressaceae-family",
+    "name": "Cupressaceae Family",
+    "commonName": "Cypress Family",
+    "characteristics": {
+      "Key Features": "Scale-like or needle-like leaves, cone-bearing evergreen trees and shrubs",
+      "Common Compounds": "Essential oils, diterpenes, flavonoids, tannins",
+      "Traditional Uses": "Urinary tract support, antimicrobial action, respiratory health"
+    },
+    "plantRefs": [
+      "69-Juniper",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "dioscoreaceae-family",
+    "name": "Dioscoreaceae Family",
+    "commonName": "Yam Family",
+    "characteristics": {
+      "Key Features": "Climbing vines with heart-shaped leaves, underground tubers or rhizomes",
+      "Common Compounds": "Steroidal saponins (diosgenin), alkaloids, starch, calcium oxalate",
+      "Traditional Uses": "Women's health, hormonal support, anti-inflammatory action"
+    },
+    "plantRefs": [
+      "77-Wild-Yam",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "ericaceae-family",
+    "name": "Ericaceae Family",
+    "commonName": "Heath Family",
+    "characteristics": {
+      "Key Features": "Small-leaved shrubs, often evergreen, with bell-shaped flowers and berry fruits",
+      "Common Compounds": "Arbutin, tannins, anthocyanins, flavonoids, organic acids",
+      "Traditional Uses": "Urinary tract health, antioxidant support, astringent properties"
+    },
+    "plantRefs": [
+      "17-Cranberry",
+      "68-Uva-Ursi",
+      "87-Wintergreen",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "fabaceae-family",
+    "name": "Fabaceae Family",
+    "commonName": "Legume Family",
+    "characteristics": {
+      "Key Features": "Pod fruits, compound leaves, nitrogen-fixing root nodules, papilionaceous flowers",
+      "Common Compounds": "Isoflavones, saponins, alkaloids, triterpenes, polysaccharides",
+      "Traditional Uses": "Blood purifying, hormonal support, immune modulation, adaptogenic properties"
+    },
+    "plantRefs": [
+      "19-Astragalus",
+      "26-Red-Clover",
+      "31-Licorice",
+      "48-Fenugreek",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "fagaceae-family",
+    "name": "Fagaceae Family",
+    "commonName": "Beech Family",
+    "characteristics": {
+      "Key Features": "Deciduous trees with serrated leaves and nuts (acorns), often with astringent bark",
+      "Common Compounds": "Tannins, gallic acid, flavonoids, polyphenols",
+      "Traditional Uses": "Astringent action, diarrhea relief, topical skin care"
+    },
+    "plantRefs": [
+      "66-Oak",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "ganodermataceae-family",
+    "name": "Ganodermataceae Family",
+    "commonName": "Reishi Family",
+    "characteristics": {
+      "Key Features": "Woody, shelf-like fungal fruiting bodies with glossy appearance",
+      "Common Compounds": "Beta-glucans, triterpenes, polysaccharides, peptidoglycans",
+      "Traditional Uses": "Immune modulation, stress adaptation, longevity support"
+    },
+    "plantRefs": [
+      "20-Reishi-Mushroom",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "ginkgoaceae-family",
+    "name": "Ginkgoaceae Family",
+    "commonName": "Ginkgo Family",
+    "characteristics": {
+      "Key Features": "Fan-shaped leaves, ancient lineage, deciduous tree",
+      "Common Compounds": "Flavonoids (quercetin, kaempferol), terpenoids (ginkgolides, bilobalide)",
+      "Traditional Uses": "Cognitive enhancement, circulatory support, memory improvement"
+    },
+    "plantRefs": [
+      "08-Ginkgo",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "hamamelidaceae-family",
+    "name": "Hamamelidaceae Family",
+    "commonName": "Witch Hazel Family",
+    "characteristics": {
+      "Key Features": "Deciduous shrubs with oval leaves and distinctive ribbon-like flowers",
+      "Common Compounds": "Tannins, flavonoids, essential oils, gallic acid",
+      "Traditional Uses": "Astringent action, wound healing, skin toning"
+    },
+    "plantRefs": [
+      "65-Witch-Hazel",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "hypericaceae-family",
+    "name": "Hypericaceae Family",
+    "commonName": "St. John's Wort Family",
+    "characteristics": {
+      "Key Features": "Opposite leaves with translucent glands, yellow flowers with prominent stamens",
+      "Common Compounds": "Hypericin, hyperforin, flavonoids, tannins, essential oils",
+      "Traditional Uses": "Mood support, wound healing, anti-inflammatory action"
+    },
+    "plantRefs": [
+      "09-St-Johns-Wort",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "lamiaceae-family",
+    "name": "Lamiaceae Family",
+    "commonName": "Mint Family",
+    "characteristics": {
+      "Stem Structure": "Square stems, opposite leaves",
+      "Common Compounds": "Essential oils (menthol, thymol, linalool), rosmarinic acid",
+      "Traditional Uses": "Digestive support, respiratory health, relaxation"
+    },
+    "plantRefs": [
+      "11-Lavender",
+      "12-Peppermint",
+      "23-Holy-Basil",
+      "28-Chaste-Tree",
+      "37-Rosemary",
+      "38-Sage",
+      "39-Thyme",
+      "40-Oregano",
+      "41-Basil",
+      "52-Lemon-Balm",
+      "92-Self-Heal",
+      "93-Wood-Betony",
+      "94-Catnip",
+      "95-Skullcap",
+      "97-Motherwort",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "lauraceae-family",
+    "name": "Lauraceae Family",
+    "commonName": "Laurel Family",
+    "characteristics": {
+      "Key Features": "Aromatic trees and shrubs with leathery leaves and distinctive spicy scent",
+      "Common Compounds": "Essential oils (cinnamaldehyde, safrole), volatile compounds, phenolic compounds",
+      "Traditional Uses": "Digestive stimulation, warming circulation, antimicrobial action"
+    },
+    "plantRefs": [
+      "42-Cinnamon",
+      "64-Sassafras",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "malvaceae-family",
+    "name": "Malvaceae Family",
+    "commonName": "Mallow Family",
+    "characteristics": {
+      "Key Features": "Five-petaled flowers, often with prominent stamens, mucilaginous properties",
+      "Common Compounds": "Mucilage, flavonoids, tannins, polysaccharides",
+      "Traditional Uses": "Soothing inflammation, respiratory support, digestive healing"
+    },
+    "plantRefs": [
+      "29-Marshmallow",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "myristicaceae-family",
+    "name": "Myristicaceae Family",
+    "commonName": "Nutmeg Family",
+    "characteristics": {
+      "Key Features": "Tropical trees with aromatic seeds surrounded by colored aril (mace)",
+      "Common Compounds": "Essential oils (myristicin, elemicin), fatty oils, phenolic compounds",
+      "Traditional Uses": "Digestive support, warming circulation, aromatic applications"
+    },
+    "plantRefs": [
+      "49-Nutmeg",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "myrtaceae-family",
+    "name": "Myrtaceae Family",
+    "commonName": "Myrtle Family",
+    "characteristics": {
+      "Key Features": "Aromatic leaves with oil glands, distinctive flower buds used as spice",
+      "Common Compounds": "Essential oils (eugenol), tannins, flavonoids, phenolic compounds",
+      "Traditional Uses": "Antimicrobial action, digestive support, topical pain relief"
+    },
+    "plantRefs": [
+      "43-Clove",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "onagraceae-family",
+    "name": "Onagraceae Family",
+    "commonName": "Evening Primrose Family",
+    "characteristics": {
+      "Key Features": "Four-petaled flowers, often opening in evening, oil-rich seeds",
+      "Common Compounds": "Essential fatty acids (GLA), flavonoids, tannins, mucilage",
+      "Traditional Uses": "Women's health, skin conditions, anti-inflammatory support"
+    },
+    "plantRefs": [
+      "71-Evening-Primrose",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "papaveraceae-family",
+    "name": "Papaveraceae Family",
+    "commonName": "Poppy Family",
+    "characteristics": {
+      "Key Features": "Four-petaled flowers, often with colored latex or sap, capsule fruits",
+      "Common Compounds": "Alkaloids (sanguinarine), organic acids, flavonoids",
+      "Traditional Uses": "Topical antimicrobial, wound healing, respiratory support"
+    },
+    "plantRefs": [
+      "62-Bloodroot",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "passifloraceae-family",
+    "name": "Passifloraceae Family",
+    "commonName": "Passion Vine Family",
+    "characteristics": {
+      "Key Features": "Climbing vines with distinctive complex flowers and tendrils",
+      "Common Compounds": "Flavonoids (vitexin, isovitexin), alkaloids, glycosides",
+      "Traditional Uses": "Anxiety relief, sleep support, nervous system calming"
+    },
+    "plantRefs": [
+      "81-Damiana",
+      "83-Passionflower",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "pinaceae-family",
+    "name": "Pinaceae Family",
+    "commonName": "Pine Family",
+    "characteristics": {
+      "Key Features": "Needle-like leaves, cone-bearing trees, resinous bark and wood",
+      "Common Compounds": "Essential oils (pinene, limonene), resin acids, vitamin C, flavonoids",
+      "Traditional Uses": "Respiratory support, antimicrobial action, vitamin C source"
+    },
+    "plantRefs": [
+      "36-Pine-Needle",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "piperaceae-family",
+    "name": "Piperaceae Family",
+    "commonName": "Pepper Family",
+    "characteristics": {
+      "Key Features": "Climbing vines, small flowers in spikes, peppercorn fruits",
+      "Common Compounds": "Piperine, essential oils, alkaloids, phenolic compounds",
+      "Traditional Uses": "Digestive stimulation, warming circulation, bioavailability enhancement"
+    },
+    "plantRefs": [
+      "45-Black-Pepper",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "plantaginaceae-family",
+    "name": "Plantaginaceae Family",
+    "commonName": "Plantain Family",
+    "characteristics": {
+      "Key Features": "Simple leaves with parallel veins, small spiky flower heads",
+      "Common Compounds": "Mucilage, tannins, glycosides, silica, allantoin",
+      "Traditional Uses": "Wound healing, respiratory support, anti-inflammatory action"
+    },
+    "plantRefs": [
+      "58-Plantain",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "polygonaceae-family",
+    "name": "Polygonaceae Family",
+    "commonName": "Buckwheat Family",
+    "characteristics": {
+      "Key Features": "Swollen nodes with papery sheaths, often reddish stems and leaves",
+      "Common Compounds": "Anthraquinones, tannins, flavonoids, organic acids",
+      "Traditional Uses": "Blood purification, liver support, digestive bitters"
+    },
+    "plantRefs": [
+      "56-Yellow-Dock",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "ranunculaceae-family",
+    "name": "Ranunculaceae Family",
+    "commonName": "Buttercup Family",
+    "characteristics": {
+      "Key Features": "Often acrid or bitter taste, potent bioactive compounds, requires careful preparation",
+      "Common Compounds": "Alkaloids, glycosides, saponins, organic acids, phenolic compounds",
+      "Traditional Uses": "Women's health support, antimicrobial action, nervous system support"
+    },
+    "plantRefs": [
+      "25-Black-Cohosh",
+      "61-Goldenseal",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "rhamnaceae-family",
+    "name": "Rhamnaceae Family",
+    "commonName": "Buckthorn Family",
+    "characteristics": {
+      "Key Features": "Small trees or shrubs with simple leaves and small clustered flowers",
+      "Common Compounds": "Saponins, tannins, alkaloids, cyanogenic glycosides",
+      "Traditional Uses": "Lymphatic support, blood circulation, immune modulation"
+    },
+    "plantRefs": [
+      "57-Red-Root",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "rosaceae-family",
+    "name": "Rosaceae Family",
+    "commonName": "Rose Family",
+    "characteristics": {
+      "Key Features": "Five-petaled flowers, often thorny stems, astringent taste",
+      "Common Compounds": "Tannins, flavonoids, organic acids, proanthocyanidins, phenolic compounds",
+      "Traditional Uses": "Heart and cardiovascular support, astringent properties, respiratory health"
+    },
+    "plantRefs": [
+      "51-Hawthorn",
+      "63-Wild-Cherry",
+      "75-Raspberry-Leaf",
+      "76-Rose-Hips",
+      "86-Meadowsweet",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "rubiaceae-family",
+    "name": "Rubiaceae Family",
+    "commonName": "Coffee Family",
+    "characteristics": {
+      "Key Features": "Opposite leaves with stipules, tubular flowers, diverse growth forms",
+      "Common Compounds": "Alkaloids, tannins, iridoids, anthraquinones, glycosides",
+      "Traditional Uses": "Women's health, lymphatic support, immune modulation, various therapeutic applications"
+    },
+    "plantRefs": [
+      "74-Partridge-Berry",
+      "80-Cats-Claw",
+      "91-Cleavers",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "salicaceae-family",
+    "name": "Salicaceae Family",
+    "commonName": "Willow Family",
+    "characteristics": {
+      "Key Features": "Trees and shrubs with simple, alternate leaves and catkin flowers",
+      "Common Compounds": "Salicin, salicylic acid, flavonoids, tannins",
+      "Traditional Uses": "Pain relief, anti-inflammatory, fever reduction"
+    },
+    "plantRefs": [
+      "13-Willow-Bark",
+      "85-White-Willow",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "schisandraceae-family",
+    "name": "Schisandraceae Family",
+    "commonName": "Schisandra Family",
+    "characteristics": {
+      "Key Features": "Climbing woody vines, distinctive star-shaped flowers, berry clusters",
+      "Common Compounds": "Lignans (schisandrins), essential oils, organic acids, flavonoids",
+      "Traditional Uses": "Liver support, stress adaptation, five-flavor benefits"
+    },
+    "plantRefs": [
+      "24-Schisandra",
+      "50-Star-Anise",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "scrophulariaceae-family",
+    "name": "Scrophulariaceae Family",
+    "commonName": "Figwort Family",
+    "characteristics": {
+      "Key Features": "Irregular tubular flowers, often hairy leaves, biennial or perennial growth",
+      "Common Compounds": "Saponins, mucilage, flavonoids, iridoid glycosides",
+      "Traditional Uses": "Respiratory support, wound healing, anti-inflammatory action"
+    },
+    "plantRefs": [
+      "33-Mullein",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "solanaceae-family",
+    "name": "Solanaceae Family",
+    "commonName": "Nightshade Family",
+    "characteristics": {
+      "Key Features": "Five-petaled flowers, often with prominent stamens, diverse alkaloid content",
+      "Common Compounds": "Withanolides, alkaloids, saponins, flavonoids",
+      "Traditional Uses": "Stress adaptation, sleep support, immune modulation"
+    },
+    "plantRefs": [
+      "22-Ashwagandha",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "ulmaceae-family",
+    "name": "Ulmaceae Family",
+    "commonName": "Elm Family",
+    "characteristics": {
+      "Key Features": "Deciduous trees with serrated leaves and mucilaginous inner bark",
+      "Common Compounds": "Mucilage, tannins, polysaccharides, minerals",
+      "Traditional Uses": "Digestive soothing, wound healing, respiratory support"
+    },
+    "plantRefs": [
+      "30-Slippery-Elm",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "urticaceae-family",
+    "name": "Urticaceae Family",
+    "commonName": "Nettle Family",
+    "characteristics": {
+      "Key Features": "Opposite leaves, often with stinging hairs, small clustered flowers",
+      "Common Compounds": "Histamine, formic acid, vitamins, minerals, flavonoids",
+      "Traditional Uses": "Nutritive support, allergy relief, anti-inflammatory action"
+    },
+    "plantRefs": [
+      "53-Nettle",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "verbenaceae-family",
+    "name": "Verbenaceae Family",
+    "commonName": "Verbena Family",
+    "characteristics": {
+      "Key Features": "Square stems, opposite leaves, aromatic essential oils",
+      "Common Compounds": "Essential oils (citral, limonene), flavonoids, iridoids",
+      "Traditional Uses": "Digestive support, nervous system calming, aromatic applications"
+    },
+    "plantRefs": [
+      "96-Lemon-Verbena",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "violaceae-family",
+    "name": "Violaceae Family",
+    "commonName": "Violet Family",
+    "characteristics": {
+      "Key Features": "Heart-shaped leaves, distinctive spurred flowers, often low-growing",
+      "Common Compounds": "Saponins, mucilage, salicylates, flavonoids, vitamin C",
+      "Traditional Uses": "Respiratory support, skin healing, anti-inflammatory action"
+    },
+    "plantRefs": [
+      "90-Violet",
+      "00-PLANT-FAMILIES"
+    ]
+  },
+  {
+    "slug": "zingiberaceae-family",
+    "name": "Zingiberaceae Family",
+    "commonName": "Ginger Family",
+    "characteristics": {
+      "Key Features": "Rhizomatous growth, tropical origins, characteristic warming taste and aroma",
+      "Common Compounds": "Gingerols, curcumin, volatile oils, sesquiterpenes, phenolic compounds",
+      "Traditional Uses": "Digestive support, anti-inflammatory action, warming circulation, nausea relief"
+    },
+    "plantRefs": [
+      "02-Turmeric",
+      "03-Ginger",
+      "44-Cardamom",
+      "00-PLANT-FAMILIES"
+    ]
+  }
+]
