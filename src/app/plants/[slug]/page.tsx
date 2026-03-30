@@ -1,0 +1,151 @@
+import Link from 'next/link';
+import { notFound } from 'next/navigation';
+import Badge from '@/components/ui/Badge';
+import SafetyCard from '@/components/ui/SafetyCard';
+import PlantCard from '@/components/ui/PlantCard';
+import Disclaimer from '@/components/ui/Disclaimer';
+import { plants, getRelatedPlants } from '@/lib/data';
+
+export function generateStaticParams() {
+  return plants.map((p) => ({ slug: p.slug }));
+}
+
+export function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
+  // Need to resolve synchronously for static generation — use a workaround
+  return params.then(({ slug }) => {
+    const plant = plants.find((p) => p.slug === slug);
+    if (!plant) return { title: 'Plant Not Found' };
+    return {
+      title: `${plant.name} — Rootwork`,
+      description: `${plant.name} (${plant.latinName}): traditional uses, preparations, safety, and modern applications.`,
+    };
+  });
+}
+
+export default async function PlantDetailPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const plant = plants.find((p) => p.slug === slug);
+  if (!plant) notFound();
+
+  const related = getRelatedPlants(plant);
+  const descriptionEntries = Object.entries(plant.description);
+
+  // Find the family slug
+  const familySlug = plant.family.toLowerCase().replace(/\s+/g, '-') + '-family';
+
+  return (
+    <div className="space-y-10">
+      {/* Header */}
+      <header>
+        <h1 className="text-4xl font-bold text-parchment" style={{ fontFamily: 'var(--font-display)' }}>
+          {plant.name}
+        </h1>
+        <p className="text-lg italic text-text-muted mt-1">{plant.latinName}</p>
+        <div className="mt-3 flex flex-wrap gap-2">
+          <Badge variant="burnt" href={`/families/${familySlug}`}>{plant.family}</Badge>
+          {plant.nativeRange && <Badge>{plant.nativeRange}</Badge>}
+        </div>
+      </header>
+
+      {/* Description */}
+      {descriptionEntries.length > 0 && (
+        <section>
+          <h2 className="text-xl font-semibold text-parchment mb-4" style={{ fontFamily: 'var(--font-display)' }}>
+            Description
+          </h2>
+          <div className="grid sm:grid-cols-2 gap-4">
+            {descriptionEntries.map(([key, value]) => (
+              <div key={key} className="bg-surface border border-border rounded-[var(--radius-card)] p-4">
+                <h3 className="text-xs font-semibold text-text-muted uppercase tracking-wide mb-1 capitalize">{key}</h3>
+                <p className="text-sm text-parchment">{value}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Compounds */}
+      {plant.compounds.length > 0 && (
+        <section>
+          <h2 className="text-xl font-semibold text-parchment mb-4" style={{ fontFamily: 'var(--font-display)' }}>
+            Active Compounds
+          </h2>
+          <div className="flex flex-wrap gap-2">
+            {plant.compounds.map((c) => (
+              <Badge key={c} variant="burnt">{c}</Badge>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Traditional Uses */}
+      {plant.traditionalUses.length > 0 && (
+        <section>
+          <h2 className="text-xl font-semibold text-parchment mb-4" style={{ fontFamily: 'var(--font-display)' }}>
+            Traditional Uses
+          </h2>
+          <ul className="space-y-2">
+            {plant.traditionalUses.map((use, i) => (
+              <li key={i} className="text-sm text-parchment pl-4 relative before:content-['•'] before:absolute before:left-0 before:text-burnt">{use}</li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {/* Modern Applications */}
+      {plant.modernUses.length > 0 && (
+        <section>
+          <h2 className="text-xl font-semibold text-parchment mb-4" style={{ fontFamily: 'var(--font-display)' }}>
+            Modern Applications
+          </h2>
+          <ul className="space-y-2">
+            {plant.modernUses.map((use, i) => (
+              <li key={i} className="text-sm text-parchment pl-4 relative before:content-['•'] before:absolute before:left-0 before:text-burnt">{use}</li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {/* Safety — PROMINENT, before preparations */}
+      <SafetyCard
+        contraindications={plant.contraindications}
+        sideEffects={plant.sideEffects}
+        drugInteractions={plant.drugInteractions}
+        partsUsed={plant.partsUsed}
+      />
+
+      {/* Preparations */}
+      {plant.preparations.length > 0 && (
+        <section>
+          <h2 className="text-xl font-semibold text-parchment mb-4" style={{ fontFamily: 'var(--font-display)' }}>
+            Preparation Methods
+          </h2>
+          <div className="grid sm:grid-cols-2 gap-3">
+            {plant.preparations.map((prep, i) => (
+              <div key={i} className="bg-surface border border-border rounded-[var(--radius-card)] p-4">
+                <p className="text-sm text-parchment">{prep}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Related Plants */}
+      {related.length > 0 && (
+        <section>
+          <h2 className="text-xl font-semibold text-parchment mb-4" style={{ fontFamily: 'var(--font-display)' }}>
+            Related Plants
+          </h2>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {related.map((p) => (
+              <PlantCard key={p.slug} slug={p.slug} name={p.name} latinName={p.latinName} family={p.family} uses={p.traditionalUses} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Sticky Disclaimer */}
+      <Disclaimer />
+    </div>
+  );
+}
