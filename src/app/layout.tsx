@@ -6,7 +6,7 @@ import MobileMenu from '@/components/ui/MobileMenu';
 
 export const metadata: Metadata = {
   title: 'Rootwork — Plant Medicine Reference',
-  description: 'A free, beautiful reference for 100+ medicinal plants. Search by symptom, browse by family, learn preparation methods.',
+  openGraph: { title: 'Rootwork — Plant Medicine Reference', description: 'A free, beautiful reference for 100+ medicinal plants.', images: ['https://raw.githubusercontent.com/sedim3nt/spirittree-assets/main/og/rootwork-og.png'], type: 'website' }, twitter: { card: 'summary_large_image', images: ['https://raw.githubusercontent.com/sedim3nt/spirittree-assets/main/og/rootwork-og.png'] }, description: 'A free, beautiful reference for 100+ medicinal plants. Search by symptom, browse by family, learn preparation methods.',
   icons: { icon: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌿</text></svg>" },
 };
 
