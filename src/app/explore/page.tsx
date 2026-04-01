@@ -70,13 +70,9 @@ function buildGraph(filter: 'all' | 'family' | 'use') {
   if (filter !== 'family') {
     // Shared use edges (from categories)
     for (const cat of categories) {
-      const catSlugs = cat.plantRefs
-        .filter((r) => !r.startsWith('00-'))
-        .map((r) => {
-          const p = plants.find((pl) => pl.sourceFile === r + '.md');
-          return p?.slug;
-        })
-        .filter((s): s is string => s != null && slugSet.has(s));
+      const catSlugs = (cat.plants || [])
+        .map((p: { slug: string; name: string }) => p.slug)
+        .filter((s: string) => slugSet.has(s));
 
       for (let i = 0; i < catSlugs.length; i++) {
         for (let j = i + 1; j < catSlugs.length; j++) {

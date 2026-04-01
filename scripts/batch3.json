@@ -1,0 +1,1380 @@
+[
+  {
+    "slug": "guarana",
+    "name": "Guarana",
+    "latinName": "Paullinia cupana",
+    "family": "Sapindaceae",
+    "familyLatin": "Soapberry family",
+    "nativeRange": "Amazon basin of Brazil and Venezuela",
+    "habitat": "Tropical rainforest understory, riverbanks, and forest edges at low elevations; thrives in hot, humid conditions with well-drained, fertile soils",
+    "description": {
+      "overall appearance": "A woody climbing vine or liana reaching 10–12 m in length, or cultivated as a shrub 2–3 m tall. Produces distinctive red fruits that split open to reveal glossy black seeds partially covered by white aril, resembling eyeballs.",
+      "roots": "Woody, well-developed taproot system with lateral roots spreading widely to anchor the climbing vine; roots are fibrous and moderately deep in tropical soils",
+      "stem": "Woody, twining liana with smooth to lightly furrowed bark; young stems are green and herbaceous, maturing to brown-gray woody tissue; uses tendrils to climb host trees",
+      "leaves": "Alternate, pinnately compound leaves 20–30 cm long; 5 leaflets, ovate-lanceolate, 8–15 cm long by 4–6 cm wide, with serrate margins and prominent veins; dark green, glossy above",
+      "flowers": "Small, white to yellowish-white, 4–5 mm wide, in large paniculate racemes 15–25 cm long; flowers are zygomorphic with 5 petals; blooms from September to November",
+      "fruits/seeds": "Pear-shaped capsule 1.5–2 cm diameter, turning bright red at maturity; splits into 3 valves revealing 1–3 seeds; seeds are brown-black, 1–1.5 cm, surrounded by white fleshy aril"
+    },
+    "compounds": [
+      "Caffeine (2.5–7% by weight, higher than coffee)",
+      "Theobromine (0.02–0.06%)",
+      "Theophylline",
+      "Tannins (catechins, epicatechins, procyanidins 5–12%)",
+      "Saponins (paullinins)",
+      "Xanthines (guaranine)",
+      "Flavonoids (quercetin, kaempferol)",
+      "Starch and fixed oils"
+    ],
+    "partsUsed": [
+      "Seeds (primary)",
+      "Seed paste (roasted and dried)",
+      "Standardized seed extract"
+    ],
+    "traditionalUses": [
+      "Sateré-Mawé people of Brazil used roasted seed paste as a stimulant beverage for centuries before European contact",
+      "Traditional Amazonian use to reduce fatigue and increase endurance during hunting and long journeys",
+      "Used by indigenous tribes to suppress appetite during food scarcity",
+      "Applied topically as a paste for headaches in Brazilian folk medicine",
+      "Brewed as tea for fever reduction and diarrhea in Amazon communities",
+      "Used ritually in Sateré-Mawé ceremonies and coming-of-age traditions",
+      "Brazilian folk medicine used for hangover relief and as a general tonic"
+    ],
+    "modernUses": [
+      "Energy and cognitive enhancement: caffeine content improves alertness, reaction time, and memory in clinical studies",
+      "Weight management: thermogenic properties and appetite suppression demonstrated in randomized trials",
+      "Athletic performance: reduces perceived exertion and improves endurance (meta-analyses support modest effects)",
+      "Antioxidant support: procyanidins and catechins show significant free radical scavenging in vitro",
+      "Antimicrobial activity: tannins inhibit E. coli, Salmonella, and Staphylococcus in laboratory studies",
+      "Cardiovascular support: platelet aggregation inhibition demonstrated in human studies",
+      "Neuroprotection: animal studies suggest protection against oxidative stress in neural tissue",
+      "Pain relief: limited evidence for headache reduction via caffeine-mediated vasoconstriction"
+    ],
+    "preparations": [
+      "Standardized extract capsules: 200–800 mg/day (standardized to 22% caffeine), providing 44–176 mg caffeine",
+      "Guarana powder: 1–3 g/day added to smoothies or water; ~50–150 mg caffeine per gram",
+      "Energy drink formulations: typically 200–400 mg guarana extract per serving",
+      "Traditional seed paste decoction: 2–4 g dried paste steeped in 250 ml hot water; 1–2 cups/day",
+      "Tincture (1:5 in 60% ethanol): 2–4 ml three times daily",
+      "Topical paste: ground seeds mixed with water applied to forehead for headaches"
+    ],
+    "contraindications": [
+      "Pregnancy and lactation: high caffeine content poses risk of fetal growth restriction and miscarriage above 200 mg/day caffeine",
+      "Anxiety disorders, panic disorder, and GAD: caffeine exacerbates symptoms",
+      "Cardiovascular arrhythmias, hypertension, and tachycardia: stimulant effects may worsen condition",
+      "Children under 12 years: not recommended due to stimulant content",
+      "Peptic ulcers and GERD: tannins and caffeine increase gastric acid secretion"
+    ],
+    "sideEffects": [
+      "Insomnia and sleep disruption: dose-dependent, particularly with evening use",
+      "Increased heart rate and palpitations at doses above 400 mg caffeine equivalent",
+      "Gastrointestinal irritation: nausea, stomach upset, diarrhea especially on empty stomach",
+      "Caffeine dependence and withdrawal headaches with regular use followed by cessation",
+      "Anxiety, nervousness, and tremor at high doses",
+      "Elevated blood pressure: clinically significant at doses above 300 mg caffeine/day"
+    ],
+    "drugInteractions": [
+      "MAO inhibitors (phenelzine, tranylcypromine): caffeine-MAOI combination risks hypertensive crisis",
+      "Anticoagulants (warfarin, heparin): platelet inhibition may increase bleeding risk",
+      "Stimulant medications (amphetamines, methylphenidate): additive CNS and cardiovascular stimulation",
+      "Adenosine: caffeine is an adenosine receptor antagonist, reducing adenosine therapeutic effects",
+      "Quinolone antibiotics (ciprofloxacin): reduce caffeine clearance, increasing plasma levels and toxicity risk"
+    ]
+  },
+  {
+    "slug": "guayusa",
+    "name": "Guayusa",
+    "latinName": "Ilex guayusa",
+    "family": "Aquifoliaceae",
+    "familyLatin": "Holly family",
+    "nativeRange": "Upper Amazon basin of Ecuador, Peru, and Colombia; primarily in the foothills of the Andes at 200–2000 m elevation",
+    "habitat": "Tropical montane rainforest edges and secondary forest; cultivated in home gardens (chacras) by indigenous communities; prefers moist, fertile soils with partial shade",
+    "description": {
+      "overall appearance": "An evergreen tree growing 6–30 m in the wild but typically pruned to 3–5 m in cultivation. Has a dense, rounded canopy with large, glossy leaves. Rarely produces fruit in cultivation as it is primarily propagated vegetatively.",
+      "roots": "Deep taproot with extensive lateral root system; roots develop nitrogen-fixing associations and are tolerant of saturated soils during rainy season",
+      "stem": "Single to multi-stemmed tree with smooth gray-brown bark; young twigs are green, angular, and slightly pubescent; wood is hard and dense",
+      "leaves": "Simple, alternate, elliptic to oblong-elliptic, 10–20 cm long by 4–8 cm wide; leathery, dark green and glossy above, paler below; margins finely serrate; prominent midrib and secondary veins",
+      "flowers": "Small, white, 4-merous, 3–4 mm wide, borne in axillary clusters; dioecious (separate male and female trees); flowers appear March through May",
+      "fruits/seeds": "Red to dark purple berry-like drupe, 6–8 mm diameter, containing 4–6 pyrenes (nutlets); rarely produced in cultivated settings; fruits ripen July through September"
+    },
+    "compounds": [
+      "Caffeine (3–7.6% dry weight, among highest of any plant)",
+      "Theobromine (0.5–1.2%)",
+      "Theophylline (0.1–0.5%)",
+      "Chlorogenic acids (5-caffeoylquinic acid, 3-caffeoylquinic acid)",
+      "Flavonoids (rutin, quercetin-3-glucoside, kaempferol)",
+      "L-theanine (trace amounts)",
+      "Polyphenols and tannins (3–8%)",
+      "Essential amino acids (alanine, leucine, glutamine)"
+    ],
+    "partsUsed": [
+      "Leaves (fresh or dried)",
+      "Dried leaf tea",
+      "Leaf extract"
+    ],
+    "traditionalUses": [
+      "Kichwa people of Ecuador brew guayusa as a pre-dawn 'dreaming tea' consumed communally before 3 AM to interpret dreams and plan the day",
+      "Shuar and Achuar peoples use guayusa to increase alertness and stamina for long hunting expeditions",
+      "Traditional emetic use: large quantities consumed to induce vomiting as ritual purification by Amazonian hunters",
+      "Used as a blood purifier and tonic in Ecuadorian folk medicine for general health maintenance",
+      "Applied as a fever remedy in traditional Kichwa medicine",
+      "Used to repel insects when rubbed on skin or burned as smudge in Amazonian communities",
+      "Consumed during communal work parties (mingas) to sustain energy through collective labor",
+      "Traditional use for malaria prevention among indigenous groups in the Napo region"
+    ],
+    "modernUses": [
+      "Sustained cognitive enhancement: caffeine plus theobromine combination produces smoother stimulation with less jitteriness than coffee in comparative studies",
+      "Antioxidant: chlorogenic acids and flavonoids show strong DPPH radical scavenging activity comparable to green tea",
+      "Anti-inflammatory: polyphenol fractions inhibit COX-2 and reduce pro-inflammatory cytokines in cell studies",
+      "Blood sugar regulation: chlorogenic acids reduce postprandial glucose spikes in preliminary human trials",
+      "Antimicrobial: leaf extracts show activity against Staphylococcus aureus, E. coli, and Candida albicans in vitro",
+      "Neuroprotection: theobromine and chlorogenic acid combination shows potential in Alzheimer's cell models",
+      "Weight management: thermogenic and appetite-suppressing effects support by human trials of caffeine-theobromine combinations",
+      "Mood enhancement: theobromine's phosphodiesterase inhibition produces mild euphoria and reduced anxiety"
+    ],
+    "preparations": [
+      "Loose leaf tea: 2–4 g dried leaves steeped in 200 ml hot water (85°C) for 5–7 minutes; 1–3 cups/day",
+      "Cold brew: 5–8 g leaves steeped in 500 ml cold water for 8–12 hours; consume over the day",
+      "Standardized extract capsules: 250–500 mg/day (standardized to 20% caffeine)",
+      "Tincture (1:5 in 40% ethanol): 2–4 ml twice daily",
+      "Matcha-style powdered leaf: 1–2 g whisked into 150 ml hot water",
+      "Guayusa energy blend: 200–400 mg extract combined with adaptogen herbs"
+    ],
+    "contraindications": [
+      "Pregnancy and lactation: high caffeine content (comparable to strong coffee) poses developmental risk",
+      "Anxiety disorders and insomnia: caffeine content will exacerbate symptoms",
+      "Cardiovascular conditions (arrhythmia, uncontrolled hypertension): stimulant effects require medical supervision",
+      "Pediatric use under 12 years: not recommended due to stimulant content",
+      "Iron-deficiency anemia: chlorogenic acids and tannins inhibit non-heme iron absorption"
+    ],
+    "sideEffects": [
+      "Insomnia and disrupted sleep architecture with late-day consumption",
+      "Gastrointestinal upset: nausea and stomach cramps, especially on empty stomach",
+      "Caffeine dependence: regular use leads to tolerance and withdrawal headaches upon cessation",
+      "Mild diuretic effect leading to dehydration with high intake",
+      "Palpitations and increased heart rate at doses above 3–4 cups daily",
+      "Teeth staining with frequent consumption due to tannin content"
+    ],
+    "drugInteractions": [
+      "MAO inhibitors: tyramine and caffeine interactions risk hypertensive crisis",
+      "Anticoagulants (warfarin): flavonoid content may alter clotting parameters; monitor INR",
+      "Antidiabetic medications (metformin, insulin): chlorogenic acids lower blood glucose; risk of hypoglycemia",
+      "CNS stimulants (amphetamines, modafinil): additive stimulant effects increase cardiovascular risk",
+      "Fluoroquinolone antibiotics: reduce caffeine metabolism, elevating plasma caffeine levels"
+    ]
+  },
+  {
+    "slug": "green-tea",
+    "name": "Green Tea",
+    "latinName": "Camellia sinensis",
+    "family": "Theaceae",
+    "familyLatin": "Tea family",
+    "nativeRange": "Southwest China (Yunnan, Sichuan provinces), extending to Southeast Asia; wild ancestors from the Assam-Yunnan border region",
+    "habitat": "Montane subtropical and tropical forest slopes at 600–2200 m elevation; cultivated in acid, well-drained, moist soils with high rainfall; prefers cool misty conditions",
+    "description": {
+      "overall appearance": "An evergreen shrub or small tree reaching 9–15 m in the wild but maintained at 0.6–1.5 m in cultivation through regular pruning. Has a dense, rounded form with alternating, glossy leaves. In plantation cultivation, plants are kept in low flat rows for easy hand-picking.",
+      "roots": "Deep taproot extending 1–1.5 m, with dense lateral fibrous roots in the top 30 cm of soil; strongly acidophilic root system with mycorrhizal associations",
+      "stem": "Woody, multi-branching shrub with smooth gray-brown bark on older stems; young shoots are covered with fine white hairs (pekoe) and are the primary harvest material",
+      "leaves": "Simple, alternate, elliptic to oblong, 5–10 cm long by 2–4 cm wide; dark green, glossy above, paler and slightly hairy below; margins finely serrate; apex acuminate",
+      "flowers": "White, fragrant, 2.5–4 cm diameter, with 5–9 petals and prominent yellow stamens; solitary or in small axillary clusters; blooms October through February",
+      "fruits/seeds": "Woody capsule 2–3 cm diameter, brown, containing 1–3 round seeds 1–1.5 cm diameter; seeds have high oil content (tea seed oil)"
+    },
+    "compounds": [
+      "Epigallocatechin gallate (EGCG, 50–80% of catechins, 10–15% dry weight)",
+      "Epigallocatechin (EGC)",
+      "Epicatechin gallate (ECG) and epicatechin (EC)",
+      "Caffeine (2–4% dry weight)",
+      "L-theanine (1–2% dry weight)",
+      "Theophylline and theobromine",
+      "Chlorophyll and carotenoids",
+      "Flavonols (quercetin, kaempferol, myricetin glycosides)"
+    ],
+    "partsUsed": [
+      "Young leaves and leaf buds (unoxidized)",
+      "Matcha (whole leaf powder)",
+      "Standardized extract (EGCG)",
+      "Shoot tips (first flush)"
+    ],
+    "traditionalUses": [
+      "Chinese medicine (TCM) used green tea for over 4,000 years to sharpen mental clarity, reduce fatigue, and aid digestion",
+      "Shen Nong's Bencao Jing (c. 2700 BCE legend) records tea as antidote to poisoning from 72 toxic herbs",
+      "Japanese Zen Buddhist tradition uses matcha in chado (tea ceremony) for meditative focus and spiritual clarity",
+      "Traditional use in China to treat dysentery, diarrhea, and digestive disorders as an antimicrobial agent",
+      "Applied topically in Asian folk medicine for wound healing, sunburn treatment, and skin infections",
+      "Used in Ayurvedic tradition as nervine tonic and for reducing excess pitta (heat) constitution",
+      "Traditional use for detoxification, particularly to counteract effects of alcohol and food poisoning",
+      "Vietnamese and Thai traditional medicine uses strong green tea infusions for headaches and mild pain"
+    ],
+    "modernUses": [
+      "Cancer prevention: EGCG inhibits tumor angiogenesis and induces apoptosis; epidemiological studies link green tea consumption to reduced rates of breast, prostate, and colorectal cancers",
+      "Cardiovascular protection: meta-analyses of 9+ RCTs show significant reductions in LDL cholesterol and blood pressure",
+      "Cognitive enhancement: L-theanine + caffeine synergy improves attention, working memory, and reaction time vs. caffeine alone",
+      "Type 2 diabetes management: catechins improve insulin sensitivity and reduce postprandial glucose (10+ RCTs)",
+      "Weight management: EGCG increases fat oxidation and thermogenesis; meta-analysis shows 1.3 kg mean weight loss vs. placebo",
+      "Neuroprotection: EGCG reduces amyloid-beta aggregation and tau phosphorylation in Alzheimer's models",
+      "Antiviral activity: EGCG inhibits influenza, HIV, and SARS-CoV-2 spike protein binding in vitro",
+      "Oral health: polyphenols inhibit Streptococcus mutans and reduce dental caries in clinical studies"
+    ],
+    "preparations": [
+      "Brewed green tea: 2–3 g loose leaf in 150 ml water at 70–80°C for 2–3 minutes; 3–5 cups/day (300–400 mg catechins)",
+      "Matcha powder: 1–2 g whisked in 70°C water or milk; provides 137 mg EGCG per 1 g serving",
+      "Standardized EGCG extract capsules: 400–800 mg/day (standardized to 50% EGCG); higher doses require food co-administration",
+      "Green tea tincture (1:5 in 30% ethanol): 3–5 ml three times daily",
+      "Topical EGCG cream (0.1–5%): applied twice daily for skin conditions and photoprotection",
+      "Green tea mouthwash: 1–2% catechin solution, rinse 30 seconds twice daily for oral health"
+    ],
+    "contraindications": [
+      "Pregnancy: limit to 2 cups/day; EGCG interferes with folate metabolism at high doses, linked to neural tube defects",
+      "Severe anemia: tannins and EGCG significantly inhibit non-heme iron absorption; take 2 hours apart from iron supplements",
+      "Liver disease: high-dose extracts (>800 mg EGCG/day) associated with hepatotoxicity; contraindicated with existing hepatic impairment",
+      "Anxiety disorders: caffeine content may exacerbate panic and anxiety symptoms",
+      "Glaucoma: caffeine transiently increases intraocular pressure"
+    ],
+    "sideEffects": [
+      "Insomnia and sleep disruption with late-day consumption due to caffeine content",
+      "Gastrointestinal irritation: nausea, stomach upset, and constipation especially with high-dose extracts on empty stomach",
+      "Hepatotoxicity: rare but documented with high-dose EGCG extracts (>800 mg/day); liver enzyme elevation reported",
+      "Reduced iron absorption leading to iron deficiency with chronic very high intake",
+      "Caffeine-related effects: headache, jitteriness, tachycardia at high doses",
+      "Teeth staining with heavy consumption"
+    ],
+    "drugInteractions": [
+      "Anticoagulants (warfarin): vitamin K content and antiplatelet catechins may alter INR; monitor closely",
+      "Iron supplements and iron-rich foods: EGCG chelates non-heme iron; separate dosing by 2+ hours",
+      "Stimulant medications and MAO inhibitors: additive effects; risk of cardiovascular overstimulation",
+      "Bortezomib (cancer chemotherapy): EGCG has been shown to inhibit bortezomib's proteasome-inhibiting activity",
+      "Beta-blockers (atenolol, nadolol): EGCG reduces plasma concentrations of some beta-blockers via P-glycoprotein inhibition"
+    ]
+  },
+  {
+    "slug": "hibiscus",
+    "name": "Hibiscus",
+    "latinName": "Hibiscus sabdariffa",
+    "family": "Malvaceae",
+    "familyLatin": "Mallow family",
+    "nativeRange": "West Africa and tropical Asia; likely originated in West Africa (Sudan, Senegal region) with secondary domestication in India",
+    "habitat": "Tropical and subtropical regions from sea level to 1500 m; grows in disturbed areas, agricultural fields, and gardens; tolerates sandy to clay soils; drought-tolerant once established",
+    "description": {
+      "overall appearance": "An erect annual or biennial shrub, 1.5–3 m tall and 0.9–1.5 m wide. Has striking red-tinged stems, deeply lobed leaves, and produces large pale yellow flowers followed by the distinctively fleshy, deep red calyces used medicinally and culinarily.",
+      "roots": "Taproot with fibrous lateral roots; moderately deep (30–60 cm); tolerates periodic drought once established",
+      "stem": "Erect, robust, cylindrical to slightly angular; green to deep red or purplish-red depending on variety; smooth or slightly rough; woody at base, becoming more herbaceous toward apex",
+      "leaves": "Alternate, deeply 3–7 palmate-lobed, 7–15 cm long; lower leaves may be unlobed; lobes lanceolate with serrate margins; green with red veins on upper surface; underside slightly hairy",
+      "flowers": "Large, showy, 6–10 cm diameter; 5 petals, pale yellow to creamy white with dark red center; epicalyx of 8–12 narrow bracts; solitary, axillary; blooms in summer and fall",
+      "fruits/seeds": "Capsule enclosed by persistent, greatly enlarged, fleshy calyx 3–4 cm long, brilliant crimson-red at maturity; calyx is the primary used part; seeds are kidney-shaped, pale brown, 3–5 mm"
+    },
+    "compounds": [
+      "Anthocyanins (delphinidin-3-glucoside, cyanidin-3-glucoside, delphinidin-3-sambubioside)",
+      "Hibiscus acid (hydroxycitric acid derivative, 15–30% of dry calyx)",
+      "Chlorogenic acids and caffeic acid",
+      "Quercetin, kaempferol, and luteolin glycosides",
+      "Mucilaginous polysaccharides",
+      "Organic acids (citric acid, malic acid, tartaric acid)",
+      "Protocatechuic acid",
+      "Beta-sitosterol and ursolic acid"
+    ],
+    "partsUsed": [
+      "Dried calyces (fleshy sepals)",
+      "Fresh calyces",
+      "Leaves (as vegetable in Africa)",
+      "Seeds (edible oil)"
+    ],
+    "traditionalUses": [
+      "West African tradition (Senegal, Mali, Nigeria): hibiscus flower tea (bissap, zobo, sobolo) consumed daily as a cooling tonic and heart tonic",
+      "Ayurvedic medicine uses hibiscus to treat high blood pressure, liver disorders, and as a diuretic",
+      "Egyptian and Sudanese traditional medicine uses karkadeh tea for fever reduction and sore throat",
+      "Mexican and Caribbean folk medicine (agua de jamaica) consumed for heat stroke, hypertension, and hangover",
+      "Traditional use in North Africa as an anthelmintic (worm-expelling) remedy",
+      "Applied as topical poultice for skin sores and wounds in West African folk medicine",
+      "Used in traditional Chinese medicine as cooling herb for liver heat and as mild laxative",
+      "Dried calyces used in Middle Eastern medicine for kidney stones and urinary complaints"
+    ],
+    "modernUses": [
+      "Antihypertensive: meta-analysis of 5 RCTs shows hibiscus tea reduces systolic BP by 7.6 mmHg and diastolic by 3.5 mmHg in prehypertension and stage 1 hypertension",
+      "Dyslipidemia: reduces total cholesterol and LDL, increases HDL in patients with metabolic syndrome (multiple RCTs)",
+      "Antioxidant: anthocyanins among the most potent plant antioxidants; ORAC values comparable to blueberry",
+      "Hepatoprotective: animal studies and preliminary human data support liver enzyme normalization",
+      "Antimicrobial: protocatechuic acid and anthocyanins active against E. coli, Staphylococcus, and Candida in vitro",
+      "Diuretic and kidney support: increases urine output and may reduce uric acid in preliminary studies",
+      "Anti-inflammatory: quercetin and anthocyanins inhibit NF-κB pathway in cellular studies",
+      "Blood glucose regulation: hibiscus acid inhibits alpha-glucosidase; reduces postprandial glucose in type 2 diabetics"
+    ],
+    "preparations": [
+      "Hibiscus tea (cold or hot): 1.5–3 g dried calyces steeped in 250 ml boiling water for 10–15 minutes; 2–3 cups/day for BP support",
+      "Concentrated syrup: 50 g dried calyces simmered in 500 ml water, strained and sweetened; 30–60 ml per serving",
+      "Standardized extract capsules: 250–750 mg/day (standardized to 10–15% anthocyanins)",
+      "Tincture (1:5 in 25% ethanol): 4–6 ml three times daily",
+      "Topical cream (2–5% extract): applied twice daily for skin inflammation and UV protection",
+      "Cold brew: 4–5 g dried calyces in 500 ml cold water for 4–6 hours; serve over ice"
+    ],
+    "contraindications": [
+      "Pregnancy: uterotonic properties documented in animal studies; avoid therapeutic doses during pregnancy",
+      "Hypotension: significant blood pressure lowering may be additive with antihypertensive medications",
+      "Estrogen-sensitive conditions (certain hormone-dependent cancers): phytoestrogen content warrants caution",
+      "Pre-surgical: discontinue 2 weeks before surgery due to antiplatelet effects",
+      "Renal impairment: high oxalate content may increase kidney stone risk in susceptible individuals"
+    ],
+    "sideEffects": [
+      "Gastrointestinal effects: loose stools and stomach cramps with high intake due to organic acid content",
+      "Hypotension and dizziness especially when standing, particularly if combined with antihypertensive medications",
+      "Mild diuretic effect: increased urination frequency",
+      "Dental erosion: high acidity (pH ~2–3 of tea) with frequent unsweetened consumption",
+      "Rare allergic contact dermatitis with topical use"
+    ],
+    "drugInteractions": [
+      "Antihypertensive medications (ACE inhibitors, calcium channel blockers, diuretics): additive BP lowering; risk of hypotension",
+      "Chloroquine (antimalarial): hibiscus extract reduces chloroquine bioavailability by approximately 23% in one study",
+      "Antidiabetic medications (metformin, insulin): additive blood glucose lowering; monitor for hypoglycemia",
+      "Acetaminophen (paracetamol): flavonoids may alter acetaminophen metabolism via CYP enzyme modulation"
+    ]
+  },
+  {
+    "slug": "linden",
+    "name": "Linden / Tilia",
+    "latinName": "Tilia cordata",
+    "family": "Malvaceae",
+    "familyLatin": "Mallow family",
+    "nativeRange": "Europe from Britain east to the Caucasus and western Siberia; naturalized across temperate North America",
+    "habitat": "Deciduous broadleaf forest, mixed woodlands, riparian zones, and limestone soils; tolerates moderate shade; found at elevations up to 1500 m in central Europe",
+    "description": {
+      "overall appearance": "A large deciduous tree reaching 20–40 m in height with a broadly domed crown. Has distinctively heart-shaped leaves, highly fragrant creamy-yellow flowers, and smooth gray bark on young trunks becoming furrowed with age. Often planted as a street tree throughout Europe.",
+      "roots": "Deep, spreading root system with strong taproot and extensive lateral roots; tolerates urban compacted soils; roots may surface on mature trees",
+      "stem": "Single erect trunk up to 1 m diameter in mature specimens; bark gray-brown, smooth on young trees, developing deep longitudinal furrows; branches spreading and pendulous in mature form",
+      "leaves": "Alternate, simple, cordate (heart-shaped), 4–8 cm long and wide; apex abruptly acuminate; base oblique; margin finely serrate; dark green and glabrous above, paler below with tufts of reddish-brown hairs in vein axils",
+      "flowers": "Cream to pale yellow, 5–8 mm wide, strongly fragrant; 5 petals; borne in pendant cymes of 4–15 flowers attached to a distinctive strap-shaped bract 5–8 cm long; blooms June–July; highly attractive to bees",
+      "fruits/seeds": "Small, round, hard nutlet 4–6 mm diameter, gray-brown; finely ribbed; 1–2 per bract; not edible"
+    },
+    "compounds": [
+      "Flavonoids (quercetin, kaempferol, tiliroside, hesperidin)",
+      "Mucilaginous polysaccharides (5–10% in flowers)",
+      "Essential oil (farnesol, geraniol, eugenol, linalool)",
+      "Phenolic acids (chlorogenic acid, caffeic acid, p-coumaric acid)",
+      "Tannins (proanthocyanidins)",
+      "Saponins (tiliasaponin A, B, C)",
+      "Condensed tannins",
+      "Amino acids (alanine, cysteine)"
+    ],
+    "partsUsed": [
+      "Dried flowers with bracts (primary)",
+      "Bark (inner bark, traditional)",
+      "Leaves",
+      "Charcoal from wood (traditional)"
+    ],
+    "traditionalUses": [
+      "European folk medicine used linden flower tea for colds, flu, and fever since at least the Middle Ages; referenced in Hildegard von Bingen's writings (12th c.)",
+      "French tisane de tilleul remains a bedtime relaxant and sleep aid in widespread popular use",
+      "German Commission E-approved for use in cold and cough remedies",
+      "Traditional use in Slavic folk medicine for respiratory infections, bronchitis, and catarrh",
+      "Inner bark used in European herbal tradition to treat epilepsy, vertigo, and liver diseases",
+      "Linden charcoal used in French folk medicine for digestive complaints, gas, and diarrhea",
+      "Topical poultice of fresh flowers used for skin inflammation, headaches, and rheumatic joints",
+      "Flowers used in traditional Spanish and Italian medicine as a diaphoretic for breaking fevers"
+    ],
+    "modernUses": [
+      "Anxiolytic: flavonoids and essential oil constituents show GABA-A receptor modulation in animal studies; clinical use supported by traditional evidence",
+      "Sleep improvement: sedative effects documented in animal pharmacological studies; widely recommended by European phytotherapists",
+      "Antispasmodic: smooth muscle relaxation reduces coughing and GI cramping in in vitro studies",
+      "Diaphoretic: promotes perspiration to support fever resolution; pharmacologically plausible via prostaglandin modulation",
+      "Antioxidant: tiliroside (kaempferol glucoside) shows potent antioxidant activity in DPPH and FRAP assays",
+      "Anti-inflammatory: flavonoid fraction inhibits COX-1, COX-2, and 5-LOX in cell-based assays",
+      "Antihypertensive: saponins and flavonoids show mild ACE-inhibitory activity in vitro",
+      "Antimicrobial: essential oil components active against respiratory pathogens in vitro"
+    ],
+    "preparations": [
+      "Flower tea (infusion): 2–4 g dried flowers in 250 ml boiling water, steep 10 minutes; 2–4 cups/day for anxiety or sleep",
+      "Cold infusion: 4 g flowers steeped in 200 ml cold water for 8 hours for maximum mucilage extraction",
+      "Tincture (1:5 in 45% ethanol): 3–5 ml three times daily",
+      "Standardized extract capsules: 300–600 mg/day",
+      "Flower honey (linden/basswood honey): 1–2 teaspoons in warm water as a traditional cold remedy",
+      "Steam inhalation: 2 tablespoons dried flowers in 1 L near-boiling water; inhale steam for respiratory complaints"
+    ],
+    "contraindications": [
+      "Heart disease: traditional sources caution that large doses of old or poor-quality linden flowers may cause cardiac toxicity; avoid use >4 g/day with existing cardiac conditions",
+      "Pregnancy: insufficient safety data for therapeutic use beyond food amounts",
+      "Allergy to Tilia species or related Malvaceae family members",
+      "Sedative medication use: additive CNS depression risk"
+    ],
+    "sideEffects": [
+      "Excessive sweating (intended diaphoretic effect) may cause mild dehydration",
+      "Sedation and drowsiness; impairs driving ability with high doses",
+      "Rare allergic reactions (pollen allergy cross-reactivity): urticaria and contact dermatitis",
+      "Gastrointestinal discomfort with very large doses",
+      "Cardiac effects: rare reports of arrhythmia with excessive consumption (>10 cups/day) using old stored flowers"
+    ],
+    "drugInteractions": [
+      "CNS depressants (benzodiazepines, barbiturates, antihistamines): additive sedation and respiratory depression risk",
+      "Antihypertensive medications: mild additive BP lowering effect",
+      "Diuretics: additive fluid loss; monitor electrolytes",
+      "Lithium: diuretic effect may raise serum lithium levels to toxic range"
+    ]
+  },
+  {
+    "slug": "blue-vervain",
+    "name": "Blue Vervain",
+    "latinName": "Verbena hastata",
+    "family": "Verbenaceae",
+    "familyLatin": "Verbena family",
+    "nativeRange": "North America from Nova Scotia to British Columbia, south to Florida, Texas, and California; widespread across temperate North America",
+    "habitat": "Wet meadows, marshes, stream banks, pond edges, and moist disturbed areas; thrives in full sun to partial shade with consistently moist to wet soils; typically found below 2000 m elevation",
+    "description": {
+      "overall appearance": "An erect perennial herb reaching 1–2 m tall, with square stems branching near the top into numerous thin spikes bearing tiny violet-blue flowers. Forms dense colonies in moist habitats. The candelabra-like branching flower arrangement is highly distinctive.",
+      "roots": "Fibrous root system with short rhizomes forming small colonies; roots are brown, moderately deep (30–50 cm), spreading laterally",
+      "stem": "Erect, sharply 4-angled (square in cross-section), rough-textured due to short stiff hairs; green to reddish-purple; branching in the upper half; 0.5–1.5 cm diameter at base",
+      "leaves": "Opposite, lance-shaped with 2 small lobes (hastate) at base, 6–15 cm long by 1.5–4 cm wide; coarsely doubly serrate margins; rough-textured above and below due to scattered hairs; short-petiolate",
+      "flowers": "Tiny, tubular, 5-lobed, violet-blue (rarely pink or white), 3–4 mm wide; borne in dense, pencil-thin spikes 5–15 cm long at branch tips; flowers open progressively from base to tip; blooms June–September",
+      "fruits/seeds": "Small schizocarp splitting into 4 nutlets; nutlets brown, oblong, 1.5–2 mm long; enclosed in persistent calyx"
+    },
+    "compounds": [
+      "Iridoid glycosides (verbenalin/cornin, hastatoside)",
+      "Flavonoids (luteolin, luteolin-7-glucoside, apigenin)",
+      "Phenylpropanoid glycosides (verbascoside/acteoside)",
+      "Volatile oils (citral, geraniol, eugenol, thymol)",
+      "Tannins (condensed and hydrolyzable)",
+      "Mucilaginous polysaccharides",
+      "Ursolic acid and oleanolic acid",
+      "Caffeic acid and hydroxycinnamic acid derivatives"
+    ],
+    "partsUsed": [
+      "Aerial parts in flower (primary)",
+      "Leaves",
+      "Root (traditional, less common)",
+      "Dried herb"
+    ],
+    "traditionalUses": [
+      "Iroquois, Ojibwe, and other Algonquian peoples used blue vervain as a bitter tonic for digestive complaints and as a liver herb",
+      "Cherokee traditional medicine used root decoctions for stomach ailments, suppressed menstruation, and to expel worms",
+      "Eastern Woodland tribes used blue vervain poultices for headaches, rheumatic joints, and skin eruptions",
+      "19th-century Eclectic physicians in North America prescribed blue vervain for nervous exhaustion, anxiety with tension, and convulsive states",
+      "Used in North American folk medicine for coughs, colds, and fever management as a diaphoretic and expectorant",
+      "Traditional use as an emmenagogue to stimulate menstruation in delayed or absent cycles",
+      "Appalachian folk medicine used it for 'nervous stomach,' tension headaches, and general irritability",
+      "Native American use for malaria-like fevers (documented by Millspaugh, 1892)"
+    ],
+    "modernUses": [
+      "Nervine tonic: herbalists widely recommend for stress-related tension, nervous exhaustion, and anxiety with physical tightness; pharmacological basis in iridoid and flavonoid activity",
+      "Anxiolytic: verbenalin shows GABA-A receptor modulation and adenosine receptor activity in animal studies",
+      "Antispasmodic: smooth muscle relaxation relevant for tension headaches, muscle cramps, and cough suppression",
+      "Diaphoretic: promotes sweating to support immune response and fever resolution",
+      "Hepatic tonic: bitter iridoids stimulate bile secretion and liver function in traditional and modern phytotherapy",
+      "Anti-inflammatory: verbascoside (acteoside) is a potent antioxidant and COX inhibitor in multiple in vitro studies",
+      "Analgesic: iridoid glycosides show pain-modulating activity in animal models",
+      "Expectorant: mucilages and volatile oils support respiratory secretion clearance"
+    ],
+    "preparations": [
+      "Dried herb tea: 2–4 g in 250 ml boiling water, steep 15 minutes; 2–3 cups/day (bitter taste; often mixed with peppermint or licorice)",
+      "Tincture (1:5 in 60% ethanol): 2–4 ml three times daily; the most common modern preparation",
+      "Glycerite (1:6 in vegetable glycerin): 3–5 ml twice daily; preferred for children or alcohol-sensitive individuals",
+      "Capsules of dried herb: 300–500 mg standardized extract twice daily",
+      "Cold infusion: 5 g aerial parts in 500 ml cold water for 8 hours for maximum iridoid extraction",
+      "Poultice: fresh bruised leaves or powdered dried herb mixed with water, applied to inflamed joints or headache temples for 20 minutes"
+    ],
+    "contraindications": [
+      "Pregnancy: emmenagogue and uterotonic effects; contraindicated throughout pregnancy",
+      "Hypothyroidism: iridoid glycosides may interfere with thyroid hormone synthesis at high doses",
+      "Known allergy to Verbenaceae family plants",
+      "Pediatric use under 12 without professional supervision: insufficient safety data"
+    ],
+    "sideEffects": [
+      "Nausea and vomiting at high doses due to bitter glycoside content",
+      "Excessive sweating (intended diaphoretic effect) causing mild dehydration",
+      "Loose stools with large doses from laxative bitter components",
+      "Rare allergic skin reactions with topical application",
+      "Potential mild sedation at higher doses"
+    ],
+    "drugInteractions": [
+      "Thyroid medications (levothyroxine): potential iridoid interference with thyroid hormone metabolism; monitor thyroid function",
+      "CNS depressants (benzodiazepines, alcohol): potential additive sedation",
+      "Diuretics: additive fluid loss; electrolyte monitoring advised with prolonged use",
+      "Oxytocic drugs: additive uterotonic effects may be dangerous in pregnancy or labor induction"
+    ]
+  },
+  {
+    "slug": "hops",
+    "name": "Hops",
+    "latinName": "Humulus lupulus",
+    "family": "Cannabaceae",
+    "familyLatin": "Hemp family",
+    "nativeRange": "Europe, western Asia, and North America; widespread in temperate Northern Hemisphere; cultivated globally for brewing",
+    "habitat": "Hedgerows, woodland margins, riverbanks, and disturbed ground in temperate regions; cultivated in specialized hop yards on trellises; prefers deep, fertile, well-drained loam with full sun",
+    "description": {
+      "overall appearance": "A vigorous perennial climbing bine (twines clockwise on its own stem rather than via tendrils) reaching 6–10 m in a single season. Female plants produce the commercially significant papery cone-like strobiles. Dies back to the rootstock each winter and regenerates each spring.",
+      "roots": "Deep, spreading rhizomatous root system that can spread 1–2 m laterally; roots are fleshy, pale brown; primary commercial propagation is from root cuttings",
+      "stem": "Tough, rough-textured bine with downward-pointing hooked hairs (bristles); clockwise twining; 4–6 m in one season to 10 m under ideal conditions; dies back to crown each fall",
+      "leaves": "Opposite, petiolate, palmately 3–5 lobed, 7–14 cm wide; lobes ovate with acuminate tips and coarsely serrate margins; rough, scratchy texture due to stiff hairs on both surfaces; deep green",
+      "flowers": "Dioecious; female flowers are inconspicuous, developing into cone-like strobiles (hops) 2.5–5 cm long; male flowers in loose panicles; blooms July–August",
+      "fruits/seeds": "Strobiles (seed cones): papery, overlapping bracts (bracteoles) enclosing tiny achenes; at base of bracteoles are yellow lupulin glands containing the resinous bitter acids and essential oils"
+    },
+    "compounds": [
+      "Alpha acids (humulone, cohumulone, adhumulone; ~2–20% of strobiles)",
+      "Beta acids (lupulone, colupulone, adlupulone)",
+      "2-Methyl-3-buten-2-ol (sedative degradation product of isovaleric acid)",
+      "8-Prenylnaringenin (potent phytoestrogen)",
+      "Xanthohumol (prenylated chalcone, anti-cancer activity)",
+      "Myrcene, linalool, beta-caryophyllene (essential oils)",
+      "Tannins and polyphenols",
+      "Lupulone and isoxanthohumol"
+    ],
+    "partsUsed": [
+      "Female strobiles (cones, primary)",
+      "Lupulin glands (yellow resinous powder from strobiles)",
+      "Whole dried strobiles",
+      "Tincture and standardized extract"
+    ],
+    "traditionalUses": [
+      "European monastic brewing tradition used hops since 9th century CE to preserve beer and add bitterness; previously gruit herb blends were used",
+      "German folk medicine used hops in sleep pillows for insomnia since the Middle Ages; pickers noted somnolence from contact with lupulin",
+      "English herbalists including Nicholas Culpeper (1653) recommended hops for insomnia, nervous tension, and digestive complaints",
+      "Traditional use in European folk medicine for anxiety, irritability, and restlessness, often combined with valerian",
+      "Used as a bitter digestive tonic in German and Swiss traditional medicine to stimulate appetite and gastric secretions",
+      "Hops tea used for menstrual pain and as an emmenagogue in traditional European gynecology",
+      "Topical use of hops poultices for neuralgia, rheumatic pain, and skin ulcers in folk medicine",
+      "Native American groups (Iroquois, Cherokee) used related species Humulus americanus for pain and sleep"
+    ],
+    "modernUses": [
+      "Sleep disorders: 2-methyl-3-buten-2-ol and other compounds show sedative effects; RCTs combining hops with valerian show significant improvement in sleep quality vs. placebo",
+      "Anxiety reduction: GABA-A receptor modulation by hops compounds demonstrated in animal studies and supported by clinical trials",
+      "Menopausal symptoms: 8-prenylnaringenin (8-PN) is the most potent plant phytoestrogen known; reduces hot flashes and insomnia in small RCTs",
+      "Anti-cancer: xanthohumol inhibits multiple cancer cell lines and has anti-angiogenic properties in vitro and in animal models",
+      "Antimicrobial: humulone and lupulone are potent against gram-positive bacteria (Staphylococcus, Clostridium) and Mycobacterium tuberculosis in vitro",
+      "Anti-inflammatory: iso-alpha acids inhibit NF-κB and reduce COX-2 expression in macrophages",
+      "Analgesic: alpha acids show opioid receptor-independent pain modulation in animal studies",
+      "Metabolic: xanthohumol improves insulin sensitivity and lipid profiles in obese animal models"
+    ],
+    "preparations": [
+      "Dried strobile tea: 0.5–2 g in 250 ml boiling water, steep 10–15 minutes; 1–2 cups before bed for sleep",
+      "Standardized extract capsules: 60–500 mg/day (standardized to 0.5% 2-methyl-3-buten-2-ol equivalents)",
+      "Valerian-hops combination: most studied preparation; 160 mg hops + 480 mg valerian root extract per dose",
+      "Tincture (1:5 in 60% ethanol): 1–2 ml in 30 ml water, twice daily or before bed",
+      "Sleep pillow: 25–30 g dried hops stuffed in a small pillow; aromatherapeutic sedative via inhalation",
+      "Liquid extract (1:1): 0.5–2 ml before bedtime"
+    ],
+    "contraindications": [
+      "Pregnancy: phytoestrogenic and emmenagogue properties; avoid therapeutic doses",
+      "Estrogen-sensitive conditions (ER+ breast cancer, uterine fibroids, endometriosis): 8-prenylnaringenin is strongly estrogenic",
+      "Depression: sedative bitters may worsen depressive states; use with caution in major depression",
+      "Pediatric use: avoid without professional supervision",
+      "Pre-surgical anesthesia: CNS depressant effects are additive; discontinue 2 weeks prior to surgery"
+    ],
+    "sideEffects": [
+      "Sedation and daytime drowsiness, especially when combined with alcohol or sedative medications",
+      "Allergic contact dermatitis in hop pickers: 'hop picker's disease' from lupulin gland contact",
+      "Mild GI upset (nausea, bitter taste) with high doses",
+      "Hormonal effects in women: menstrual changes with chronic use of phytoestrogenic doses",
+      "Exacerbation of depressive symptoms with long-term regular use",
+      "Rare anaphylaxis in those with hop allergy"
+    ],
+    "drugInteractions": [
+      "CNS depressants (benzodiazepines, barbiturates, opioids, alcohol): significant additive sedation; risk of respiratory depression",
+      "Antidepressants (SSRIs, MAOIs): potential interactions via serotonergic and MAO inhibitory activity of hops compounds",
+      "Hormonal therapies (estrogen, tamoxifen, aromatase inhibitors): 8-prenylnaringenin may antagonize or augment estrogenic effects",
+      "Sedative antihistamines (diphenhydramine, hydroxyzine): additive sedation",
+      "CYP3A4 substrates: hops extract may inhibit CYP3A4 metabolism of multiple drugs"
+    ]
+  },
+  {
+    "slug": "lemongrass",
+    "name": "Lemongrass",
+    "latinName": "Cymbopogon citratus",
+    "family": "Poaceae",
+    "familyLatin": "Grass family",
+    "nativeRange": "South Asia (India, Sri Lanka); widely naturalized throughout tropical and subtropical regions globally",
+    "habitat": "Open grasslands, disturbed tropical soils, roadsides, and agricultural margins; full sun; tolerates a wide range of soils including poor, sandy, or laterite soils; drought-tolerant once established",
+    "description": {
+      "overall appearance": "A densely tufted perennial grass forming clumps 0.9–1.8 m tall and 0.6–0.9 m wide. Produces long, arching, blue-green leaves with a sharp lemon scent when crushed. Rarely flowers in cultivation; propagated by division. Creates a bold, fountain-like landscape presence.",
+      "roots": "Dense fibrous root system; shallow but widespread; forms tight clumps from a compressed central culm base; rhizomes are short",
+      "stem": "Culms (pseudostems) are composed of tightly sheathing leaf bases forming a solid, cylindrical stalk 0.5–1 cm diameter; pale green to white at base; used as the culinary 'stalk'",
+      "leaves": "Long, linear, grass-like, 70–100 cm long by 1–1.5 cm wide; flat to slightly channeled; margins sharp and rough-textured; blue-green above, lighter below; strong lemon-citrus fragrance when crushed or bruised",
+      "flowers": "Loose, branching panicle 30–60 cm long with paired spikelets; rarely produced in cultivation; flowers in warm climates during dry season; not commercially significant",
+      "fruits/seeds": "Small caryopsis (grain); rarely produced in cultivation; plants are commercially propagated vegetatively"
+    },
+    "compounds": [
+      "Citral (a and b forms, geranial and neral; 65–85% of essential oil)",
+      "Geraniol (4–8% of essential oil)",
+      "Linalool (1–5%)",
+      "Beta-myrcene (12–20%)",
+      "Limonene",
+      "Flavonoids (luteolin, quercetin, apigenin)",
+      "Phenolic acids (chlorogenic acid, caffeic acid)",
+      "Triterpenes (cycloartenol, beta-sitosterol)"
+    ],
+    "partsUsed": [
+      "Fresh or dried stalks and leaves (culinary and tea)",
+      "Essential oil (steam-distilled from leaves and stems)",
+      "Dried leaf powder"
+    ],
+    "traditionalUses": [
+      "Ayurvedic tradition uses lemongrass (bhustrina) for fever, respiratory infections, and digestive disorders; one of the classical fever herbs",
+      "Thai and Southeast Asian folk medicine uses lemongrass tea for colds, flu, stomach problems, and headaches",
+      "Brazilian traditional medicine uses capim-limão (lemongrass) tea for anxiety, insomnia, and hypertension",
+      "West African folk medicine uses lemongrass for malaria fever, bacterial infections, and as an antifungal",
+      "Traditional use in India as an insect repellent and to treat skin infections and ringworm",
+      "Caribbean folk medicine uses lemongrass for menstrual disorders, uterine contractions, and post-partum recovery",
+      "Chinese traditional medicine uses related species for rheumatic pain and as a warming digestive herb",
+      "Vietnamese traditional medicine uses lemongrass root for headaches, fever, and to promote urination"
+    ],
+    "modernUses": [
+      "Antimicrobial: citral shows potent activity against E. coli, Staphylococcus, Candida albicans, and Aspergillus in numerous in vitro studies",
+      "Anti-inflammatory: citral and linalool inhibit COX-2 and reduce cytokine production; reduces carrageenan-induced edema in animal models",
+      "Anxiolytic: linalool modulates GABA-A receptors; lemongrass aromatherapy reduces cortisol and anxiety scores in human trials",
+      "Antifungal: essential oil shows efficacy against dermatophytes and Candida species; comparable to clotrimazole in some assays",
+      "Cholesterol reduction: preliminary human study found daily lemongrass tea (1 g/day) mildly reduced serum cholesterol over 3 months",
+      "Antioxidant: flavonoid fraction shows significant DPPH and FRAP activity",
+      "Insect repellent: citral and geraniol effective against mosquitoes, ticks, and flies; basis for commercial repellent products",
+      "Analgesic: topical essential oil reduces musculoskeletal pain in arthritis patients in small clinical trials"
+    ],
+    "preparations": [
+      "Lemongrass tea: 2–5 g fresh or 1–2 g dried leaves/stalks in 250 ml boiling water, steep 5–10 minutes; 2–4 cups/day",
+      "Essential oil (topical): diluted 1–2% in carrier oil (1–2 drops per teaspoon); apply to temples, joints, or skin for pain and infection",
+      "Essential oil (aromatherapy): 3–5 drops in diffuser for anxiety and air purification",
+      "Standardized extract capsules: 200–400 mg/day",
+      "Tincture (1:5 in 45% ethanol): 2–4 ml three times daily",
+      "Topical antifungal wash: 2–5% essential oil in 100 ml water with emulsifier; apply to affected skin twice daily"
+    ],
+    "contraindications": [
+      "Pregnancy: emmenagogue properties at high doses; topical use likely safe but avoid therapeutic internal doses",
+      "Skin sensitivity: undiluted essential oil causes significant dermatitis and burns; always dilute",
+      "Children under 2 years: avoid topical essential oil products; risk of respiratory and skin reactions",
+      "Allergy to Poaceae (grass) family: potential cross-reactivity",
+      "Iron deficiency anemia: tannins and phenolic acids reduce iron absorption"
+    ],
+    "sideEffects": [
+      "Skin irritation and contact dermatitis with undiluted essential oil application",
+      "Gastrointestinal discomfort and mild diarrhea with large amounts of tea",
+      "Increased urination due to mild diuretic effect",
+      "Rare allergic reactions (urticaria, respiratory symptoms) in grass-sensitive individuals",
+      "Photosensitization: citral is mildly phototoxic; avoid sun exposure after topical application"
+    ],
+    "drugInteractions": [
+      "Antihypertensive medications: mild additive blood pressure lowering may occur",
+      "Diuretics: additive fluid and electrolyte loss",
+      "Anticoagulants (warfarin, aspirin): flavonoids may have mild antiplatelet effects; monitor bleeding parameters",
+      "Hypoglycemic agents (insulin, metformin): preliminary data suggests mild blood sugar lowering; risk of hypoglycemia"
+    ]
+  },
+  {
+    "slug": "spearmint",
+    "name": "Spearmint",
+    "latinName": "Mentha spicata",
+    "family": "Lamiaceae",
+    "familyLatin": "Mint family",
+    "nativeRange": "Mediterranean Europe and western Asia; widely naturalized globally in temperate regions",
+    "habitat": "Riparian zones, wet meadows, roadside ditches, and moist disturbed ground; cultivated in herb gardens worldwide; spreads aggressively by stolons in moist, fertile soils",
+    "description": {
+      "overall appearance": "A rhizomatous perennial herb 30–100 cm tall, spreading extensively by underground stolons. Has bright green, strongly aromatic (spearmint-scented) foliage and produces slender spikes of pale lilac flowers in summer. Less aggressive than peppermint but spreads readily in moist conditions.",
+      "roots": "Fibrous, shallow roots arising from rhizomes; horizontal stolons spread 30–60 cm per season; roots penetrate 15–30 cm; pale white and succulent",
+      "stem": "Erect to ascending, square in cross-section, smooth to slightly hairy; green to reddish-purple; branching from lower nodes; 30–90 cm tall",
+      "leaves": "Opposite, sessile or nearly so, ovate-lanceolate, 3–7 cm long by 1–3 cm wide; margins sharply serrate; bright green, wrinkled surface; hairless to slightly hairy; strong spearmint fragrance from essential oil glands",
+      "flowers": "Small, tubular, pale lilac to pink or white, 3–4 mm long; borne in whorls in slender terminal spikes 3–10 cm long; blooms June–September",
+      "fruits/seeds": "Tiny nutlets (schizocarp), 0.5–1 mm, smooth, brown; rarely significant as spearmint propagates primarily vegetatively"
+    },
+    "compounds": [
+      "Carvone (R-carvone, 50–80% of essential oil, characteristic spearmint flavor)",
+      "Limonene (5–25%)",
+      "Dihydrocarvone",
+      "Caryophyllene",
+      "Rosmarinic acid (potent antioxidant phenolic)",
+      "Flavonoids (luteolin, apigenin, eriocitrin, hesperidin)",
+      "Ursolic acid",
+      "Menthol (trace, unlike peppermint)"
+    ],
+    "partsUsed": [
+      "Fresh leaves and aerial parts",
+      "Dried leaves and herb",
+      "Essential oil (steam-distilled)"
+    ],
+    "traditionalUses": [
+      "Ancient Greek and Roman use: spearmint strewn on floors, used to flavor food, and prescribed by Hippocrates and Dioscorides for nausea and digestive complaints",
+      "Medieval European monks cultivated spearmint in physic gardens for digestive disorders, flatulence, and indigestion",
+      "Ayurvedic tradition uses spearmint (pudina) to treat digestive disorders, nausea, hiccups, and as a cooling agent for pitta",
+      "Traditional Chinese medicine uses mint species for headaches, colds, and to move Qi stagnation",
+      "North American Native American groups used spearmint for colds, fever, headaches, and gastrointestinal pain",
+      "Appalachian and Ozark folk medicine uses spearmint tea for morning sickness and colic in children",
+      "Traditional use in Middle Eastern medicine for kidney stones and as a uterine tonic",
+      "European folk medicine applied spearmint topically for headaches, rheumatic pain, and insect bites"
+    ],
+    "modernUses": [
+      "Antiandrogenic effect: spearmint tea (2 cups/day) significantly reduces free and total testosterone in PCOS patients; 2 RCTs show reduction in hirsutism",
+      "Digestive support: rosmarinic acid and carvone reduce smooth muscle spasm; evidence supports use in IBS and functional dyspepsia",
+      "Cognitive enhancement: animal studies show spearmint extract (especially rosmarinic acid-enriched) improves working memory and spatial recall",
+      "Antioxidant: rosmarinic acid among the most potent plant antioxidants; significant ORAC value",
+      "Antimicrobial: essential oil inhibits E. coli, Staphylococcus, Salmonella, and Listeria in food safety and clinical studies",
+      "Anti-inflammatory: rosmarinic acid and luteolin inhibit COX-2 and 5-LOX in multiple cell assays",
+      "Antifungal: carvone-rich essential oil inhibits dermatophytes and Candida species in vitro",
+      "Nausea and vomiting: carvone's carminative properties supported in traditional and integrative medicine contexts"
+    ],
+    "preparations": [
+      "Spearmint tea: 1–2 teaspoons (2–4 g) fresh or dried leaves in 250 ml boiling water, steep 5–7 minutes; 2–3 cups/day",
+      "PCOS protocol: 2 cups spearmint tea daily, each prepared with 1.5 g dried herb for antiandrogenic effect (evidence-based dose from RCTs)",
+      "Essential oil (topical): 1–2% dilution in carrier oil for headaches, muscle pain; apply with massage",
+      "Essential oil (aromatherapy): 3–5 drops in diffuser for nausea and mental clarity",
+      "Tincture (1:5 in 45% ethanol): 2–4 ml three times daily",
+      "Glycerite: 3–5 ml twice daily; safe for children with nausea and colic"
+    ],
+    "contraindications": [
+      "GERD and hiatal hernia: mint relaxes the lower esophageal sphincter, worsening acid reflux",
+      "Pregnancy in therapeutic doses: emmenagogue properties at high doses; normal culinary use is safe",
+      "Infants and young children: avoid essential oil use near faces due to risk of respiratory distress",
+      "Galactose intolerance or Lapp lactase deficiency (if taking tablet formulations with lactose)",
+      "Antiandrogenic use in men with testosterone-sensitive conditions: significantly lowers free testosterone"
+    ],
+    "sideEffects": [
+      "Heartburn and acid reflux aggravation due to lower esophageal sphincter relaxation",
+      "Skin irritation and contact dermatitis with undiluted essential oil",
+      "Transient mouth and throat burning with concentrated preparations",
+      "Allergic reactions in Lamiaceae-sensitive individuals",
+      "Testosterone reduction in males with prolonged high-dose use"
+    ],
+    "drugInteractions": [
+      "Antacids and acid-suppressing medications (omeprazole, H2 blockers): may reduce efficacy by increasing acid reflux",
+      "CYP3A4 substrates: carvone may modestly inhibit CYP3A4; potential for elevated levels of some medications",
+      "Hormonal therapies (testosterone, anabolic steroids): antiandrogenic effects may counteract therapy",
+      "Iron supplements: phenolic acids reduce non-heme iron absorption; separate dosing by 2 hours"
+    ]
+  },
+  {
+    "slug": "parsley",
+    "name": "Parsley",
+    "latinName": "Petroselinum crispum",
+    "family": "Apiaceae",
+    "familyLatin": "Carrot family",
+    "nativeRange": "Central and eastern Mediterranean region; Sardinia, Lebanon, Turkey, Algeria; now cultivated worldwide",
+    "habitat": "Rocky hillsides, limestone outcrops, and disturbed ground in Mediterranean climate; cultivated in garden beds, pots, and agricultural fields globally; prefers moist, well-drained, fertile soil in full sun to partial shade",
+    "description": {
+      "overall appearance": "A biennial herb (usually grown as annual) 30–80 cm tall, with a rosette of bright green, divided leaves in the first year and erect, branching stems bearing flat-topped flower clusters in the second year. Two main varieties: curly leaf (var. crispum) and flat-leaf/Italian (var. neapolitanum).",
+      "roots": "Thick, fleshy taproot 10–15 cm long, 1–2 cm wide; white to pale yellow; edible in some varieties (var. tuberosum, Hamburg parsley); branching fibrous roots below taproot",
+      "stem": "Hollow, erect, branching, glabrous, striated; green to reddish; 30–80 cm tall in second year; 1–2 cm diameter at base",
+      "leaves": "2–3 times pinnate; each leaflet 1–3 cm, broadly ovate; bright green; flat varieties smooth and glossy; curly varieties with highly ruffled, crisped margins; long petioles 5–20 cm",
+      "flowers": "Tiny, pale yellow-green, 1–2 mm; in compound umbels 2–8 cm wide; 5 petals; blooms June–July of second year",
+      "fruits/seeds": "Ovoid to elliptic schizocarp 2–3 mm long; splitting into 2 ribbed mericarps (seeds); pale gray-green; aromatic; high essential oil content"
+    },
+    "compounds": [
+      "Apiol (chief essential oil constituent, 50–80%)",
+      "Myristicin (10–20% of essential oil)",
+      "Beta-phellandrene",
+      "Flavonoids (apiin, apigenin, luteolin, myricetin)",
+      "Vitamin K1 (exceptionally high: 1640 mcg/100 g fresh weight)",
+      "Vitamin C (133 mg/100 g), folate (152 mcg/100 g), iron",
+      "Petroselinic acid (omega-6 fatty acid in seed oil)",
+      "Coumarins (bergapten, xanthotoxin)"
+    ],
+    "partsUsed": [
+      "Fresh leaves (culinary and medicinal)",
+      "Dried leaves",
+      "Seeds (essential oil source)",
+      "Root (Hamburg parsley variety)"
+    ],
+    "traditionalUses": [
+      "Ancient Greek and Roman use: parsley was sacred to the dead, used in funeral rites; Hippocrates prescribed for kidney stones and as a diuretic",
+      "Medieval European monks used parsley for urinary tract complaints, kidney stones, and menstrual irregularities",
+      "Ayurvedic tradition uses parsley for urinary disorders, jaundice, and as a digestive carminative",
+      "Traditional use throughout Europe as an emmenagogue to stimulate delayed menstruation; parsley oil used (dangerously) as an abortifacient",
+      "North African folk medicine uses parsley seed for contraception and menstrual regulation",
+      "Traditional European and Middle Eastern use as a breath freshener (chewing fresh leaves after garlic)",
+      "Used in traditional European herbal medicine for gout, arthritis, and reducing uric acid levels",
+      "Folk medicine use for insect bites and skin infections as topical poultice"
+    ],
+    "modernUses": [
+      "Diuretic and kidney support: flavonoids and essential oil components increase urine flow; used in herbal treatment of urinary tract infections and kidney stone prevention",
+      "Antioxidant: apigenin and luteolin are potent antioxidants with anti-inflammatory properties; significant DPPH activity",
+      "Bone health: exceptional Vitamin K1 content (3x+ daily requirement per serving) supports osteocalcin activity and bone mineralization",
+      "Antimicrobial: apiol and myristicin inhibit bacterial and fungal pathogens; used as natural food preservative",
+      "Anti-inflammatory: apigenin inhibits NF-κB pathway and COX-2 in multiple cell models",
+      "Estrogenic modulation: apigenin is a weak phytoestrogen with potential applications in hormonal balance research",
+      "Immune support: high Vitamin C, beta-carotene, and flavonoid content",
+      "Anti-diabetic: preliminary studies suggest parsley extract reduces blood glucose in diabetic animal models via alpha-glucosidase inhibition"
+    ],
+    "preparations": [
+      "Fresh leaf: 1–2 tablespoons (5–10 g) daily as food or added to juice; preferred form for nutrient density",
+      "Parsley tea: 5–8 g fresh leaves or 2–4 g dried in 250 ml boiling water, steep 5 minutes; 2–3 cups/day for urinary complaints",
+      "Parsley seed tea: 1–2 g crushed seeds steeped in 250 ml boiling water; stronger diuretic effect than leaves",
+      "Parsley juice (fresh pressed): 15–30 ml in 250 ml water or vegetable juice once daily",
+      "Tincture (1:5 in 45% ethanol, leaf or root): 2–4 ml three times daily",
+      "Standardized extract capsules (root extract): 300–500 mg twice daily"
+    ],
+    "contraindications": [
+      "Pregnancy: therapeutic doses (beyond culinary) strongly contraindicated; apiol and myristicin are uterotonic and abortifacient; parsley oil especially dangerous",
+      "Kidney inflammation and nephritis: diuretic properties contraindicated in active renal inflammation",
+      "Anticoagulant therapy: extremely high Vitamin K1 content antagonizes warfarin; may dramatically change INR",
+      "Oxalate-containing kidney stones: parsley is high in oxalate; contraindicated in hyperoxaluria",
+      "Allergy to Apiaceae family (celery, carrots, dill, coriander): significant cross-reactivity risk"
+    ],
+    "sideEffects": [
+      "Photosensitivity: coumarins (bergapten, xanthotoxin) in leaves and especially seeds cause significant phototoxic skin reactions",
+      "Excessive urination and electrolyte imbalance with very high intake",
+      "Gastrointestinal irritation: nausea, diarrhea, and abdominal cramping with large doses",
+      "Hemolytic anemia: apiol is hepatotoxic and can cause blood disorders at high doses used historically as abortifacient",
+      "Skin contact dermatitis and photodermatitis in sensitized individuals"
+    ],
+    "drugInteractions": [
+      "Warfarin and other anticoagulants: Vitamin K1 content antagonizes anticoagulant effect; monitor INR with dietary changes",
+      "Diuretics (furosemide, hydrochlorothiazide): additive diuretic effects; risk of dehydration and hypokalemia",
+      "Lithium: diuretic properties may reduce lithium clearance, elevating serum levels into toxic range",
+      "CYP1A2 substrates: furanocoumarins may inhibit CYP1A2; potential for elevated plasma levels of medications"
+    ]
+  },
+  {
+    "slug": "dill",
+    "name": "Dill",
+    "latinName": "Anethum graveolens",
+    "family": "Apiaceae",
+    "familyLatin": "Carrot family",
+    "nativeRange": "Southwest Asia (Iran, Afghanistan) and Mediterranean Europe; widely cultivated globally; naturalized in temperate regions",
+    "habitat": "Disturbed ground, roadsides, grain fields, and waste places; cultivated in herb gardens and agricultural fields; prefers well-drained, sandy to loamy soil with full sun; tolerates poor soils",
+    "description": {
+      "overall appearance": "An erect annual or biennial herb 40–150 cm tall, with feathery, finely divided foliage and flat-topped yellow flower clusters (umbels). Has a distinctive aromatic, fennel-like but sharper scent. A delicate, airy appearance in herb gardens. Readily self-seeds in favorable conditions.",
+      "roots": "Slender taproot 5–15 cm long, white to pale brown; fine lateral roots; not deep-rooting; easily transplanted when young",
+      "stem": "Single hollow, erect stem; smooth, glabrous, glaucous (bluish-green); finely striated; 40–130 cm tall; branching in upper half",
+      "leaves": "2–4 times pinnate; finely divided into thread-like (filiform) segments 0.5–2 mm wide; gray-green to blue-green; lower leaves larger with long sheaths; leaves 5–30 cm long",
+      "flowers": "Tiny, yellow, 1–2 mm wide; in large compound umbels 10–20 cm across with 15–40 rays; blooms June–August",
+      "fruits/seeds": "Flat, oval schizocarp 3–5 mm long by 2–3 mm wide; two flat-faced mericarps with 3 dorsal ribs and 2 winged marginal ribs; tan to brown; highly aromatic"
+    },
+    "compounds": [
+      "Carvone (25–60% of essential oil; same compound as in spearmint but in S-carvone form)",
+      "Limonene (15–45%)",
+      "Alpha-phellandrene (2–30%)",
+      "Dillapiole (seed essential oil)",
+      "Eugenol",
+      "Flavonoids (quercetin, isorhamnetin, kaempferol, vicenin-2)",
+      "Coumarins (scopoletin, umbelliferone)",
+      "Fatty acids in seed: petroselinic acid (50–65% of seed oil)"
+    ],
+    "partsUsed": [
+      "Aerial parts (leaves, stems — 'dill weed')",
+      "Seeds",
+      "Essential oil",
+      "Seed oil"
+    ],
+    "traditionalUses": [
+      "Ancient Egyptian medical texts (Ebers Papyrus, 1550 BCE) mention dill as a soothing herb for digestive pain",
+      "Ancient Greek and Roman physicians used dill as a carminative, digestive aid, and galactagogue (to promote milk flow in nursing mothers)",
+      "Traditional Ayurvedic use (shatapushpa) for digestive complaints, hiccups, flatulence, and to increase milk production in nursing women",
+      "Traditional use throughout the Middle East and South Asia for infant colic in gripe water-type preparations",
+      "Medieval European folk medicine used dill seed tea as a diuretic, to treat insomnia, and to stimulate appetite",
+      "Traditional European use of dill seed for menstrual irregularities and as a mild emmenagogue",
+      "Slavic folk medicine used dill for kidney stones and urinary tract infections",
+      "Traditional use in Iran (shevid) for diabetes management and as a galactagogue"
+    ],
+    "modernUses": [
+      "Carminative and digestive aid: carvone reduces intestinal smooth muscle spasm; evidenced use for gas, bloating, and IBS symptoms",
+      "Galactagogue: dopaminergic activity of carvone and flavonoids may stimulate prolactin release; traditional use supported by limited clinical data",
+      "Antimicrobial: seed essential oil inhibits E. coli, Staphylococcus, Listeria, and Candida; used as natural food preservative",
+      "Anti-diabetic: dill seed extract reduces blood glucose and improves lipid profiles in type 2 diabetic animal models and one human pilot study",
+      "Anti-inflammatory: flavonoids and carvone reduce COX-2 and inflammatory cytokines in vitro",
+      "Antioxidant: vicenin-2 and flavonoid fraction show significant DPPH scavenging",
+      "Anxiolytic and sedative: carvone shows sedative properties in animal models at moderate doses",
+      "Bone health: Vitamin C and calcium content support nutritional contribution to bone metabolism"
+    ],
+    "preparations": [
+      "Dill seed tea: 1–2 teaspoons (2–3 g) crushed seeds in 250 ml boiling water, steep 10 minutes; 2–3 cups/day for digestive complaints",
+      "Dill weed tea: 2–4 g fresh or dried herb in 250 ml boiling water, steep 5 minutes; milder flavor and action than seed",
+      "Gripe water for infants: traditionally 1 teaspoon dill seed in 1 cup water, simmered 15 minutes, strained; 5–10 ml given to infants (use with caution, consult pediatrician)",
+      "Essential oil (topical): 1–2% diluted in carrier oil for muscle cramps and skin infections",
+      "Tincture (1:5 in 45% ethanol, seeds): 2–4 ml three times daily",
+      "Seed extract capsules: 300–500 mg twice daily with meals"
+    ],
+    "contraindications": [
+      "Pregnancy in therapeutic doses: emmenagogue and potential uterotonic effects of seed oil; culinary use is safe",
+      "Allergy to Apiaceae (celery, carrot, parsley family): cross-reactivity risk; can cause severe allergic reactions",
+      "Breastfeeding (high-dose essential oil): while traditionally used as galactagogue, concentrated essential oil may harm infant",
+      "Liver disease: coumarins and essential oil constituents metabolized by liver; caution with hepatic impairment",
+      "Pre-surgical: mild antiplatelet effects; discontinue 1 week before surgery"
+    ],
+    "sideEffects": [
+      "Photosensitivity: furanocoumarins in dill cause phototoxic dermatitis; avoid sun exposure after handling fresh plant",
+      "Allergic reactions: cross-reactivity with other Apiaceae members can cause urticaria or anaphylaxis",
+      "Gastrointestinal upset with excessive seed consumption",
+      "Rare skin sensitization and contact dermatitis with fresh plant juice",
+      "Hypoglycemia risk when combined with antidiabetic drugs"
+    ],
+    "drugInteractions": [
+      "Anticoagulants (warfarin): mild antiplatelet flavonoid effects; monitor INR with high intake",
+      "Antidiabetic medications: additive blood glucose lowering; risk of hypoglycemia",
+      "Diuretics: additive effect; monitor hydration and electrolytes",
+      "CYP2C9 substrates: furanocoumarins may inhibit CYP2C9 enzyme; potential for elevated plasma drug levels"
+    ]
+  },
+  {
+    "slug": "celery-seed",
+    "name": "Celery Seed",
+    "latinName": "Apium graveolens",
+    "family": "Apiaceae",
+    "familyLatin": "Carrot family",
+    "nativeRange": "Mediterranean region and Middle East; wild celery found in marshes and wet areas from Sweden to Egypt; cultivated globally",
+    "habitat": "Salt marshes, river edges, brackish and freshwater wetlands, and seasonally wet meadows; cultivated in moist, fertile soil with consistent moisture and full sun in temperate agricultural regions",
+    "description": {
+      "overall appearance": "A biennial herb (or annual in cultivation) reaching 30–100 cm in vegetative form, up to 1.5 m when flowering. The cultivated celery is familiar as a vegetable; the medicinal plant is grown specifically for seed. Wild celery is smaller and less succulent than cultivated forms.",
+      "roots": "Fibrous root system with a thickened taproot; cultivated celeriac (var. rapaceum) develops a large edible root; seed-type plants have less prominent roots",
+      "stem": "Erect, hollow, prominently ribbed and furrowed; smooth, bright green; strongly aromatic when bruised; branching in upper plant; petioles of leaves form familiar crisp stalks",
+      "leaves": "Pinnate to bipinnate; leaflets ovate, 1–5 cm, with broad, sheathing bases; deeply lobed with toothed margins; bright green and glossy; strongly aromatic",
+      "flowers": "Tiny, white to greenish-white, 1.5–2 mm; in compound umbels 3–8 cm wide with 7–16 rays; blooms July–August in second year",
+      "fruits/seeds": "Tiny schizocarp 1.5–2 mm long; splitting into 2 mericarps; gray-brown; 5 fine ribs per mericarp; intensely aromatic; the primary medicinal part"
+    },
+    "compounds": [
+      "Phthalides (3-n-butylphthalide, sedanolide, senkyunolide — 50–75% of essential oil)",
+      "Limonene (10–20%)",
+      "Selinene (beta-selinene, 10–25%)",
+      "Flavonoids (apigenin, luteolin, quercetin)",
+      "Furanocoumarins (bergapten, psoralen, xanthotoxin)",
+      "Fatty acids: petroselinic acid (60–70% of fixed oil)",
+      "Sedanolide and sedanenolide (phthalide lactones)",
+      "Phenolic acids (caffeic acid, chlorogenic acid)"
+    ],
+    "partsUsed": [
+      "Seeds (ripe, dried — primary medicinal use)",
+      "Essential oil from seeds",
+      "Aerial parts and stalks",
+      "Root (traditional)"
+    ],
+    "traditionalUses": [
+      "Ancient Indian Ayurvedic medicine uses ajmod (celery seed) for gout, arthritis, rheumatism, kidney disease, and urinary disorders",
+      "Ancient Egyptian and Greco-Roman use: Dioscorides recommended celery seed as a diuretic, for urinary stones, and to regulate menstruation",
+      "Traditional use throughout South Asia for hypertension, high uric acid, and as an anti-inflammatory",
+      "British herbal tradition used celery seed for gout, rheumatic arthritis, and nervous exhaustion",
+      "Traditional Chinese medicine uses celery (Shen Cai) for lowering blood pressure and as a diuretic",
+      "Middle Eastern folk medicine uses celery seed for flatulence, digestive spasms, and liver tonic",
+      "Traditional Unani medicine (tibb) uses ajmud for promoting digestion, treating spasms, and as a carminative",
+      "Folk use in Europe for menstrual irregularities and as a uterine stimulant"
+    ],
+    "modernUses": [
+      "Antihypertensive: phthalides (especially 3-n-butylphthalide) relax smooth muscle in arterial walls; Chinese clinical trial showed celery seed extract reduced BP significantly over 4 weeks",
+      "Uric acid reduction: phthalides inhibit xanthine oxidase, reducing uric acid production; evidence from animal and preliminary human studies for gout prevention",
+      "Diuretic: increases urine production and sodium excretion; reduces fluid retention",
+      "Anti-inflammatory: apigenin and luteolin inhibit COX-2 and NF-κB; relevant for arthritis and inflammatory conditions",
+      "Anxiolytic and sedative: phthalides modulate GABA-A receptor in animal studies; sedanenolide shows tranquilizing effects",
+      "Antimicrobial: essential oil effective against Staphylococcus, E. coli, and Candida in vitro",
+      "Hepatoprotective: phthalides reduce liver enzyme elevation in acetaminophen-induced hepatotoxicity in animals",
+      "Antifungal: furanocoumarins and phthalides show activity against dermatophyte fungi"
+    ],
+    "preparations": [
+      "Celery seed tea: 1–2 teaspoons (2–3 g) lightly crushed seeds in 250 ml boiling water, steep 10–15 minutes; 2–3 cups/day",
+      "Standardized extract capsules (3-n-butylphthalide): 75–150 mg/day, standardized to >85% phthalides; clinical dose for BP",
+      "Seed oil capsules: 500–1000 mg standardized celery seed oil twice daily",
+      "Tincture (1:5 in 60% ethanol): 3–5 ml three times daily",
+      "Celery juice: 300–500 ml fresh juice daily (popular functional food dosing, not clinically standardized)",
+      "Powdered seed capsules: 1–2 g (2–4 capsules of 500 mg) twice daily with food and water"
+    ],
+    "contraindications": [
+      "Pregnancy: uterotonic and emmenagogue effects of phthalides and essential oil; therapeutic doses contraindicated",
+      "Kidney inflammation and nephritis: diuretic and oxalate content may worsen active renal inflammation",
+      "Allergy to Apiaceae family: risk of severe cross-reactive anaphylaxis; one of the most common food allergens in Europe",
+      "Pre-surgical use: discontinue 2 weeks prior; antiplatelet phthalide effects",
+      "Photosensitizing furanocoumarins: psoralen and bergapten can cause severe phototoxic reactions"
+    ],
+    "sideEffects": [
+      "Photosensitivity: significant phototoxic skin reactions from furanocoumarin content, particularly with handling fresh plant or seed",
+      "Allergic reactions: celery allergy is a major food allergy in Europe; can cause anaphylaxis in sensitized individuals",
+      "Excessive urination and potential electrolyte imbalance",
+      "Gastrointestinal irritation at high doses",
+      "Thyroid interference: goitrogenic compounds present at high intake may affect thyroid function"
+    ],
+    "drugInteractions": [
+      "Antihypertensive medications: additive BP lowering; significant risk of hypotension",
+      "Anticoagulants (warfarin): furanocoumarin and flavonoid effects may alter bleeding parameters; monitor INR",
+      "Diuretics (furosemide, thiazides): additive diuresis and electrolyte loss",
+      "Lithium: diuretic-induced sodium loss reduces lithium excretion; may cause toxicity",
+      "Thyroid medications: potential interference with thyroid hormone at high doses"
+    ]
+  },
+  {
+    "slug": "black-walnut",
+    "name": "Black Walnut",
+    "latinName": "Juglans nigra",
+    "family": "Juglandaceae",
+    "familyLatin": "Walnut family",
+    "nativeRange": "Eastern North America from Ontario and New England south to Florida and west to Nebraska and Texas",
+    "habitat": "Rich, deep, well-drained soils in mesic hardwood forests, stream valleys, and forest edges; often found in mixed deciduous forest with oaks and hickories; tolerates a wide range of soils but prefers loam and deep alluvial soils",
+    "description": {
+      "overall appearance": "A large deciduous tree reaching 18–30 m tall with a straight trunk up to 1 m diameter and a broad, rounded crown. Produces distinctive large compound leaves, a rough, dark-furrowed bark, and large round fruits with an intensely staining green husk concealing the hard, furrowed nutshell.",
+      "roots": "Deep taproot with extensive lateral roots; produces juglone (allelopathic chemical) that inhibits growth of many other plants in the root zone; roots spread 2–3x the crown radius",
+      "stem": "Single trunk with thick, dark gray to black, deeply furrowed bark forming a diamond-shaped ridged pattern; inner bark is brownish; wood is heavy, strong, and highly valued",
+      "leaves": "Alternate, pinnately compound, 30–60 cm long; 15–23 leaflets, ovate-lanceolate, 5–10 cm long; terminal leaflet often small or absent; finely serrate margins; dark yellow-green; strongly aromatic when crushed",
+      "flowers": "Monoecious; male catkins 4–15 cm long, drooping; female flowers in small clusters of 1–5; blooms April–May with leaf emergence; wind-pollinated",
+      "fruits/seeds": "Large, round to slightly obovoid green drupe 4–6 cm diameter; outer husk (hull) is thick, fibrous, intensely staining brown-black; inner nut is hard, deeply furrowed, brown-black; kernel is edible, oily, rich"
+    },
+    "compounds": [
+      "Juglone (5-hydroxy-1,4-naphthoquinone; primary active compound, particularly in hull and leaves)",
+      "Tannins (gallotannins, ellagitannins; 5–15% in hull)",
+      "Plumbagin (naphthoquinone derivative)",
+      "Juglandic acid",
+      "Flavonoids (quercetin, myricetin, kaempferol)",
+      "Omega-3 fatty acids (linolenic acid in nut)",
+      "Ellagic acid",
+      "Beta-sitosterol and essential oils"
+    ],
+    "partsUsed": [
+      "Outer hull (green husk, primary medicinal use)",
+      "Leaves",
+      "Inner bark (traditional)",
+      "Nut (food and oil)"
+    ],
+    "traditionalUses": [
+      "Eastern Woodland Native American peoples (Cherokee, Iroquois, Ojibwe) used hull and bark for skin parasites (ringworm, scabies), worms, and as a laxative",
+      "Iroquois tradition used bark tea as a cathartic and anthelmintic; hull poultice for wounds and fungal infections",
+      "19th-century Eclectic physicians prescribed black walnut hull for intestinal parasites, syphilis sores, and skin conditions",
+      "Appalachian folk medicine used black walnut hull tincture as one of the primary anthelmintic (antiparasitic) preparations",
+      "Traditional use as topical antifungal for athlete's foot, ringworm, and nail fungal infections",
+      "Bark tea used in folk medicine as a mild laxative and to induce menstruation",
+      "Hull juice used traditionally to darken hair and as a fabric dye",
+      "American folk medicine used as a treatment for herpes sores and chronic skin conditions"
+    ],
+    "modernUses": [
+      "Antiparasitic: juglone has demonstrated activity against intestinal parasites including giardia, Ascaris, and Candida in vitro; basis for widespread traditional use and modern herbal antiparasitic protocols",
+      "Antifungal: juglone and tannins show potent inhibition of Candida, dermatophytes, and other fungi; evidence supports topical and internal use",
+      "Antimicrobial: juglone active against MRSA, E. coli, Staphylococcus, and Helicobacter pylori in vitro",
+      "Anti-tumor: juglone induces apoptosis in multiple cancer cell lines (breast, colon, prostate) in preclinical studies; mechanism via JNK pathway activation",
+      "Antioxidant: ellagitannins and ellagic acid are potent antioxidants; ellagic acid shows anti-mutagenic activity",
+      "Laxative: tannins and hull constituents stimulate intestinal motility in traditional use; mechanism partially supported",
+      "Antiviral: juglone inhibits herpes simplex virus and other enveloped viruses in cell-based studies",
+      "Cardiovascular: nut consumption rich in omega-3s and ellagic acid associated with improved lipid profiles in epidemiological studies"
+    ],
+    "preparations": [
+      "Hull tincture (1:5 in 60% ethanol; fresh green hull): 2–4 ml three times daily for antiparasitic protocol; dark brown-black liquid",
+      "Standardized hull extract capsules: 500–1500 mg/day standardized to juglone content (0.5–1%)",
+      "Topical juglone solution (0.5–2% in carrier oil or cream): applied twice daily to fungal skin infections",
+      "Hull tea (dried hull decoction): 2–4 g dried hull in 250 ml water, simmer 15 minutes; 1–2 cups/day; bitter and astringent",
+      "Antiparasitic formula: black walnut hull + wormwood (Artemisia) + cloves; traditional Hulda Clark protocol (not FDA-evaluated)",
+      "Leaf poultice: bruised fresh leaves applied to skin for ringworm and minor wounds"
+    ],
+    "contraindications": [
+      "Pregnancy: juglone and tannins are potentially toxic to fetus; strongly contraindicated",
+      "Liver disease: juglone is hepatotoxic at high doses; avoid therapeutic use with impaired liver function",
+      "Nut allergy: significant allergenicity; anaphylaxis possible in tree-nut-allergic individuals",
+      "Long-term internal use: juglone is cytotoxic; therapeutic use should be limited to short courses (2–4 weeks) under professional supervision",
+      "Children under 12: insufficient safety data for therapeutic doses"
+    ],
+    "sideEffects": [
+      "Severe skin staining: juglone/hull juice causes intense dark brown staining of skin and clothing, resistant to washing",
+      "Gastrointestinal upset: nausea, cramping, and diarrhea at high doses from tannin and juglone content",
+      "Hepatotoxicity: juglone is cytotoxic at high doses; liver enzyme elevation possible with excessive use",
+      "Skin irritation and contact dermatitis from fresh hull handling",
+      "Potential genotoxicity: juglone has mutagenic activity in bacterial assays; avoid long-term high-dose use"
+    ],
+    "drugInteractions": [
+      "Anticoagulants (warfarin): ellagic acid and flavonoids may alter clotting; monitor INR",
+      "Hepatotoxic drugs (acetaminophen, statins): additive liver stress risk",
+      "Immunosuppressants: ellagic acid modulates immune function; may interfere with transplant rejection drugs",
+      "Iron supplements: high tannin content significantly inhibits iron absorption; separate by 2+ hours"
+    ]
+  },
+  {
+    "slug": "noni",
+    "name": "Noni",
+    "latinName": "Morinda citrifolia",
+    "family": "Rubiaceae",
+    "familyLatin": "Coffee family",
+    "nativeRange": "Southeast Asia and Australia; now widespread throughout Pacific islands, Caribbean, and tropical regions globally",
+    "habitat": "Coastal forests, lava flows, and open lowland areas in tropical and subtropical climates; highly tolerant of infertile, rocky, sandy, and saline soils; grows near sea level to 400 m elevation",
+    "description": {
+      "overall appearance": "A small to medium evergreen tree or large shrub, 3–10 m tall, with large, glossy leaves and distinctive knobby, multiple-lobed green-to-white fruits. Produces fruit continuously year-round in tropical conditions. Has a strong, pungent odor when fruit is ripe, sometimes described as rancid cheese.",
+      "roots": "Well-developed taproot; lateral roots spread widely; produces red dye (morindone) in roots; drought-tolerant root system adapted to coastal and volcanic soils",
+      "stem": "Single to multi-stemmed; bark is gray-brown, smooth to slightly furrowed; young stems are square and green; wood is hard, yellow-orange",
+      "leaves": "Opposite, large, elliptic to ovate, 15–30 cm long by 8–18 cm wide; dark green, glossy above; prominent veins; stipulate; margins entire; short petioles",
+      "flowers": "Small, white, tubular, 5-lobed, 1–1.5 cm; fragrant; in spherical heads 1–3 cm arising from leaf axils; blooms year-round",
+      "fruits/seeds": "Syncarp (multiple fused drupes) 5–10 cm long; ovoid, bumpy with polyhedral sections; green-white to yellowish when ripe; soft, translucent flesh; pungent odor; each section contains 1 brown triangular seed"
+    },
+    "compounds": [
+      "Damnacanthal (anthraquinone with Ras oncogene inhibition activity)",
+      "Scopoletin (coumarin with COX inhibitory activity)",
+      "Proxeronine (precursor to xeronine, proposed by Ralph Heinicke)",
+      "Rutin and quercetin glycosides",
+      "Iridoid glycosides (asperuloside, deacetylasperuloside)",
+      "Anthraquinones (morindone, alizarin)",
+      "Medium-chain fatty acids (capric, caprylic acid in seed oil)",
+      "Potassium (high content in juice, ~56 mg/100 ml)"
+    ],
+    "partsUsed": [
+      "Ripe fruit and juice (primary modern use)",
+      "Leaves (traditional)",
+      "Root and root bark (traditional, dye)",
+      "Seeds (topical oil)"
+    ],
+    "traditionalUses": [
+      "Polynesian traditional medicine used noni (nonu/nono) for over 2000 years for infections, wounds, inflammation, and as a general tonic",
+      "Hawaiian traditional healing (la'au lapa'au) uses noni leaves for joint pain, skin conditions, and cardiovascular support",
+      "Samoan and Tongan folk medicine uses noni fruit for colds, flu, and as a pain reliever, particularly for arthritis",
+      "Traditional Southeast Asian (Indonesian, Malaysian) use of leaves and roots for skin infections, wounds, and as a febrifuge",
+      "Ayurvedic tradition uses related Morinda species (Indian mulberry) for liver disorders and as an adaptogen",
+      "Traditional use in Cook Islands as a nutritional supplement during illness and as a treatment for diabetes",
+      "Bark used as a red/yellow dye in Pacific traditional crafts (morindone pigment)",
+      "Seeds used topically in Pacific Island folk medicine for skin infections and as insect repellent"
+    ],
+    "modernUses": [
+      "Antioxidant: scopoletin and quercetin provide significant free radical scavenging; ORAC value of noni juice is moderate",
+      "Anti-inflammatory: scopoletin inhibits COX-1 and COX-2 comparable to NSAIDs in animal studies; supported by traditional use",
+      "Immunomodulatory: polysaccharide fractions show NK cell activation and macrophage stimulation in animal and cell studies",
+      "Analgesic: animal studies show significant pain reduction with noni extract; mechanism involves central opioidergic pathways",
+      "Anti-tumor: damnacanthal inhibits Ras oncogene function and shows cytotoxicity in multiple cancer cell lines in vitro",
+      "Antimicrobial: noni extract inhibits Staphylococcus, E. coli, Candida, and Mycobacterium tuberculosis in vitro",
+      "Cardiovascular: limited human studies suggest noni juice reduces LDL, inflammatory markers, and blood pressure in smokers",
+      "Hepatoprotective: iridoid glycosides protect liver cells from oxidative and toxic damage in animal models"
+    ],
+    "preparations": [
+      "Noni juice (fermented or fresh-pressed): 30–90 ml/day, typically taken on empty stomach; commercially available standardized products",
+      "Noni powder capsules: 500–2000 mg/day dried fruit powder; less potent but more palatable than juice",
+      "Noni leaf tea: 2–5 g dried leaves in 250 ml boiling water, steep 10 minutes; 2 cups/day for inflammation",
+      "Standardized extract (10:1 concentration): 100–300 mg/day",
+      "Topical leaf poultice: fresh bruised leaves applied to joints and skin lesions for 20–30 minutes",
+      "Seed oil (cold-pressed): applied topically for skin conditions and hair treatment; 1–2 ml/application"
+    ],
+    "contraindications": [
+      "Chronic kidney disease: high potassium content (hyperkalemia risk) and possible nephrotoxic anthraquinones; contraindicated with renal failure",
+      "Liver disease: rare but documented cases of hepatotoxicity attributed to noni juice; avoid with pre-existing liver disease",
+      "Pregnancy: insufficient safety data; anthraquinones may stimulate uterine contractions",
+      "Hyperkalemia: noni juice significantly raises serum potassium; contraindicated with potassium-sparing diuretics and ACE inhibitors"
+    ],
+    "sideEffects": [
+      "Hepatotoxicity: case reports of liver failure associated with noni juice consumption; rare but serious",
+      "Hyperkalemia: significantly elevated potassium levels, especially dangerous with kidney disease",
+      "Gastrointestinal effects: diarrhea, nausea, and stomach upset particularly with large doses",
+      "Strong unpleasant odor and taste may cause nausea",
+      "Rare allergic reactions"
+    ],
+    "drugInteractions": [
+      "ACE inhibitors and potassium-sparing diuretics (spironolactone): additive hyperkalemia risk; potentially life-threatening",
+      "Warfarin: flavonoids and coumarins may alter INR; monitor closely",
+      "Immunosuppressants (cyclosporine): immunomodulatory polysaccharides may interfere with transplant medications",
+      "Hepatotoxic drugs: additive liver toxicity risk"
+    ]
+  },
+  {
+    "slug": "mangosteen",
+    "name": "Mangosteen",
+    "latinName": "Garcinia mangostana",
+    "family": "Clusiaceae",
+    "familyLatin": "Mangosteen family",
+    "nativeRange": "Malay Peninsula and Sunda Islands of Indonesia; cultivated throughout Southeast Asia, Sri Lanka, southern India, and tropical Americas",
+    "habitat": "Tropical humid lowland rainforest; requires high rainfall (>2000 mm/year), humidity, and warm temperatures (25–35°C year-round); grows best in deep, well-drained, acidic, fertile soils; sea level to 500 m",
+    "description": {
+      "overall appearance": "A slow-growing, symmetrical tropical tree reaching 6–25 m tall with a conical to domed crown and dark green, dense foliage. Produces the highly prized 'queen of fruits' — smooth, deep purple-red fruits with succulent white segmented flesh. Trees begin fruiting at 7–15 years.",
+      "roots": "Deep taproot system poorly tolerant of waterlogging; mycorrhizal-dependent; roots are sensitive to soil disturbance and root pruning; does not tolerate transplanting well after establishment",
+      "stem": "Single straight trunk 30–80 cm diameter in mature trees; bark dark brown to grayish-black; exudes yellow latex when cut; wood is dark, hard, durable",
+      "leaves": "Opposite, simple, oblong-elliptic, 14–25 cm long by 5–10 cm wide; thick and leathery; dark green and glossy above, yellowish-green below; visible lateral veins; short petioles",
+      "flowers": "Pale green to yellow flushed pink; 4 petals, 3–4 cm wide; waxy, fleshy; females solitary at branch tips; males (rare) in clusters; functionally dioecious; blooms after periods of water stress",
+      "fruits/seeds": "Round, 4–7 cm diameter; dark purple to reddish-brown rind (pericarp) 8–12 mm thick with yellowish latex inside; flesh white, 4–8 segments; 1–3 seeds per fruit; sweet-acid, highly fragrant flavor"
+    },
+    "compounds": [
+      "Alpha-mangostin (major xanthone, 35–50% of pericarp xanthones)",
+      "Gamma-mangostin",
+      "Beta-mangostin",
+      "Garcinone C, D, and E",
+      "Gartanin",
+      "Smeathxanthone A",
+      "Mangostanol (prenylated xanthone)",
+      "Anthocyanins (cyanidin-3-glucoside, cyanidin-3-sophoroside in rind)"
+    ],
+    "partsUsed": [
+      "Fruit rind/pericarp (primary medicinal, richest in xanthones)",
+      "Whole fruit and juice",
+      "Leaves",
+      "Bark (traditional)"
+    ],
+    "traditionalUses": [
+      "Traditional Malay medicine used dried pericarp decoction for diarrhea, dysentery, and skin infections for centuries",
+      "Thai folk medicine uses pericarp for wound healing, skin diseases, and as an astringent for mouth sores",
+      "Cambodian and Indonesian traditional medicine uses bark and root for fever, gonorrhea, and urinary infections",
+      "Traditional use throughout Southeast Asia as one of the primary remedies for diarrhea and intestinal disorders",
+      "Used in traditional Philippine medicine as a febrifuge and anti-inflammatory",
+      "Traditional application of pericarp paste for eczema, psoriasis, and chronic skin conditions",
+      "Chinese Traditional Medicine (TCM) uses mangosteen as a cooling yin tonic for inflammatory conditions",
+      "Used as an astringent mouthwash for gingivitis and throat infections in Southeast Asian folk medicine"
+    ],
+    "modernUses": [
+      "Anti-cancer: alpha-mangostin induces apoptosis and inhibits proliferation in breast, prostate, colon, and leukemia cell lines; multiple in vitro and in vivo studies; mechanism via PI3K/Akt pathway",
+      "Anti-inflammatory: gamma-mangostin is a potent COX-2 inhibitor comparable to indomethacin in enzyme assays; reduces pro-inflammatory cytokines",
+      "Antioxidant: xanthones among the most potent antioxidants known; ORAC value of pericarp extract extremely high",
+      "Antimicrobial: alpha-mangostin inhibits MRSA, drug-resistant M. tuberculosis, and various pathogens in vitro",
+      "Neuroprotection: mangostin xanthones cross the blood-brain barrier; inhibit acetylcholinesterase and protect against amyloid-beta toxicity",
+      "Antidiabetic: alpha-mangostin improves insulin sensitivity and reduces postprandial glucose in animal models; preliminary human data",
+      "Cardiovascular: xanthones reduce LDL oxidation, platelet aggregation, and improve endothelial function in in vitro studies",
+      "Anti-allergic: gamma-mangostin inhibits IgE-mediated mast cell degranulation; may reduce allergic symptoms"
+    ],
+    "preparations": [
+      "Whole fruit juice (with pericarp): 30–120 ml/day of commercial whole-fruit xanthone juice (most studied clinical form)",
+      "Pericarp extract capsules: 500–1500 mg/day standardized to 60% alpha-mangostin",
+      "Pericarp tea: 2–5 g dried ground pericarp in 250 ml boiling water, steep 15 minutes; 2 cups/day",
+      "Standardized xanthone extract: 200–400 mg/day (90%+ total xanthones); research grade",
+      "Topical mangosteen cream (5–10% pericarp extract): applied twice daily for skin inflammation and eczema",
+      "Tincture (1:5 in 60% ethanol, pericarp): 3–5 ml three times daily"
+    ],
+    "contraindications": [
+      "Anticoagulant therapy: xanthones have antiplatelet effects; avoid high-dose supplements with warfarin or aspirin therapy",
+      "Pre-surgical: discontinue 2 weeks before surgery due to antiplatelet and blood-thinning effects",
+      "Pregnancy and lactation: insufficient safety data for therapeutic doses of concentrated extracts",
+      "Immune-modulating therapies (chemotherapy, immunosuppressants): may interact; consult oncologist before use"
+    ],
+    "sideEffects": [
+      "Gastrointestinal effects: lactic acidosis reported in a case study with very high juice consumption (several liters daily); normal doses generally well tolerated",
+      "Rare allergic reactions with pericarp preparations",
+      "Potential laxative effect at high doses",
+      "Increased bleeding time due to antiplatelet xanthone activity"
+    ],
+    "drugInteractions": [
+      "Anticoagulants (warfarin, heparin, aspirin): antiplatelet xanthones increase bleeding risk",
+      "Immunosuppressants (cyclosporine, tacrolimus): immunomodulatory effects may reduce efficacy of transplant medications",
+      "Chemotherapy agents: alpha-mangostin may synergize or antagonize depending on the specific agent; discuss with oncologist",
+      "Antidiabetic medications: additive glucose-lowering effects; monitor for hypoglycemia"
+    ]
+  },
+  {
+    "slug": "acai",
+    "name": "Acai",
+    "latinName": "Euterpe oleracea",
+    "family": "Arecaceae",
+    "familyLatin": "Palm family",
+    "nativeRange": "Amazon delta region of Brazil (Pará, Maranhão states); northern South America from Guyana to Colombia; Trinidad and Tobago",
+    "habitat": "Flooded várzea forests and swamp forests (igapó) in the Amazon and Orinoco delta regions; grows in permanently or seasonally flooded alluvial soils; full sun to partial shade; requires tropical climate",
+    "description": {
+      "overall appearance": "A slender, multi-stemmed palm reaching 15–30 m tall, forming dense clusters of 3–6 stems from a single base. The thin, arching trunks bear large pinnate fronds at the top. Produces dense hanging clusters of small, dark purple-black berries (drupes) that are the commercially harvested fruit.",
+      "roots": "Fibrous adventitious roots arise from the lower portion of each stem; highly adapted to flooded, anaerobic soils; forms dense root mats; tolerates periodic inundation",
+      "stem": "Slender cane-like palm stem (stipe) 7–10 cm diameter; smooth; green to gray; prominently ringed with old leaf scar nodes; multiple stems from a common root base",
+      "leaves": "Pinnate, 2–3 m long; 30–80 leaflets per side, linear, 60–90 cm long; dark green above, paler below; arch gracefully; terminal leaflets form a fishtail shape",
+      "flowers": "Tiny, maroon-purple, in large paniculate inflorescences 0.6–1 m long; unisexual, male and female on same plant; spathe-enclosed; blooms twice per year",
+      "fruits/seeds": "Round drupe 1–1.5 cm diameter; dark purple to blue-black when ripe; thin, oily purple mesocarp covering a large, round seed that constitutes 80–90% of fruit volume; harvested in clusters"
+    },
+    "compounds": [
+      "Anthocyanins (cyanidin-3-glucoside, cyanidin-3-rutinoside — 3200 mg/kg dry weight)",
+      "Oleic acid (omega-9; 56–74% of lipid fraction)",
+      "Palmitic acid (15–25%)",
+      "Proanthocyanidins (procyanidins B1, B2)",
+      "Flavonoids (orientin, isoorientin, vitexin, isovitexin, quercetin)",
+      "Beta-sitosterol and campesterol",
+      "Polyphenolic acids (vanillic, syringic, p-hydroxybenzoic acid)",
+      "Vitamins B1, B2, B3, C and dietary fiber"
+    ],
+    "partsUsed": [
+      "Berries/fruit pulp (primary)",
+      "Freeze-dried powder",
+      "Extracted oil from pulp",
+      "Heart of palm (edible, destructive harvest)"
+    ],
+    "traditionalUses": [
+      "Caboclo and ribeirinho peoples of the Amazon have consumed acai as a primary dietary staple for generations; a bowl of thick acai pulp ('vinho de açaí') may constitute 40% of daily caloric intake",
+      "Traditional use in the Amazon as a source of energy for workers, fishermen, and farmers performing heavy labor",
+      "Indigenous Amazonian use of root bark tea as a febrifuge and to treat liver disease and jaundice",
+      "Traditional use of acai oil for skin and hair conditioning in Amazonian communities",
+      "Stem used in traditional construction and palm heart harvested as food (though destructive to the plant)",
+      "Traditional Amazonian use to treat intestinal parasites and diarrhea",
+      "Indigenous use of crushed seeds steeped in water as a topical treatment for skin conditions",
+      "Traditional energy drink preparation: pulp mixed with tapioca flour and consumed by military and workers in Belém, Brazil since the 19th century"
+    ],
+    "modernUses": [
+      "Antioxidant: ORAC value among the highest measured for any food (102,700 μmol TE/100 g freeze-dried); cyanidin-3-glucoside inhibits lipid peroxidation and DNA oxidative damage",
+      "Anti-inflammatory: anthocyanins and proanthocyanidins inhibit NF-κB, COX-1, COX-2, and reduce CRP in human trials",
+      "Cardiovascular: oleic acid-rich lipid profile reduces LDL oxidation; anthocyanins improve endothelial function and reduce arterial stiffness",
+      "Anticancer: cyanidin-3-glucoside inhibits proliferation of HL-60 leukemia, colon, and cervical cancer cells in vitro; induces apoptosis",
+      "Metabolic health: acai pulp improves insulin sensitivity and reduces lipid profiles in overweight adults (2 RCTs)",
+      "Immune modulation: polysaccharide fractions stimulate macrophage activation; supported in preliminary studies",
+      "Neuroprotection: anthocyanins cross the blood-brain barrier; reduce neuroinflammation and amyloid-beta deposition in animal models",
+      "Dermatological: topical acai oil reduces skin inflammation, dryness, and shows UV-protective properties"
+    ],
+    "preparations": [
+      "Frozen pulp: 100–200 g per serving blended in smoothie bowls or with milk; most authentic form; 60–120 g anthocyanins per serving",
+      "Freeze-dried acai powder: 4–8 g/day added to smoothies, yogurt, or water; standardized products preferred",
+      "Acai juice: 60–120 ml/day of commercial pure acai juice; look for 100% pure without additives",
+      "Standardized extract capsules: 500–1000 mg/day (standardized to >15% anthocyanins)",
+      "Acai oil (topical): 1–2 ml applied to skin or hair for moisturizing and antioxidant benefit",
+      "Acai bowl (traditional preparation): 100–150 g frozen pulp blended thick and served with granola and fruit"
+    ],
+    "contraindications": [
+      "Pollen allergy: acai palm pollen is a documented airborne allergen; oral allergy syndrome possible",
+      "Pregnancy and lactation: generally considered safe as food; high-dose extracts have insufficient safety data",
+      "Pre-surgical: antiplatelet anthocyanin activity; discontinue supplements 2 weeks before surgery",
+      "Colon cancer screening (colonoscopy prep): anthocyanins discolor stool and colon; discontinue 3 days prior"
+    ],
+    "sideEffects": [
+      "Positive Chagas disease test: acai from wild Amazon may contain Trypanosoma cruzi; thoroughly pasteurized commercial acai is safe but raw jungle acai carries risk",
+      "Gastrointestinal effects: diarrhea or loose stools with large amounts",
+      "Mild allergic reactions (urticaria, oral tingling) in latex or tropical fruit-allergic individuals",
+      "Dark-colored urine and stool from high anthocyanin content (harmless but alarming)",
+      "Excessive caloric intake: high-fat, high-calorie pulp may cause weight gain if consumed in excess"
+    ],
+    "drugInteractions": [
+      "Anticoagulants (warfarin, aspirin, clopidogrel): antiplatelet anthocyanins add to bleeding risk",
+      "Immunosuppressants (cyclosporine): theoretical immunomodulatory interaction",
+      "Antidiabetic medications: improved insulin sensitivity may enhance glucose-lowering; monitor blood sugar",
+      "MRI contrast agents: acai berry extract may interfere with certain gastrointestinal MRI contrast procedures"
+    ]
+  },
+  {
+    "slug": "sea-buckthorn",
+    "name": "Sea Buckthorn",
+    "latinName": "Hippophae rhamnoides",
+    "family": "Elaeagnaceae",
+    "familyLatin": "Oleaster family",
+    "nativeRange": "Eurasia from Atlantic coast of Europe to China and Mongolia; widespread from Scotland to the Himalayan range and Tibetan Plateau",
+    "habitat": "Rocky coastlines, sand dunes, riverbanks, and mountain slopes at elevations from sea level to 5200 m; extremely hardy; tolerates poor, sandy, gravelly soils and high winds; drought-resistant; fixes nitrogen via symbiotic actinomycetes",
+    "description": {
+      "overall appearance": "A thorny deciduous shrub or small tree 1–6 m tall, often colonizing poor soils in dense thickets. In autumn, the branches bear spectacular clusters of brilliant orange berries that persist after leaf fall, creating a distinctive visual display. Silver-gray leaves contrast with the orange fruit.",
+      "roots": "Deep, wide-spreading root system with nitrogen-fixing nodules (Frankia actinomycetes); highly effective at stabilizing eroding soils; roots can extend 10+ m horizontally",
+      "stem": "Multi-stemmed, thorny shrub; bark gray-brown; branches end in sharp thorns 1–8 cm long; woody, rigid; yellow wood inside",
+      "leaves": "Alternate, narrow-linear to lanceolate, 3–8 cm long by 3–8 mm wide; silver-green due to dense covering of silver scales (peltate trichomes); both surfaces similarly colored",
+      "flowers": "Tiny, inconspicuous, yellowish; dioecious (separate male and female plants); male catkins 3–5 mm long; female flowers in leaf axils; wind-pollinated; blooms March–April before leaf emergence",
+      "fruits/seeds": "Round to oval berry-like drupe 5–9 mm diameter; brilliant orange to yellow-orange when ripe; borne in dense clusters along stems; very juicy; tart, oily flavor; contain one brown seed"
+    },
+    "compounds": [
+      "Vitamin C (400–2500 mg/100 g; one of richest plant sources on earth)",
+      "Omega-7 fatty acid (palmitoleic acid; 30–40% of pulp oil; rare in plants)",
+      "Carotenoids (beta-carotene, lycopene, zeaxanthin, lutein; 300–500 mg/100 g)",
+      "Tocopherols and tocotrienols (Vitamin E; 100–300 mg/100 g in oil)",
+      "Flavonoids (quercetin, isorhamnetin, kaempferol glycosides)",
+      "Omega-3 (linolenic acid) and omega-6 (linoleic acid) in seed oil",
+      "Phytosterols (beta-sitosterol, stigmasterol)",
+      "Organic acids (malic acid, succinic acid, oxalic acid)"
+    ],
+    "partsUsed": [
+      "Berries/fruit (primary)",
+      "Pulp oil (cold-pressed from berries)",
+      "Seed oil (cold-pressed)",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Tibetan traditional medicine (Sowa Rigpa) has used sea buckthorn as a primary medicinal plant for 1300+ years; used for cardiovascular, digestive, and wound healing",
+      "Mongols traditionally called it 'holy fruit' and used it for fatigue, wound healing, and gastric ulcers; fed to horses for stamina and coat quality",
+      "Russian folk medicine has long used sea buckthorn oil for radiation injury, burns, and gastric ulcers; Soviet space program studied it for cosmonauts",
+      "Chinese traditional medicine (Shaji) uses it for indigestion, circulatory disorders, and as a Qi tonic",
+      "Ancient Greek tradition attributed sea buckthorn to giving Pegasus his golden coat; used for horses' health",
+      "Scandinavian coastal communities have harvested berries for food and medicine for centuries",
+      "Traditional Siberian use for skin wound healing, frostbite treatment, and to boost immunity during harsh winters",
+      "Indian Himalayan Ayurvedic tradition uses it as an adaptogen and nutritive tonic at high altitudes"
+    ],
+    "modernUses": [
+      "Skin healing and regeneration: omega-7 palmitoleic acid is a component of human skin fat; topical oil accelerates wound healing, reduces burns, and treats skin conditions in multiple clinical studies",
+      "Gastric ulcer protection: standardized oil reduces H. pylori adhesion, repairs mucosal cells, and heals ulcers in RCTs; approved as ulcer treatment in China",
+      "Cardiovascular protection: omega-7, tocopherols, and flavonoids reduce LDL oxidation, improve endothelial function, and lower triglycerides in human studies",
+      "Immune support: extraordinary Vitamin C content (100× higher than apples) plus carotenoids support immune function",
+      "Anti-aging skincare: omega-7, Vitamin E, and carotenoids in topical oil significantly reduce fine lines and improve skin elasticity in clinical trials",
+      "Antitumor: isorhamnetin and quercetin induce apoptosis in cancer cell lines; supported by in vitro and animal data",
+      "Mucosal dryness (Sjogren's syndrome): internal sea buckthorn oil supplementation reduces dry eye, dry mouth, and vaginal dryness in RCTs",
+      "Radiation protection: Russian research documents significant radioprotective effects; used after Chernobyl disaster"
+    ],
+    "preparations": [
+      "Berry juice: 30–60 ml/day of pure or diluted juice (tart; often diluted 1:4); provides high Vitamin C and antioxidants",
+      "Pulp oil capsules (cold-pressed): 0.5–3 g/day for mucosal dryness, cardiovascular, and skin support",
+      "Seed oil capsules: 0.5–2 g/day; higher in omega-3/6; complements pulp oil omega-7",
+      "Topical pulp oil: undiluted or 1–5% in cream; applied to burns, wounds, skin conditions twice daily",
+      "Freeze-dried berry powder: 2–5 g/day added to smoothies or yogurt",
+      "Standardized extract capsules (10:1): 200–600 mg/day"
+    ],
+    "contraindications": [
+      "Anticoagulant therapy: antiplatelet flavonoids and omega fatty acids increase bleeding risk; caution with warfarin",
+      "Pregnancy: insufficient safety data for concentrated extracts; culinary berry use is likely safe",
+      "Allergy to Elaeagnaceae family or related plant pollens",
+      "Pre-surgical: discontinue oil supplements 2 weeks before surgery due to antiplatelet effects"
+    ],
+    "sideEffects": [
+      "Gastrointestinal effects: nausea, diarrhea, and stomach upset with undiluted juice or high-dose oil capsules",
+      "Skin yellowing (carotenodermia): reversible orange-yellow skin tinting with very high carotenoid intake",
+      "Increased bleeding time from antiplatelet omega-7 and flavonoid activity",
+      "Rare allergic reactions (urticaria, contact dermatitis with topical oil)",
+      "Strong tart flavor of undiluted juice may cause salivation reflex and esophageal discomfort"
+    ],
+    "drugInteractions": [
+      "Anticoagulants (warfarin, aspirin, clopidogrel): combined antiplatelet effects increase bleeding risk",
+      "Antihypertensive medications: additive blood pressure lowering effect",
+      "Anticancer drugs: isorhamnetin may sensitize tumor cells to certain chemotherapy agents; discuss with oncologist",
+      "Fat-soluble vitamin supplements (A, D, E, K): carotenoid and tocopherol-rich berries may alter absorption and serum levels"
+    ]
+  },
+  {
+    "slug": "pomegranate",
+    "name": "Pomegranate",
+    "latinName": "Punica granatum",
+    "family": "Lyt

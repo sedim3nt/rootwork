@@ -1,325 +1,4922 @@
 [
   {
-    "slug": "adaptogens",
-    "name": "Adaptogens",
-    "uses": [
-      "Stress adaptation and resilience",
-      "Energy and vitality enhancement",
-      "Cortisol balance",
-      "Physical and mental endurance",
-      "Fatigue recovery",
-      "Immune system modulation",
-      "Overall wellness and longevity"
+    "name": "Adaptogenic",
+    "plants": [
+      {
+        "slug": "angelica",
+        "name": "Angelica"
+      },
+      {
+        "slug": "ashwagandha",
+        "name": "Ashwagandha"
+      },
+      {
+        "slug": "astragalus",
+        "name": "Astragalus"
+      },
+      {
+        "slug": "bacopa",
+        "name": "Bacopa"
+      },
+      {
+        "slug": "basil",
+        "name": "Basil"
+      },
+      {
+        "slug": "bhringaraj",
+        "name": "Bhringaraj"
+      },
+      {
+        "slug": "bitter-melon",
+        "name": "Bitter Melon"
+      },
+      {
+        "slug": "blue-vervain",
+        "name": "Blue Vervain"
+      },
+      {
+        "slug": "borage",
+        "name": "Borage"
+      },
+      {
+        "slug": "cacao",
+        "name": "Cacao"
+      },
+      {
+        "slug": "chamomile",
+        "name": "Chamomile"
+      },
+      {
+        "slug": "chlorella",
+        "name": "Chlorella"
+      },
+      {
+        "slug": "codonopsis",
+        "name": "Codonopsis"
+      },
+      {
+        "slug": "cordyceps",
+        "name": "Cordyceps"
+      },
+      {
+        "slug": "eleuthero",
+        "name": "Eleuthero"
+      },
+      {
+        "slug": "ginseng",
+        "name": "Ginseng"
+      },
+      {
+        "slug": "guarana",
+        "name": "Guarana"
+      },
+      {
+        "slug": "guayusa",
+        "name": "Guayusa"
+      },
+      {
+        "slug": "terminalia-chebula",
+        "name": "Haritaki / Black Myrobalan (Triphala representative)"
+      },
+      {
+        "slug": "hawthorn",
+        "name": "Hawthorn"
+      },
+      {
+        "slug": "holy-basil",
+        "name": "Holy Basil"
+      },
+      {
+        "slug": "jiaogulan",
+        "name": "Jiaogulan"
+      },
+      {
+        "slug": "kanna",
+        "name": "Kanna"
+      },
+      {
+        "slug": "lavender",
+        "name": "Lavender"
+      },
+      {
+        "slug": "lemon-balm",
+        "name": "Lemon Balm"
+      },
+      {
+        "slug": "lemongrass",
+        "name": "Lemongrass"
+      },
+      {
+        "slug": "maca",
+        "name": "Maca"
+      },
+      {
+        "slug": "moringa",
+        "name": "Moringa"
+      },
+      {
+        "slug": "motherwort",
+        "name": "Motherwort"
+      },
+      {
+        "slug": "noni",
+        "name": "Noni"
+      },
+      {
+        "slug": "osha",
+        "name": "Osha"
+      },
+      {
+        "slug": "pine-needle",
+        "name": "Pine Needle"
+      },
+      {
+        "slug": "pygeum",
+        "name": "Pygeum"
+      },
+      {
+        "slug": "rehmannia",
+        "name": "Rehmannia"
+      },
+      {
+        "slug": "reishi-mushroom",
+        "name": "Reishi Mushroom"
+      },
+      {
+        "slug": "rhodiola",
+        "name": "Rhodiola"
+      },
+      {
+        "slug": "rosemary",
+        "name": "Rosemary"
+      },
+      {
+        "slug": "schisandra",
+        "name": "Schisandra"
+      },
+      {
+        "slug": "sea-buckthorn",
+        "name": "Sea Buckthorn"
+      },
+      {
+        "slug": "shatavari",
+        "name": "Shatavari"
+      },
+      {
+        "slug": "skullcap",
+        "name": "Skullcap"
+      },
+      {
+        "slug": "spirulina",
+        "name": "Spirulina"
+      },
+      {
+        "slug": "valerian",
+        "name": "Valerian"
+      },
+      {
+        "slug": "wheatgrass",
+        "name": "Wheatgrass"
+      },
+      {
+        "slug": "wood-betony",
+        "name": "Wood Betony"
+      },
+      {
+        "slug": "yerba-santa",
+        "name": "Yerba Santa"
+      }
     ],
-    "plantRefs": [
-      "04-Ginseng",
-      "19-Astragalus",
-      "20-Reishi-Mushroom",
-      "21-Rhodiola",
-      "22-Ashwagandha",
-      "23-Holy-Basil",
-      "24-Schisandra",
-      "00-TRADITIONAL-USES"
-    ]
+    "slug": "adaptogenic"
   },
   {
-    "slug": "capsule-extract",
-    "name": "Capsule Extract",
-    "uses": [],
-    "plantRefs": []
-  },
-  {
-    "slug": "circulatory-health",
-    "name": "Circulatory Health",
-    "uses": [
-      "Heart support and strengthening",
-      "Blood circulation improvement",
-      "Blood pressure regulation",
-      "Cardiovascular health maintenance",
-      "Cholesterol support",
-      "Peripheral circulation",
-      "Vascular health"
+    "name": "Anti-inflammatory",
+    "plants": [
+      {
+        "slug": "acai",
+        "name": "Acai"
+      },
+      {
+        "slug": "alfalfa",
+        "name": "Alfalfa"
+      },
+      {
+        "slug": "aloe-vera",
+        "name": "Aloe Vera"
+      },
+      {
+        "slug": "andrographis",
+        "name": "Andrographis"
+      },
+      {
+        "slug": "arjuna",
+        "name": "Arjuna"
+      },
+      {
+        "slug": "arnica",
+        "name": "Arnica"
+      },
+      {
+        "slug": "ashitaba",
+        "name": "Ashitaba"
+      },
+      {
+        "slug": "bacopa",
+        "name": "Bacopa"
+      },
+      {
+        "slug": "basil",
+        "name": "Basil"
+      },
+      {
+        "slug": "bhringaraj",
+        "name": "Bhringaraj"
+      },
+      {
+        "slug": "birch",
+        "name": "Birch"
+      },
+      {
+        "slug": "bitter-melon",
+        "name": "Bitter Melon"
+      },
+      {
+        "slug": "black-cohosh",
+        "name": "Black Cohosh"
+      },
+      {
+        "slug": "black-pepper",
+        "name": "Black Pepper"
+      },
+      {
+        "slug": "blessed-thistle",
+        "name": "Blessed Thistle"
+      },
+      {
+        "slug": "blue-cohosh",
+        "name": "Blue Cohosh"
+      },
+      {
+        "slug": "blue-vervain",
+        "name": "Blue Vervain"
+      },
+      {
+        "slug": "borage",
+        "name": "Borage"
+      },
+      {
+        "slug": "buchu",
+        "name": "Buchu"
+      },
+      {
+        "slug": "burdock",
+        "name": "Burdock"
+      },
+      {
+        "slug": "cacao",
+        "name": "Cacao"
+      },
+      {
+        "slug": "calendula",
+        "name": "Calendula"
+      },
+      {
+        "slug": "cardamom",
+        "name": "Cardamom"
+      },
+      {
+        "slug": "cat-s-claw",
+        "name": "Cat's Claw"
+      },
+      {
+        "slug": "cats-whiskers-java-tea",
+        "name": "Cat's Whiskers / Java Tea"
+      },
+      {
+        "slug": "celery-seed",
+        "name": "Celery Seed"
+      },
+      {
+        "slug": "chamomile",
+        "name": "Chamomile"
+      },
+      {
+        "slug": "chickweed",
+        "name": "Chickweed"
+      },
+      {
+        "slug": "cinnamon",
+        "name": "Cinnamon"
+      },
+      {
+        "slug": "cleavers",
+        "name": "Cleavers"
+      },
+      {
+        "slug": "clove",
+        "name": "Clove"
+      },
+      {
+        "slug": "coltsfoot",
+        "name": "Coltsfoot"
+      },
+      {
+        "slug": "comfrey",
+        "name": "Comfrey"
+      },
+      {
+        "slug": "coptis-goldthread",
+        "name": "Coptis / Goldthread"
+      },
+      {
+        "slug": "coriander",
+        "name": "Coriander"
+      },
+      {
+        "slug": "cranberry",
+        "name": "Cranberry"
+      },
+      {
+        "slug": "cumin",
+        "name": "Cumin"
+      },
+      {
+        "slug": "dandelion",
+        "name": "Dandelion"
+      },
+      {
+        "slug": "devils-claw",
+        "name": "Devil's Claw"
+      },
+      {
+        "slug": "dill",
+        "name": "Dill"
+      },
+      {
+        "slug": "dong-quai",
+        "name": "Dong Quai"
+      },
+      {
+        "slug": "echinacea",
+        "name": "Echinacea"
+      },
+      {
+        "slug": "elderberry",
+        "name": "Elderberry"
+      },
+      {
+        "slug": "elecampane",
+        "name": "Elecampane"
+      },
+      {
+        "slug": "evening-primrose",
+        "name": "Evening Primrose"
+      },
+      {
+        "slug": "fennel",
+        "name": "Fennel"
+      },
+      {
+        "slug": "fenugreek",
+        "name": "Fenugreek"
+      },
+      {
+        "slug": "garlic",
+        "name": "Garlic"
+      },
+      {
+        "slug": "ginger",
+        "name": "Ginger"
+      },
+      {
+        "slug": "goldenseal",
+        "name": "Goldenseal"
+      },
+      {
+        "slug": "gotu-kola",
+        "name": "Gotu Kola"
+      },
+      {
+        "slug": "gravel-root",
+        "name": "Gravel Root"
+      },
+      {
+        "slug": "guayusa",
+        "name": "Guayusa"
+      },
+      {
+        "slug": "guduchi",
+        "name": "Guduchi / Giloy"
+      },
+      {
+        "slug": "gymnema",
+        "name": "Gymnema"
+      },
+      {
+        "slug": "terminalia-chebula",
+        "name": "Haritaki / Black Myrobalan (Triphala representative)"
+      },
+      {
+        "slug": "hawthorn",
+        "name": "Hawthorn"
+      },
+      {
+        "slug": "he-shou-wu",
+        "name": "He Shou Wu"
+      },
+      {
+        "slug": "hemp-cbd",
+        "name": "Hemp / CBD"
+      },
+      {
+        "slug": "hibiscus",
+        "name": "Hibiscus"
+      },
+      {
+        "slug": "holy-basil",
+        "name": "Holy Basil"
+      },
+      {
+        "slug": "hoodia",
+        "name": "Hoodia"
+      },
+      {
+        "slug": "hops",
+        "name": "Hops"
+      },
+      {
+        "slug": "horsetail",
+        "name": "Horsetail"
+      },
+      {
+        "slug": "jiaogulan",
+        "name": "Jiaogulan"
+      },
+      {
+        "slug": "juniper",
+        "name": "Juniper"
+      },
+      {
+        "slug": "lavender",
+        "name": "Lavender"
+      },
+      {
+        "slug": "lemongrass",
+        "name": "Lemongrass"
+      },
+      {
+        "slug": "licorice",
+        "name": "Licorice"
+      },
+      {
+        "slug": "linden",
+        "name": "Linden / Tilia"
+      },
+      {
+        "slug": "lions-mane",
+        "name": "Lion's Mane"
+      },
+      {
+        "slug": "mangosteen",
+        "name": "Mangosteen"
+      },
+      {
+        "slug": "marshmallow",
+        "name": "Marshmallow"
+      },
+      {
+        "slug": "meadowsweet",
+        "name": "Meadowsweet"
+      },
+      {
+        "slug": "milk-thistle",
+        "name": "Milk Thistle"
+      },
+      {
+        "slug": "moringa",
+        "name": "Moringa"
+      },
+      {
+        "slug": "mullein",
+        "name": "Mullein"
+      },
+      {
+        "slug": "neem",
+        "name": "Neem"
+      },
+      {
+        "slug": "nettle",
+        "name": "Nettle"
+      },
+      {
+        "slug": "noni",
+        "name": "Noni"
+      },
+      {
+        "slug": "nutmeg",
+        "name": "Nutmeg"
+      },
+      {
+        "slug": "oak",
+        "name": "Oak"
+      },
+      {
+        "slug": "oat-straw",
+        "name": "Oat Straw"
+      },
+      {
+        "slug": "oregano",
+        "name": "Oregano"
+      },
+      {
+        "slug": "oregon-grape",
+        "name": "Oregon Grape"
+      },
+      {
+        "slug": "parsley",
+        "name": "Parsley"
+      },
+      {
+        "slug": "partridge-berry",
+        "name": "Partridge Berry"
+      },
+      {
+        "slug": "pau-d-arco",
+        "name": "Pau D'Arco"
+      },
+      {
+        "slug": "peppermint",
+        "name": "Peppermint"
+      },
+      {
+        "slug": "pine-needle",
+        "name": "Pine Needle"
+      },
+      {
+        "slug": "plantain",
+        "name": "Plantain"
+      },
+      {
+        "slug": "puerh-tea",
+        "name": "Pu-erh Tea"
+      },
+      {
+        "slug": "pygeum",
+        "name": "Pygeum"
+      },
+      {
+        "slug": "raspberry-leaf",
+        "name": "Raspberry Leaf"
+      },
+      {
+        "slug": "red-clover",
+        "name": "Red Clover"
+      },
+      {
+        "slug": "red-root",
+        "name": "Red Root"
+      },
+      {
+        "slug": "rehmannia",
+        "name": "Rehmannia"
+      },
+      {
+        "slug": "rooibos",
+        "name": "Rooibos"
+      },
+      {
+        "slug": "rose-hips",
+        "name": "Rose Hips"
+      },
+      {
+        "slug": "rosemary",
+        "name": "Rosemary"
+      },
+      {
+        "slug": "sage",
+        "name": "Sage"
+      },
+      {
+        "slug": "saw-palmetto",
+        "name": "Saw Palmetto"
+      },
+      {
+        "slug": "self-heal",
+        "name": "Self-Heal"
+      },
+      {
+        "slug": "shatavari",
+        "name": "Shatavari"
+      },
+      {
+        "slug": "slippery-elm",
+        "name": "Slippery Elm"
+      },
+      {
+        "slug": "spearmint",
+        "name": "Spearmint"
+      },
+      {
+        "slug": "spilanthes",
+        "name": "Spilanthes / Toothache Plant"
+      },
+      {
+        "slug": "spirulina",
+        "name": "Spirulina"
+      },
+      {
+        "slug": "st-john-s-wort",
+        "name": "St. John's Wort"
+      },
+      {
+        "slug": "star-anise",
+        "name": "Star Anise"
+      },
+      {
+        "slug": "turmeric",
+        "name": "Turmeric"
+      },
+      {
+        "slug": "uva-ursi",
+        "name": "Uva Ursi"
+      },
+      {
+        "slug": "vanilla",
+        "name": "Vanilla"
+      },
+      {
+        "slug": "violet",
+        "name": "Violet"
+      },
+      {
+        "slug": "wild-cherry",
+        "name": "Wild Cherry"
+      },
+      {
+        "slug": "wild-yam",
+        "name": "Wild Yam"
+      },
+      {
+        "slug": "willow-bark",
+        "name": "Willow Bark"
+      },
+      {
+        "slug": "wintergreen",
+        "name": "Wintergreen"
+      },
+      {
+        "slug": "witch-hazel",
+        "name": "Witch Hazel"
+      },
+      {
+        "slug": "yarrow",
+        "name": "Yarrow"
+      },
+      {
+        "slug": "yellow-dock",
+        "name": "Yellow Dock"
+      },
+      {
+        "slug": "yerba-santa",
+        "name": "Yerba Santa"
+      }
     ],
-    "plantRefs": [
-      "02-Turmeric",
-      "06-Garlic",
-      "08-Ginkgo",
-      "16-Saw-Palmetto",
-      "37-Rosemary",
-      "42-Cinnamon",
-      "51-Hawthorn",
-      "00-TRADITIONAL-USES"
-    ]
+    "slug": "anti-inflammatory"
   },
   {
-    "slug": "culinary-medicine",
-    "name": "Culinary Medicine",
-    "uses": [],
-    "plantRefs": []
-  },
-  {
-    "slug": "decoction",
-    "name": "Decoction",
-    "uses": [],
-    "plantRefs": []
-  },
-  {
-    "slug": "digestive-health",
-    "name": "Digestive Health",
-    "uses": [
-      "Nausea and motion sickness",
-      "Indigestion and dyspepsia",
-      "Gas and bloating",
-      "Stomach ulcers and gastritis",
-      "Digestive inflammation",
-      "Appetite stimulation",
-      "Intestinal cramping"
+    "name": "Antioxidant",
+    "plants": [
+      {
+        "slug": "acai",
+        "name": "Acai"
+      },
+      {
+        "slug": "amla",
+        "name": "Amla / Indian Gooseberry"
+      },
+      {
+        "slug": "arjuna",
+        "name": "Arjuna"
+      },
+      {
+        "slug": "bacopa",
+        "name": "Bacopa"
+      },
+      {
+        "slug": "basil",
+        "name": "Basil"
+      },
+      {
+        "slug": "birch",
+        "name": "Birch"
+      },
+      {
+        "slug": "bitter-melon",
+        "name": "Bitter Melon"
+      },
+      {
+        "slug": "black-pepper",
+        "name": "Black Pepper"
+      },
+      {
+        "slug": "black-walnut",
+        "name": "Black Walnut"
+      },
+      {
+        "slug": "blue-vervain",
+        "name": "Blue Vervain"
+      },
+      {
+        "slug": "buchu",
+        "name": "Buchu"
+      },
+      {
+        "slug": "burdock",
+        "name": "Burdock"
+      },
+      {
+        "slug": "cardamom",
+        "name": "Cardamom"
+      },
+      {
+        "slug": "cat-s-claw",
+        "name": "Cat's Claw"
+      },
+      {
+        "slug": "chlorella",
+        "name": "Chlorella"
+      },
+      {
+        "slug": "cinnamon",
+        "name": "Cinnamon"
+      },
+      {
+        "slug": "clove",
+        "name": "Clove"
+      },
+      {
+        "slug": "codonopsis",
+        "name": "Codonopsis"
+      },
+      {
+        "slug": "coriander",
+        "name": "Coriander"
+      },
+      {
+        "slug": "cranberry",
+        "name": "Cranberry"
+      },
+      {
+        "slug": "cumin",
+        "name": "Cumin"
+      },
+      {
+        "slug": "dandelion",
+        "name": "Dandelion"
+      },
+      {
+        "slug": "dill",
+        "name": "Dill"
+      },
+      {
+        "slug": "elderberry",
+        "name": "Elderberry"
+      },
+      {
+        "slug": "fenugreek",
+        "name": "Fenugreek"
+      },
+      {
+        "slug": "garlic",
+        "name": "Garlic"
+      },
+      {
+        "slug": "ginkgo",
+        "name": "Ginkgo"
+      },
+      {
+        "slug": "guarana",
+        "name": "Guarana"
+      },
+      {
+        "slug": "guayusa",
+        "name": "Guayusa"
+      },
+      {
+        "slug": "guduchi",
+        "name": "Guduchi / Giloy"
+      },
+      {
+        "slug": "hawthorn",
+        "name": "Hawthorn"
+      },
+      {
+        "slug": "he-shou-wu",
+        "name": "He Shou Wu"
+      },
+      {
+        "slug": "hibiscus",
+        "name": "Hibiscus"
+      },
+      {
+        "slug": "horsetail",
+        "name": "Horsetail"
+      },
+      {
+        "slug": "juniper",
+        "name": "Juniper"
+      },
+      {
+        "slug": "lemon-verbena",
+        "name": "Lemon Verbena"
+      },
+      {
+        "slug": "lemongrass",
+        "name": "Lemongrass"
+      },
+      {
+        "slug": "linden",
+        "name": "Linden / Tilia"
+      },
+      {
+        "slug": "mangosteen",
+        "name": "Mangosteen"
+      },
+      {
+        "slug": "meadowsweet",
+        "name": "Meadowsweet"
+      },
+      {
+        "slug": "milk-thistle",
+        "name": "Milk Thistle"
+      },
+      {
+        "slug": "moringa",
+        "name": "Moringa"
+      },
+      {
+        "slug": "noni",
+        "name": "Noni"
+      },
+      {
+        "slug": "oak",
+        "name": "Oak"
+      },
+      {
+        "slug": "oat-straw",
+        "name": "Oat Straw"
+      },
+      {
+        "slug": "oregano",
+        "name": "Oregano"
+      },
+      {
+        "slug": "parsley",
+        "name": "Parsley"
+      },
+      {
+        "slug": "pau-d-arco",
+        "name": "Pau D'Arco"
+      },
+      {
+        "slug": "pine-needle",
+        "name": "Pine Needle"
+      },
+      {
+        "slug": "puerh-tea",
+        "name": "Pu-erh Tea"
+      },
+      {
+        "slug": "pygeum",
+        "name": "Pygeum"
+      },
+      {
+        "slug": "raspberry-leaf",
+        "name": "Raspberry Leaf"
+      },
+      {
+        "slug": "red-clover",
+        "name": "Red Clover"
+      },
+      {
+        "slug": "rooibos",
+        "name": "Rooibos"
+      },
+      {
+        "slug": "rose-hips",
+        "name": "Rose Hips"
+      },
+      {
+        "slug": "rosemary",
+        "name": "Rosemary"
+      },
+      {
+        "slug": "sage",
+        "name": "Sage"
+      },
+      {
+        "slug": "schisandra",
+        "name": "Schisandra"
+      },
+      {
+        "slug": "self-heal",
+        "name": "Self-Heal"
+      },
+      {
+        "slug": "shatavari",
+        "name": "Shatavari"
+      },
+      {
+        "slug": "spearmint",
+        "name": "Spearmint"
+      },
+      {
+        "slug": "spirulina",
+        "name": "Spirulina"
+      },
+      {
+        "slug": "star-anise",
+        "name": "Star Anise"
+      },
+      {
+        "slug": "turmeric",
+        "name": "Turmeric"
+      },
+      {
+        "slug": "vanilla",
+        "name": "Vanilla"
+      },
+      {
+        "slug": "wheatgrass",
+        "name": "Wheatgrass"
+      },
+      {
+        "slug": "yerba-mate",
+        "name": "Yerba Mate"
+      },
+      {
+        "slug": "yerba-santa",
+        "name": "Yerba Santa"
+      }
     ],
-    "plantRefs": [
-      "03-Ginger",
-      "05-Chamomile",
-      "12-Peppermint",
-      "15-Milk-Thistle",
-      "29-Marshmallow",
-      "30-Slippery-Elm",
-      "31-Licorice",
-      "32-Fennel",
-      "38-Sage",
-      "41-Basil",
-      "44-Cardamom",
-      "46-Coriander",
-      "47-Cumin",
-      "49-Nutmeg",
-      "54-Dandelion",
-      "55-Burdock",
-      "56-Yellow-Dock",
-      "77-Wild-Yam",
-      "78-Blessed-Thistle",
-      "85-Oregon-Grape",
-      "96-Lemon-Verbena",
-      "98-Mugwort",
-      "99-Wormwood",
-      "100-Angelica",
-      "00-TRADITIONAL-USES"
-    ]
+    "slug": "antioxidant"
   },
   {
-    "slug": "essential-oil",
-    "name": "Essential Oil",
-    "uses": [],
-    "plantRefs": []
+    "name": "Blood Sugar",
+    "plants": [
+      {
+        "slug": "acai",
+        "name": "Acai"
+      },
+      {
+        "slug": "amla",
+        "name": "Amla / Indian Gooseberry"
+      },
+      {
+        "slug": "ashitaba",
+        "name": "Ashitaba"
+      },
+      {
+        "slug": "ashwagandha",
+        "name": "Ashwagandha"
+      },
+      {
+        "slug": "astragalus",
+        "name": "Astragalus"
+      },
+      {
+        "slug": "basil",
+        "name": "Basil"
+      },
+      {
+        "slug": "bhringaraj",
+        "name": "Bhringaraj"
+      },
+      {
+        "slug": "bitter-melon",
+        "name": "Bitter Melon"
+      },
+      {
+        "slug": "burdock",
+        "name": "Burdock"
+      },
+      {
+        "slug": "cacao",
+        "name": "Cacao"
+      },
+      {
+        "slug": "cats-whiskers-java-tea",
+        "name": "Cat's Whiskers / Java Tea"
+      },
+      {
+        "slug": "cinnamon",
+        "name": "Cinnamon"
+      },
+      {
+        "slug": "clove",
+        "name": "Clove"
+      },
+      {
+        "slug": "codonopsis",
+        "name": "Codonopsis"
+      },
+      {
+        "slug": "coptis-goldthread",
+        "name": "Coptis / Goldthread"
+      },
+      {
+        "slug": "cordyceps",
+        "name": "Cordyceps"
+      },
+      {
+        "slug": "coriander",
+        "name": "Coriander"
+      },
+      {
+        "slug": "cumin",
+        "name": "Cumin"
+      },
+      {
+        "slug": "dandelion",
+        "name": "Dandelion"
+      },
+      {
+        "slug": "dill",
+        "name": "Dill"
+      },
+      {
+        "slug": "eleuthero",
+        "name": "Eleuthero"
+      },
+      {
+        "slug": "fenugreek",
+        "name": "Fenugreek"
+      },
+      {
+        "slug": "ginseng",
+        "name": "Ginseng"
+      },
+      {
+        "slug": "goldenseal",
+        "name": "Goldenseal"
+      },
+      {
+        "slug": "green-tea",
+        "name": "Green Tea"
+      },
+      {
+        "slug": "guayusa",
+        "name": "Guayusa"
+      },
+      {
+        "slug": "guduchi",
+        "name": "Guduchi / Giloy"
+      },
+      {
+        "slug": "gymnema",
+        "name": "Gymnema"
+      },
+      {
+        "slug": "terminalia-chebula",
+        "name": "Haritaki / Black Myrobalan (Triphala representative)"
+      },
+      {
+        "slug": "holy-basil",
+        "name": "Holy Basil"
+      },
+      {
+        "slug": "hoodia",
+        "name": "Hoodia"
+      },
+      {
+        "slug": "hops",
+        "name": "Hops"
+      },
+      {
+        "slug": "jiaogulan",
+        "name": "Jiaogulan"
+      },
+      {
+        "slug": "mangosteen",
+        "name": "Mangosteen"
+      },
+      {
+        "slug": "milk-thistle",
+        "name": "Milk Thistle"
+      },
+      {
+        "slug": "moringa",
+        "name": "Moringa"
+      },
+      {
+        "slug": "nettle",
+        "name": "Nettle"
+      },
+      {
+        "slug": "noni",
+        "name": "Noni"
+      },
+      {
+        "slug": "oat-straw",
+        "name": "Oat Straw"
+      },
+      {
+        "slug": "oregon-grape",
+        "name": "Oregon Grape"
+      },
+      {
+        "slug": "puerh-tea",
+        "name": "Pu-erh Tea"
+      },
+      {
+        "slug": "rehmannia",
+        "name": "Rehmannia"
+      },
+      {
+        "slug": "rooibos",
+        "name": "Rooibos"
+      },
+      {
+        "slug": "shatavari",
+        "name": "Shatavari"
+      },
+      {
+        "slug": "tribulus",
+        "name": "Tribulus"
+      },
+      {
+        "slug": "white-peony",
+        "name": "White Peony Root"
+      },
+      {
+        "slug": "yerba-santa",
+        "name": "Yerba Santa"
+      }
+    ],
+    "slug": "blood-sugar"
   },
   {
-    "slug": "immune-support",
+    "name": "Bone & Joint",
+    "plants": [
+      {
+        "slug": "alfalfa",
+        "name": "Alfalfa"
+      },
+      {
+        "slug": "arjuna",
+        "name": "Arjuna"
+      },
+      {
+        "slug": "ashitaba",
+        "name": "Ashitaba"
+      },
+      {
+        "slug": "ashwagandha",
+        "name": "Ashwagandha"
+      },
+      {
+        "slug": "bacopa",
+        "name": "Bacopa"
+      },
+      {
+        "slug": "birch",
+        "name": "Birch"
+      },
+      {
+        "slug": "black-cohosh",
+        "name": "Black Cohosh"
+      },
+      {
+        "slug": "black-pepper",
+        "name": "Black Pepper"
+      },
+      {
+        "slug": "bloodroot",
+        "name": "Bloodroot"
+      },
+      {
+        "slug": "blue-cohosh",
+        "name": "Blue Cohosh"
+      },
+      {
+        "slug": "blue-vervain",
+        "name": "Blue Vervain"
+      },
+      {
+        "slug": "borage",
+        "name": "Borage"
+      },
+      {
+        "slug": "burdock",
+        "name": "Burdock"
+      },
+      {
+        "slug": "cat-s-claw",
+        "name": "Cat's Claw"
+      },
+      {
+        "slug": "cats-whiskers-java-tea",
+        "name": "Cat's Whiskers / Java Tea"
+      },
+      {
+        "slug": "celery-seed",
+        "name": "Celery Seed"
+      },
+      {
+        "slug": "chickweed",
+        "name": "Chickweed"
+      },
+      {
+        "slug": "clove",
+        "name": "Clove"
+      },
+      {
+        "slug": "comfrey",
+        "name": "Comfrey"
+      },
+      {
+        "slug": "coriander",
+        "name": "Coriander"
+      },
+      {
+        "slug": "devils-claw",
+        "name": "Devil's Claw"
+      },
+      {
+        "slug": "dill",
+        "name": "Dill"
+      },
+      {
+        "slug": "dong-quai",
+        "name": "Dong Quai"
+      },
+      {
+        "slug": "elecampane",
+        "name": "Elecampane"
+      },
+      {
+        "slug": "eleuthero",
+        "name": "Eleuthero"
+      },
+      {
+        "slug": "evening-primrose",
+        "name": "Evening Primrose"
+      },
+      {
+        "slug": "fenugreek",
+        "name": "Fenugreek"
+      },
+      {
+        "slug": "ginger",
+        "name": "Ginger"
+      },
+      {
+        "slug": "guduchi",
+        "name": "Guduchi / Giloy"
+      },
+      {
+        "slug": "hemp-cbd",
+        "name": "Hemp / CBD"
+      },
+      {
+        "slug": "horsetail",
+        "name": "Horsetail"
+      },
+      {
+        "slug": "juniper",
+        "name": "Juniper"
+      },
+      {
+        "slug": "lemongrass",
+        "name": "Lemongrass"
+      },
+      {
+        "slug": "licorice",
+        "name": "Licorice"
+      },
+      {
+        "slug": "linden",
+        "name": "Linden / Tilia"
+      },
+      {
+        "slug": "maca",
+        "name": "Maca"
+      },
+      {
+        "slug": "meadowsweet",
+        "name": "Meadowsweet"
+      },
+      {
+        "slug": "moringa",
+        "name": "Moringa"
+      },
+      {
+        "slug": "nettle",
+        "name": "Nettle"
+      },
+      {
+        "slug": "noni",
+        "name": "Noni"
+      },
+      {
+        "slug": "nutmeg",
+        "name": "Nutmeg"
+      },
+      {
+        "slug": "oat-straw",
+        "name": "Oat Straw"
+      },
+      {
+        "slug": "oregon-grape",
+        "name": "Oregon Grape"
+      },
+      {
+        "slug": "parsley",
+        "name": "Parsley"
+      },
+      {
+        "slug": "pine-needle",
+        "name": "Pine Needle"
+      },
+      {
+        "slug": "red-clover",
+        "name": "Red Clover"
+      },
+      {
+        "slug": "rehmannia",
+        "name": "Rehmannia"
+      },
+      {
+        "slug": "rose-hips",
+        "name": "Rose Hips"
+      },
+      {
+        "slug": "rosemary",
+        "name": "Rosemary"
+      },
+      {
+        "slug": "sassafras",
+        "name": "Sassafras"
+      },
+      {
+        "slug": "shatavari",
+        "name": "Shatavari"
+      },
+      {
+        "slug": "star-anise",
+        "name": "Star Anise"
+      },
+      {
+        "slug": "turmeric",
+        "name": "Turmeric"
+      },
+      {
+        "slug": "wheatgrass",
+        "name": "Wheatgrass"
+      },
+      {
+        "slug": "white-peony",
+        "name": "White Peony Root"
+      },
+      {
+        "slug": "willow-bark",
+        "name": "Willow Bark"
+      },
+      {
+        "slug": "wintergreen",
+        "name": "Wintergreen"
+      },
+      {
+        "slug": "yerba-santa",
+        "name": "Yerba Santa"
+      }
+    ],
+    "slug": "bone-joint"
+  },
+  {
+    "name": "Cognitive",
+    "plants": [
+      {
+        "slug": "acai",
+        "name": "Acai"
+      },
+      {
+        "slug": "ashitaba",
+        "name": "Ashitaba"
+      },
+      {
+        "slug": "ashwagandha",
+        "name": "Ashwagandha"
+      },
+      {
+        "slug": "bacopa",
+        "name": "Bacopa"
+      },
+      {
+        "slug": "basil",
+        "name": "Basil"
+      },
+      {
+        "slug": "bhringaraj",
+        "name": "Bhringaraj"
+      },
+      {
+        "slug": "black-pepper",
+        "name": "Black Pepper"
+      },
+      {
+        "slug": "cacao",
+        "name": "Cacao"
+      },
+      {
+        "slug": "cinnamon",
+        "name": "Cinnamon"
+      },
+      {
+        "slug": "codonopsis",
+        "name": "Codonopsis"
+      },
+      {
+        "slug": "coptis-goldthread",
+        "name": "Coptis / Goldthread"
+      },
+      {
+        "slug": "coriander",
+        "name": "Coriander"
+      },
+      {
+        "slug": "cumin",
+        "name": "Cumin"
+      },
+      {
+        "slug": "dong-quai",
+        "name": "Dong Quai"
+      },
+      {
+        "slug": "eleuthero",
+        "name": "Eleuthero"
+      },
+      {
+        "slug": "ginkgo",
+        "name": "Ginkgo"
+      },
+      {
+        "slug": "ginseng",
+        "name": "Ginseng"
+      },
+      {
+        "slug": "gotu-kola",
+        "name": "Gotu Kola"
+      },
+      {
+        "slug": "green-tea",
+        "name": "Green Tea"
+      },
+      {
+        "slug": "guarana",
+        "name": "Guarana"
+      },
+      {
+        "slug": "guayusa",
+        "name": "Guayusa"
+      },
+      {
+        "slug": "guduchi",
+        "name": "Guduchi / Giloy"
+      },
+      {
+        "slug": "terminalia-chebula",
+        "name": "Haritaki / Black Myrobalan (Triphala representative)"
+      },
+      {
+        "slug": "he-shou-wu",
+        "name": "He Shou Wu"
+      },
+      {
+        "slug": "hemp-cbd",
+        "name": "Hemp / CBD"
+      },
+      {
+        "slug": "holy-basil",
+        "name": "Holy Basil"
+      },
+      {
+        "slug": "jiaogulan",
+        "name": "Jiaogulan"
+      },
+      {
+        "slug": "kanna",
+        "name": "Kanna"
+      },
+      {
+        "slug": "lemon-balm",
+        "name": "Lemon Balm"
+      },
+      {
+        "slug": "lions-mane",
+        "name": "Lion's Mane"
+      },
+      {
+        "slug": "maca",
+        "name": "Maca"
+      },
+      {
+        "slug": "mangosteen",
+        "name": "Mangosteen"
+      },
+      {
+        "slug": "moringa",
+        "name": "Moringa"
+      },
+      {
+        "slug": "nutmeg",
+        "name": "Nutmeg"
+      },
+      {
+        "slug": "puerh-tea",
+        "name": "Pu-erh Tea"
+      },
+      {
+        "slug": "rehmannia",
+        "name": "Rehmannia"
+      },
+      {
+        "slug": "rhodiola",
+        "name": "Rhodiola"
+      },
+      {
+        "slug": "rosemary",
+        "name": "Rosemary"
+      },
+      {
+        "slug": "sage",
+        "name": "Sage"
+      },
+      {
+        "slug": "schisandra",
+        "name": "Schisandra"
+      },
+      {
+        "slug": "shatavari",
+        "name": "Shatavari"
+      },
+      {
+        "slug": "skullcap",
+        "name": "Skullcap"
+      },
+      {
+        "slug": "spearmint",
+        "name": "Spearmint"
+      },
+      {
+        "slug": "turmeric",
+        "name": "Turmeric"
+      },
+      {
+        "slug": "vanilla",
+        "name": "Vanilla"
+      },
+      {
+        "slug": "white-peony",
+        "name": "White Peony Root"
+      },
+      {
+        "slug": "yerba-mate",
+        "name": "Yerba Mate"
+      },
+      {
+        "slug": "yerba-santa",
+        "name": "Yerba Santa"
+      }
+    ],
+    "slug": "cognitive"
+  },
+  {
+    "name": "Digestive",
+    "plants": [
+      {
+        "slug": "alfalfa",
+        "name": "Alfalfa"
+      },
+      {
+        "slug": "aloe-vera",
+        "name": "Aloe Vera"
+      },
+      {
+        "slug": "amla",
+        "name": "Amla / Indian Gooseberry"
+      },
+      {
+        "slug": "andrographis",
+        "name": "Andrographis"
+      },
+      {
+        "slug": "angelica",
+        "name": "Angelica"
+      },
+      {
+        "slug": "ashitaba",
+        "name": "Ashitaba"
+      },
+      {
+        "slug": "astragalus",
+        "name": "Astragalus"
+      },
+      {
+        "slug": "bacopa",
+        "name": "Bacopa"
+      },
+      {
+        "slug": "basil",
+        "name": "Basil"
+      },
+      {
+        "slug": "birch",
+        "name": "Birch"
+      },
+      {
+        "slug": "bitter-melon",
+        "name": "Bitter Melon"
+      },
+      {
+        "slug": "black-pepper",
+        "name": "Black Pepper"
+      },
+      {
+        "slug": "blessed-thistle",
+        "name": "Blessed Thistle"
+      },
+      {
+        "slug": "bloodroot",
+        "name": "Bloodroot"
+      },
+      {
+        "slug": "blue-vervain",
+        "name": "Blue Vervain"
+      },
+      {
+        "slug": "buchu",
+        "name": "Buchu"
+      },
+      {
+        "slug": "burdock",
+        "name": "Burdock"
+      },
+      {
+        "slug": "calendula",
+        "name": "Calendula"
+      },
+      {
+        "slug": "cardamom",
+        "name": "Cardamom"
+      },
+      {
+        "slug": "cat-s-claw",
+        "name": "Cat's Claw"
+      },
+      {
+        "slug": "catnip",
+        "name": "Catnip"
+      },
+      {
+        "slug": "celery-seed",
+        "name": "Celery Seed"
+      },
+      {
+        "slug": "chamomile",
+        "name": "Chamomile"
+      },
+      {
+        "slug": "chaste-tree",
+        "name": "Chaste Tree"
+      },
+      {
+        "slug": "chickweed",
+        "name": "Chickweed"
+      },
+      {
+        "slug": "cinnamon",
+        "name": "Cinnamon"
+      },
+      {
+        "slug": "clove",
+        "name": "Clove"
+      },
+      {
+        "slug": "codonopsis",
+        "name": "Codonopsis"
+      },
+      {
+        "slug": "coleus-forskohlii",
+        "name": "Coleus / Forskolin"
+      },
+      {
+        "slug": "coltsfoot",
+        "name": "Coltsfoot"
+      },
+      {
+        "slug": "comfrey",
+        "name": "Comfrey"
+      },
+      {
+        "slug": "coptis-goldthread",
+        "name": "Coptis / Goldthread"
+      },
+      {
+        "slug": "coriander",
+        "name": "Coriander"
+      },
+      {
+        "slug": "cranberry",
+        "name": "Cranberry"
+      },
+      {
+        "slug": "cumin",
+        "name": "Cumin"
+      },
+      {
+        "slug": "damiana",
+        "name": "Damiana"
+      },
+      {
+        "slug": "dandelion",
+        "name": "Dandelion"
+      },
+      {
+        "slug": "devils-claw",
+        "name": "Devil's Claw"
+      },
+      {
+        "slug": "dill",
+        "name": "Dill"
+      },
+      {
+        "slug": "dong-quai",
+        "name": "Dong Quai"
+      },
+      {
+        "slug": "elderberry",
+        "name": "Elderberry"
+      },
+      {
+        "slug": "elecampane",
+        "name": "Elecampane"
+      },
+      {
+        "slug": "evening-primrose",
+        "name": "Evening Primrose"
+      },
+      {
+        "slug": "fennel",
+        "name": "Fennel"
+      },
+      {
+        "slug": "fenugreek",
+        "name": "Fenugreek"
+      },
+      {
+        "slug": "garlic",
+        "name": "Garlic"
+      },
+      {
+        "slug": "ginger",
+        "name": "Ginger"
+      },
+      {
+        "slug": "goldenseal",
+        "name": "Goldenseal"
+      },
+      {
+        "slug": "green-tea",
+        "name": "Green Tea"
+      },
+      {
+        "slug": "gymnema",
+        "name": "Gymnema"
+      },
+      {
+        "slug": "terminalia-chebula",
+        "name": "Haritaki / Black Myrobalan (Triphala representative)"
+      },
+      {
+        "slug": "hawthorn",
+        "name": "Hawthorn"
+      },
+      {
+        "slug": "hemp-cbd",
+        "name": "Hemp / CBD"
+      },
+      {
+        "slug": "holy-basil",
+        "name": "Holy Basil"
+      },
+      {
+        "slug": "hoodia",
+        "name": "Hoodia"
+      },
+      {
+        "slug": "hops",
+        "name": "Hops"
+      },
+      {
+        "slug": "juniper",
+        "name": "Juniper"
+      },
+      {
+        "slug": "lavender",
+        "name": "Lavender"
+      },
+      {
+        "slug": "lemon-balm",
+        "name": "Lemon Balm"
+      },
+      {
+        "slug": "lemon-verbena",
+        "name": "Lemon Verbena"
+      },
+      {
+        "slug": "lemongrass",
+        "name": "Lemongrass"
+      },
+      {
+        "slug": "licorice",
+        "name": "Licorice"
+      },
+      {
+        "slug": "linden",
+        "name": "Linden / Tilia"
+      },
+      {
+        "slug": "lions-mane",
+        "name": "Lion's Mane"
+      },
+      {
+        "slug": "marshmallow",
+        "name": "Marshmallow"
+      },
+      {
+        "slug": "meadowsweet",
+        "name": "Meadowsweet"
+      },
+      {
+        "slug": "milk-thistle",
+        "name": "Milk Thistle"
+      },
+      {
+        "slug": "mugwort",
+        "name": "Mugwort"
+      },
+      {
+        "slug": "mullein",
+        "name": "Mullein"
+      },
+      {
+        "slug": "nutmeg",
+        "name": "Nutmeg"
+      },
+      {
+        "slug": "oak",
+        "name": "Oak"
+      },
+      {
+        "slug": "oat-straw",
+        "name": "Oat Straw"
+      },
+      {
+        "slug": "oregano",
+        "name": "Oregano"
+      },
+      {
+        "slug": "oregon-grape",
+        "name": "Oregon Grape"
+      },
+      {
+        "slug": "osha",
+        "name": "Osha"
+      },
+      {
+        "slug": "parsley",
+        "name": "Parsley"
+      },
+      {
+        "slug": "partridge-berry",
+        "name": "Partridge Berry"
+      },
+      {
+        "slug": "pau-d-arco",
+        "name": "Pau D'Arco"
+      },
+      {
+        "slug": "peppermint",
+        "name": "Peppermint"
+      },
+      {
+        "slug": "plantain",
+        "name": "Plantain"
+      },
+      {
+        "slug": "puerh-tea",
+        "name": "Pu-erh Tea"
+      },
+      {
+        "slug": "pygeum",
+        "name": "Pygeum"
+      },
+      {
+        "slug": "raspberry-leaf",
+        "name": "Raspberry Leaf"
+      },
+      {
+        "slug": "red-clover",
+        "name": "Red Clover"
+      },
+      {
+        "slug": "rooibos",
+        "name": "Rooibos"
+      },
+      {
+        "slug": "rose-hips",
+        "name": "Rose Hips"
+      },
+      {
+        "slug": "rosemary",
+        "name": "Rosemary"
+      },
+      {
+        "slug": "sage",
+        "name": "Sage"
+      },
+      {
+        "slug": "sassafras",
+        "name": "Sassafras"
+      },
+      {
+        "slug": "saw-palmetto",
+        "name": "Saw Palmetto"
+      },
+      {
+        "slug": "sea-buckthorn",
+        "name": "Sea Buckthorn"
+      },
+      {
+        "slug": "self-heal",
+        "name": "Self-Heal"
+      },
+      {
+        "slug": "shatavari",
+        "name": "Shatavari"
+      },
+      {
+        "slug": "slippery-elm",
+        "name": "Slippery Elm"
+      },
+      {
+        "slug": "spearmint",
+        "name": "Spearmint"
+      },
+      {
+        "slug": "spilanthes",
+        "name": "Spilanthes / Toothache Plant"
+      },
+      {
+        "slug": "st-john-s-wort",
+        "name": "St. John's Wort"
+      },
+      {
+        "slug": "star-anise",
+        "name": "Star Anise"
+      },
+      {
+        "slug": "thyme",
+        "name": "Thyme"
+      },
+      {
+        "slug": "turmeric",
+        "name": "Turmeric"
+      },
+      {
+        "slug": "uva-ursi",
+        "name": "Uva Ursi"
+      },
+      {
+        "slug": "valerian",
+        "name": "Valerian"
+      },
+      {
+        "slug": "vanilla",
+        "name": "Vanilla"
+      },
+      {
+        "slug": "violet",
+        "name": "Violet"
+      },
+      {
+        "slug": "wild-cherry",
+        "name": "Wild Cherry"
+      },
+      {
+        "slug": "wild-yam",
+        "name": "Wild Yam"
+      },
+      {
+        "slug": "willow-bark",
+        "name": "Willow Bark"
+      },
+      {
+        "slug": "wintergreen",
+        "name": "Wintergreen"
+      },
+      {
+        "slug": "witch-hazel",
+        "name": "Witch Hazel"
+      },
+      {
+        "slug": "wood-betony",
+        "name": "Wood Betony"
+      },
+      {
+        "slug": "wormwood",
+        "name": "Wormwood"
+      },
+      {
+        "slug": "yarrow",
+        "name": "Yarrow"
+      },
+      {
+        "slug": "yellow-dock",
+        "name": "Yellow Dock"
+      },
+      {
+        "slug": "yerba-mate",
+        "name": "Yerba Mate"
+      }
+    ],
+    "slug": "digestive"
+  },
+  {
+    "name": "Eye Health",
+    "plants": [
+      {
+        "slug": "aloe-vera",
+        "name": "Aloe Vera"
+      },
+      {
+        "slug": "amla",
+        "name": "Amla / Indian Gooseberry"
+      },
+      {
+        "slug": "bhringaraj",
+        "name": "Bhringaraj"
+      },
+      {
+        "slug": "calendula",
+        "name": "Calendula"
+      },
+      {
+        "slug": "chamomile",
+        "name": "Chamomile"
+      },
+      {
+        "slug": "chickweed",
+        "name": "Chickweed"
+      },
+      {
+        "slug": "chlorella",
+        "name": "Chlorella"
+      },
+      {
+        "slug": "coleus-forskohlii",
+        "name": "Coleus / Forskolin"
+      },
+      {
+        "slug": "coptis-goldthread",
+        "name": "Coptis / Goldthread"
+      },
+      {
+        "slug": "coriander",
+        "name": "Coriander"
+      },
+      {
+        "slug": "fennel",
+        "name": "Fennel"
+      },
+      {
+        "slug": "ginkgo",
+        "name": "Ginkgo"
+      },
+      {
+        "slug": "goldenseal",
+        "name": "Goldenseal"
+      },
+      {
+        "slug": "terminalia-chebula",
+        "name": "Haritaki / Black Myrobalan (Triphala representative)"
+      },
+      {
+        "slug": "marshmallow",
+        "name": "Marshmallow"
+      },
+      {
+        "slug": "oregon-grape",
+        "name": "Oregon Grape"
+      },
+      {
+        "slug": "partridge-berry",
+        "name": "Partridge Berry"
+      },
+      {
+        "slug": "plantain",
+        "name": "Plantain"
+      },
+      {
+        "slug": "rehmannia",
+        "name": "Rehmannia"
+      },
+      {
+        "slug": "sea-buckthorn",
+        "name": "Sea Buckthorn"
+      },
+      {
+        "slug": "self-heal",
+        "name": "Self-Heal"
+      },
+      {
+        "slug": "slippery-elm",
+        "name": "Slippery Elm"
+      },
+      {
+        "slug": "spirulina",
+        "name": "Spirulina"
+      },
+      {
+        "slug": "tribulus",
+        "name": "Tribulus"
+      },
+      {
+        "slug": "violet",
+        "name": "Violet"
+      },
+      {
+        "slug": "witch-hazel",
+        "name": "Witch Hazel"
+      }
+    ],
+    "slug": "eye-health"
+  },
+  {
+    "name": "Heart & Circulation",
+    "plants": [
+      {
+        "slug": "acai",
+        "name": "Acai"
+      },
+      {
+        "slug": "angelica",
+        "name": "Angelica"
+      },
+      {
+        "slug": "arjuna",
+        "name": "Arjuna"
+      },
+      {
+        "slug": "ashitaba",
+        "name": "Ashitaba"
+      },
+      {
+        "slug": "astragalus",
+        "name": "Astragalus"
+      },
+      {
+        "slug": "black-walnut",
+        "name": "Black Walnut"
+      },
+      {
+        "slug": "borage",
+        "name": "Borage"
+      },
+      {
+        "slug": "cacao",
+        "name": "Cacao"
+      },
+      {
+        "slug": "cardamom",
+        "name": "Cardamom"
+      },
+      {
+        "slug": "cats-whiskers-java-tea",
+        "name": "Cat's Whiskers / Java Tea"
+      },
+      {
+        "slug": "celery-seed",
+        "name": "Celery Seed"
+      },
+      {
+        "slug": "chlorella",
+        "name": "Chlorella"
+      },
+      {
+        "slug": "cinnamon",
+        "name": "Cinnamon"
+      },
+      {
+        "slug": "coleus-forskohlii",
+        "name": "Coleus / Forskolin"
+      },
+      {
+        "slug": "coptis-goldthread",
+        "name": "Coptis / Goldthread"
+      },
+      {
+        "slug": "cranberry",
+        "name": "Cranberry"
+      },
+      {
+        "slug": "devils-claw",
+        "name": "Devil's Claw"
+      },
+      {
+        "slug": "dong-quai",
+        "name": "Dong Quai"
+      },
+      {
+        "slug": "elderberry",
+        "name": "Elderberry"
+      },
+      {
+        "slug": "evening-primrose",
+        "name": "Evening Primrose"
+      },
+      {
+        "slug": "fenugreek",
+        "name": "Fenugreek"
+      },
+      {
+        "slug": "garlic",
+        "name": "Garlic"
+      },
+      {
+        "slug": "ginger",
+        "name": "Ginger"
+      },
+      {
+        "slug": "ginkgo",
+        "name": "Ginkgo"
+      },
+      {
+        "slug": "ginseng",
+        "name": "Ginseng"
+      },
+      {
+        "slug": "green-tea",
+        "name": "Green Tea"
+      },
+      {
+        "slug": "guarana",
+        "name": "Guarana"
+      },
+      {
+        "slug": "hawthorn",
+        "name": "Hawthorn"
+      },
+      {
+        "slug": "he-shou-wu",
+        "name": "He Shou Wu"
+      },
+      {
+        "slug": "hemp-cbd",
+        "name": "Hemp / CBD"
+      },
+      {
+        "slug": "hibiscus",
+        "name": "Hibiscus"
+      },
+      {
+        "slug": "holy-basil",
+        "name": "Holy Basil"
+      },
+      {
+        "slug": "jiaogulan",
+        "name": "Jiaogulan"
+      },
+      {
+        "slug": "juniper",
+        "name": "Juniper"
+      },
+      {
+        "slug": "lemon-balm",
+        "name": "Lemon Balm"
+      },
+      {
+        "slug": "mangosteen",
+        "name": "Mangosteen"
+      },
+      {
+        "slug": "meadowsweet",
+        "name": "Meadowsweet"
+      },
+      {
+        "slug": "moringa",
+        "name": "Moringa"
+      },
+      {
+        "slug": "motherwort",
+        "name": "Motherwort"
+      },
+      {
+        "slug": "noni",
+        "name": "Noni"
+      },
+      {
+        "slug": "oat-straw",
+        "name": "Oat Straw"
+      },
+      {
+        "slug": "osha",
+        "name": "Osha"
+      },
+      {
+        "slug": "pine-needle",
+        "name": "Pine Needle"
+      },
+      {
+        "slug": "red-clover",
+        "name": "Red Clover"
+      },
+      {
+        "slug": "red-root",
+        "name": "Red Root"
+      },
+      {
+        "slug": "reishi-mushroom",
+        "name": "Reishi Mushroom"
+      },
+      {
+        "slug": "rooibos",
+        "name": "Rooibos"
+      },
+      {
+        "slug": "rosemary",
+        "name": "Rosemary"
+      },
+      {
+        "slug": "sea-buckthorn",
+        "name": "Sea Buckthorn"
+      },
+      {
+        "slug": "spirulina",
+        "name": "Spirulina"
+      },
+      {
+        "slug": "tribulus",
+        "name": "Tribulus"
+      },
+      {
+        "slug": "turmeric",
+        "name": "Turmeric"
+      },
+      {
+        "slug": "vanilla",
+        "name": "Vanilla"
+      },
+      {
+        "slug": "white-peony",
+        "name": "White Peony Root"
+      },
+      {
+        "slug": "willow-bark",
+        "name": "Willow Bark"
+      },
+      {
+        "slug": "witch-hazel",
+        "name": "Witch Hazel"
+      },
+      {
+        "slug": "yarrow",
+        "name": "Yarrow"
+      },
+      {
+        "slug": "yerba-mate",
+        "name": "Yerba Mate"
+      },
+      {
+        "slug": "yerba-santa",
+        "name": "Yerba Santa"
+      }
+    ],
+    "slug": "heart-circulation"
+  },
+  {
     "name": "Immune Support",
-    "uses": [
-      "Cold and flu prevention",
-      "Viral infections",
-      "Immune system stimulation",
-      "Antimicrobial support",
-      "Lymphatic congestion",
-      "Recovery from illness",
-      "General immune enhancement"
+    "plants": [
+      {
+        "slug": "acai",
+        "name": "Acai"
+      },
+      {
+        "slug": "aloe-vera",
+        "name": "Aloe Vera"
+      },
+      {
+        "slug": "andrographis",
+        "name": "Andrographis"
+      },
+      {
+        "slug": "angelica",
+        "name": "Angelica"
+      },
+      {
+        "slug": "arjuna",
+        "name": "Arjuna"
+      },
+      {
+        "slug": "ashitaba",
+        "name": "Ashitaba"
+      },
+      {
+        "slug": "ashwagandha",
+        "name": "Ashwagandha"
+      },
+      {
+        "slug": "astragalus",
+        "name": "Astragalus"
+      },
+      {
+        "slug": "basil",
+        "name": "Basil"
+      },
+      {
+        "slug": "birch",
+        "name": "Birch"
+      },
+      {
+        "slug": "bitter-melon",
+        "name": "Bitter Melon"
+      },
+      {
+        "slug": "black-pepper",
+        "name": "Black Pepper"
+      },
+      {
+        "slug": "black-walnut",
+        "name": "Black Walnut"
+      },
+      {
+        "slug": "blessed-thistle",
+        "name": "Blessed Thistle"
+      },
+      {
+        "slug": "bloodroot",
+        "name": "Bloodroot"
+      },
+      {
+        "slug": "blue-vervain",
+        "name": "Blue Vervain"
+      },
+      {
+        "slug": "buchu",
+        "name": "Buchu"
+      },
+      {
+        "slug": "calendula",
+        "name": "Calendula"
+      },
+      {
+        "slug": "cardamom",
+        "name": "Cardamom"
+      },
+      {
+        "slug": "cat-s-claw",
+        "name": "Cat's Claw"
+      },
+      {
+        "slug": "cats-whiskers-java-tea",
+        "name": "Cat's Whiskers / Java Tea"
+      },
+      {
+        "slug": "celery-seed",
+        "name": "Celery Seed"
+      },
+      {
+        "slug": "chamomile",
+        "name": "Chamomile"
+      },
+      {
+        "slug": "chlorella",
+        "name": "Chlorella"
+      },
+      {
+        "slug": "cinnamon",
+        "name": "Cinnamon"
+      },
+      {
+        "slug": "clove",
+        "name": "Clove"
+      },
+      {
+        "slug": "coptis-goldthread",
+        "name": "Coptis / Goldthread"
+      },
+      {
+        "slug": "coriander",
+        "name": "Coriander"
+      },
+      {
+        "slug": "cranberry",
+        "name": "Cranberry"
+      },
+      {
+        "slug": "cumin",
+        "name": "Cumin"
+      },
+      {
+        "slug": "dill",
+        "name": "Dill"
+      },
+      {
+        "slug": "dong-quai",
+        "name": "Dong Quai"
+      },
+      {
+        "slug": "echinacea",
+        "name": "Echinacea"
+      },
+      {
+        "slug": "elderberry",
+        "name": "Elderberry"
+      },
+      {
+        "slug": "elecampane",
+        "name": "Elecampane"
+      },
+      {
+        "slug": "eleuthero",
+        "name": "Eleuthero"
+      },
+      {
+        "slug": "fennel",
+        "name": "Fennel"
+      },
+      {
+        "slug": "garlic",
+        "name": "Garlic"
+      },
+      {
+        "slug": "ginger",
+        "name": "Ginger"
+      },
+      {
+        "slug": "ginseng",
+        "name": "Ginseng"
+      },
+      {
+        "slug": "goldenseal",
+        "name": "Goldenseal"
+      },
+      {
+        "slug": "gravel-root",
+        "name": "Gravel Root"
+      },
+      {
+        "slug": "green-tea",
+        "name": "Green Tea"
+      },
+      {
+        "slug": "guarana",
+        "name": "Guarana"
+      },
+      {
+        "slug": "guayusa",
+        "name": "Guayusa"
+      },
+      {
+        "slug": "guduchi",
+        "name": "Guduchi / Giloy"
+      },
+      {
+        "slug": "gymnema",
+        "name": "Gymnema"
+      },
+      {
+        "slug": "terminalia-chebula",
+        "name": "Haritaki / Black Myrobalan (Triphala representative)"
+      },
+      {
+        "slug": "he-shou-wu",
+        "name": "He Shou Wu"
+      },
+      {
+        "slug": "hibiscus",
+        "name": "Hibiscus"
+      },
+      {
+        "slug": "holy-basil",
+        "name": "Holy Basil"
+      },
+      {
+        "slug": "hops",
+        "name": "Hops"
+      },
+      {
+        "slug": "horsetail",
+        "name": "Horsetail"
+      },
+      {
+        "slug": "juniper",
+        "name": "Juniper"
+      },
+      {
+        "slug": "lavender",
+        "name": "Lavender"
+      },
+      {
+        "slug": "lemon-balm",
+        "name": "Lemon Balm"
+      },
+      {
+        "slug": "lemongrass",
+        "name": "Lemongrass"
+      },
+      {
+        "slug": "linden",
+        "name": "Linden / Tilia"
+      },
+      {
+        "slug": "lions-mane",
+        "name": "Lion's Mane"
+      },
+      {
+        "slug": "lomatium",
+        "name": "Lomatium"
+      },
+      {
+        "slug": "mangosteen",
+        "name": "Mangosteen"
+      },
+      {
+        "slug": "moringa",
+        "name": "Moringa"
+      },
+      {
+        "slug": "mullein",
+        "name": "Mullein"
+      },
+      {
+        "slug": "neem",
+        "name": "Neem"
+      },
+      {
+        "slug": "noni",
+        "name": "Noni"
+      },
+      {
+        "slug": "nutmeg",
+        "name": "Nutmeg"
+      },
+      {
+        "slug": "oregano",
+        "name": "Oregano"
+      },
+      {
+        "slug": "oregon-grape",
+        "name": "Oregon Grape"
+      },
+      {
+        "slug": "osha",
+        "name": "Osha"
+      },
+      {
+        "slug": "parsley",
+        "name": "Parsley"
+      },
+      {
+        "slug": "pau-d-arco",
+        "name": "Pau D'Arco"
+      },
+      {
+        "slug": "pelargonium-sidoides",
+        "name": "Pelargonium / Umckaloabo"
+      },
+      {
+        "slug": "peppermint",
+        "name": "Peppermint"
+      },
+      {
+        "slug": "pine-needle",
+        "name": "Pine Needle"
+      },
+      {
+        "slug": "plantain",
+        "name": "Plantain"
+      },
+      {
+        "slug": "puerh-tea",
+        "name": "Pu-erh Tea"
+      },
+      {
+        "slug": "red-root",
+        "name": "Red Root"
+      },
+      {
+        "slug": "rehmannia",
+        "name": "Rehmannia"
+      },
+      {
+        "slug": "reishi-mushroom",
+        "name": "Reishi Mushroom"
+      },
+      {
+        "slug": "rhodiola",
+        "name": "Rhodiola"
+      },
+      {
+        "slug": "rose-hips",
+        "name": "Rose Hips"
+      },
+      {
+        "slug": "rosemary",
+        "name": "Rosemary"
+      },
+      {
+        "slug": "sage",
+        "name": "Sage"
+      },
+      {
+        "slug": "schisandra",
+        "name": "Schisandra"
+      },
+      {
+        "slug": "sea-buckthorn",
+        "name": "Sea Buckthorn"
+      },
+      {
+        "slug": "self-heal",
+        "name": "Self-Heal"
+      },
+      {
+        "slug": "shatavari",
+        "name": "Shatavari"
+      },
+      {
+        "slug": "spearmint",
+        "name": "Spearmint"
+      },
+      {
+        "slug": "spilanthes",
+        "name": "Spilanthes / Toothache Plant"
+      },
+      {
+        "slug": "spirulina",
+        "name": "Spirulina"
+      },
+      {
+        "slug": "st-john-s-wort",
+        "name": "St. John's Wort"
+      },
+      {
+        "slug": "star-anise",
+        "name": "Star Anise"
+      },
+      {
+        "slug": "thyme",
+        "name": "Thyme"
+      },
+      {
+        "slug": "tribulus",
+        "name": "Tribulus"
+      },
+      {
+        "slug": "uva-ursi",
+        "name": "Uva Ursi"
+      },
+      {
+        "slug": "vanilla",
+        "name": "Vanilla"
+      },
+      {
+        "slug": "wheatgrass",
+        "name": "Wheatgrass"
+      },
+      {
+        "slug": "white-peony",
+        "name": "White Peony Root"
+      },
+      {
+        "slug": "wormwood",
+        "name": "Wormwood"
+      },
+      {
+        "slug": "yarrow",
+        "name": "Yarrow"
+      },
+      {
+        "slug": "yellow-dock",
+        "name": "Yellow Dock"
+      }
     ],
-    "plantRefs": [
-      "01-Echinacea",
-      "06-Garlic",
-      "18-Elderberry",
-      "19-Astragalus",
-      "20-Reishi-Mushroom",
-      "39-Thyme",
-      "53-Nettle",
-      "57-Red-Root",
-      "61-Goldenseal",
-      "62-Bloodroot",
-      "67-Birch",
-      "70-Osha",
-      "79-Pau-DArco",
-      "80-Cats-Claw",
-      "85-Oregon-Grape",
-      "00-TRADITIONAL-USES"
-    ]
+    "slug": "immune-support"
   },
   {
-    "slug": "natural-medicines-database-index",
-    "name": "Natural Medicines Database Index",
-    "uses": [],
-    "plantRefs": []
+    "name": "Kidney & Urinary",
+    "plants": [
+      {
+        "slug": "alfalfa",
+        "name": "Alfalfa"
+      },
+      {
+        "slug": "arjuna",
+        "name": "Arjuna"
+      },
+      {
+        "slug": "astragalus",
+        "name": "Astragalus"
+      },
+      {
+        "slug": "bacopa",
+        "name": "Bacopa"
+      },
+      {
+        "slug": "bhringaraj",
+        "name": "Bhringaraj"
+      },
+      {
+        "slug": "birch",
+        "name": "Birch"
+      },
+      {
+        "slug": "blessed-thistle",
+        "name": "Blessed Thistle"
+      },
+      {
+        "slug": "blue-cohosh",
+        "name": "Blue Cohosh"
+      },
+      {
+        "slug": "buchu",
+        "name": "Buchu"
+      },
+      {
+        "slug": "burdock",
+        "name": "Burdock"
+      },
+      {
+        "slug": "cardamom",
+        "name": "Cardamom"
+      },
+      {
+        "slug": "cats-whiskers-java-tea",
+        "name": "Cat's Whiskers / Java Tea"
+      },
+      {
+        "slug": "celery-seed",
+        "name": "Celery Seed"
+      },
+      {
+        "slug": "cleavers",
+        "name": "Cleavers"
+      },
+      {
+        "slug": "coleus-forskohlii",
+        "name": "Coleus / Forskolin"
+      },
+      {
+        "slug": "coltsfoot",
+        "name": "Coltsfoot"
+      },
+      {
+        "slug": "cordyceps",
+        "name": "Cordyceps"
+      },
+      {
+        "slug": "coriander",
+        "name": "Coriander"
+      },
+      {
+        "slug": "cranberry",
+        "name": "Cranberry"
+      },
+      {
+        "slug": "cumin",
+        "name": "Cumin"
+      },
+      {
+        "slug": "damiana",
+        "name": "Damiana"
+      },
+      {
+        "slug": "dandelion",
+        "name": "Dandelion"
+      },
+      {
+        "slug": "devils-claw",
+        "name": "Devil's Claw"
+      },
+      {
+        "slug": "dill",
+        "name": "Dill"
+      },
+      {
+        "slug": "elecampane",
+        "name": "Elecampane"
+      },
+      {
+        "slug": "eleuthero",
+        "name": "Eleuthero"
+      },
+      {
+        "slug": "ginkgo",
+        "name": "Ginkgo"
+      },
+      {
+        "slug": "goldenseal",
+        "name": "Goldenseal"
+      },
+      {
+        "slug": "gotu-kola",
+        "name": "Gotu Kola"
+      },
+      {
+        "slug": "gravel-root",
+        "name": "Gravel Root"
+      },
+      {
+        "slug": "guduchi",
+        "name": "Guduchi / Giloy"
+      },
+      {
+        "slug": "gymnema",
+        "name": "Gymnema"
+      },
+      {
+        "slug": "hawthorn",
+        "name": "Hawthorn"
+      },
+      {
+        "slug": "he-shou-wu",
+        "name": "He Shou Wu"
+      },
+      {
+        "slug": "hibiscus",
+        "name": "Hibiscus"
+      },
+      {
+        "slug": "horsetail",
+        "name": "Horsetail"
+      },
+      {
+        "slug": "juniper",
+        "name": "Juniper"
+      },
+      {
+        "slug": "mangosteen",
+        "name": "Mangosteen"
+      },
+      {
+        "slug": "marshmallow",
+        "name": "Marshmallow"
+      },
+      {
+        "slug": "meadowsweet",
+        "name": "Meadowsweet"
+      },
+      {
+        "slug": "milk-thistle",
+        "name": "Milk Thistle"
+      },
+      {
+        "slug": "mullein",
+        "name": "Mullein"
+      },
+      {
+        "slug": "nettle",
+        "name": "Nettle"
+      },
+      {
+        "slug": "oregano",
+        "name": "Oregano"
+      },
+      {
+        "slug": "oregon-grape",
+        "name": "Oregon Grape"
+      },
+      {
+        "slug": "parsley",
+        "name": "Parsley"
+      },
+      {
+        "slug": "partridge-berry",
+        "name": "Partridge Berry"
+      },
+      {
+        "slug": "pine-needle",
+        "name": "Pine Needle"
+      },
+      {
+        "slug": "plantain",
+        "name": "Plantain"
+      },
+      {
+        "slug": "pygeum",
+        "name": "Pygeum"
+      },
+      {
+        "slug": "rehmannia",
+        "name": "Rehmannia"
+      },
+      {
+        "slug": "rose-hips",
+        "name": "Rose Hips"
+      },
+      {
+        "slug": "saw-palmetto",
+        "name": "Saw Palmetto"
+      },
+      {
+        "slug": "schisandra",
+        "name": "Schisandra"
+      },
+      {
+        "slug": "slippery-elm",
+        "name": "Slippery Elm"
+      },
+      {
+        "slug": "spearmint",
+        "name": "Spearmint"
+      },
+      {
+        "slug": "spilanthes",
+        "name": "Spilanthes / Toothache Plant"
+      },
+      {
+        "slug": "thyme",
+        "name": "Thyme"
+      },
+      {
+        "slug": "tribulus",
+        "name": "Tribulus"
+      },
+      {
+        "slug": "uva-ursi",
+        "name": "Uva Ursi"
+      },
+      {
+        "slug": "wheatgrass",
+        "name": "Wheatgrass"
+      },
+      {
+        "slug": "wood-betony",
+        "name": "Wood Betony"
+      },
+      {
+        "slug": "wormwood",
+        "name": "Wormwood"
+      },
+      {
+        "slug": "yerba-mate",
+        "name": "Yerba Mate"
+      }
+    ],
+    "slug": "kidney-urinary"
   },
   {
-    "slug": "nervous-system",
+    "name": "Liver Support",
+    "plants": [
+      {
+        "slug": "acai",
+        "name": "Acai"
+      },
+      {
+        "slug": "alfalfa",
+        "name": "Alfalfa"
+      },
+      {
+        "slug": "aloe-vera",
+        "name": "Aloe Vera"
+      },
+      {
+        "slug": "amla",
+        "name": "Amla / Indian Gooseberry"
+      },
+      {
+        "slug": "andrographis",
+        "name": "Andrographis"
+      },
+      {
+        "slug": "arjuna",
+        "name": "Arjuna"
+      },
+      {
+        "slug": "bacopa",
+        "name": "Bacopa"
+      },
+      {
+        "slug": "bhringaraj",
+        "name": "Bhringaraj"
+      },
+      {
+        "slug": "birch",
+        "name": "Birch"
+      },
+      {
+        "slug": "bitter-melon",
+        "name": "Bitter Melon"
+      },
+      {
+        "slug": "blessed-thistle",
+        "name": "Blessed Thistle"
+      },
+      {
+        "slug": "blue-vervain",
+        "name": "Blue Vervain"
+      },
+      {
+        "slug": "burdock",
+        "name": "Burdock"
+      },
+      {
+        "slug": "cats-whiskers-java-tea",
+        "name": "Cat's Whiskers / Java Tea"
+      },
+      {
+        "slug": "celery-seed",
+        "name": "Celery Seed"
+      },
+      {
+        "slug": "chlorella",
+        "name": "Chlorella"
+      },
+      {
+        "slug": "cleavers",
+        "name": "Cleavers"
+      },
+      {
+        "slug": "clove",
+        "name": "Clove"
+      },
+      {
+        "slug": "coptis-goldthread",
+        "name": "Coptis / Goldthread"
+      },
+      {
+        "slug": "cordyceps",
+        "name": "Cordyceps"
+      },
+      {
+        "slug": "coriander",
+        "name": "Coriander"
+      },
+      {
+        "slug": "cranberry",
+        "name": "Cranberry"
+      },
+      {
+        "slug": "dandelion",
+        "name": "Dandelion"
+      },
+      {
+        "slug": "devils-claw",
+        "name": "Devil's Claw"
+      },
+      {
+        "slug": "dong-quai",
+        "name": "Dong Quai"
+      },
+      {
+        "slug": "gotu-kola",
+        "name": "Gotu Kola"
+      },
+      {
+        "slug": "green-tea",
+        "name": "Green Tea"
+      },
+      {
+        "slug": "guduchi",
+        "name": "Guduchi / Giloy"
+      },
+      {
+        "slug": "gymnema",
+        "name": "Gymnema"
+      },
+      {
+        "slug": "terminalia-chebula",
+        "name": "Haritaki / Black Myrobalan (Triphala representative)"
+      },
+      {
+        "slug": "he-shou-wu",
+        "name": "He Shou Wu"
+      },
+      {
+        "slug": "hibiscus",
+        "name": "Hibiscus"
+      },
+      {
+        "slug": "holy-basil",
+        "name": "Holy Basil"
+      },
+      {
+        "slug": "horsetail",
+        "name": "Horsetail"
+      },
+      {
+        "slug": "jiaogulan",
+        "name": "Jiaogulan"
+      },
+      {
+        "slug": "licorice",
+        "name": "Licorice"
+      },
+      {
+        "slug": "linden",
+        "name": "Linden / Tilia"
+      },
+      {
+        "slug": "lions-mane",
+        "name": "Lion's Mane"
+      },
+      {
+        "slug": "lomatium",
+        "name": "Lomatium"
+      },
+      {
+        "slug": "milk-thistle",
+        "name": "Milk Thistle"
+      },
+      {
+        "slug": "moringa",
+        "name": "Moringa"
+      },
+      {
+        "slug": "neem",
+        "name": "Neem"
+      },
+      {
+        "slug": "noni",
+        "name": "Noni"
+      },
+      {
+        "slug": "oregon-grape",
+        "name": "Oregon Grape"
+      },
+      {
+        "slug": "red-clover",
+        "name": "Red Clover"
+      },
+      {
+        "slug": "red-root",
+        "name": "Red Root"
+      },
+      {
+        "slug": "rehmannia",
+        "name": "Rehmannia"
+      },
+      {
+        "slug": "reishi-mushroom",
+        "name": "Reishi Mushroom"
+      },
+      {
+        "slug": "rooibos",
+        "name": "Rooibos"
+      },
+      {
+        "slug": "schisandra",
+        "name": "Schisandra"
+      },
+      {
+        "slug": "shatavari",
+        "name": "Shatavari"
+      },
+      {
+        "slug": "spirulina",
+        "name": "Spirulina"
+      },
+      {
+        "slug": "tribulus",
+        "name": "Tribulus"
+      },
+      {
+        "slug": "turmeric",
+        "name": "Turmeric"
+      },
+      {
+        "slug": "wheatgrass",
+        "name": "Wheatgrass"
+      },
+      {
+        "slug": "white-peony",
+        "name": "White Peony Root"
+      },
+      {
+        "slug": "wild-yam",
+        "name": "Wild Yam"
+      },
+      {
+        "slug": "wood-betony",
+        "name": "Wood Betony"
+      },
+      {
+        "slug": "wormwood",
+        "name": "Wormwood"
+      },
+      {
+        "slug": "yellow-dock",
+        "name": "Yellow Dock"
+      }
+    ],
+    "slug": "liver-support"
+  },
+  {
+    "name": "Men's Health",
+    "plants": [
+      {
+        "slug": "ashwagandha",
+        "name": "Ashwagandha"
+      },
+      {
+        "slug": "bitter-melon",
+        "name": "Bitter Melon"
+      },
+      {
+        "slug": "black-walnut",
+        "name": "Black Walnut"
+      },
+      {
+        "slug": "chaste-tree",
+        "name": "Chaste Tree"
+      },
+      {
+        "slug": "coleus-forskohlii",
+        "name": "Coleus / Forskolin"
+      },
+      {
+        "slug": "cordyceps",
+        "name": "Cordyceps"
+      },
+      {
+        "slug": "damiana",
+        "name": "Damiana"
+      },
+      {
+        "slug": "fenugreek",
+        "name": "Fenugreek"
+      },
+      {
+        "slug": "green-tea",
+        "name": "Green Tea"
+      },
+      {
+        "slug": "maca",
+        "name": "Maca"
+      },
+      {
+        "slug": "mangosteen",
+        "name": "Mangosteen"
+      },
+      {
+        "slug": "neem",
+        "name": "Neem"
+      },
+      {
+        "slug": "nettle",
+        "name": "Nettle"
+      },
+      {
+        "slug": "nutmeg",
+        "name": "Nutmeg"
+      },
+      {
+        "slug": "pygeum",
+        "name": "Pygeum"
+      },
+      {
+        "slug": "red-clover",
+        "name": "Red Clover"
+      },
+      {
+        "slug": "rooibos",
+        "name": "Rooibos"
+      },
+      {
+        "slug": "saw-palmetto",
+        "name": "Saw Palmetto"
+      },
+      {
+        "slug": "spearmint",
+        "name": "Spearmint"
+      },
+      {
+        "slug": "tribulus",
+        "name": "Tribulus"
+      },
+      {
+        "slug": "uva-ursi",
+        "name": "Uva Ursi"
+      }
+    ],
+    "slug": "men-s-health"
+  },
+  {
     "name": "Nervous System",
-    "uses": [
-      "Sleep disorders and insomnia",
-      "Anxiety and nervousness",
-      "Depression and mood support",
-      "Nervous tension and stress",
-      "Mental fatigue",
-      "Restlessness and agitation",
-      "Emotional balance"
+    "plants": [
+      {
+        "slug": "angelica",
+        "name": "Angelica"
+      },
+      {
+        "slug": "ashwagandha",
+        "name": "Ashwagandha"
+      },
+      {
+        "slug": "bacopa",
+        "name": "Bacopa"
+      },
+      {
+        "slug": "basil",
+        "name": "Basil"
+      },
+      {
+        "slug": "bhringaraj",
+        "name": "Bhringaraj"
+      },
+      {
+        "slug": "black-cohosh",
+        "name": "Black Cohosh"
+      },
+      {
+        "slug": "blue-cohosh",
+        "name": "Blue Cohosh"
+      },
+      {
+        "slug": "blue-vervain",
+        "name": "Blue Vervain"
+      },
+      {
+        "slug": "catnip",
+        "name": "Catnip"
+      },
+      {
+        "slug": "celery-seed",
+        "name": "Celery Seed"
+      },
+      {
+        "slug": "chamomile",
+        "name": "Chamomile"
+      },
+      {
+        "slug": "coptis-goldthread",
+        "name": "Coptis / Goldthread"
+      },
+      {
+        "slug": "coriander",
+        "name": "Coriander"
+      },
+      {
+        "slug": "damiana",
+        "name": "Damiana"
+      },
+      {
+        "slug": "dill",
+        "name": "Dill"
+      },
+      {
+        "slug": "ginkgo",
+        "name": "Ginkgo"
+      },
+      {
+        "slug": "gotu-kola",
+        "name": "Gotu Kola"
+      },
+      {
+        "slug": "green-tea",
+        "name": "Green Tea"
+      },
+      {
+        "slug": "guayusa",
+        "name": "Guayusa"
+      },
+      {
+        "slug": "hawthorn",
+        "name": "Hawthorn"
+      },
+      {
+        "slug": "he-shou-wu",
+        "name": "He Shou Wu"
+      },
+      {
+        "slug": "hemp-cbd",
+        "name": "Hemp / CBD"
+      },
+      {
+        "slug": "hops",
+        "name": "Hops"
+      },
+      {
+        "slug": "jiaogulan",
+        "name": "Jiaogulan"
+      },
+      {
+        "slug": "kanna",
+        "name": "Kanna"
+      },
+      {
+        "slug": "lavender",
+        "name": "Lavender"
+      },
+      {
+        "slug": "lemon-balm",
+        "name": "Lemon Balm"
+      },
+      {
+        "slug": "lemon-verbena",
+        "name": "Lemon Verbena"
+      },
+      {
+        "slug": "lemongrass",
+        "name": "Lemongrass"
+      },
+      {
+        "slug": "linden",
+        "name": "Linden / Tilia"
+      },
+      {
+        "slug": "lions-mane",
+        "name": "Lion's Mane"
+      },
+      {
+        "slug": "maca",
+        "name": "Maca"
+      },
+      {
+        "slug": "motherwort",
+        "name": "Motherwort"
+      },
+      {
+        "slug": "mugwort",
+        "name": "Mugwort"
+      },
+      {
+        "slug": "mullein",
+        "name": "Mullein"
+      },
+      {
+        "slug": "nutmeg",
+        "name": "Nutmeg"
+      },
+      {
+        "slug": "oat-straw",
+        "name": "Oat Straw"
+      },
+      {
+        "slug": "oregano",
+        "name": "Oregano"
+      },
+      {
+        "slug": "passionflower",
+        "name": "Passionflower"
+      },
+      {
+        "slug": "reishi-mushroom",
+        "name": "Reishi Mushroom"
+      },
+      {
+        "slug": "rhodiola",
+        "name": "Rhodiola"
+      },
+      {
+        "slug": "rooibos",
+        "name": "Rooibos"
+      },
+      {
+        "slug": "rosemary",
+        "name": "Rosemary"
+      },
+      {
+        "slug": "schisandra",
+        "name": "Schisandra"
+      },
+      {
+        "slug": "shatavari",
+        "name": "Shatavari"
+      },
+      {
+        "slug": "skullcap",
+        "name": "Skullcap"
+      },
+      {
+        "slug": "spilanthes",
+        "name": "Spilanthes / Toothache Plant"
+      },
+      {
+        "slug": "st-john-s-wort",
+        "name": "St. John's Wort"
+      },
+      {
+        "slug": "thyme",
+        "name": "Thyme"
+      },
+      {
+        "slug": "valerian",
+        "name": "Valerian"
+      },
+      {
+        "slug": "vanilla",
+        "name": "Vanilla"
+      },
+      {
+        "slug": "violet",
+        "name": "Violet"
+      },
+      {
+        "slug": "wild-cherry",
+        "name": "Wild Cherry"
+      },
+      {
+        "slug": "wild-yam",
+        "name": "Wild Yam"
+      },
+      {
+        "slug": "wood-betony",
+        "name": "Wood Betony"
+      }
     ],
-    "plantRefs": [
-      "09-St-Johns-Wort",
-      "11-Lavender",
-      "13-Willow-Bark",
-      "14-Valerian",
-      "23-Holy-Basil",
-      "37-Rosemary",
-      "38-Sage",
-      "50-Star-Anise",
-      "52-Lemon-Balm",
-      "81-Damiana",
-      "82-Yerba-Mate",
-      "83-Passionflower",
-      "84-Kanna",
-      "90-Violet",
-      "93-Wood-Betony",
-      "94-Catnip",
-      "95-Skullcap",
-      "96-Lemon-Verbena",
-      "97-Motherwort",
-      "00-TRADITIONAL-USES"
-    ]
+    "slug": "nervous-system"
   },
   {
-    "slug": "respiratory-health",
-    "name": "Respiratory Health",
-    "uses": [
-      "Persistent cough",
-      "Bronchitis and chest congestion",
-      "Respiratory infections",
-      "Lung irritation and inflammation",
-      "Asthma support",
-      "Expectorant action",
-      "Throat soothing"
+    "name": "Pain Relief",
+    "plants": [
+      {
+        "slug": "alfalfa",
+        "name": "Alfalfa"
+      },
+      {
+        "slug": "angelica",
+        "name": "Angelica"
+      },
+      {
+        "slug": "ashitaba",
+        "name": "Ashitaba"
+      },
+      {
+        "slug": "bacopa",
+        "name": "Bacopa"
+      },
+      {
+        "slug": "birch",
+        "name": "Birch"
+      },
+      {
+        "slug": "black-cohosh",
+        "name": "Black Cohosh"
+      },
+      {
+        "slug": "black-pepper",
+        "name": "Black Pepper"
+      },
+      {
+        "slug": "bloodroot",
+        "name": "Bloodroot"
+      },
+      {
+        "slug": "blue-vervain",
+        "name": "Blue Vervain"
+      },
+      {
+        "slug": "cats-whiskers-java-tea",
+        "name": "Cat's Whiskers / Java Tea"
+      },
+      {
+        "slug": "chamomile",
+        "name": "Chamomile"
+      },
+      {
+        "slug": "chaste-tree",
+        "name": "Chaste Tree"
+      },
+      {
+        "slug": "chickweed",
+        "name": "Chickweed"
+      },
+      {
+        "slug": "chlorella",
+        "name": "Chlorella"
+      },
+      {
+        "slug": "clove",
+        "name": "Clove"
+      },
+      {
+        "slug": "coleus-forskohlii",
+        "name": "Coleus / Forskolin"
+      },
+      {
+        "slug": "comfrey",
+        "name": "Comfrey"
+      },
+      {
+        "slug": "devils-claw",
+        "name": "Devil's Claw"
+      },
+      {
+        "slug": "dill",
+        "name": "Dill"
+      },
+      {
+        "slug": "dong-quai",
+        "name": "Dong Quai"
+      },
+      {
+        "slug": "echinacea",
+        "name": "Echinacea"
+      },
+      {
+        "slug": "elderberry",
+        "name": "Elderberry"
+      },
+      {
+        "slug": "elecampane",
+        "name": "Elecampane"
+      },
+      {
+        "slug": "eleuthero",
+        "name": "Eleuthero"
+      },
+      {
+        "slug": "ginger",
+        "name": "Ginger"
+      },
+      {
+        "slug": "gravel-root",
+        "name": "Gravel Root"
+      },
+      {
+        "slug": "green-tea",
+        "name": "Green Tea"
+      },
+      {
+        "slug": "guarana",
+        "name": "Guarana"
+      },
+      {
+        "slug": "guduchi",
+        "name": "Guduchi / Giloy"
+      },
+      {
+        "slug": "hemp-cbd",
+        "name": "Hemp / CBD"
+      },
+      {
+        "slug": "hops",
+        "name": "Hops"
+      },
+      {
+        "slug": "kanna",
+        "name": "Kanna"
+      },
+      {
+        "slug": "lavender",
+        "name": "Lavender"
+      },
+      {
+        "slug": "lemon-balm",
+        "name": "Lemon Balm"
+      },
+      {
+        "slug": "lemongrass",
+        "name": "Lemongrass"
+      },
+      {
+        "slug": "linden",
+        "name": "Linden / Tilia"
+      },
+      {
+        "slug": "lomatium",
+        "name": "Lomatium"
+      },
+      {
+        "slug": "meadowsweet",
+        "name": "Meadowsweet"
+      },
+      {
+        "slug": "moringa",
+        "name": "Moringa"
+      },
+      {
+        "slug": "mugwort",
+        "name": "Mugwort"
+      },
+      {
+        "slug": "mullein",
+        "name": "Mullein"
+      },
+      {
+        "slug": "nettle",
+        "name": "Nettle"
+      },
+      {
+        "slug": "noni",
+        "name": "Noni"
+      },
+      {
+        "slug": "nutmeg",
+        "name": "Nutmeg"
+      },
+      {
+        "slug": "oat-straw",
+        "name": "Oat Straw"
+      },
+      {
+        "slug": "oregano",
+        "name": "Oregano"
+      },
+      {
+        "slug": "partridge-berry",
+        "name": "Partridge Berry"
+      },
+      {
+        "slug": "passionflower",
+        "name": "Passionflower"
+      },
+      {
+        "slug": "peppermint",
+        "name": "Peppermint"
+      },
+      {
+        "slug": "pine-needle",
+        "name": "Pine Needle"
+      },
+      {
+        "slug": "pygeum",
+        "name": "Pygeum"
+      },
+      {
+        "slug": "rose-hips",
+        "name": "Rose Hips"
+      },
+      {
+        "slug": "rosemary",
+        "name": "Rosemary"
+      },
+      {
+        "slug": "skullcap",
+        "name": "Skullcap"
+      },
+      {
+        "slug": "spearmint",
+        "name": "Spearmint"
+      },
+      {
+        "slug": "st-john-s-wort",
+        "name": "St. John's Wort"
+      },
+      {
+        "slug": "star-anise",
+        "name": "Star Anise"
+      },
+      {
+        "slug": "tribulus",
+        "name": "Tribulus"
+      },
+      {
+        "slug": "turmeric",
+        "name": "Turmeric"
+      },
+      {
+        "slug": "valerian",
+        "name": "Valerian"
+      },
+      {
+        "slug": "vanilla",
+        "name": "Vanilla"
+      },
+      {
+        "slug": "white-peony",
+        "name": "White Peony Root"
+      },
+      {
+        "slug": "wild-yam",
+        "name": "Wild Yam"
+      },
+      {
+        "slug": "willow-bark",
+        "name": "Willow Bark"
+      },
+      {
+        "slug": "wintergreen",
+        "name": "Wintergreen"
+      },
+      {
+        "slug": "wood-betony",
+        "name": "Wood Betony"
+      },
+      {
+        "slug": "yarrow",
+        "name": "Yarrow"
+      }
     ],
-    "plantRefs": [
-      "33-Mullein",
-      "34-Coltsfoot",
-      "35-Elecampane",
-      "36-Pine-Needle",
-      "39-Thyme",
-      "41-Basil",
-      "43-Clove",
-      "63-Wild-Cherry",
-      "70-Osha",
-      "85-White-Willow",
-      "87-Wintergreen",
-      "90-Violet",
-      "100-Angelica",
-      "00-TRADITIONAL-USES"
-    ]
+    "slug": "pain-relief"
   },
   {
-    "slug": "skin-wounds",
-    "name": "Skin & Wounds",
-    "uses": [
-      "Burns and scalds",
-      "Cuts and wounds",
-      "Skin inflammation and irritation",
-      "Wound healing acceleration",
-      "Astringent and toning action",
-      "Bruises and contusions",
-      "Skin conditions and rashes"
+    "name": "Respiratory",
+    "plants": [
+      {
+        "slug": "alfalfa",
+        "name": "Alfalfa"
+      },
+      {
+        "slug": "andrographis",
+        "name": "Andrographis"
+      },
+      {
+        "slug": "angelica",
+        "name": "Angelica"
+      },
+      {
+        "slug": "arjuna",
+        "name": "Arjuna"
+      },
+      {
+        "slug": "ashitaba",
+        "name": "Ashitaba"
+      },
+      {
+        "slug": "astragalus",
+        "name": "Astragalus"
+      },
+      {
+        "slug": "bacopa",
+        "name": "Bacopa"
+      },
+      {
+        "slug": "basil",
+        "name": "Basil"
+      },
+      {
+        "slug": "bhringaraj",
+        "name": "Bhringaraj"
+      },
+      {
+        "slug": "birch",
+        "name": "Birch"
+      },
+      {
+        "slug": "black-cohosh",
+        "name": "Black Cohosh"
+      },
+      {
+        "slug": "black-pepper",
+        "name": "Black Pepper"
+      },
+      {
+        "slug": "blessed-thistle",
+        "name": "Blessed Thistle"
+      },
+      {
+        "slug": "bloodroot",
+        "name": "Bloodroot"
+      },
+      {
+        "slug": "blue-cohosh",
+        "name": "Blue Cohosh"
+      },
+      {
+        "slug": "blue-vervain",
+        "name": "Blue Vervain"
+      },
+      {
+        "slug": "borage",
+        "name": "Borage"
+      },
+      {
+        "slug": "cacao",
+        "name": "Cacao"
+      },
+      {
+        "slug": "cardamom",
+        "name": "Cardamom"
+      },
+      {
+        "slug": "chamomile",
+        "name": "Chamomile"
+      },
+      {
+        "slug": "chickweed",
+        "name": "Chickweed"
+      },
+      {
+        "slug": "cinnamon",
+        "name": "Cinnamon"
+      },
+      {
+        "slug": "clove",
+        "name": "Clove"
+      },
+      {
+        "slug": "codonopsis",
+        "name": "Codonopsis"
+      },
+      {
+        "slug": "coleus-forskohlii",
+        "name": "Coleus / Forskolin"
+      },
+      {
+        "slug": "coltsfoot",
+        "name": "Coltsfoot"
+      },
+      {
+        "slug": "comfrey",
+        "name": "Comfrey"
+      },
+      {
+        "slug": "cordyceps",
+        "name": "Cordyceps"
+      },
+      {
+        "slug": "cumin",
+        "name": "Cumin"
+      },
+      {
+        "slug": "damiana",
+        "name": "Damiana"
+      },
+      {
+        "slug": "echinacea",
+        "name": "Echinacea"
+      },
+      {
+        "slug": "elderberry",
+        "name": "Elderberry"
+      },
+      {
+        "slug": "elecampane",
+        "name": "Elecampane"
+      },
+      {
+        "slug": "eleuthero",
+        "name": "Eleuthero"
+      },
+      {
+        "slug": "evening-primrose",
+        "name": "Evening Primrose"
+      },
+      {
+        "slug": "fennel",
+        "name": "Fennel"
+      },
+      {
+        "slug": "fenugreek",
+        "name": "Fenugreek"
+      },
+      {
+        "slug": "garlic",
+        "name": "Garlic"
+      },
+      {
+        "slug": "ginger",
+        "name": "Ginger"
+      },
+      {
+        "slug": "ginkgo",
+        "name": "Ginkgo"
+      },
+      {
+        "slug": "goldenseal",
+        "name": "Goldenseal"
+      },
+      {
+        "slug": "gotu-kola",
+        "name": "Gotu Kola"
+      },
+      {
+        "slug": "gymnema",
+        "name": "Gymnema"
+      },
+      {
+        "slug": "holy-basil",
+        "name": "Holy Basil"
+      },
+      {
+        "slug": "jiaogulan",
+        "name": "Jiaogulan"
+      },
+      {
+        "slug": "juniper",
+        "name": "Juniper"
+      },
+      {
+        "slug": "lavender",
+        "name": "Lavender"
+      },
+      {
+        "slug": "lemon-verbena",
+        "name": "Lemon Verbena"
+      },
+      {
+        "slug": "lemongrass",
+        "name": "Lemongrass"
+      },
+      {
+        "slug": "licorice",
+        "name": "Licorice"
+      },
+      {
+        "slug": "linden",
+        "name": "Linden / Tilia"
+      },
+      {
+        "slug": "lomatium",
+        "name": "Lomatium"
+      },
+      {
+        "slug": "marshmallow",
+        "name": "Marshmallow"
+      },
+      {
+        "slug": "moringa",
+        "name": "Moringa"
+      },
+      {
+        "slug": "mullein",
+        "name": "Mullein"
+      },
+      {
+        "slug": "nutmeg",
+        "name": "Nutmeg"
+      },
+      {
+        "slug": "oregano",
+        "name": "Oregano"
+      },
+      {
+        "slug": "osha",
+        "name": "Osha"
+      },
+      {
+        "slug": "pau-d-arco",
+        "name": "Pau D'Arco"
+      },
+      {
+        "slug": "pelargonium-sidoides",
+        "name": "Pelargonium / Umckaloabo"
+      },
+      {
+        "slug": "peppermint",
+        "name": "Peppermint"
+      },
+      {
+        "slug": "pine-needle",
+        "name": "Pine Needle"
+      },
+      {
+        "slug": "plantain",
+        "name": "Plantain"
+      },
+      {
+        "slug": "red-clover",
+        "name": "Red Clover"
+      },
+      {
+        "slug": "red-root",
+        "name": "Red Root"
+      },
+      {
+        "slug": "reishi-mushroom",
+        "name": "Reishi Mushroom"
+      },
+      {
+        "slug": "rose-hips",
+        "name": "Rose Hips"
+      },
+      {
+        "slug": "sassafras",
+        "name": "Sassafras"
+      },
+      {
+        "slug": "saw-palmetto",
+        "name": "Saw Palmetto"
+      },
+      {
+        "slug": "schisandra",
+        "name": "Schisandra"
+      },
+      {
+        "slug": "slippery-elm",
+        "name": "Slippery Elm"
+      },
+      {
+        "slug": "spilanthes",
+        "name": "Spilanthes / Toothache Plant"
+      },
+      {
+        "slug": "st-john-s-wort",
+        "name": "St. John's Wort"
+      },
+      {
+        "slug": "star-anise",
+        "name": "Star Anise"
+      },
+      {
+        "slug": "thyme",
+        "name": "Thyme"
+      },
+      {
+        "slug": "turmeric",
+        "name": "Turmeric"
+      },
+      {
+        "slug": "violet",
+        "name": "Violet"
+      },
+      {
+        "slug": "wild-cherry",
+        "name": "Wild Cherry"
+      },
+      {
+        "slug": "wintergreen",
+        "name": "Wintergreen"
+      },
+      {
+        "slug": "wood-betony",
+        "name": "Wood Betony"
+      },
+      {
+        "slug": "yerba-santa",
+        "name": "Yerba Santa"
+      }
     ],
-    "plantRefs": [
-      "07-Aloe-Vera",
-      "10-Calendula",
-      "58-Plantain",
-      "59-Yarrow",
-      "60-Comfrey",
-      "65-Witch-Hazel",
-      "72-Borage",
-      "76-Rose-Hips",
-      "90-Violet",
-      "89-Chickweed",
-      "86-Meadowsweet",
-      "88-Arnica",
-      "91-Cleavers",
-      "92-Self-Heal",
-      "00-TRADITIONAL-USES"
-    ]
+    "slug": "respiratory"
   },
   {
-    "slug": "skin-health",
-    "name": "Skin Health",
-    "uses": [
-      "Wounds and cuts",
-      "Eczema and dermatitis",
-      "Inflammatory skin conditions",
-      "Burns and sunburn",
-      "Acne and blemishes",
-      "Dry and irritated skin",
-      "Skin infections"
+    "name": "Skin & Wound",
+    "plants": [
+      {
+        "slug": "acai",
+        "name": "Acai"
+      },
+      {
+        "slug": "alfalfa",
+        "name": "Alfalfa"
+      },
+      {
+        "slug": "aloe-vera",
+        "name": "Aloe Vera"
+      },
+      {
+        "slug": "amla",
+        "name": "Amla / Indian Gooseberry"
+      },
+      {
+        "slug": "andrographis",
+        "name": "Andrographis"
+      },
+      {
+        "slug": "arjuna",
+        "name": "Arjuna"
+      },
+      {
+        "slug": "arnica",
+        "name": "Arnica"
+      },
+      {
+        "slug": "ashitaba",
+        "name": "Ashitaba"
+      },
+      {
+        "slug": "bacopa",
+        "name": "Bacopa"
+      },
+      {
+        "slug": "basil",
+        "name": "Basil"
+      },
+      {
+        "slug": "bhringaraj",
+        "name": "Bhringaraj"
+      },
+      {
+        "slug": "birch",
+        "name": "Birch"
+      },
+      {
+        "slug": "bitter-melon",
+        "name": "Bitter Melon"
+      },
+      {
+        "slug": "black-walnut",
+        "name": "Black Walnut"
+      },
+      {
+        "slug": "blessed-thistle",
+        "name": "Blessed Thistle"
+      },
+      {
+        "slug": "bloodroot",
+        "name": "Bloodroot"
+      },
+      {
+        "slug": "blue-vervain",
+        "name": "Blue Vervain"
+      },
+      {
+        "slug": "borage",
+        "name": "Borage"
+      },
+      {
+        "slug": "buchu",
+        "name": "Buchu"
+      },
+      {
+        "slug": "burdock",
+        "name": "Burdock"
+      },
+      {
+        "slug": "cacao",
+        "name": "Cacao"
+      },
+      {
+        "slug": "calendula",
+        "name": "Calendula"
+      },
+      {
+        "slug": "cat-s-claw",
+        "name": "Cat's Claw"
+      },
+      {
+        "slug": "cats-whiskers-java-tea",
+        "name": "Cat's Whiskers / Java Tea"
+      },
+      {
+        "slug": "celery-seed",
+        "name": "Celery Seed"
+      },
+      {
+        "slug": "chamomile",
+        "name": "Chamomile"
+      },
+      {
+        "slug": "chickweed",
+        "name": "Chickweed"
+      },
+      {
+        "slug": "cleavers",
+        "name": "Cleavers"
+      },
+      {
+        "slug": "clove",
+        "name": "Clove"
+      },
+      {
+        "slug": "coleus-forskohlii",
+        "name": "Coleus / Forskolin"
+      },
+      {
+        "slug": "coltsfoot",
+        "name": "Coltsfoot"
+      },
+      {
+        "slug": "comfrey",
+        "name": "Comfrey"
+      },
+      {
+        "slug": "coptis-goldthread",
+        "name": "Coptis / Goldthread"
+      },
+      {
+        "slug": "cranberry",
+        "name": "Cranberry"
+      },
+      {
+        "slug": "dandelion",
+        "name": "Dandelion"
+      },
+      {
+        "slug": "devils-claw",
+        "name": "Devil's Claw"
+      },
+      {
+        "slug": "echinacea",
+        "name": "Echinacea"
+      },
+      {
+        "slug": "elderberry",
+        "name": "Elderberry"
+      },
+      {
+        "slug": "elecampane",
+        "name": "Elecampane"
+      },
+      {
+        "slug": "evening-primrose",
+        "name": "Evening Primrose"
+      },
+      {
+        "slug": "garlic",
+        "name": "Garlic"
+      },
+      {
+        "slug": "goldenseal",
+        "name": "Goldenseal"
+      },
+      {
+        "slug": "gotu-kola",
+        "name": "Gotu Kola"
+      },
+      {
+        "slug": "green-tea",
+        "name": "Green Tea"
+      },
+      {
+        "slug": "guarana",
+        "name": "Guarana"
+      },
+      {
+        "slug": "guayusa",
+        "name": "Guayusa"
+      },
+      {
+        "slug": "terminalia-chebula",
+        "name": "Haritaki / Black Myrobalan (Triphala representative)"
+      },
+      {
+        "slug": "hemp-cbd",
+        "name": "Hemp / CBD"
+      },
+      {
+        "slug": "hibiscus",
+        "name": "Hibiscus"
+      },
+      {
+        "slug": "holy-basil",
+        "name": "Holy Basil"
+      },
+      {
+        "slug": "hops",
+        "name": "Hops"
+      },
+      {
+        "slug": "horsetail",
+        "name": "Horsetail"
+      },
+      {
+        "slug": "juniper",
+        "name": "Juniper"
+      },
+      {
+        "slug": "lavender",
+        "name": "Lavender"
+      },
+      {
+        "slug": "lemon-verbena",
+        "name": "Lemon Verbena"
+      },
+      {
+        "slug": "lemongrass",
+        "name": "Lemongrass"
+      },
+      {
+        "slug": "licorice",
+        "name": "Licorice"
+      },
+      {
+        "slug": "linden",
+        "name": "Linden / Tilia"
+      },
+      {
+        "slug": "lomatium",
+        "name": "Lomatium"
+      },
+      {
+        "slug": "mangosteen",
+        "name": "Mangosteen"
+      },
+      {
+        "slug": "marshmallow",
+        "name": "Marshmallow"
+      },
+      {
+        "slug": "meadowsweet",
+        "name": "Meadowsweet"
+      },
+      {
+        "slug": "moringa",
+        "name": "Moringa"
+      },
+      {
+        "slug": "mugwort",
+        "name": "Mugwort"
+      },
+      {
+        "slug": "mullein",
+        "name": "Mullein"
+      },
+      {
+        "slug": "neem",
+        "name": "Neem"
+      },
+      {
+        "slug": "nettle",
+        "name": "Nettle"
+      },
+      {
+        "slug": "noni",
+        "name": "Noni"
+      },
+      {
+        "slug": "nutmeg",
+        "name": "Nutmeg"
+      },
+      {
+        "slug": "oak",
+        "name": "Oak"
+      },
+      {
+        "slug": "oat-straw",
+        "name": "Oat Straw"
+      },
+      {
+        "slug": "oregano",
+        "name": "Oregano"
+      },
+      {
+        "slug": "oregon-grape",
+        "name": "Oregon Grape"
+      },
+      {
+        "slug": "parsley",
+        "name": "Parsley"
+      },
+      {
+        "slug": "partridge-berry",
+        "name": "Partridge Berry"
+      },
+      {
+        "slug": "pau-d-arco",
+        "name": "Pau D'Arco"
+      },
+      {
+        "slug": "pelargonium-sidoides",
+        "name": "Pelargonium / Umckaloabo"
+      },
+      {
+        "slug": "peppermint",
+        "name": "Peppermint"
+      },
+      {
+        "slug": "pine-needle",
+        "name": "Pine Needle"
+      },
+      {
+        "slug": "plantain",
+        "name": "Plantain"
+      },
+      {
+        "slug": "puerh-tea",
+        "name": "Pu-erh Tea"
+      },
+      {
+        "slug": "raspberry-leaf",
+        "name": "Raspberry Leaf"
+      },
+      {
+        "slug": "red-clover",
+        "name": "Red Clover"
+      },
+      {
+        "slug": "red-root",
+        "name": "Red Root"
+      },
+      {
+        "slug": "rooibos",
+        "name": "Rooibos"
+      },
+      {
+        "slug": "rose-hips",
+        "name": "Rose Hips"
+      },
+      {
+        "slug": "sage",
+        "name": "Sage"
+      },
+      {
+        "slug": "sassafras",
+        "name": "Sassafras"
+      },
+      {
+        "slug": "sea-buckthorn",
+        "name": "Sea Buckthorn"
+      },
+      {
+        "slug": "self-heal",
+        "name": "Self-Heal"
+      },
+      {
+        "slug": "shatavari",
+        "name": "Shatavari"
+      },
+      {
+        "slug": "slippery-elm",
+        "name": "Slippery Elm"
+      },
+      {
+        "slug": "spearmint",
+        "name": "Spearmint"
+      },
+      {
+        "slug": "spilanthes",
+        "name": "Spilanthes / Toothache Plant"
+      },
+      {
+        "slug": "spirulina",
+        "name": "Spirulina"
+      },
+      {
+        "slug": "st-john-s-wort",
+        "name": "St. John's Wort"
+      },
+      {
+        "slug": "thyme",
+        "name": "Thyme"
+      },
+      {
+        "slug": "tribulus",
+        "name": "Tribulus"
+      },
+      {
+        "slug": "turmeric",
+        "name": "Turmeric"
+      },
+      {
+        "slug": "uva-ursi",
+        "name": "Uva Ursi"
+      },
+      {
+        "slug": "vanilla",
+        "name": "Vanilla"
+      },
+      {
+        "slug": "violet",
+        "name": "Violet"
+      },
+      {
+        "slug": "willow-bark",
+        "name": "Willow Bark"
+      },
+      {
+        "slug": "wintergreen",
+        "name": "Wintergreen"
+      },
+      {
+        "slug": "witch-hazel",
+        "name": "Witch Hazel"
+      },
+      {
+        "slug": "wood-betony",
+        "name": "Wood Betony"
+      },
+      {
+        "slug": "yarrow",
+        "name": "Yarrow"
+      },
+      {
+        "slug": "yellow-dock",
+        "name": "Yellow Dock"
+      },
+      {
+        "slug": "yerba-santa",
+        "name": "Yerba Santa"
+      }
     ],
-    "plantRefs": [
-      "85-Oregon-Grape",
-      "89-Chickweed",
-      "00-TRADITIONAL-USES"
-    ]
+    "slug": "skin-wound"
   },
   {
-    "slug": "tea-infusion",
-    "name": "Tea Infusion",
-    "uses": [],
-    "plantRefs": []
-  },
-  {
-    "slug": "tincture",
-    "name": "Tincture",
-    "uses": [],
-    "plantRefs": []
-  },
-  {
-    "slug": "topical-application",
-    "name": "Topical Application",
-    "uses": [],
-    "plantRefs": []
-  },
-  {
-    "slug": "urinary-health",
-    "name": "Urinary Health",
-    "uses": [
-      "Urinary tract infections",
-      "Kidney and bladder support",
-      "Fluid retention and edema",
-      "Urinary inflammation",
-      "Bladder toning",
-      "Kidney stone prevention",
-      "Diuretic action"
-    ],
-    "plantRefs": [
-      "17-Cranberry",
-      "68-Uva-Ursi",
-      "69-Juniper",
-      "91-Cleavers",
-      "00-TRADITIONAL-USES"
-    ]
-  },
-  {
-    "slug": "women-s-health",
     "name": "Women's Health",
-    "uses": [
-      "Menopausal symptoms and hot flashes",
-      "PMS and menstrual irregularities",
-      "Menstrual cramping and pain",
-      "Hormonal balance support",
-      "Lactation support",
-      "Reproductive system toning",
-      "Fertility support"
+    "plants": [
+      {
+        "slug": "alfalfa",
+        "name": "Alfalfa"
+      },
+      {
+        "slug": "angelica",
+        "name": "Angelica"
+      },
+      {
+        "slug": "ashwagandha",
+        "name": "Ashwagandha"
+      },
+      {
+        "slug": "basil",
+        "name": "Basil"
+      },
+      {
+        "slug": "black-cohosh",
+        "name": "Black Cohosh"
+      },
+      {
+        "slug": "blue-cohosh",
+        "name": "Blue Cohosh"
+      },
+      {
+        "slug": "calendula",
+        "name": "Calendula"
+      },
+      {
+        "slug": "catnip",
+        "name": "Catnip"
+      },
+      {
+        "slug": "celery-seed",
+        "name": "Celery Seed"
+      },
+      {
+        "slug": "chamomile",
+        "name": "Chamomile"
+      },
+      {
+        "slug": "chaste-tree",
+        "name": "Chaste Tree"
+      },
+      {
+        "slug": "chlorella",
+        "name": "Chlorella"
+      },
+      {
+        "slug": "cinnamon",
+        "name": "Cinnamon"
+      },
+      {
+        "slug": "damiana",
+        "name": "Damiana"
+      },
+      {
+        "slug": "dill",
+        "name": "Dill"
+      },
+      {
+        "slug": "dong-quai",
+        "name": "Dong Quai"
+      },
+      {
+        "slug": "elecampane",
+        "name": "Elecampane"
+      },
+      {
+        "slug": "evening-primrose",
+        "name": "Evening Primrose"
+      },
+      {
+        "slug": "fennel",
+        "name": "Fennel"
+      },
+      {
+        "slug": "ginger",
+        "name": "Ginger"
+      },
+      {
+        "slug": "ginseng",
+        "name": "Ginseng"
+      },
+      {
+        "slug": "gravel-root",
+        "name": "Gravel Root"
+      },
+      {
+        "slug": "hops",
+        "name": "Hops"
+      },
+      {
+        "slug": "lavender",
+        "name": "Lavender"
+      },
+      {
+        "slug": "lemongrass",
+        "name": "Lemongrass"
+      },
+      {
+        "slug": "licorice",
+        "name": "Licorice"
+      },
+      {
+        "slug": "lions-mane",
+        "name": "Lion's Mane"
+      },
+      {
+        "slug": "maca",
+        "name": "Maca"
+      },
+      {
+        "slug": "moringa",
+        "name": "Moringa"
+      },
+      {
+        "slug": "motherwort",
+        "name": "Motherwort"
+      },
+      {
+        "slug": "mugwort",
+        "name": "Mugwort"
+      },
+      {
+        "slug": "neem",
+        "name": "Neem"
+      },
+      {
+        "slug": "oregano",
+        "name": "Oregano"
+      },
+      {
+        "slug": "oregon-grape",
+        "name": "Oregon Grape"
+      },
+      {
+        "slug": "parsley",
+        "name": "Parsley"
+      },
+      {
+        "slug": "partridge-berry",
+        "name": "Partridge Berry"
+      },
+      {
+        "slug": "passionflower",
+        "name": "Passionflower"
+      },
+      {
+        "slug": "peppermint",
+        "name": "Peppermint"
+      },
+      {
+        "slug": "pygeum",
+        "name": "Pygeum"
+      },
+      {
+        "slug": "raspberry-leaf",
+        "name": "Raspberry Leaf"
+      },
+      {
+        "slug": "red-clover",
+        "name": "Red Clover"
+      },
+      {
+        "slug": "rehmannia",
+        "name": "Rehmannia"
+      },
+      {
+        "slug": "rhodiola",
+        "name": "Rhodiola"
+      },
+      {
+        "slug": "rooibos",
+        "name": "Rooibos"
+      },
+      {
+        "slug": "sage",
+        "name": "Sage"
+      },
+      {
+        "slug": "schisandra",
+        "name": "Schisandra"
+      },
+      {
+        "slug": "shatavari",
+        "name": "Shatavari"
+      },
+      {
+        "slug": "skullcap",
+        "name": "Skullcap"
+      },
+      {
+        "slug": "spearmint",
+        "name": "Spearmint"
+      },
+      {
+        "slug": "spirulina",
+        "name": "Spirulina"
+      },
+      {
+        "slug": "st-john-s-wort",
+        "name": "St. John's Wort"
+      },
+      {
+        "slug": "thyme",
+        "name": "Thyme"
+      },
+      {
+        "slug": "valerian",
+        "name": "Valerian"
+      },
+      {
+        "slug": "white-peony",
+        "name": "White Peony Root"
+      },
+      {
+        "slug": "wild-yam",
+        "name": "Wild Yam"
+      },
+      {
+        "slug": "wormwood",
+        "name": "Wormwood"
+      },
+      {
+        "slug": "yarrow",
+        "name": "Yarrow"
+      }
     ],
-    "plantRefs": [
-      "25-Black-Cohosh",
-      "26-Red-Clover",
-      "27-Dong-Quai",
-      "28-Chaste-Tree",
-      "48-Fenugreek",
-      "71-Evening-Primrose",
-      "73-Blue-Cohosh",
-      "74-Partridge-Berry",
-      "75-Raspberry-Leaf",
-      "77-Wild-Yam",
-      "00-TRADITIONAL-USES"
-    ]
+    "slug": "women-s-health"
   }
 ]

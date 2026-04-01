@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation';
 import Badge from '@/components/ui/Badge';
 import PlantCard from '@/components/ui/PlantCard';
 import Disclaimer from '@/components/ui/Disclaimer';
-import { categories, resolvePlantRefs } from '@/lib/data';
+import { categories, plants, type Plant } from '@/lib/data';
 
 export function generateStaticParams() {
   return categories.map((c) => ({ slug: c.slug }));
@@ -14,7 +14,7 @@ export function generateMetadata({ params }: { params: Promise<{ slug: string }>
     if (!category) return { title: 'Category Not Found' };
     return {
       title: `${category.name} — Rootwork`,
-      description: `Medicinal plants for ${category.name.toLowerCase()}: ${category.uses.slice(0, 3).join(', ')}`,
+      description: `Medicinal plants for ${category.name.toLowerCase()}: ${category.plants.slice(0, 3).map((p: {name:string}) => p.name).join(', ')}`,
     };
   });
 }
@@ -24,7 +24,7 @@ export default async function CategoryDetailPage({ params }: { params: Promise<{
   const category = categories.find((c) => c.slug === slug);
   if (!category) notFound();
 
-  const categoryPlants = resolvePlantRefs(category.plantRefs);
+  const categoryPlants = category.plants.map((ref: {slug: string}) => plants.find((p) => p.slug === ref.slug)).filter(Boolean) as Plant[];
 
   return (
     <div className="space-y-10">
@@ -35,14 +35,14 @@ export default async function CategoryDetailPage({ params }: { params: Promise<{
       </header>
 
       {/* Uses */}
-      {category.uses.length > 0 && (
+      {category.plants.length > 0 && (
         <section>
           <h2 className="text-xl font-semibold text-parchment mb-4" style={{ fontFamily: 'var(--font-display)' }}>
             Applications
           </h2>
           <div className="flex flex-wrap gap-2">
-            {category.uses.map((use) => (
-              <Badge key={use} variant="burnt">{use}</Badge>
+            {category.plants.map((use: {slug:string,name:string}) => (
+              <Badge key={use.slug} variant="burnt">{use.name}</Badge>
             ))}
           </div>
         </section>

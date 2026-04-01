@@ -1,0 +1,1275 @@
+[
+  {
+    "slug": "hemp-cbd",
+    "name": "Hemp / CBD",
+    "latinName": "Cannabis sativa",
+    "family": "Cannabaceae",
+    "familyLatin": "Hemp family",
+    "nativeRange": "Central Asia, likely originating in the Hindu Kush and Himalayan foothills; cultivated globally for millennia",
+    "habitat": "Disturbed soils, roadsides, agricultural fields, river valleys; thrives in temperate to subtropical climates with well-drained loamy soils and full sun",
+    "description": {
+      "overall appearance": "An erect annual herb growing 1–5 m tall depending on variety and cultivation conditions, with a characteristic palmate leaf silhouette and a pungent, resinous aroma. Hemp cultivars tend toward taller, less branched growth with lower resin content compared to drug-type varieties.",
+      "roots": "Taproot system with extensive lateral branching; primary taproot can penetrate 30–60 cm into well-drained soil, improving soil structure and sequestering carbon",
+      "stem": "Hollow, ridged, and fibrous; 4–20 mm in diameter, covered in short stiff hairs; bark contains long bast fibers used historically for rope and textiles",
+      "leaves": "Palmate compound leaves with 5–9 lanceolate serrate leaflets each 8–15 cm long; alternately arranged on the stem; upper leaves may have fewer leaflets; covered in fine trichomes on both surfaces",
+      "flowers": "Dioecious; male flowers are small, yellow-green, clustered in loose panicles; female flowers are green, enclosed in bracts bearing secretory trichomes; flowers appear in summer to early autumn",
+      "fruits/seeds": "Achene (hemp seed) 3–5 mm, grey-green to brown, covered by a persistent perianth; seeds contain 30–35% oil by weight and are nutritionally dense"
+    },
+    "compounds": [
+      "Cannabidiol (CBD) — major non-psychoactive cannabinoid",
+      "Cannabidiolic acid (CBDA) — precursor to CBD",
+      "Cannabigerol (CBG) — precursor cannabinoid with anti-inflammatory activity",
+      "Cannabichromene (CBC) — non-psychoactive with analgesic potential",
+      "Terpenes: myrcene, limonene, linalool, beta-caryophyllene",
+      "Flavonoids: cannflavin A and B, quercetin, apigenin",
+      "Gamma-linolenic acid (GLA) and alpha-linolenic acid (ALA) in seed oil",
+      "Trace THC (<0.3% in hemp varieties)"
+    ],
+    "partsUsed": [
+      "Aerial flowers and leaves (CBD-rich extract)",
+      "Seeds and seed oil",
+      "Root (traditional decoction)",
+      "Fiber (topical applications, poultices)"
+    ],
+    "traditionalUses": [
+      "Ancient Chinese medicine (Shennong Bencao Jing): seeds used as tonic food and to treat constipation and wasting diseases",
+      "Ayurvedic tradition: 'Vijaya' used to stimulate appetite, relieve pain, and as a sleep aid",
+      "European folk medicine: poultices of seeds and leaves applied for skin inflammation and joint pain",
+      "Scythian steam baths (Herodotus, 5th c. BCE): burned seeds inhaled for intoxication and ritual cleansing",
+      "Medieval European herbalism: seeds and oil used for digestive complaints and as a nutritive tonic",
+      "Traditional Islamic medicine: anti-inflammatory and analgesic for headaches and neuralgia",
+      "Indigenous North American traditions: fiber and seeds as food and material culture; some groups used leaf preparations for pain",
+      "Traditional use across Central Asia for insomnia, anxiety, and muscle spasm relief"
+    ],
+    "modernUses": [
+      "FDA-approved CBD (Epidiolex) for treatment-resistant epilepsy (Dravet syndrome, Lennox-Gastaut syndrome) — RCT evidence",
+      "Anxiety reduction: multiple RCTs showing CBD reduces anxiety in social anxiety disorder and PTSD",
+      "Anti-inflammatory and analgesic: topical CBD reduces pain and inflammation in preclinical and small clinical studies",
+      "Neuroprotective effects studied in Parkinson's disease, Alzheimer's, and multiple sclerosis",
+      "Hemp seed oil: favorable omega-6:omega-3 ratio (3:1) supports cardiovascular health",
+      "Sleep quality improvement: low-dose CBD studied for insomnia and sleep disorders",
+      "Antiemetic effects: CBD reduces chemotherapy-induced nausea (preliminary clinical data)",
+      "Acne reduction: CBD inhibits sebocyte proliferation and sebum production in vitro"
+    ],
+    "preparations": [
+      "CBD tincture (sublingual): 15–50 mg CBD per dose, 1–2× daily for anxiety/pain/sleep",
+      "CBD capsules/softgels: 25–75 mg CBD daily, standardized extract",
+      "Topical CBD cream or balm: 3–8% CBD concentration applied to affected area 2–3× daily",
+      "Hemp seed oil (culinary): 1–2 tablespoons daily in food for nutritional omega fatty acids",
+      "CBD isolate powder: 10–100 mg in water or food, precise dosing",
+      "Full-spectrum hemp extract (oral): 15–30 mg CBD equivalent twice daily; includes minor cannabinoids and terpenes for entourage effect"
+    ],
+    "contraindications": [
+      "Pregnancy and breastfeeding: insufficient safety data; avoid CBD products",
+      "Liver disease: CBD is hepatically metabolized; elevated liver enzymes reported at high doses",
+      "Children under 2 years: except under medical supervision for seizure disorders",
+      "Known hypersensitivity to Cannabis species",
+      "Pre-existing psychiatric conditions (schizophrenia, psychosis): monitor closely; high-THC products contraindicated",
+      "Avoid high-dose CBD before or during surgical procedures due to platelet effects"
+    ],
+    "sideEffects": [
+      "Drowsiness and sedation, particularly at doses >150 mg CBD",
+      "Dry mouth (xerostomia) at therapeutic doses",
+      "Diarrhea and gastrointestinal upset reported in clinical trials",
+      "Elevated liver enzymes (ALT/AST) at doses >20 mg/kg/day in epilepsy trials",
+      "Reduced appetite and weight changes in some users",
+      "Interaction with drug metabolism leading to altered plasma levels of co-medications"
+    ],
+    "drugInteractions": [
+      "CYP450 inhibitor (CYP3A4, CYP2C19, CYP2D6): increases plasma levels of warfarin, clobazam, valproate, and many other drugs — requires therapeutic drug monitoring",
+      "CNS depressants (benzodiazepines, opioids, alcohol): additive sedation",
+      "Anticoagulants (warfarin, heparin): CBD inhibits warfarin metabolism, increasing bleeding risk",
+      "Antiepileptics (clobazam, valproate): pharmacokinetic interactions leading to dose adjustment needs",
+      "Immunosuppressants (cyclosporine, tacrolimus): CBD alters metabolism, monitor serum levels"
+    ]
+  },
+  {
+    "slug": "puerh-tea",
+    "name": "Pu-erh Tea",
+    "latinName": "Camellia sinensis var. assamica",
+    "family": "Theaceae",
+    "familyLatin": "Tea family",
+    "nativeRange": "Yunnan Province, China; also found in parts of Myanmar, Laos, Vietnam, and northeast India in wild ancient tree populations",
+    "habitat": "Ancient tea forests, mountain slopes, and subtropical highlands at 1,000–2,100 m elevation; prefers acidic, well-drained, humus-rich soils with high humidity and misty conditions",
+    "description": {
+      "overall appearance": "A large-leaf variety of the tea plant; wild trees can reach 10–30 m in height with trunk diameters exceeding 1 m in ancient specimens, though cultivated shrubs are pruned to 1–2 m; leaves are significantly larger than small-leaf tea varieties with a more robust, darker appearance.",
+      "roots": "Deep, extensive root system in wild trees penetrating several meters; cultivated shrubs have a well-developed fibrous root network; mycorrhizal associations are important for nutrient uptake in forest soils",
+      "stem": "Woody, multi-branched; bark is grey-brown and smooth on young branches, becoming rougher with age; branches are lenticellate",
+      "leaves": "Larger than standard tea cultivars: 10–20 cm long, 4–8 cm wide; elliptic-oblong, dark glossy green on upper surface, lighter beneath; margins serrate; prominent midrib with 8–12 pairs of lateral veins",
+      "flowers": "White with yellow stamens, 2.5–4 cm diameter; borne singly or in small clusters in leaf axils; fragrant; bloom in autumn to early winter",
+      "fruits/seeds": "Capsules 2–3 cm, woody, containing 1–3 globose brown seeds approximately 1–1.5 cm diameter with high oil content"
+    },
+    "compounds": [
+      "Theabrownins — unique high-molecular-weight polyphenols formed during microbial fermentation",
+      "Catechins: EGCG, ECG, EC (reduced compared to green tea due to oxidation)",
+      "Gallic acid and ellagic acid — polyphenolic antioxidants",
+      "Statins (lovastatin-like compounds): produced by Aspergillus niger during fermentation",
+      "Caffeine (1.5–3.5% dry weight) and theobromine",
+      "Polysaccharides (water-soluble): glucose, galactose, arabinose complexes with hypoglycemic activity",
+      "Strictinin, punicalin, and other ellagitannins formed during aging",
+      "Gamma-aminobutyric acid (GABA) in some preparations; diverse microbial metabolites from Puerh microbiome"
+    ],
+    "partsUsed": [
+      "Fermented, compressed or loose-leaf tea (processed leaves)",
+      "Aged tea cake (bingcha — disk-shaped compressed tea)",
+      "Tea broth/decoction from aged leaves"
+    ],
+    "traditionalUses": [
+      "Traditional Chinese medicine: used for centuries in Yunnan to aid digestion, reduce fatty foods burden, and resolve phlegm",
+      "Historically traded along the Ancient Tea Horse Road (Cha Ma Gu Dao) as a tonic and digestive aid for Tibetan and Himalayan populations consuming high-fat diets",
+      "Tibetan tradition: mixed with yak butter and salt as 'butter tea' (Po Cha) for caloric sustenance and altitude adaptation",
+      "Chinese folk medicine: prescribed for hangover relief, bloating, and dysentery",
+      "Regional use in Yunnan for lowering blood lipids and body weight in elderly populations",
+      "Traditional post-meal digestive aid in southern Chinese cuisine",
+      "Used in cooling decoctions for summer heat syndromes in TCM",
+      "Applied topically in some traditions for skin inflammation and wound healing"
+    ],
+    "modernUses": [
+      "Lipid-lowering: multiple clinical trials show significant reduction in LDL, total cholesterol, and triglycerides with daily consumption",
+      "Weight management: theabrownins modulate gut microbiota and reduce fat absorption in human and animal studies",
+      "Blood glucose regulation: polysaccharides inhibit alpha-glucosidase and improve insulin sensitivity",
+      "Gut microbiome modulation: prebiotic effects favor Bifidobacterium and Lactobacillus proliferation",
+      "Antioxidant protection: aged Pu-erh has distinct antioxidant profile from green tea, with theabrownins showing strong free radical scavenging",
+      "Anti-atherosclerotic effects: reduces plaque formation in animal models; human epidemiological support from Yunnan populations",
+      "Antimicrobial activity: catechin derivatives and fermentation metabolites inhibit H. pylori and other pathogens",
+      "Cognitive support: caffeine and L-theanine combination studied for alertness without jitteriness"
+    ],
+    "preparations": [
+      "Brewed tea: 3–5 g aged Pu-erh (loose or broken from cake) steeped in 95°C water for 20–60 seconds (gongfu style) or 3–5 minutes; multiple infusions possible",
+      "Concentrated decoction: 10 g boiled in 500 ml water for 10 minutes, strained; 150 ml taken 2–3× daily for lipid lowering",
+      "Standardized extract capsules: 500–1000 mg daily, standardized to theabrownins content",
+      "Cold brew: 5–8 g in 500 ml cold water, steeped 8–12 hours in refrigerator; gentler extraction",
+      "Tea tincture: 1:5 in 40% ethanol; 2–4 ml per dose",
+      "Aged tea cake (10–20 year): 3–5 g brewed as tonic; flavor profile more mellow and earthy than young Pu-erh"
+    ],
+    "contraindications": [
+      "Iron-deficiency anemia: tannins inhibit non-heme iron absorption; avoid with meals if iron-deficient",
+      "Pregnancy: caffeine content requires limiting to <200 mg/day total caffeine intake",
+      "Gastric ulcers or severe acid reflux: tannins and caffeine may exacerbate",
+      "Osteoporosis: excessive tea consumption may reduce calcium absorption — monitor",
+      "Hypersensitivity to Camellia sinensis or related compounds",
+      "Insomnia or anxiety disorders: caffeine content warrants afternoon cutoff"
+    ],
+    "sideEffects": [
+      "Caffeine-related effects: insomnia, palpitations, nervousness at high consumption (>5 cups/day)",
+      "Constipation possible due to tannin content in some individuals",
+      "Nausea on empty stomach, particularly with highly aged or strong preparations",
+      "Fluoride accumulation with very high long-term consumption from mature tea leaves",
+      "Tannin staining of teeth with chronic consumption",
+      "Rare allergic reactions including contact dermatitis reported"
+    ],
+    "drugInteractions": [
+      "Iron supplements and dietary iron: tannins significantly reduce absorption; separate by 2 hours",
+      "Anticoagulants (warfarin): vitamin K content and antioxidant effects may alter INR — monitor",
+      "Stimulants and sympathomimetics: additive effects with caffeine content",
+      "Hypoglycemic agents (metformin, insulin): potential additive blood glucose lowering — monitor",
+      "Adenosine: caffeine blocks adenosine receptors, reducing efficacy of adenosine-based medications"
+    ]
+  },
+  {
+    "slug": "cacao",
+    "name": "Cacao",
+    "latinName": "Theobroma cacao",
+    "family": "Malvaceae",
+    "familyLatin": "Mallow family",
+    "nativeRange": "Lowland tropical rainforests of the Amazon basin and Orinoco River basin in South America; domesticated in Mesoamerica by Olmec and Maya civilizations",
+    "habitat": "Understory of humid tropical rainforests at 0–600 m elevation; requires partial shade, year-round warmth (18–32°C), high humidity (70–100%), and well-drained, deep, fertile soils near equator",
+    "description": {
+      "overall appearance": "A small to medium evergreen tree growing 4–8 m in cultivation and up to 15 m in the wild, with a broad, spreading canopy; characterized by the unusual cauliflory (flowers and fruits growing directly from trunk and main branches) and distinctively colored football-shaped pods.",
+      "roots": "Deep taproot extending 1–2 m with extensive lateral fibrous root system in the upper 30 cm of soil; highly susceptible to waterlogging and root rot; mycorrhizal associations critical for phosphorus uptake",
+      "stem": "Erect main trunk, 10–20 cm diameter at maturity; bark smooth to slightly furrowed, grey-brown; young twigs angular and pubescent; cauliflory causes flowers to emerge from dormant bud cushions on main trunk and branches",
+      "leaves": "Large, simple, oblong-elliptic, 20–40 cm long by 7–15 cm wide; alternately arranged; young leaves are pink-red to bronze, maturing to glossy dark green; prominent mid-vein with 10–14 pairs of lateral veins; petioles with two swollen pulvini allowing leaf orientation",
+      "flowers": "Tiny (1 cm), white to pale pink with purple streaks; 5 petals; borne in clusters directly on trunk (cauliflory); pollinated by tiny midges (Forcipomyia spp.); malodorous to attract pollinators",
+      "fruits/seeds": "Large elongated berry (pod) 15–30 cm long, 8–10 cm wide; green, yellow, orange, or red when ripe; thick, woody rind containing 20–50 almond-shaped seeds (cacao beans) embedded in sweet white mucilaginous pulp"
+    },
+    "compounds": [
+      "Theobromine (1–4% in dry cacao) — xanthine alkaloid; primary active compound",
+      "Caffeine (0.1–0.8%) — lesser quantity than coffee or tea",
+      "Flavanols: epicatechin, catechin, and procyanidins (oligomeric proanthocyanidins) — highest in minimally processed cacao",
+      "Anandamide (N-arachidonoylethanolamine) and anandamide precursors including N-oleoylethanolamide",
+      "Phenylethylamine (PEA) — trace amine associated with mood elevation",
+      "Magnesium (400–500 mg/100g dry cacao) — one of highest plant sources",
+      "Tryptophan, tyrosine, and serotonin precursors in whole bean",
+      "Polyphenols: resveratrol, quercetin, kaempferol, and ferulic acid in whole cacao"
+    ],
+    "partsUsed": [
+      "Cacao beans (seeds) — fermented, dried, roasted or raw",
+      "Cacao nibs (broken roasted or raw beans)",
+      "Cacao butter (fat expressed from beans)",
+      "Cacao powder (defatted, processed beans)",
+      "Cacao pulp (fresh fruit flesh around seeds)"
+    ],
+    "traditionalUses": [
+      "Maya civilization: xocolatl (bitter cacao drink) consumed by elite warriors and royalty for energy, endurance, and ritual purposes; documented in Dresden Codex",
+      "Aztec tradition: cacao beans used as currency; frothy drink mixed with chili, vanilla, and spices used as a stimulant and tonic for stamina",
+      "Amazonian indigenous traditions: fresh cacao pulp and seeds consumed for nutrition and sustained energy during hunting",
+      "Mesoamerican medicinal use: applied topically for skin conditions, burns, and dry skin; used internally for fatigue and debility",
+      "Olmec civilization (1500–400 BCE): earliest documented cacao use; fermented beverages from cacao pulp",
+      "Colonial-era Spanish medicine: prescribed by physicians for melancholy, consumption (tuberculosis), and as a general tonic",
+      "Traditional Colombian and Venezuelan shamanic ceremony: ceremonial cacao for heart-opening rituals and plant medicine ceremonies",
+      "Caribbean folk medicine: cacao butter used topically for stretch marks, scars, and lips; internally for cough and chest conditions"
+    ],
+    "modernUses": [
+      "Cardiovascular protection: flavanols (particularly epicatechin) shown in multiple RCTs to lower blood pressure, improve endothelial function, and reduce LDL oxidation",
+      "Cognitive enhancement: cocoa flavanols improve cerebral blood flow, memory, and processing speed in elderly populations (COSMOS-Mind trial)",
+      "Mood elevation and antidepressant effects: theobromine and PEA modulate dopamine and serotonin pathways; dark chocolate reduces cortisol and catecholamines in stressed subjects",
+      "Anti-inflammatory: procyanidins reduce inflammatory biomarkers (CRP, IL-6) in clinical studies",
+      "Antidiabetic properties: epicatechin improves insulin sensitivity and glucose tolerance in clinical trials",
+      "Skin health: topical cacao butter and oral flavanols improve skin hydration, elasticity, and UV resistance",
+      "Cardioprotective platelet effects: cocoa flavanols inhibit platelet aggregation and reduce thrombosis risk",
+      "Neuroprotection: epicatechin crosses blood-brain barrier; preclinical evidence for protection against neurodegeneration"
+    ],
+    "preparations": [
+      "Ceremonial cacao drink: 20–40 g of minimally processed 100% cacao paste dissolved in hot water or plant milk; 1 cup 1–2× daily",
+      "Raw cacao powder: 1–2 tablespoons (7–14 g) in smoothies or as food additive; 15–40 mg flavanols per gram",
+      "Dark chocolate (>70% cacao): 20–40 g daily; studies use 30–40 g for cardiovascular effects",
+      "Standardized cocoa flavanol extract: 400–900 mg cocoa flavanols daily in capsule form (as studied in COSMOS trial)",
+      "Cacao nibs: 1–2 tablespoons daily as food; high in fiber and flavanols",
+      "Topical cacao butter: apply undiluted to skin 1–2× daily for moisturizing and healing effects"
+    ],
+    "contraindications": [
+      "Migraine sufferers: tyramine, phenylethylamine, and caffeine in cacao can trigger migraines in susceptible individuals",
+      "Kidney stones (calcium oxalate type): cacao is high in oxalate; limit in those with history",
+      "Gastroesophageal reflux disease (GERD): theobromine relaxes lower esophageal sphincter, worsening reflux",
+      "Stimulant sensitivity or arrhythmias: caffeine and theobromine content warrants caution",
+      "Allergy to Theobroma species or nickel (cacao is high in nickel, problematic for nickel-sensitive individuals)",
+      "Pets (especially dogs and cats): theobromine is toxic; not for human clinical concern but relevant in household safety"
+    ],
+    "sideEffects": [
+      "Stimulant effects: insomnia, palpitations, and anxiety with high consumption",
+      "Gastrointestinal: nausea, heartburn, and loose stools at high doses due to theobromine",
+      "Headache or migraine triggering in susceptible individuals",
+      "Acne flares reported anecdotally with high dairy chocolate consumption (may be dairy/sugar, not cacao specifically)",
+      "Weight gain risk with chronic high intake of processed chocolate (caloric density and added sugars)",
+      "Rare allergic reactions: urticaria, eczema"
+    ],
+    "drugInteractions": [
+      "MAO inhibitors (phenelzine, tranylcypromine): tyramine and PEA in cacao may cause hypertensive crisis — avoid",
+      "Stimulants (Adderall, modafinil, ephedrine): additive CNS and cardiovascular stimulation",
+      "Anticoagulants (warfarin, aspirin): cacao's antiplatelet effects may increase bleeding risk",
+      "Antihypertensives: additive blood pressure lowering; monitor for hypotension",
+      "Adenosine (cardiac): caffeine content may antagonize adenosine-based cardiac medications"
+    ]
+  },
+  {
+    "slug": "vanilla",
+    "name": "Vanilla",
+    "latinName": "Vanilla planifolia",
+    "family": "Orchidaceae",
+    "familyLatin": "Orchid family",
+    "nativeRange": "Atlantic coast of Mexico, particularly Veracruz and Oaxaca states; extending into Guatemala and Belize; originally growing in humid tropical forests",
+    "habitat": "Humid tropical forest understory and forest edges; climbing on host trees using aerial roots; requires partial to dappled shade, high humidity, well-drained organic soils, and warm temperatures (20–30°C) year-round",
+    "description": {
+      "overall appearance": "A climbing hemiepiphytic vine in the orchid family, reaching 30–60 m in length when mature in the wild, though commonly cultivated at 1–3 m; stems are thick, succulent, and green with nodes bearing alternate leaves and aerial roots that anchor to support structures.",
+      "roots": "Both terrestrial roots anchoring in soil and multiple fleshy aerial roots at each node that cling to host trees and absorb moisture and nutrients from air and bark; root tips are highly sensitive to humidity",
+      "stem": "Cylindrical, succulent, bright green, 1–1.5 cm thick; nodes every 5–12 cm bearing one leaf and aerial roots; stem contains vanilla-characteristic vanillin precursor glucosides",
+      "leaves": "Flat, fleshy, ovate-oblong, 8–22 cm long by 2–6 cm wide; bright green, slightly succulent texture; parallel venation; alternately arranged; reduced to small scales in some vine sections",
+      "flowers": "Pale greenish-yellow, orchid-shaped, 4–6 cm across; tubular lip with fringed margin; borne in axillary racemes of 6–20 flowers; each flower opens for only one day; in cultivation, hand-pollinated to set fruit",
+      "fruits/seeds": "Cylindrical pods (beans) 10–25 cm long by 8–15 mm wide; green when immature, yellow-brown when ripe; contain thousands of tiny black aromatic seeds embedded in an oily pulp; cured pods develop characteristic complex vanilla aroma"
+    },
+    "compounds": [
+      "Vanillin (4-hydroxy-3-methoxybenzaldehyde) — primary aromatic compound; 1.5–3% in cured beans",
+      "p-Hydroxybenzaldehyde — second major phenolic aldehyde",
+      "Vanillic acid and ferulic acid — hydroxycinnamic acid derivatives",
+      "4-Hydroxybenzyl alcohol and 4-hydroxybenzyl methyl ether",
+      "Glucovanillin — precursor glucoside cleaved during curing",
+      "Anise alcohol (p-anisyl alcohol) contributing to aroma profile",
+      "Polyphenols and catechol-type compounds with antioxidant activity",
+      "Vanillyl alcohol, heliotropin (piperonal), and over 200 trace aromatic compounds in authentic cured beans"
+    ],
+    "partsUsed": [
+      "Cured seed pods (vanilla beans)",
+      "Vanilla extract (ethanol/water extraction of cured beans)",
+      "Vanilla oleoresin (concentrated extract)",
+      "Raw pods and flowers (limited traditional use)"
+    ],
+    "traditionalUses": [
+      "Totonac civilization of Veracruz (pre-Columbian): Tlilxochitl ('black flower') was a sacred plant used to flavor cacao drinks and as a medicinal aromatic",
+      "Aztec tradition: combined with cacao and chili in xocolatl; used as an aphrodisiac and tonic for fatigue and heart complaints",
+      "Mesoamerican traditional medicine: vanilla pod smoke and preparations used for headaches, nausea, and fever",
+      "Mexican folk medicine: vanilla extract taken internally for digestive complaints, flatulence, and as a general stimulant tonic",
+      "Colonial European medicine (17th–18th century): prescribed by European physicians as a stimulant, aphrodisiac, and remedy for 'melancholy' and fever",
+      "Traditional use in Mexico for spider and snake bites when applied topically or taken as tea",
+      "Aromatherapy and perfumery traditions globally: vanilla scent used for calming and anxiety relief",
+      "Caribbean folk medicine: vanilla bean preparations for rheumatism and as a general tonic"
+    ],
+    "modernUses": [
+      "Antioxidant activity: vanillin and ferulic acid show significant DPPH radical scavenging in vitro and protective effects in cell models",
+      "Anti-inflammatory: vanillin inhibits NF-κB pathway and reduces pro-inflammatory cytokines in cell and animal studies",
+      "Antidepressant and anxiolytic effects: vanilla aroma shown to reduce anxiety and improve mood in human clinical studies (aromatherapy)",
+      "Antimicrobial: vanillin demonstrates activity against bacteria including E. coli, S. aureus, and food pathogens; studied as natural food preservative",
+      "Antimutagenic and anticarcinogenic: vanillin inhibits chemical-induced mutagenesis in bacterial and animal models",
+      "Neuroprotective: ferulic acid (a metabolite of vanillin) has well-documented neuroprotective effects in Alzheimer's models",
+      "Antifatigue: small human studies report reduced mental fatigue with vanilla aromatherapy",
+      "Possible appetite-modulating effects: vanilla scent studied as a satiety enhancer reducing sweet food cravings"
+    ],
+    "preparations": [
+      "Vanilla extract (culinary): standard 1-fold extract = 100 g vanilla beans per 1 L of 35% ethanol; 1 teaspoon (5 ml) per use in food",
+      "Vanilla bean tea: split 1 bean into 300 ml water, simmer 10 minutes; drink 1 cup for digestive complaints",
+      "Vanilla tincture: 1:5 in 60% ethanol; 1–2 ml per dose for digestive and tonic use",
+      "Aromatherapy essential oil/absolute: 1–5 drops in diffuser for anxiolytic and mood-enhancing effects",
+      "Vanilla oleoresin: 10–50 mg in capsule as antioxidant supplement (specialty formulations)",
+      "Topical vanilla-infused oil: 10–20 vanilla beans infused in 250 ml carrier oil 4–6 weeks; apply to skin for moisturizing and mild anti-inflammatory effects"
+    ],
+    "contraindications": [
+      "Vanilla allergy: cross-reactivity with balsam of Peru and other related phenolics; contact dermatitis reported",
+      "High-dose vanillin supplements: insufficient clinical safety data; avoid in pregnancy beyond food amounts",
+      "Individuals sensitive to phenolic compounds or suffering from phenol-containing food sensitivities",
+      "Concentrated extracts should not replace medical treatment for anxiety or depression",
+      "Occupational dermatitis risk with frequent handling of vanilla beans (vanillin sensitization)"
+    ],
+    "sideEffects": [
+      "Contact dermatitis from handling vanilla beans or concentrated extracts ('vanilla itch' — vanillism)",
+      "Headache reported with high aromatic exposure in sensitive individuals",
+      "Mild gastrointestinal upset with high-dose extract consumption",
+      "Rare systemic allergic reactions in highly sensitized individuals",
+      "Potential confounding of urine catecholamine tests (vanillylmandelic acid measurement) with high vanilla consumption"
+    ],
+    "drugInteractions": [
+      "MAO inhibitors: vanillin and related phenolics may theoretically interact; caution with phenelzine or tranylcypromine",
+      "Anticoagulants: ferulic acid has mild antiplatelet activity; monitor with warfarin at high supplement doses",
+      "Central nervous system depressants: additive sedation with aromatherapy use at high concentrations (theoretical)",
+      "Chemotherapy agents: vanillin studied as sensitizer in some cancer models — avoid high-dose supplements during active chemotherapy without medical guidance"
+    ]
+  },
+  {
+    "slug": "alfalfa",
+    "name": "Alfalfa",
+    "latinName": "Medicago sativa",
+    "family": "Fabaceae",
+    "familyLatin": "Legume / Pea family",
+    "nativeRange": "Central Asia, likely originating in Iran and the Caucasus region; one of the oldest cultivated forage crops; widely naturalized in North America, Europe, and Australia",
+    "habitat": "Temperate grasslands, roadsides, disturbed areas, and cultivated fields; thrives in deep, well-drained calcareous or neutral soils with full sun exposure; deep root system allows survival in drought conditions",
+    "description": {
+      "overall appearance": "An erect to semi-erect perennial leguminous herb, 30–90 cm tall, with characteristic trifoliate leaves, purple to violet flower clusters, and a deep taproot that can penetrate 4–15 m into the subsoil — one of the deepest-rooted herbaceous plants known.",
+      "roots": "Massive deep taproot system extending 4–15 m; nodulated with nitrogen-fixing Sinorhizobium bacteria; root crown at soil surface survives winter and drought; roots concentrate minerals from deep soil layers",
+      "stem": "Erect to ascending, multiple stems arising from crown; slender, branched, hollow to pithy; 30–90 cm; pubescent with fine hairs; green to reddish in color",
+      "leaves": "Trifoliate compound; leaflets obovate to oblong, 1–3 cm long, finely toothed in upper half; alternately arranged; stipules lanceolate with toothed margins; rich in chlorophyll, vitamin K, and mineral content",
+      "flowers": "Purple to violet, occasionally white or yellow; small pea-type flowers 7–10 mm; arranged in short dense racemes of 5–30 flowers; bloom from late spring through summer; coiled seed pods follow pollination",
+      "fruits/seeds": "Spirally coiled pods 2–9 mm diameter; each pod contains 2–6 small kidney-shaped seeds; seeds 2–3 mm, olive-green to yellow-brown; highly nutritious"
+    },
+    "compounds": [
+      "Phytoestrogens: coumestans (coumestrol up to 6 mg/100g dry weight) and isoflavones (formononetin, biochanin A)",
+      "Chlorophyll — one of highest plant sources; 300–500 mg/100g dry alfalfa leaf",
+      "Saponins: soyasaponins I, II, III and medicagenic acid glycosides (hemolytic; mostly in seeds and sprouts)",
+      "Vitamin K1 (phylloquinone): 300–500 mcg/100g dried leaf — among highest plant sources",
+      "L-canavanine — non-protein amino acid found primarily in seeds; potential toxin",
+      "Beta-carotene and xanthophylls: 50–200 mg/100g dry leaf",
+      "Minerals: calcium (1.5–2%), magnesium, phosphorus, potassium, zinc, iron, manganese",
+      "Vitamins C, E, and B-complex; protein 18–25% of dry weight"
+    ],
+    "partsUsed": [
+      "Dried leaf (aerial herbage)",
+      "Sprouts (germinated seeds for salad use)",
+      "Seeds (limited use)",
+      "Leaf juice/expressed juice"
+    ],
+    "traditionalUses": [
+      "Traditional Chinese medicine: 'Mu Xu' used as a diuretic and for kidney stones, urinary infections, and edema",
+      "Ayurvedic tradition: used as a nutritive tonic, diuretic, and to treat arthritis and digestive weakness",
+      "Arab herbalism: first described as 'al-fisfisa' for horses but also used by humans for fatigue and vitamin deficiency",
+      "Native American traditions: various tribes used alfalfa preparations for diuresis, kidney complaints, and as nutritive food",
+      "European folk medicine: used for digestive disorders, anemia, and as a spring tonic after winter vitamin depletion",
+      "Traditional use across Asia and Middle East as a galactagogue to promote breast milk production",
+      "North American folk use for arthritis pain relief and menopausal symptoms",
+      "Whole-plant preparations used in traditional system for chronic cough and asthma as an expectorant"
+    ],
+    "modernUses": [
+      "Nutritional supplementation: dense source of vitamins K1, C, and A; used in green powder supplements for overall nutrition",
+      "Menopausal symptom relief: phytoestrogens (coumestrol) weakly bind estrogen receptors; studied for hot flash reduction",
+      "Cholesterol modulation: saponins bind bile acids in gut, reducing cholesterol reabsorption; animal studies show benefit",
+      "Antidiabetic: leaf extracts studied for alpha-glucosidase inhibition and improvement of glucose tolerance in animal models",
+      "Diuretic and kidney stone prevention: traditional use supported by mild diuretic activity in preliminary studies",
+      "Wound healing and skin nutrition: topical chlorophyll-rich preparations for wound deodorization and healing",
+      "Anti-inflammatory: saponins and phytoestrogens modulate inflammatory cytokines in cell studies",
+      "Probiotic support: sprouts and fermented alfalfa preparations support gut microbiome in preliminary research"
+    ],
+    "preparations": [
+      "Dried alfalfa leaf tea: 1–2 teaspoons (2–4 g) in 250 ml boiling water, steep 10–15 minutes; drink 2–3× daily for nutritive and diuretic effects",
+      "Alfalfa leaf capsules: 500–1000 mg dried herb per capsule; 2–4 capsules 2× daily",
+      "Alfalfa sprouts: 50–100 g fresh daily as salad component; highest in living enzymes and chlorophyll",
+      "Liquid extract (1:1): 1–4 ml per dose, 3× daily",
+      "Green powder blend: 5–10 g alfalfa leaf powder in water or smoothie daily for general nutrition",
+      "Alfalfa juice: 30–60 ml fresh expressed leaf juice diluted in water or juice; rich in chlorophyll and vitamins"
+    ],
+    "contraindications": [
+      "Autoimmune diseases (SLE/lupus): L-canavanine in seeds and sprouts can reactivate lupus or trigger lupus-like syndrome; seeds and sprouts specifically contraindicated",
+      "Hormone-sensitive cancers (breast, uterine, ovarian): phytoestrogen content may stimulate estrogen-dependent tumor growth",
+      "Pregnancy: phytoestrogenic and uterine-stimulating effects; avoid medicinal doses",
+      "Warfarin or anticoagulant therapy: very high vitamin K1 content will antagonize anticoagulant effect",
+      "Protein S or C deficiency (clotting disorders): high vitamin K is problematic",
+      "Renal failure: high potassium and mineral load may be contraindicated in kidney impairment"
+    ],
+    "sideEffects": [
+      "Lupus reactivation specifically from seed and sprout consumption (L-canavanine mechanism well-documented)",
+      "Photosensitization (phototoxicity) from chlorophyll content in high doses",
+      "Gastrointestinal gas and bloating from saponin and fiber content",
+      "Decreased INR and clotting time changes in patients on anticoagulants (vitamin K effect)",
+      "Thyroid function interference: goitrogenic compounds at very high doses may inhibit thyroid hormone synthesis",
+      "Rare estrogenic effects: breast tenderness or irregular cycles with prolonged high-dose phytoestrogen intake"
+    ],
+    "drugInteractions": [
+      "Warfarin and other anticoagulants (acenocoumarol, phenprocoumon): high vitamin K1 significantly antagonizes anticoagulant effect; avoid or use consistent low doses only with INR monitoring",
+      "Immunosuppressants (azathioprine, cyclosporine): canavanine may modulate immune function, potentially countering immunosuppression in autoimmune patients",
+      "Estrogenic/hormonal medications: phytoestrogens may interfere with HRT, oral contraceptives, and tamoxifen",
+      "Diabetes medications (metformin, insulin): additive hypoglycemic effects possible — monitor blood glucose",
+      "Thyroid medications: potential interference at high doses; monitor TSH"
+    ]
+  },
+  {
+    "slug": "wheatgrass",
+    "name": "Wheatgrass",
+    "latinName": "Triticum aestivum",
+    "family": "Poaceae",
+    "familyLatin": "Grass family",
+    "nativeRange": "Fertile Crescent of the Middle East (Tigris-Euphrates region); one of the first domesticated cereal crops; wheatgrass refers to the young shoots of common wheat, consumed before development of the grain",
+    "habitat": "Cultivated worldwide in temperate to subtropical climates; wheatgrass specifically grown in flats or trays at 15–22°C with high humidity for 7–14 days until harvested at 15–25 cm height; commercial production in hydroponic and soil-based systems",
+    "description": {
+      "overall appearance": "Young shoots of the wheat plant harvested 7–14 days after germination, typically when 15–25 cm tall; bright emerald green, dense, grass-like in appearance; consumed before the jointing stage when nutritional content is highest and gluten proteins are minimal.",
+      "roots": "Dense fibrous root mat in early growth; rhizomorphic root system developing rapidly from the wheat seed; roots 5–10 cm at harvest stage; white to pale yellow",
+      "stem": "Young culm, round, hollow, bright green; 2–4 mm diameter at harvest; nodes not yet developed at recommended harvest point",
+      "leaves": "Flat, linear blades 15–25 cm long at harvest, 3–6 mm wide; bright green; rough texture with fine serrations along margins; parallel venation typical of monocots",
+      "flowers": "Not applicable — harvested well before flowering stage; wheat flowers are spike-type inflorescences appearing only in mature plants",
+      "fruits/seeds": "Not applicable — harvested as young seedling; parent grain is a caryopsis (true cereal grain) 5–8 mm with yellow-brown pericarp"
+    },
+    "compounds": [
+      "Chlorophyll: 300–700 mg/100g fresh weight — structurally similar to hemoglobin with magnesium replacing iron",
+      "Superoxide dismutase (SOD) — antioxidant enzyme retained in fresh juice; heat-sensitive",
+      "P4D1 and various glycoproteins with anti-inflammatory activity reported by Chiu and colleagues",
+      "Vitamins: C (60–100 mg/100g), E, K, B1, B2, B3, B6, folic acid",
+      "Minerals: iron (0.5–1 mg/100g fresh), calcium, magnesium, zinc, selenium, potassium",
+      "Flavonoids: apigenin, luteolin, vitexin (C-glycosylflavones characteristic of grass family)",
+      "Abscisic acid (ABA) — plant hormone with studied anticancer and immune-modulating properties",
+      "Amino acids: all essential amino acids present; total protein 1–3% fresh weight"
+    ],
+    "partsUsed": [
+      "Fresh juice (expressed from young shoots)",
+      "Dried whole grass powder",
+      "Fresh shoots (chewed or blended)",
+      "Freeze-dried powder or tablets"
+    ],
+    "traditionalUses": [
+      "Ancient Mesopotamian and Egyptian records suggest consumption of young grain shoots for vitality",
+      "Modern tradition largely initiated by Ann Wigmore in the 1970s as part of 'Living Foods' diet at the Hippocrates Health Institute",
+      "Naturopathic tradition: wheatgrass juice promoted as a 'complete food' and blood-building tonic due to chlorophyll's structural similarity to hemoglobin",
+      "Alternative cancer therapy tradition: Gerson therapy and Hippocrates protocol include wheatgrass juice as a detoxifying and immune-supportive agent",
+      "Juice fasting tradition: 30–60 ml wheatgrass juice shots used as part of detox and cleansing protocols",
+      "Ayurvedic integration: young wheat shoots (godhuma ankura) mentioned in classical texts as a cooling, nutritive, and hematinic food",
+      "Traditional use in thalassemia and sickle cell patient communities in India for hemoglobin support",
+      "Raw food movement: used in green smoothies, juices, and sprout-based diets for living enzyme content"
+    ],
+    "modernUses": [
+      "Thalassemia management: Indian clinical studies show wheatgrass juice (100 ml daily) may reduce transfusion frequency in beta-thalassemia patients — possible mechanism via fetal hemoglobin induction",
+      "Antioxidant supplementation: chlorophyll and SOD reduce oxidative stress markers in small clinical trials",
+      "Ulcerative colitis: randomized double-blind trial (Ben-Arye et al., 2002) showed significant improvement in rectal bleeding and disease activity with 100 ml wheatgrass juice daily",
+      "Hyperlipidemia: preliminary studies show modest reductions in LDL and triglycerides",
+      "Detoxification support: chlorophyll binds heavy metals and aflatoxins in animal models; human studies limited",
+      "Alkalizing effects: wheatgrass juice raises urinary pH, studied for kidney stone prevention",
+      "Immunomodulatory: flavonoids and abscisic acid show T-cell modulating and NK cell enhancement in preclinical studies",
+      "Adjunct in cancer supportive care: reduces chemotherapy-related fatigue and bone marrow suppression in small trials"
+    ],
+    "preparations": [
+      "Fresh juice shot: 30–60 ml expressed juice daily on empty stomach (most bioavailable form for chlorophyll and enzymes)",
+      "Freeze-dried wheatgrass powder: 3–10 g (approximately 1–2 teaspoons) in water or juice daily; equivalent to 30–60 ml fresh juice",
+      "Wheatgrass tablets: 500 mg per tablet; 4–8 tablets daily",
+      "Fresh chewing: chew 6–8 g fresh shoots, spit fibrous pulp; extracts juice and chlorophyll",
+      "Wheatgrass smoothie blend: blend 30 g fresh shoots with 200 ml water; strain or consume whole",
+      "Therapeutic dose (clinical protocols): 100 ml fresh juice daily for UC and thalassemia studies"
+    ],
+    "contraindications": [
+      "Celiac disease or wheat allergy: cross-contamination risk with gluten in processing; mature wheat proteins may be present even in young grass (avoid in severe celiac)",
+      "Grass pollen allergy or hay fever: potential cross-reactivity with wheatgrass proteins",
+      "Immunocompromised individuals: freshly juiced wheatgrass grown in soil has risk of E. coli or mold contamination — use certified clean sources",
+      "Mold-susceptible environments: wheatgrass cultivation can harbor mold; avoid for individuals with mold sensitivity",
+      "Pregnancy: insufficient safety data for medicinal doses beyond food amounts"
+    ],
+    "sideEffects": [
+      "Nausea and vomiting, especially when consumed in large amounts on an empty stomach or by juice newcomers",
+      "Headache and mild fatigue reported in first days of use (attributed to 'detoxification' reactions — evidence limited)",
+      "Constipation or diarrhea depending on dose and individual gut response",
+      "Swelling of throat (rare) in grass-pollen-sensitive individuals",
+      "Green discoloration of stool (expected and harmless from chlorophyll)"
+    ],
+    "drugInteractions": [
+      "Anticoagulants (warfarin): high vitamin K1 may reduce anticoagulant efficacy — monitor INR",
+      "Immunosuppressants: immunomodulatory effects may theoretically interfere with transplant medications",
+      "Iron supplements: chlorophyll may enhance iron absorption (generally beneficial but monitor in hemochromatosis)",
+      "Blood glucose medications: modest hypoglycemic potential; monitor blood glucose in diabetic patients on medication"
+    ]
+  },
+  {
+    "slug": "spirulina",
+    "name": "Spirulina",
+    "latinName": "Arthrospira platensis",
+    "family": "Phormidiaceae",
+    "familyLatin": "Cyanobacteria (blue-green algae family)",
+    "nativeRange": "Naturally occurring in alkaline, warm freshwater lakes in tropical and subtropical regions; historically in Lake Chad (Central Africa), Lake Texcoco (Mexico), and various East African Rift Valley lakes",
+    "habitat": "Warm (25–37°C), highly alkaline (pH 8.5–11) freshwater lakes and ponds with high sodium carbonate and bicarbonate content; low biodiversity competitor ecosystems; commercially cultivated in outdoor raceway ponds and indoor photobioreactors worldwide",
+    "description": {
+      "overall appearance": "A microscopic, multicellular, filamentous cyanobacterium (blue-green alga) forming tightly coiled helical trichomes 0.3–0.5 mm in length; forms visible blue-green to dark green mats or blooms in alkaline lakes; commercially produced as dried dark green powder or pressed tablets.",
+      "roots": "Not applicable — no root structure; absorbs all nutrients directly from aqueous medium through cell surface",
+      "stem": "Not applicable — multicellular filaments (trichomes) composed of toroidal cells arranged in a regular helix; each trichome is 0.2–0.35 mm in diameter; helix pitch 0.4–0.6 mm",
+      "leaves": "Not applicable — photosynthesis occurs in all cells; contains phycocyanin (blue pigment) and chlorophyll giving characteristic blue-green color",
+      "flowers": "Not applicable — reproduces by fragmentation (hormogonia) and binary fission; no sexual reproduction",
+      "fruits/seeds": "Not applicable — unicellular and multicellular filamentous organism; no true seeds or fruits"
+    },
+    "compounds": [
+      "Phycocyanin (C-phycocyanin) — 15–20% of dry weight; unique blue biliprotein pigment with antioxidant and anti-inflammatory properties",
+      "Protein: 55–70% of dry weight — complete protein with all essential amino acids; superior digestibility",
+      "Beta-carotene: 1,700–3,500 mcg/g — among highest natural sources",
+      "Gamma-linolenic acid (GLA): 1–1.5 g/100g dry weight; anti-inflammatory omega-6",
+      "Vitamin B12 analogs (pseudocobalamin): biologically inactive analogs; NOT reliable B12 source for vegans",
+      "Iron: 28–58 mg/100g — high bioavailability due to phycocyanin chelation",
+      "Sulfolipids and glycolipids: antiviral activity against HIV and herpes viruses demonstrated in vitro",
+      "Phycocyanobilin — chromophore of phycocyanin; inhibits NADPH oxidase, reducing ROS production"
+    ],
+    "partsUsed": [
+      "Whole dried biomass (powder)",
+      "Tablets and capsules of dried biomass",
+      "Liquid extract preparations",
+      "Phycocyanin extract (concentrated fraction)"
+    ],
+    "traditionalUses": [
+      "Aztec civilization: 'tecuitlatl' harvested from Lake Texcoco and dried into cakes; major protein source for the population; documented by Spanish conquistador Bernal Díaz del Castillo in 16th century",
+      "Kanem-Bornu Empire (Lake Chad region, 9th–19th century): 'dihe' — dried spirulina cakes — sold in markets and used as a food staple and medicine for malnutrition",
+      "Nomadic Kanembu people of Chad: still harvest and consume spirulina daily as part of traditional diet; up to 12 g per person per day",
+      "Ancient Chinese records mention blue-green algae consumed from freshwater lakes during famine periods",
+      "Mexican traditional use: spirulina cake used for general debility, skin conditions, and eye infections",
+      "Traditional healer use in Africa: applied topically to wounds for antiseptic and healing properties",
+      "Pre-Columbian use as emergency ration for warriors and long-distance travelers in dried cake form",
+      "Traditional use in Lake Chad region for children with malnutrition and measles complications"
+    ],
+    "modernUses": [
+      "Protein supplementation: 55–70% complete protein by weight; used by vegans, athletes, and in malnutrition interventions (WHO-supported protocols)",
+      "Antioxidant and anti-inflammatory: phycocyanin and phycocyanobilin inhibit oxidative stress and inflammatory markers (CRP, IL-6) in multiple RCTs",
+      "Lipid profile improvement: meta-analyses show spirulina reduces total cholesterol, LDL, and triglycerides; raises HDL",
+      "Blood pressure reduction: meta-analysis of RCTs shows significant SBP/DBP reduction with 1–8 g daily",
+      "Heavy metal chelation and detoxification: arsenic toxicity treatment with spirulina+zinc studied in Bangladesh populations with significant benefit",
+      "Antiviral activity: sulfolipids inhibit HIV, herpes, and influenza viruses in vitro; human data limited",
+      "Anemia reduction: improves hemoglobin in iron-deficiency anemia; studied in elderly and pregnant women",
+      "Exercise performance: reduces muscle damage markers and improves time to exhaustion in athlete trials"
+    ],
+    "preparations": [
+      "Spirulina powder: 1–10 g daily in water, juice, or smoothies; typical starting dose 1–3 g, therapeutic 5–10 g",
+      "Spirulina tablets: 500 mg per tablet; 3–6 tablets daily with water (3–6× 500 mg = 1.5–3 g daily minimum)",
+      "Phycocyanin extract: 100–200 mg phycocyanin equivalent daily for anti-inflammatory applications",
+      "Spirulina paste (liquid concentrate): 5 ml equivalent to approximately 3 g dried powder",
+      "High-dose protein protocol: 15–20 g daily for athletes or malnutrition recovery (divided doses)",
+      "Topical spirulina mask: mix 1 tablespoon powder with water to paste; apply to face for 15–20 minutes for antioxidant skin benefit"
+    ],
+    "contraindications": [
+      "Phenylketonuria (PKU): high phenylalanine content makes spirulina contraindicated",
+      "Autoimmune diseases (SLE, RA, MS): immunostimulatory effects may exacerbate autoimmunity",
+      "Contaminated sources (heavy metals, microcystins): wild-harvested or low-quality spirulina may contain cyanotoxins — only use certified clean-water cultivated sources",
+      "Seafood allergy: possible cross-reactivity",
+      "Kidney disease: high protein and potassium content may burden impaired kidneys",
+      "Coagulation disorders: spirulina inhibits platelet aggregation — caution with bleeding disorders"
+    ],
+    "sideEffects": [
+      "Gastrointestinal: nausea, diarrhea, bloating particularly at doses >5 g/day or at initiation",
+      "Headache and fatigue in first days of supplementation (may relate to detox or gut adjustment)",
+      "Green-colored stools and urine (harmless)",
+      "Acne flare-up reported anecdotally in some users",
+      "Allergic reactions including urticaria and anaphylaxis in rare cases",
+      "Insomnia if taken late in day (stimulant effect from high nutrient density)"
+    ],
+    "drugInteractions": [
+      "Anticoagulants (warfarin, heparin): vitamin K content and antiplatelet effects; monitor INR",
+      "Immunosuppressants (tacrolimus, cyclosporine): spirulina's immunostimulatory effects may oppose immunosuppression",
+      "Antidiabetic medications (insulin, metformin): additive hypoglycemic effects; monitor blood glucose",
+      "Antihypertensives: additive blood pressure lowering — monitor",
+      "Thyroid medications: possible interference with iodine-sensitive thyroid function at very high doses"
+    ]
+  },
+  {
+    "slug": "chlorella",
+    "name": "Chlorella",
+    "latinName": "Chlorella vulgaris",
+    "family": "Chlorellaceae",
+    "familyLatin": "Green microalgae family",
+    "nativeRange": "Ubiquitous freshwater green microalga found globally in ponds, lakes, and soil worldwide; not region-specific; commercially cultivated in Japan, Taiwan, Germany, and USA",
+    "habitat": "Fresh water bodies, moist soils, tree bark; tolerates a wide range of conditions from cold to tropical; commercially grown in controlled outdoor ponds or closed photobioreactors with optimized light, CO2, and nutrients",
+    "description": {
+      "overall appearance": "Single-celled spherical green microalga, 2–10 micrometers in diameter; forms dense green suspensions in water; dried product is deep green powder with earthy, grassy odor; not visible individually to the naked eye — appears as a dark green mass when concentrated.",
+      "roots": "Not applicable — unicellular organism with no root structure",
+      "stem": "Not applicable — spherical unicellular organism; cell wall composed of complex polysaccharides and cellulosic material requiring mechanical disruption for bioavailability",
+      "leaves": "Not applicable — contains a single large chloroplast occupying most of the cell volume; rich in chlorophyll a and b",
+      "flowers": "Not applicable — reproduces asexually by autospore formation (each cell divides into 2–16 daughter cells)",
+      "fruits/seeds": "Not applicable — asexual reproduction via autospores; daughter cells released when parent cell wall ruptures"
+    },
+    "compounds": [
+      "Chlorophyll a and b: 2–3% of dry weight — highest chlorophyll concentration of any known organism",
+      "Chlorella Growth Factor (CGF) — concentrated nucleotide/peptide complex containing DNA, RNA, amino acids, vitamins, and minerals; unique to chlorella",
+      "Protein: 45–60% of dry weight with complete amino acid profile",
+      "Beta-1,3-glucan — immunostimulatory cell wall polysaccharide",
+      "Carotenoids: beta-carotene, lutein, zeaxanthin, alpha-carotene, astaxanthin (in some strains)",
+      "Vitamins: B12 (true cobalamin present, superior to spirulina), B1, B2, B6, C, K, folate",
+      "Omega-3 fatty acids: alpha-linolenic acid and EPA in cell membranes",
+      "Minerals: zinc, iron, magnesium, calcium, phosphorus, iodine"
+    ],
+    "partsUsed": [
+      "Whole cell dried biomass (powder, tablet)",
+      "Broken cell wall chlorella (mechanically processed for enhanced bioavailability)",
+      "Chlorella Growth Factor (CGF) — aqueous hot-water extract",
+      "Chlorella extract standardized to chlorophyll content"
+    ],
+    "traditionalUses": [
+      "No ancient traditional use as it was not discovered until 1890 by Beyerinck and has only been used medicinally since the 1950s",
+      "Japanese post-WWII use: studied as a protein source alternative to meet post-war food scarcity needs; Hiroshima radiation recovery protocols included chlorella",
+      "Japanese longevity tradition: chlorella tablets widely taken as daily tonic since the 1960s in Japan where per-capita consumption remains highest globally",
+      "Macrobiotic diet tradition: incorporated as a cleansing and nutritional supplement by George Ohsawa and followers",
+      "Natural hygiene and naturopathic medicine: promoted since 1970s for detoxification of heavy metals, chemicals, and radiation",
+      "Japanese sumo and martial arts tradition: traditional performance supplement for recovery and stamina",
+      "Soviet-era research: studied as complete food source and immune modulator for cosmonauts",
+      "Alternative cancer support: used alongside conventional treatment in Japanese integrative oncology settings"
+    ],
+    "modernUses": [
+      "Heavy metal chelation: clinical studies show chlorella significantly reduces mercury, lead, and cadmium levels in blood and urine; studied in amalgam removal protocols",
+      "Immunostimulation: beta-1,3-glucan and CGF enhance NK cell activity and macrophage function in RCTs",
+      "Antioxidant effects: lutein, zeaxanthin, and chlorophyll reduce oxidative stress biomarkers in clinical studies",
+      "Lipid profile: meta-analyses show modest reduction in total cholesterol and LDL with 5–10 g daily",
+      "Blood pressure reduction: small RCTs show significant reduction in pre-hypertensive individuals",
+      "Blood glucose management: improves fasting glucose and HbA1c in type 2 diabetics (preliminary clinical data)",
+      "Pregnancy support: dioxin transfer to breast milk reduced in Japanese study with chlorella supplementation",
+      "Fibromyalgia: CGF supplementation reduced pain and improved quality of life in small controlled trial"
+    ],
+    "preparations": [
+      "Broken cell wall chlorella tablets: 500 mg each; 6–10 tablets (3–5 g) daily in divided doses with meals",
+      "Chlorella powder: 3–10 g daily in water, juice, or smoothies; broken cell wall formulations recommended",
+      "CGF liquid extract: 1–4 ml per day; concentrated growth factor fraction",
+      "Chlorella capsules: 500–1000 mg per capsule; 3–6 capsules daily",
+      "High-dose detox protocol: 15–30 g daily during active heavy metal chelation — only under medical supervision",
+      "Topical chlorella extract: 2–5% in cream base for skin repair and moisturizing"
+    ],
+    "contraindications": [
+      "Autoimmune conditions (SLE, RA, MS): immunostimulatory beta-glucans may worsen autoimmune activity",
+      "Seafood/algae allergy: possible cross-reactivity",
+      "Iodine sensitivity or thyroid disease: iodine content may affect thyroid function",
+      "Anticoagulant therapy: high vitamin K content; monitor INR with warfarin",
+      "Celiac disease: cross-contamination risk in some products; choose certified gluten-free",
+      "Photosensitive skin conditions: chlorophyll increases photosensitivity in large doses"
+    ],
+    "sideEffects": [
+      "Gastrointestinal upset: gas, bloating, cramping, and diarrhea particularly at high doses or initiation",
+      "Green discoloration of stools (benign, expected from chlorophyll)",
+      "Acne and skin breakouts reported in some individuals starting supplementation",
+      "Photosensitivity reactions with sun exposure (particularly in fair-skinned individuals at high doses)",
+      "Fatigue or flu-like symptoms during first week of use (attributed to detoxification mobilization)",
+      "Rare allergic reactions including anaphylaxis in sensitized individuals"
+    ],
+    "drugInteractions": [
+      "Warfarin and anticoagulants: vitamin K content antagonizes anticoagulation; monitor INR with consistent dosing",
+      "Immunosuppressants (tacrolimus, mycophenolate): immunostimulatory effects may reduce immunosuppressive efficacy",
+      "Levothyroxine: potential interference with thyroid hormone absorption if taken simultaneously",
+      "Chemotherapy agents: generally studied as compatible and potentially supportive, but inform oncologist",
+      "Calcium and iron supplements: algal mineral content may compete for absorption; separate by 2 hours"
+    ]
+  },
+  {
+    "slug": "ashitaba",
+    "name": "Ashitaba",
+    "latinName": "Angelica keiskei",
+    "family": "Apiaceae",
+    "familyLatin": "Carrot / Parsley family",
+    "nativeRange": "Endemic to the Izu Islands and Pacific coastline of central Japan (Honshu); found primarily on volcanic islands including Hachijojima where it has been consumed as a longevity food for centuries",
+    "habitat": "Coastal cliffs, volcanic hillsides, forest edges, and roadsides on volcanic island soils; prefers humid, mild maritime climate with well-drained, mineral-rich volcanic soils; tolerates salt spray and partial shade",
+    "description": {
+      "overall appearance": "A large, robust perennial herb in the carrot family, growing 50–120 cm tall; notable for its bright yellow-green sap (chalcone-rich) that exudes from cut stems; regrows rapidly after cutting (name means 'tomorrow's leaf' in Japanese, implying that if cut today, new growth appears tomorrow).",
+      "roots": "Stout taproot with fibrous laterals; tan to light brown; aromatic when cut; accumulates chalcones and other bioactive compounds",
+      "stem": "Hollow, ridged, green to purplish; 1–3 cm in diameter at base; covered in fine hairs; exudes distinctive yellow latex when cut, containing xanthoangelol and 4-hydroxyderricin",
+      "leaves": "Large, 2–3 pinnately compound; leaflets broadly ovate, 5–12 cm long, coarsely toothed; dark glossy green; sheaths clasp the stem; long petioles; entire plant has a distinctive celery-like aroma",
+      "flowers": "White to greenish-white, typical compound umbels 10–20 cm across; numerous small flowers; bloom in summer to autumn",
+      "fruits/seeds": "Cremocarp (double achene) 5–8 mm, flattened, winged; typical of the Apiaceae family; dispersed by wind"
+    },
+    "compounds": [
+      "Xanthoangelol — major prenylated chalcone; most studied compound; potent anti-inflammatory, anticancer, and metabolic activity",
+      "4-Hydroxyderricin — second major chalcone; synergistic activity with xanthoangelol",
+      "Angelica chalcone dimers (xanthoangelol H, F, and related compounds)",
+      "Furanocoumarins: bergapten, xanthotoxin, psoralen (lower than many other Angelica species)",
+      "Calycosin and other isoflavones",
+      "Chlorogenic acid and caffeic acid derivatives",
+      "Vitamins: high B12, B6, C, E content; particularly high B12 for a plant source",
+      "Minerals: calcium, magnesium, iron, potassium; dietary fiber 5–8% of fresh weight"
+    ],
+    "partsUsed": [
+      "Fresh leaves and stems (eaten as vegetable)",
+      "Dried leaf powder (supplement)",
+      "Yellow sap/chalcone-rich extract",
+      "Root (traditional decoction)",
+      "Whole herb tea"
+    ],
+    "traditionalUses": [
+      "Hachijojima Island tradition: consumed daily as a longevity vegetable by the famously long-lived island population; 'tomorrow's leaf' symbolizing vitality and renewal",
+      "Traditional Japanese Kampo medicine: used for general debility, blood purification, and to invigorate the body; classified as warming and tonifying",
+      "Traditional use in Izu Islands for colds, fever reduction, and respiratory infections",
+      "Folk use in Japan for stomach complaints, digestive weakness, and poor appetite",
+      "Traditional topical application of yellow sap to wounds and skin infections for antiseptic effects",
+      "Regional longevity tonic: prepared as tempura, salad, or tea; believed to extend lifespan by residents",
+      "Traditional use in Japan for anemia and fatigue due to high iron and B12 content",
+      "Folk preparation as poultice for joint pain and inflammation on the Izu Islands"
+    ],
+    "modernUses": [
+      "Autophagy induction: xanthoangelol chalcones shown to strongly induce autophagy in vitro and in animal models — proposed anti-aging mechanism; Willnow et al. 2017 identified chalcones as potent AMPK activators",
+      "Anticancer: xanthoangelol demonstrates apoptosis-inducing and anti-proliferative effects in multiple cancer cell lines (breast, colon, leukemia)",
+      "Anti-inflammatory: chalcones strongly inhibit COX-2, NF-κB, and inflammatory cytokines comparable to pharmaceutical anti-inflammatories in vitro",
+      "Metabolic syndrome: improves insulin sensitivity, reduces visceral fat, and lowers blood glucose in animal studies; AMPK activation mechanism",
+      "Neuroprotective: chalcones protect against neuroinflammation and oxidative neuronal damage; potential in Alzheimer's and Parkinson's models",
+      "Antimicrobial: chalcone extracts show activity against MRSA, Candida, and H. pylori",
+      "Antiviral: chalcones demonstrate inhibition of influenza, HIV, and other viruses in vitro",
+      "Cardiovascular protection: reduces LDL oxidation and platelet aggregation in preliminary studies"
+    ],
+    "preparations": [
+      "Ashitaba leaf tea: 2–3 g dried leaf in 250 ml boiling water, steep 5–10 minutes; drink 2× daily",
+      "Fresh leaf consumption: 50–100 g fresh leaves daily as vegetable (tempura, salad, stir-fry) — traditional longevity dose",
+      "Ashitaba powder (standardized): 500–3000 mg daily in capsules; standardized to chalcone content",
+      "Chalcone extract: 50–100 mg xanthoangelol equivalent daily in standardized supplements",
+      "Ashitaba tincture: 1:5 in 60% ethanol; 2–4 ml 2–3× daily",
+      "Fresh sap (topical): apply yellow sap directly to wounds, acne, or skin inflammation"
+    ],
+    "contraindications": [
+      "Pregnancy and breastfeeding: furanocoumarins and strong bioactive compounds warrant avoidance at medicinal doses",
+      "Photosensitivity: furanocoumarins (bergapten) increase UV sensitivity; avoid sun exposure after application to skin",
+      "Anticoagulant therapy: antiplatelet effects of chalcones may increase bleeding risk with warfarin",
+      "Pre-surgical period: discontinue 2 weeks before surgery due to antiplatelet and autophagy-inducing properties",
+      "Hypersensitivity to Apiaceae family (carrot, parsley, celery allergy) — cross-reactivity possible",
+      "Immunosuppressive therapy: autophagy induction may interfere with some immunosuppressive medications"
+    ],
+    "sideEffects": [
+      "Photosensitization reactions: bergapten content may cause rash, blistering with UV exposure",
+      "Gastrointestinal discomfort with high-dose supplementation",
+      "Mild hypotension possible with large doses due to vasodilatory effects of chalcones",
+      "Possible interference with drug metabolism via CYP enzyme modulation (furanocoumarins)",
+      "Contact dermatitis from fresh plant handling in sensitive individuals",
+      "Headache reported with very high doses in some individuals"
+    ],
+    "drugInteractions": [
+      "Anticoagulants (warfarin): antiplatelet activity of chalcones increases bleeding risk; monitor INR",
+      "CYP3A4 substrates: furanocoumarins inhibit CYP3A4 (similar to grapefruit); may raise levels of many medications including statins, calcium channel blockers, immunosuppressants",
+      "Antidiabetic medications: additive blood glucose lowering via AMPK activation; monitor closely",
+      "Antihypertensives: additive hypotensive effect possible at high doses",
+      "Photosensitizing drugs (tetracyclines, fluoroquinolones, thiazides): additive photosensitivity risk"
+    ]
+  },
+  {
+    "slug": "cats-whiskers-java-tea",
+    "name": "Cat's Whiskers / Java Tea",
+    "latinName": "Orthosiphon aristatus",
+    "family": "Lamiaceae",
+    "familyLatin": "Mint family",
+    "nativeRange": "Southeast Asia: Indonesia, Malaysia, Philippines, Vietnam, Thailand, India; also found throughout tropical Africa and Australia; common in humid tropical lowland areas",
+    "habitat": "Humid tropical and subtropical forests, forest edges, riverbanks, and disturbed areas; cultivated as an ornamental and medicinal plant; prefers moist, well-drained, slightly acidic soils with partial to full sun",
+    "description": {
+      "overall appearance": "An erect to spreading perennial herb or subshrub growing 30–100 cm tall, named for its distinctive flowers with long protruding white to pale purple stamens resembling a cat's whiskers; widely cultivated as an ornamental in tropical gardens.",
+      "roots": "Fibrous root system; lateral roots moderately developed; root preparations rarely used medicinally",
+      "stem": "Erect, square (quadrangular) in cross-section typical of the mint family; 4–8 mm thick; smooth to slightly pubescent; branching; green to purplish, often woody at base",
+      "leaves": "Opposite, ovate to rhombic, 3–10 cm long by 1.5–5 cm wide; margins coarsely serrate to biserrate; covered in oil glands; aromatic when crushed; short-petioled; dark green above, lighter below",
+      "flowers": "White to pale purple or lilac; tubular, bilabiate (two-lipped); borne in whorled racemes; exceptionally long exserted stamens (25–35 mm) give distinctive cat-whisker appearance; bloom throughout much of the year in tropics",
+      "fruits/seeds": "Small nutlets (4 per flower) typical of Lamiaceae; dark brown to black; 1–2 mm"
+    },
+    "compounds": [
+      "Sinensetin — polymethoxylated flavone; primary active compound; strong diuretic and anti-inflammatory",
+      "Eupatorin, scutellarein tetramethyl ether, and other polymethoxyflavones",
+      "Orthosiphonin (orthosiphol) — diterpene with anti-inflammatory and PPAR-alpha agonist activity",
+      "Rosmarinic acid — potent antioxidant phenylpropanoid, also in rosemary and lemon balm",
+      "Caffeic acid and chlorogenic acid derivatives",
+      "Meso-inositol and potassium (high potassium contributes to diuretic effect)",
+      "Essential oil components: beta-caryophyllene, alpha-humulene, eucalyptol",
+      "Betulinic acid and ursolic acid — triterpenoids with anti-inflammatory and anticancer activity"
+    ],
+    "partsUsed": [
+      "Dried leaves and young stems (primary medicinal part)",
+      "Fresh leaves (tea preparation)",
+      "Standardized leaf extract"
+    ],
+    "traditionalUses": [
+      "Indonesian traditional medicine (Jamu): 'Kumis Kucing' (cat's whiskers) tea used as primary kidney tonic, diuretic, and urinary antiseptic for hundreds of years",
+      "Malaysian folk medicine: brewed as tea for kidney stones, urinary tract infections, gout, and high blood pressure",
+      "Vietnamese traditional medicine: used for edema, liver conditions, and as a general cleansing tonic",
+      "Thai traditional medicine: prescribed for kidney and bladder disorders, urinary burning, and as a diuretic",
+      "Philippine folk medicine: leaf decoction for diabetes, kidney inflammation, and hypertension",
+      "Indian Ayurvedic integration: adopted as a diuretic and anti-inflammatory herb for kidney and urinary complaints",
+      "Traditional Indonesian use for rheumatism and gout: uric acid-lowering effect promotes urate excretion",
+      "Traditional use throughout SE Asia as anti-inflammatory for arthritis, muscle pain, and joint swelling"
+    ],
+    "modernUses": [
+      "Diuretic activity: well-documented in animal and human studies; sinensetin and high potassium promote increased urine output without significant electrolyte loss",
+      "Urinary tract infections: antibacterial activity against E. coli, Klebsiella, and Proteus species; European Scientific Cooperative on Phytotherapy (ESCOP) approved for irrigation therapy of UTIs",
+      "Kidney stones prevention: increases urinary excretion of uric acid, calcium, and phosphate; reduces stone-forming tendency",
+      "Gout management: uricosuric effects reduce serum uric acid in preliminary clinical studies",
+      "Blood pressure lowering: diuretic and ACE-inhibitory effects reduce blood pressure in hypertensive animal models and preliminary human studies",
+      "Anti-inflammatory: rosmarinic acid and sinensetin inhibit COX-2, 5-LOX, and NF-κB pathways",
+      "Antidiabetic: orthosiphol and flavones improve insulin sensitivity and reduce blood glucose in animal models",
+      "Antibiofilm: leaf extracts inhibit bacterial biofilm formation, relevant for chronic UTI management"
+    ],
+    "preparations": [
+      "Standard tea: 2–3 g dried leaves in 250 ml boiling water, steep 10–15 minutes; drink 2–3 cups daily for urinary conditions — widely used clinical dose in SE Asian studies",
+      "Standardized extract: 200–400 mg standardized to 0.5–1% sinensetin, 2× daily",
+      "Fluid extract (1:1): 2–4 ml 3× daily",
+      "Cold infusion (for gentler preparation): 3–5 g leaves in 500 ml cold water, steep 8 hours in refrigerator; drink throughout the day for kidney support",
+      "Tincture (1:5 in 25% ethanol): 5–10 ml 3× daily",
+      "Combination formula: typically combined with nettle leaf, dandelion, and horsetail in European herbal kidney support products"
+    ],
+    "contraindications": [
+      "Cardiac edema or renal failure: not appropriate for fluid overload related to heart or kidney failure — these require medical treatment, not herbal diuretics",
+      "Hypokalemia: despite potassium content, excessive use may alter electrolyte balance",
+      "Pregnancy: diuretic herbs may alter amniotic fluid and electrolyte balance",
+      "Hypersensitivity to Lamiaceae family members",
+      "Severe kidney impairment: increased filtration demand inappropriate when GFR is severely reduced"
+    ],
+    "sideEffects": [
+      "Electrolyte imbalance with excessive or prolonged use (>4 weeks continuous)",
+      "Dehydration if fluid intake is not maintained alongside diuretic use",
+      "Gastrointestinal disturbance (mild nausea, stomach discomfort) occasionally reported",
+      "Allergic skin reactions in sensitive individuals",
+      "Headache and dizziness from rapid blood pressure lowering in susceptible individuals"
+    ],
+    "drugInteractions": [
+      "Antihypertensives (ACE inhibitors, diuretics, beta-blockers): additive hypotensive and diuretic effects — risk of excessive blood pressure lowering and electrolyte disturbance",
+      "Lithium: diuretic-induced sodium depletion can increase lithium toxicity; avoid concurrent use",
+      "Potassium-sparing diuretics (spironolactone): possible additive hyperkalemia due to plant's potassium content",
+      "Anticoagulants: rosmarinic acid may have mild anticoagulant effects; monitor with warfarin",
+      "Hypoglycemic agents: additive blood glucose lowering in diabetic patients on oral medications or insulin"
+    ]
+  },
+  {
+    "slug": "gymnema",
+    "name": "Gymnema",
+    "latinName": "Gymnema sylvestre",
+    "family": "Apocynaceae",
+    "familyLatin": "Dogbane family",
+    "nativeRange": "Central and southern India, Sri Lanka, Malaysia, tropical Africa; distributed across the Deccan Plateau, Western Ghats, and Sri Lankan highlands",
+    "habitat": "Tropical and subtropical deciduous forests, dry forest edges, rocky hillsides; climbing perennial woody vine growing 3–10 m high on supporting trees; prefers well-drained red laterite soils and seasonal rainfall regimes",
+    "description": {
+      "overall appearance": "A woody, twining perennial liana (climbing vine) growing 3–10 m in length; characterized by small pale yellow flowers and paired fruits; named from Sanskrit 'Gurmar' meaning 'sugar destroyer' for its remarkable property of temporarily suppressing the ability to taste sweet and bitter flavors.",
+      "roots": "Deep, woody taproot; multiple lateral roots; root used medicinally in some traditions though leaves are the primary source of gymnemic acids",
+      "stem": "Woody, twining, lenticellate; bark light grey-brown; contains milky latex; young shoots pubescent",
+      "leaves": "Opposite, elliptic-ovate, 3–8 cm long by 2–4 cm wide; short-petioled; soft, pubescent on both surfaces; dark green; base rounded; apex acute; entire or very slightly undulate margins",
+      "flowers": "Small, yellow to pale greenish-yellow; 5–7 mm diameter; axillary cymes; corolla rotate with reflexed petals; corona present; bloom during summer monsoon months",
+      "fruits/seeds": "Paired follicles (lanceolate pods) 2.5–7 cm long; splitting to release seeds; seeds flat with a long white silky coma (hair tuft) for wind dispersal"
+    },
+    "compounds": [
+      "Gymnemic acids (I–VII) — triterpenoid glycosides; primary active compounds binding taste receptors and intestinal glucose transporters; 15–20% of dry leaf",
+      "Gymnemagenin — aglycone of gymnemic acids after hydrolysis",
+      "Gurmarin — small polypeptide that suppresses sweet taste perception in rodents",
+      "Gymnemasaponins — acylated triterpene glycosides distinct from gymnemic acids",
+      "Stigmasterol, beta-sitosterol, and other phytosterols",
+      "Flavonoids: kaempferol, quercetin, luteolin derivatives",
+      "Tartaric acid, formic acid, and butyric acid",
+      "Choline, betaine, and trimethylamine in leaf extracts"
+    ],
+    "partsUsed": [
+      "Dried leaves (primary therapeutic part)",
+      "Leaf extract standardized to gymnemic acid content",
+      "Root (traditional limited use)",
+      "Fresh leaves (chewed for taste suppression effect)"
+    ],
+    "traditionalUses": [
+      "Ayurvedic medicine: 'Gurmar' (sugar destroyer) used for over 2,000 years for madhumeha (diabetes); Charaka Samhita references it for urinary disorders and sweet cravings",
+      "Traditional Indian folk medicine: leaves chewed to suppress sugar cravings and appetite for sweets; used for weight management",
+      "Southern Indian tribal medicine: used for snake and scorpion bites as an antidote",
+      "Ayurvedic use for obesity (sthaulya): reduces appetite and fat accumulation as part of slimming formulas",
+      "Traditional Indian use for hyperacidity, constipation, and digestive complaints",
+      "Southern Indian folk use for liver protection and jaundice",
+      "Tribal use in India for cough, fever, and malaria",
+      "Traditional African use (Nigeria, Ghana): decoctions of related Gymnema species for fever and inflammation"
+    ],
+    "modernUses": [
+      "Type 2 diabetes management: gymnemic acids inhibit intestinal glucose absorption (SGLT pathways) and stimulate insulin secretion; multiple RCTs show significant HbA1c and fasting glucose reduction",
+      "Sugar craving suppression: gymnemic acids bind sweet taste receptors (T1R2/T1R3), temporarily blocking sweet perception; studied for reduction of sugar intake in overweight individuals",
+      "Weight management: reduces caloric intake from sweet foods; preliminary clinical evidence for modest weight reduction",
+      "Beta-cell regeneration: animal studies show gymnemic acid IV stimulates islet cell regeneration in pancreas — significant if confirmed in humans",
+      "Anti-obesity: inhibits fat absorption in gut and reduces adipocyte differentiation in cell studies",
+      "Lipid profile improvement: reduces total cholesterol, LDL, and triglycerides in diabetic subjects in clinical trials",
+      "Anti-inflammatory: gymnemagenin and gymnemic acids inhibit inflammatory pathways in cell and animal models",
+      "Antimicrobial: leaf extracts active against S. aureus, E. coli, and Candida in vitro"
+    ],
+    "preparations": [
+      "Standardized extract (25% gymnemic acids): 400–800 mg daily in divided doses before meals; most used clinical dose",
+      "Dried leaf powder: 1–2 g per dose, 3× daily before meals",
+      "Leaf tea: 2–4 g dried leaf steeped in 250 ml water 10–15 minutes; drink before meals",
+      "Tincture (1:5 in 40% ethanol): 2–4 ml 3× daily before meals",
+      "Chewing fresh/dried leaves: chew 1–3 leaves before sweet consumption for taste suppression effect; spit or swallow",
+      "Combination formula: often combined with bitter melon, fenugreek, and cinnamon in diabetes support products; standardized combination 500–1000 mg total"
+    ],
+    "contraindications": [
+      "Hypoglycemia risk: reduces blood glucose; must monitor carefully if already on hypoglycemic medications",
+      "Pregnancy and breastfeeding: stimulates insulin secretion; insufficient safety data",
+      "Surgery: discontinue 2 weeks before surgery due to blood glucose lowering effects under anesthesia",
+      "Hypersensitivity to Asclepiadaceae/Apocynaceae family members",
+      "Severe liver disease: triterpenoid load may stress impaired liver metabolism",
+      "Milk thistle/plant latex allergy: Gymnema produces latex; possible sensitization"
+    ],
+    "sideEffects": [
+      "Hypoglycemia, especially when combined with antidiabetic medications — blood glucose monitoring essential",
+      "Taste disturbance: temporary suppression of sweet and bitter taste for 1–2 hours after chewing or tasting high-dose preparations",
+      "Nausea and gastrointestinal upset at high doses",
+      "Headache reported in some individuals",
+      "Possible weight loss due to reduced caloric intake from sweet foods"
+    ],
+    "drugInteractions": [
+      "Insulin: additive hypoglycemic effect; dose adjustment required — risk of severe hypoglycemia",
+      "Oral hypoglycemics (metformin, sulfonylureas, glipizide): additive glucose lowering; monitor and potentially reduce pharmaceutical dose",
+      "Salicylates (aspirin): may enhance gymnema's hypoglycemic effect via shared mechanisms",
+      "Thyroid medications: gymnema may stimulate thyroid function; monitor with levothyroxine",
+      "Antiobesity medications: potential additive effects on fat and carbohydrate absorption"
+    ]
+  },
+  {
+    "slug": "bitter-melon",
+    "name": "Bitter Melon",
+    "latinName": "Momordica charantia",
+    "family": "Cucurbitaceae",
+    "familyLatin": "Gourd / Cucumber family",
+    "nativeRange": "Tropical and subtropical Asia, Africa, and the Caribbean; widely cultivated throughout Asia, West Africa, South America; believed to have originated in India or Southeast Asia",
+    "habitat": "Tropical and subtropical gardens, agricultural fields, roadsides, forest edges, and disturbed vegetation; climbing annual vine preferring well-drained, fertile soils with full sun; cultivated extensively as both food and medicine across Asia",
+    "description": {
+      "overall appearance": "A fast-growing annual climbing vine reaching 3–5 m in length, with distinctive deeply lobed leaves and the characteristic warty, bumpy-surfaced elongated fruit that turns from green to orange-yellow when ripe; widely grown for its intensely bitter edible fruit.",
+      "roots": "Fibrous root system; moderately deep taproot; thin, widely spreading lateral roots typical of annual cucurbit vines",
+      "stem": "Slender, climbing, angular; 4–7 mm diameter; covered in fine hair; tendrils arise at leaf nodes for climbing support; green to slightly reddish when mature",
+      "leaves": "Alternate, deeply 5–7 lobed, 5–12 cm across; lobes oblong-ovate with irregular teeth; slightly hairy on both surfaces; dark green; base cordate; characteristic cucurbit leaf shape",
+      "flowers": "Yellow, monoecious (male and female separate flowers on same plant); 5-petaled; 2–2.5 cm diameter; born singly in leaf axils; fragrant",
+      "fruits/seeds": "Elongated berry-like fruit 5–30 cm long; 2–10 cm wide depending on variety; surface covered in longitudinal ridges and wart-like projections; green when immature, turning orange-yellow when ripe; flesh is white to creamy, extremely bitter; contains 8–20 flat seeds surrounded by a red aril"
+    },
+    "compounds": [
+      "Charantin — steroidal glycoside mixture (sitosterol and stigmasterol glucosides); primary antidiabetic compound",
+      "Polypeptide-P (plant insulin) — insulin-like polypeptide with direct hypoglycemic activity",
+      "Momordicin I and II — cucurbitane triterpenoids contributing to bitterness and biological activity",
+      "Vicine — pyrimidine nucleoside; contributes to blood glucose lowering",
+      "Momordicosides (A–L) — triterpenoid saponins",
+      "Lectins: Momordica charantia lectin (MCL) with insulin-like binding activity",
+      "Vitamin C: 84 mg/100g fresh fruit — excellent source",
+      "Conjugated linolenic acid (alpha-eleostearic acid): in seed oil; studied for anti-obesity and anticancer effects"
+    ],
+    "partsUsed": [
+      "Fresh or dried fruit (primary therapeutic part)",
+      "Fruit juice (expressed fresh juice)",
+      "Seeds (limited traditional use)",
+      "Leaves and stems (traditional decoctions)",
+      "Root (traditional use in some regions)"
+    ],
+    "traditionalUses": [
+      "Ayurvedic medicine: 'Karela' used for thousands of years for prameha (diabetes), fever, skin diseases, and intestinal worms",
+      "Traditional Chinese medicine: 'Ku Gua' used for heat conditions, digestive complaints, fever, and as a bitter tonic for liver",
+      "West African traditional medicine: used for malaria, fever, skin infections, and intestinal parasites",
+      "Caribbean folk medicine (Jamaica, Trinidad): 'Cerasee' tea prepared from leaves and vines for blood purification, diabetes, and hypertension",
+      "South Asian Unani medicine: prescribed for diabetes, liver disorders, and as a blood purifier",
+      "Southeast Asian traditional use: eaten regularly as a bitter vegetable in dishes to 'cool' the body, improve digestion, and maintain health",
+      "Traditional Indian topical use: crushed leaves and fruit juice applied to skin conditions, wounds, and burns",
+      "African traditional use as an anthelmintic (expelling intestinal worms) and antimalarial"
+    ],
+    "modernUses": [
+      "Type 2 diabetes management: meta-analyses and systematic reviews show significant fasting blood glucose reduction; charantin, polypeptide-P, and vicine work through multiple mechanisms (insulin secretion, GLUT4 upregulation, AMPK activation)",
+      "Antiviral activity: Momordica charantia extracts show activity against HIV (MAP30 protein inhibits HIV reverse transcriptase), influenza, and Epstein-Barr virus",
+      "Anticancer: MAP30 protein and momordicosides induce apoptosis and inhibit proliferation in breast, cervical, prostate, and liver cancer cell lines",
+      "Antioxidant: high vitamin C and phenolics reduce oxidative stress biomarkers in diabetic subjects",
+      "Antimalarial: in vitro and animal studies confirm activity against Plasmodium falciparum",
+      "Lipid lowering: reduces LDL and total cholesterol in type 2 diabetic patients in small RCTs",
+      "Anti-inflammatory: inhibits NF-κB and reduces inflammatory cytokines in cell and animal studies",
+      "Anthelmintic: leaf preparations inhibit intestinal nematodes in vitro and in animal models"
+    ],
+    "preparations": [
+      "Fresh juice: 50–100 ml expressed fruit juice daily, taken before breakfast for diabetes management (most studied form)",
+      "Dried fruit powder: 2–3 g in capsules or water, 3× daily before meals",
+      "Standardized extract: 500–1000 mg per dose standardized to charantin content, 2–3× daily",
+      "Cooked fruit (food-based): 50–150 g fresh fruit daily in curries, stir-fries, or stuffed preparations",
+      "Leaf decoction: 2–4 g dried leaves in 250 ml water, simmered 10 minutes; drink 2× daily for fever and skin conditions",
+      "Tea: 1–2 g dried bitter melon slices steeped in boiling water for 10 minutes; drink 2× daily"
+    ],
+    "contraindications": [
+      "Pregnancy: abortifacient activity documented in animal studies; seeds and leaves especially contraindicated; may stimulate uterine contractions",
+      "G6PD deficiency: vicine in seeds can cause hemolytic anemia in G6PD-deficient individuals (broad bean-like reaction)",
+      "Children under 12 years: toxic seed reactions including hypoglycemic coma in young children; avoid seeds",
+      "Hypoglycemia risk: may severely lower blood glucose; contraindicated without monitoring in medicated diabetics",
+      "Liver disease: high-dose extracts hepatotoxic in some animal studies",
+      "Fertility concerns: experimental antifertility effects in animal studies; avoid when trying to conceive"
+    ],
+    "sideEffects": [
+      "Severe hypoglycemia, particularly in combination with insulin or sulfonylureas",
+      "Gastrointestinal: abdominal pain, diarrhea, nausea especially with fresh juice on empty stomach",
+      "Headache reported with therapeutic doses",
+      "Elevated liver enzymes with excessive long-term use (hepatotoxicity reports in case series)",
+      "Hemolytic anemia risk in G6PD deficiency from seed consumption",
+      "Rare: hypoglycemic coma in children who consume seeds or large amounts of juice"
+    ],
+    "drugInteractions": [
+      "Insulin and sulfonylureas: significant additive hypoglycemia — dangerous combination without dose adjustment and monitoring",
+      "Metformin and other oral hypoglycemics: additive blood glucose lowering",
+      "Chloroquine and antimalarials: may interact with antimalarial mechanisms",
+      "Antiretrovirals: MAP30 protein in bitter melon may interfere with HIV medication; consult physician if using for HIV support",
+      "Hepatotoxic drugs: additive liver stress with other hepatotoxic medications"
+    ]
+  },
+  {
+    "slug": "coptis-goldthread",
+    "name": "Coptis / Goldthread",
+    "latinName": "Coptis chinensis",
+    "family": "Ranunculaceae",
+    "familyLatin": "Buttercup family",
+    "nativeRange": "Central and southwestern China, particularly Sichuan, Guizhou, and Yunnan provinces; also found in Japan and the Korean Peninsula",
+    "habitat": "Cool, shaded, moist mountain forests and gorges at 500–2,000 m elevation; prefers rich, humus-rich, well-drained forest soils with consistent moisture and overhead shade; often grows under bamboo and broadleaf deciduous forests",
+    "description": {
+      "overall appearance": "A small, low-growing perennial herb 15–30 cm tall with distinctive bright golden-yellow roots (from which both common names derive) and attractive trifoliate leaves resembling miniature Japanese maples; one of the most important bitter herbs in Traditional Chinese Medicine.",
+      "roots": "Thin, clustered, elongated rhizomes and fibrous roots with intense bright golden-yellow color from berberine alkaloids; 5–15 cm long, 2–4 mm thick; intensely bitter taste",
+      "stem": "Short, erect scapes 15–30 cm; mostly leafless flowering stalks with a few bracts; no significant vegetative stem",
+      "leaves": "Trifoliate, basal; leaflets 2–5 cm, deeply 3–5 lobed, sharply toothed; glossy dark green on upper surface; long petioles (5–15 cm); evergreen in mild winters",
+      "flowers": "White to pale yellow; 1–2 cm diameter; 5 sepals, 5 petals; borne singly or in clusters of 3–5 on leafless scapes; early spring bloom; star-shaped, delicate",
+      "fruits/seeds": "Aggregated follicles 7–12 mm; each follicle contains 4–8 small brown seeds; typical of Ranunculaceae"
+    },
+    "compounds": [
+      "Berberine — primary isoquinoline alkaloid; 5–8% of dried root; extensively studied for antimicrobial, antidiabetic, cardioprotective, and anticancer effects",
+      "Coptisine — isoquinoline alkaloid specific to Coptis; antimicrobial and anti-inflammatory",
+      "Palmatine — isoquinoline alkaloid; antibacterial and antifungal activity",
+      "Epiberberine — diastereomer of berberine with distinct biological activity",
+      "Jatrorrhizine — quaternary ammonium alkaloid with antimicrobial activity",
+      "Worenine — benzylisoquinoline alkaloid unique to Coptis species",
+      "Ferulic acid and other hydroxycinnamic acid derivatives",
+      "Magnoflorine — aporphine alkaloid with central nervous system activity"
+    ],
+    "partsUsed": [
+      "Dried rhizome (primary therapeutic part — Huanglian in TCM)",
+      "Root extract standardized to berberine",
+      "Whole plant preparations (limited use)",
+      "Tincture of dried rhizome"
+    ],
+    "traditionalUses": [
+      "Traditional Chinese medicine: 'Huanglian' — one of the 50 fundamental herbs; used for over 2,000 years for dampness-heat conditions, dysentery, high fever with delirium, gastric ulcers, and inflammatory conditions",
+      "Classical TCM formula: Huang Lian Jie Du Tang (Coptis Detoxifying Decoction) — classic formula for fever, dysentery, and sepsis involving Coptis with three other bitter herbs",
+      "Huang Lian Su (berberine) — isolated in 1930s China; used clinically for bacterial dysentery since then",
+      "Japanese Kampo: 'Oren' used in formulas for gastritis, insomnia, and cardiovascular disease",
+      "Korean traditional medicine: Hwangryeon used for similar indications as Chinese practice; digestive and inflammatory conditions",
+      "Ancient Chinese topical use: paste or wash for eye infections, skin infections, and burns",
+      "TCM psychiatric application: used in formulas for heart fire, insomnia, anxiety, and irritability from excess heat",
+      "Historical Chinese use: Coptis tea for cholera and epidemic diarrhea outbreaks"
+    ],
+    "modernUses": [
+      "Type 2 diabetes: berberine has multiple RCTs showing efficacy comparable to metformin for blood glucose control via AMPK activation and GLUT4 upregulation",
+      "Cardiovascular protection: berberine reduces LDL, total cholesterol, and triglycerides; inhibits platelet aggregation; reduces arrhythmia in clinical studies",
+      "Antimicrobial: active against Clostridium difficile, H. pylori, E. coli, Staphylococcus, Candida, and drug-resistant organisms",
+      "Anti-inflammatory: berberine strongly inhibits NF-κB, COX-2, and inflammatory cytokines across multiple cell models",
+      "Gut microbiome modulation: berberine reshapes gut microbiota, increasing short-chain fatty acid producers and reducing pathobionts",
+      "Cancer: berberine and coptisine induce apoptosis and inhibit angiogenesis in multiple cancer types (colon, liver, breast, cervical) in preclinical studies",
+      "Neurological: berberine crosses blood-brain barrier; studied for Alzheimer's (inhibits AChE and beta-secretase), Parkinson's, and depression",
+      "NAFLD/metabolic syndrome: berberine reduces hepatic fat accumulation and improves metabolic markers in clinical trials"
+    ],
+    "preparations": [
+      "Berberine extract (standardized): 500 mg berberine HCl, 2–3× daily before meals — most studied clinical dose for diabetes and cholesterol",
+      "Dried Huanglian (root decoction): 1.5–6 g daily in water decoction as per TCM dosing; intensely bitter",
+      "Huang Lian Jie Du Tang formula: classical formula containing Coptis 9g, Scutellaria 6g, Phellodendron 6g, Gardenia 9g — traditionally prepared as decoction",
+      "Coptis tincture (1:5 in 60% ethanol): 1–2 ml, 3× daily",
+      "Berberine capsules: 300–500 mg per capsule; 1 capsule 3× daily for metabolic conditions",
+      "Topical Coptis extract: 1–2% berberine in cream for acne, skin infections, and wound care"
+    ],
+    "contraindications": [
+      "Pregnancy: berberine crosses the placenta and has been shown to cause neonatal jaundice (kernicterus risk) by displacing bilirubin from albumin; absolutely contraindicated",
+      "Neonates and young infants: same bilirubin displacement risk; contraindicated",
+      "Jaundice of any cause: worsens bilirubin conjugation problems",
+      "G6PD deficiency: may trigger hemolysis",
+      "Hypersensitivity to Ranunculaceae family",
+      "Severe liver impairment: alkaloid metabolism is hepatic"
+    ],
+    "sideEffects": [
+      "Gastrointestinal: nausea, vomiting, diarrhea, constipation — dose-dependent; most common side effect limiting high-dose use",
+      "Hypoglycemia when combined with antidiabetic medications",
+      "Hyperbilirubinemia risk in neonates exposed during pregnancy",
+      "Headache and dizziness at high doses",
+      "Prolonged QT interval (cardiac): reported with high-dose berberine; monitor in cardiac patients",
+      "Rare: drug-induced liver injury with very high doses or prolonged use"
+    ],
+    "drugInteractions": [
+      "CYP3A4 and CYP2D6 inhibition: berberine significantly inhibits these enzymes, raising levels of cyclosporine, tacrolimus, statins, midazolam, and many other drugs — potentially toxic interactions",
+      "Metformin and oral hypoglycemics: additive blood glucose lowering; hypoglycemia risk",
+      "Cyclosporine: berberine significantly raises cyclosporine blood levels via CYP3A4 inhibition — requires dose reduction and monitoring",
+      "Anticoagulants (warfarin): antiplatelet and anticoagulant effects increase bleeding risk",
+      "Cardiovascular drugs (digoxin, quinidine): QT prolongation concern with berberine; avoid combination in patients with arrhythmias"
+    ]
+  },
+  {
+    "slug": "white-peony",
+    "name": "White Peony Root",
+    "latinName": "Paeonia lactiflora",
+    "family": "Paeoniaceae",
+    "familyLatin": "Peony family",
+    "nativeRange": "Northeast China (Manchuria), Siberia, Mongolia, Korea, and Japan; primarily distributed in temperate grasslands and forest edges of the Asian continent",
+    "habitat": "Temperate meadows, open forest clearings, and rocky slopes at 480–2,300 m elevation; tolerates cold winters down to -30°C; prefers well-drained, loamy, slightly alkaline soils with full sun to partial shade",
+    "description": {
+      "overall appearance": "A bushy herbaceous perennial 45–90 cm tall with large, showy flowers (white to deep pink to red) and compound leaves; the medicinal root (Bai Shao) is the peeled, parboiled root of the white-flowered garden peony, while Red Peony (Chi Shao) is the unprocessed root — both from the same species but used differently in TCM.",
+      "roots": "Thick, fleshy, cylindrical tuberous roots 8–20 cm long, 1–4 cm thick; outer skin removed and roots boiled then dried for Bai Shao (white peony); pale, yellowish-white after processing; pungent and slightly bitter taste",
+      "stem": "Erect, branched, glabrous or slightly hairy; 45–90 cm; green to reddish at base; dies back to ground each winter",
+      "leaves": "Alternate, biternate or triternate compound; leaflets 3–9 cm; elliptic-lanceolate; dark glossy green above, pale and glabrous below; petiolate with stipules; form elegant foliage mound before flowering",
+      "flowers": "Large, 8–14 cm diameter; single to double; white, pink, red, or varicolored; 5–10 petals in single forms, many more in double cultivars; numerous yellow stamens; fragrant; bloom in late spring to early summer",
+      "fruits/seeds": "Star-shaped cluster of 2–5 leathery follicles, each 2–4 cm; containing 3–5 large, round, glossy black-blue seeds 8–12 mm"
+    },
+    "compounds": [
+      "Paeoniflorin — monoterpene glycoside; major active compound (3–6% of dried root); anti-inflammatory, antispasmodic, neuroprotective, analgesic",
+      "Albiflorin — paeoniflorin isomer with distinct pharmacology; sedative and analgesic properties",
+      "Oxypaeoniflorin, benzoylpaeoniflorin — paeoniflorin derivatives with biological activity",
+      "Paeonol (from root bark; more concentrated in Cortex Moutan — tree peony bark)",
+      "Gallic acid and pentagalloylglucose — hydrolyzable tannins with astringent and antioxidant activity",
+      "Beta-sitosterol, daucosterol — phytosterols",
+      "Benzoic acid and parabens (methyl, ethyl esters in the root)",
+      "Sucrose, glucose, and polysaccharides (arabino-galactans) contributing to tonic properties"
+    ],
+    "partsUsed": [
+      "Processed root (Bai Shao — peeled, boiled): primary blood-nourishing and spasmolytic applications",
+      "Unprocessed root (Chi Shao — red peony, raw): blood-moving and anti-inflammatory applications",
+      "Root extract standardized to paeoniflorin"
+    ],
+    "traditionalUses": [
+      "Traditional Chinese medicine: 'Bai Shao' — one of the most widely used herbs; nourishes Liver blood, softens and soothes the Liver, relieves pain; used for dysmenorrhea, muscle cramping, and chronic fatigue from blood deficiency",
+      "Classical formula Gui Zhi Fu Ling Wan: Peony combined with cinnamon, poria, peach seed, and tree peony for gynecological blood stasis conditions",
+      "Si Wu Tang (Four Substance Decoction): Bai Shao + Rehmannia + Angelica + Ligusticum — foundational TCM blood tonic formula used for over 1,000 years",
+      "Shao Yao Gan Cao Tang: Bai Shao + Licorice for muscle spasm, abdominal cramping, and leg cramps — clinically validated formula",
+      "Japanese Kampo: Shakuyaku-kanzo-to formula for muscle cramps, dysmenorrhea, and spasticity — used in clinical medicine in Japan",
+      "Korean traditional medicine: used for headache, dizziness, and reproductive disorders in women",
+      "Traditional Chinese pediatric use: combined with other herbs for childhood convulsions and febrile seizures",
+      "Chinese post-partum care: standard blood-nourishing tonic for women after childbirth to replenish blood and prevent complications"
+    ],
+    "modernUses": [
+      "Muscle spasm and pain relief: paeoniflorin inhibits neuromuscular transmission and reduces intracellular calcium; clinically effective in dysmenorrhea and muscle cramps (Shakuyaku-kanzo-to RCTs)",
+      "Neurological: paeoniflorin shows neuroprotective effects and is studied for Parkinson's disease, epilepsy, and Alzheimer's in animal models",
+      "Autoimmune and inflammatory diseases: suppresses Th17 cells and promotes Tregs; clinical use in RA, SLE, and inflammatory bowel disease in China",
+      "Antidiabetic: paeoniflorin improves insulin sensitivity and reduces blood glucose via AMPK and other pathways",
+      "Hepatoprotective: galloylated paeoniflorin protects against liver fibrosis and drug-induced hepatotoxicity in animal studies",
+      "Antidepressant: paeoniflorin modulates serotonin and dopamine systems; synergistic with SSRIs in animal studies",
+      "Cardiovascular: paeoniflorin reduces platelet aggregation, improves microcirculation, and has cardioprotective effects",
+      "Menopausal symptoms: Bai Shao formulas studied for reducing hot flashes and improving bone density in post-menopausal women"
+    ],
+    "preparations": [
+      "TCM decoction: 6–15 g dried Bai Shao in 500 ml water, decocted 30–40 minutes; strain and drink in 2–3 doses daily",
+      "Standardized extract: 200–400 mg paeoniflorin equivalent, 2–3× daily",
+      "Si Wu Tang granules: traditional four-herb blood formula; follow package directions (typically 3–6 g granules twice daily)",
+      "Shakuyaku-kanzo-to (Shao Yao Gan Cao Tang): 6 g peony root + 6 g licorice root, standard Japanese Kampo formula; commercially available in granule form",
+      "Bai Shao tincture (1:5 in 50% ethanol): 3–5 ml, 2–3× daily",
+      "Peony root powder capsules: 500 mg, 3–4 capsules daily as tonic"
+    ],
+    "contraindications": [
+      "Diarrhea from cold-deficiency patterns (TCM): contraindicated in patients with loose stools from cold and weak digestion per TCM theory",
+      "Concurrent use with veratrum alkaloids (Veratrum species): classical TCM incompatibility ('18 incompatibilities' — Bai Shao incompatible with Li Lu)",
+      "Pregnancy at high doses: may promote uterine activity; traditional TCM formulas used carefully in pregnancy by qualified practitioners only",
+      "Hypotension: paeoniflorin may lower blood pressure additively",
+      "Hypersensitivity to Paeoniaceae family"
+    ],
+    "sideEffects": [
+      "Gastrointestinal: diarrhea, abdominal pain, and nausea at high doses (>15 g daily)",
+      "Hepatotoxicity: rare cases of drug-induced liver injury reported with Chinese herbal formulas containing Bai Shao",
+      "Hypotension and dizziness in sensitive individuals",
+      "Allergic skin reactions occasionally reported",
+      "Drug interactions via CYP enzyme modulation at high doses"
+    ],
+    "drugInteractions": [
+      "Anticoagulants (warfarin, aspirin): antiplatelet effects of paeoniflorin may increase bleeding risk",
+      "CNS depressants (benzodiazepines, opioids): paeoniflorin may potentiate CNS depression",
+      "Antihypertensives: additive blood pressure lowering",
+      "Antidiabetics (insulin, metformin): additive hypoglycemic potential",
+      "Methotrexate and immunosuppressants: paeoniflorin has immunomodulatory effects; potential interaction in autoimmune patients"
+    ]
+  },
+  {
+    "slug": "rehmannia",
+    "name": "Rehmannia",
+    "latinName": "Rehmannia glutinosa",
+    "family": "Orobanchaceae",
+    "familyLatin": "Broomrape family",
+    "nativeRange": "Northern China, particularly Henan, Shanxi, and Hebei provinces; endemic to temperate regions of northeastern Asia; Henan Province ('Di Huang from Huaiqing') is historically considered the finest quality source",
+    "habitat": "Dry slopes, rocky hillsides, forest edges, roadsides, and disturbed ground at 50–1,700 m; prefers well-drained, sandy loam, slightly acidic to neutral soils with full sun; tolerates drought; widely cultivated in fields throughout China",
+    "description": {
+      "overall appearance": "A low-growing, rosette-forming perennial herb with a stout taproot; covered in soft, glandular hairs giving a sticky texture to the whole plant; reaches 15–40 cm tall when flowering; characterized by a distinctive rosette of wrinkled basal leaves and tubular purple-red flowers on upright scapes.",
+      "roots": "Thick, fleshy, cylindrical to irregularly shaped taproot 6–15 cm long, 3–6 cm in diameter; yellowish-white to orange inside when fresh; processed into three forms: fresh (Xian Di Huang), dried (Gan Di Huang), and wine-steamed (Shu Di Huang), each with different properties",
+      "stem": "Leafy scape 15–40 cm arising from basal rosette; densely covered in soft glandular hairs; sticky to the touch; branching sparse",
+      "leaves": "Basal rosette leaves oblong-ovate, 3–15 cm long by 1.5–6 cm wide; margin irregularly crenate; surface wrinkled; densely pubescent; grey-green to mid-green",
+      "flowers": "Tubular, bilabiate; 3–4 cm long; exterior reddish-purple to violet, interior yellowish with purple veins; borne in loose terminal racemes; late spring to early summer bloom",
+      "fruits/seeds": "Ovoid capsule 8–15 mm; 2-valved; containing numerous tiny seeds 0.5–1 mm; enclosed within persistent calyx"
+    },
+    "compounds": [
+      "Catalpol — major iridoid glycoside; anti-inflammatory, neuroprotective, and anti-aging properties; higher in raw form",
+      "Aucubin and rehmaglutin — iridoid glycosides with anti-inflammatory activity",
+      "Rehmannoside A, B, C, D — phenylethanoid glycosides unique to Rehmannia",
+      "5-Hydroxymethyl-2-furaldehyde (HMF) — formed during steaming of root; increases significantly in Shu Di Huang",
+      "Acteoside (verbascoside) — phenylethanoid glycoside with strong antioxidant activity",
+      "Amino acids: arginine, glutamine, aspartic acid in high concentrations",
+      "Minerals: manganese, zinc, iron; oligosaccharides with prebiotic activity",
+      "Polysaccharides (RGP-1): immunomodulating rhamnogalacturonan-type polysaccharides"
+    ],
+    "partsUsed": [
+      "Fresh root (Xian Di Huang): cooling, anti-inflammatory, for high fever and bleeding",
+      "Dried root (Gan Di Huang): nourishes yin, clears heat, cools blood",
+      "Processed/steamed root (Shu Di Huang): tonifies Kidney yin and Liver blood, deeply nourishing",
+      "Root extract standardized to catalpol and acteoside"
+    ],
+    "traditionalUses": [
+      "Traditional Chinese medicine: 'Di Huang' — foundational yin tonic; one of the 50 fundamental herbs; used for over 2,500 years; primary herb to replenish Kidney essence (Jing) and nourish Liver blood",
+      "Liu Wei Di Huang Wan (Six-Flavor Rehmannia Pill): one of the most widely prescribed Chinese classical formulas worldwide; Shu Di Huang as the chief herb; used for Kidney yin deficiency — tinnitus, blurred vision, sore lower back, night sweats, heat in the palms",
+      "Zhi Bai Di Huang Wan: Liu Wei formula plus Phellodendron and Anemarrhena for more pronounced heat-clearing yin tonic action in menopausal women",
+      "TCM for diabetes insipidus-type conditions: excessive thirst and urination from Kidney yin deficiency",
+      "Classical Chinese post-illness and post-partum restorative tonic to rebuild Jing (essence) depleted by illness",
+      "Korean traditional medicine: used similarly to TCM for kidney and liver yin deficiency states",
+      "Japanese Kampo (Rokumigan): equivalent to Liu Wei Di Huang Wan; prescribed for exhaustion, lumbago, and frequent urination in elderly patients",
+      "Traditional use in preparation of medicinal wine (Di Huang jiu) combining Rehmannia with wine for arthritis and kidney weakness"
+    ],
+    "modernUses": [
+      "Bone health and osteoporosis: Liu Wei Di Huang Wan has multiple RCTs showing improved bone mineral density and reduced fracture risk in post-menopausal osteoporosis",
+      "Kidney protection (nephroprotective): catalpol and acteoside protect against diabetic nephropathy and drug-induced kidney damage in animal and clinical studies",
+      "Neuroprotection: catalpol and other iridoids protect neurons from oxidative stress; studied in Alzheimer's, Parkinson's, and stroke models",
+      "Anti-inflammatory and immunomodulation: polysaccharides and iridoids modulate innate and adaptive immunity; studied in SLE and autoimmune contexts",
+      "Antidiabetic: multiple mechanisms including insulin secretion enhancement and glucose absorption reduction; Liu Wei Di Huang Wan studied for type 2 diabetes as adjunct therapy",
+      "Adrenal fatigue and HPA axis regulation: Rehmannia modulates cortisol and DHEA balance in animal models; used in integrative medicine for HPA dysfunction",
+      "Blood cell production: fresh and dried forms studied for promoting hematopoiesis in anemia",
+      "Anti-aging: catalpol and acteoside inhibit cellular aging markers; Chinese studies show improved cognitive function in elderly subjects"
+    ],
+    "preparations": [
+      "Liu Wei Di Huang Wan (classical formula pills): 8 pills (3 g) 3× daily; commercial preparation widely available; primary delivery for kidney-yin support",
+      "Shu Di Huang decoction: 9–15 g in 500 ml water, cooked 45–60 minutes; this processed form is most tonic; drink 2× daily",
+      "Gan Di Huang tea/decoction (raw dried root): 10–15 g in water, 30 minutes; cooler and more clearing than processed root",
+      "Standardized Rehmannia extract: 500 mg catalpol-standardized extract, 2–3× daily",
+      "Rehmannia tincture (1:5 in 50% ethanol): 4–6 ml, 2× daily",
+      "Di Huang wine: traditional 100 g fresh root per 500 ml rice wine; macerate 2 weeks; 30–60 ml as tonic wine"
+    ],
+    "contraindications": [
+      "Digestive weakness with loose stools and poor appetite (Spleen qi deficiency in TCM): Shu Di Huang is cloying and may worsen digestive weakness — requires Poria or Chen Pi to counterbalance",
+      "Phlegm damp constitutions: heavy, rich nature of processed root is contraindicated in patients with chest fullness and heavy sensations",
+      "Pregnancy: avoid high doses; some traditional preparations are used cautiously under guidance",
+      "Diabetes with tight glycemic control: may affect blood glucose; monitor",
+      "Hypersensitivity to Orobanchaceae or related plant families"
+    ],
+    "sideEffects": [
+      "Digestive bloating, nausea, and loose stools if taken without digestive herbs or at high doses",
+      "Fatigue paradoxically in some patients due to immune modulation (rare)",
+      "Possible blood glucose effects requiring monitoring in diabetics",
+      "Allergic reactions: skin rash reported in rare cases",
+      "Fresh Xian Di Huang has mild laxative effect at higher doses"
+    ],
+    "drugInteractions": [
+      "Antidiabetic medications: additive hypoglycemic effects; monitor blood glucose",
+      "Corticosteroids: Rehmannia is traditionally used as a 'cortisone-like' herb; may have additive immunosuppressive or adrenal effects",
+      "Anticoagulants: acteoside has mild antiplatelet activity; monitor with warfarin",
+      "Thyroid medications: monitor TSH with prolonged high-dose use (effect on thyroid function in some animal studies)",
+      "Immunosuppressants: polysaccharide immunostimulation may counteract immunosuppressive therapy"
+    ]
+  },
+  {
+    "slug": "atractylodes",
+    "name": "Atractylodes / Bai Zhu",
+    "latinName": "Atractylodes macrocephala",
+    "family": "Asteraceae",
+    "familyLatin": "Daisy family",
+    "nativeRange": "Central and eastern China, particularly Zhejiang (Tianmu Mountain region), Hunan, and Hubei provinces; cultivated widely as an important medicinal crop",
+    "habitat": "Mountain meadows, hillside grasslands, and forest edges at 600–1,900 m elevation; prefers well-drained, sandy loam, fertile soils with cool, moist growing conditions; cultivated in fields with sandy, slightly acidic to neutral soil",
+    "description": {
+      "overall appearance": "An erect perennial herb 30–80 cm tall with distinctive large, deeply lobed lower leaves, pinnate middle leaves, and a large solitary thistle-like flower head; the thick, fleshy rhizome is the primary medicinal part — one of the most important Spleen-strengthening herbs in TCM.",
+      "roots": "Irregular, fleshy, large rhizome with curved lobes resembling a nodded or bent figure (descriptive Chinese name: 'swollen'; 3–10 cm long, 1.5–7 cm thick; grey-brown externally; pale yellow to cream internally; strongly aromatic when cut; bitter, acrid taste",
+      "stem": "Erect, branched in upper portions; ribbed; 5–8 mm diameter; pale green; smooth or slightly hairy",
+      "leaves": "Lower: large, deeply 3–5 lobed; middle: pinnate with 3–5 leaflets; upper: simple, lanceolate; all 4–15 cm, margins dentate; surface rough with scattered hairs; clasping stem at base",
+      "flowers": "Purple, tubular disk flowers in a single large head 3–4 cm across; surrounded by pinnate, spine-tipped bracts (similar to thistles); solitary terminal; bloom in autumn",
+      "fruits/seeds": "Achene with silky-white pappus 8–15 mm; wind-dispersed; typical of Asteraceae"
+    },
+    "compounds": [
+      "Atractylon — sesquiterpene lactone; primary volatile compound; anti-inflammatory and digestive stimulant",
+      "Atractylenolides I, II, III — sesquiterpene lactones with anti-inflammatory, gastroprotective, and anticancer activity",
+      "Beta-eudesmol and hinesol — sesquiterpene alcohols in the essential oil",
+      "Butenolide derivatives: 3-acetoxy-atractylone, 3-hydroxy-atractylone",
+      "Polysaccharides: AM-1, AM-2, AM-3 — immunostimulatory beta-D-glucans and heteropolysaccharides",
+      "Coumarin derivatives: scopoletin and related compounds",
+      "Triterpenoids: taraxasterol, taraxeryl acetate",
+      "Volatile oil (1.5% of dried rhizome): atractylol, candinol, and sesquiterpene lactones"
+    ],
+    "parts

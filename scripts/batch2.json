@@ -1,0 +1,1368 @@
+[
+  {
+    "slug": "eleuthero",
+    "name": "Eleuthero",
+    "latinName": "Eleutherococcus senticosus",
+    "family": "Araliaceae",
+    "familyLatin": "Ginseng family",
+    "nativeRange": "Northeastern China, Korea, Japan, far eastern Russia (Primorsky Krai, Amur region, Sakhalin)",
+    "habitat": "Mixed and coniferous forests, forest margins, and thickets in mountainous regions at elevations up to 800 m; prefers well-drained, loamy soils in partial shade",
+    "description": {
+      "overall appearance": "A deciduous, multi-stemmed shrub typically reaching 2–4 m in height with numerous arching branches covered in fine, downward-pointing spines. The overall habit is dense and spreading, forming thickets in its native woodland habitat.",
+      "roots": "Thick, woody, fibrous root system with a light grayish-brown bark; roots are the primary medicinal part, bearing a faintly aromatic, slightly bitter taste",
+      "stem": "Woody stems covered with slender, straight or slightly curved yellowish spines up to 5 mm long; young stems are greenish-gray turning brown with age",
+      "leaves": "Palmately compound with 3–5 leaflets, each leaflet 5–12 cm long and 3–7 cm wide, elliptic to obovate, sharply serrated margins, dark green above and lighter beneath",
+      "flowers": "Small, yellowish-white to pale violet, borne in spherical umbels 2–4 cm across; male and female flowers often on separate plants (dioecious); blooms July–August",
+      "fruits/seeds": "Small, black, berry-like drupes 7–10 mm diameter, each containing 5 seeds; ripen in September–October in dense globose clusters"
+    },
+    "compounds": [
+      "Eleutherosides A–M (phenylpropanoids, lignans, coumarins, polysaccharides)",
+      "Eleutheroside B (syringin/sinapyl alcohol glucoside)",
+      "Eleutheroside E (liriodendrin, a lignan glycoside)",
+      "Isofraxidin (coumarin)",
+      "Ciwujianoside A–E (triterpene saponins)",
+      "Polysaccharides (eleutherans A–G, immunomodulatory)",
+      "Beta-sitosterol and daucosterol",
+      "Chlorogenic acid and caffeic acid derivatives"
+    ],
+    "partsUsed": [
+      "Root and rhizome (dried)",
+      "Root bark",
+      "Leaves (less common)",
+      "Berries (traditional food use)"
+    ],
+    "traditionalUses": [
+      "Traditional Chinese Medicine: tonic for spleen and kidney qi deficiency, fatigue, and lower back weakness (wu jia pi)",
+      "Russian folk medicine: general tonic for stamina and endurance among forest workers and hunters",
+      "Soviet-era adaptogen: extensively used by athletes, cosmonauts, and military personnel to enhance performance under stress (1960s–1980s research by Brekhman)",
+      "Korean traditional medicine: rheumatic conditions, joint pain, and as a warming tonic",
+      "Japanese Kampo: adaptogenic support and fatigue recovery",
+      "Siberian indigenous use: root tea for general vitality and resistance to cold climates",
+      "Traditional use for impotence and reproductive weakness in men",
+      "Preparation of tonic wines and fermented beverages in northeast Asia"
+    ],
+    "modernUses": [
+      "Adaptogen for HPA axis regulation and cortisol modulation under chronic stress",
+      "Athletic performance enhancement: reduced perceived exertion and improved VO2 max in clinical studies",
+      "Immune modulation: eleutherans stimulate NK cell activity and macrophage phagocytosis",
+      "Cognitive support: improved memory and mental alertness in elderly populations (RCT evidence)",
+      "Management of chronic fatigue syndrome and post-viral fatigue",
+      "Adjunct support during chemotherapy to reduce myelosuppression (preliminary evidence)",
+      "Blood glucose regulation: modest hypoglycemic activity in type 2 diabetes models",
+      "Antiviral activity against influenza A and respiratory syncytial virus in vitro"
+    ],
+    "preparations": [
+      "Dried root decoction: 2–4 g root simmered in 250 mL water for 20 minutes, taken twice daily",
+      "Standardized root extract (0.8% eleutherosides): 300–400 mg once or twice daily",
+      "Tincture (1:5 in 40% ethanol): 3–5 mL three times daily",
+      "Fluid extract (1:1): 1–2 mL twice daily",
+      "Root powder in capsules: 1,000–2,000 mg daily in divided doses",
+      "Adaptogen cycles: 6–8 weeks on, 2–4 weeks off to maintain efficacy"
+    ],
+    "contraindications": [
+      "Autoimmune conditions (lupus, rheumatoid arthritis, MS): may overstimulate immune response",
+      "Hypertension: some studies show mild pressor effects at high doses",
+      "Pregnancy and lactation: insufficient safety data; avoid",
+      "Hormone-sensitive cancers: estrogenic activity reported in some preparations",
+      "Acute infections with high fever: avoid stimulating tonics during acute illness"
+    ],
+    "sideEffects": [
+      "Mild insomnia or restlessness when taken in the evening",
+      "Tachycardia and palpitations at high doses (>4 g/day)",
+      "Mild diarrhea and gastrointestinal upset at therapeutic doses in some individuals",
+      "Headache during initial use, typically resolving within 1–2 weeks",
+      "Possible estrogenic effects with prolonged high-dose use (breast tenderness)"
+    ],
+    "drugInteractions": [
+      "Anticoagulants (warfarin, heparin): may alter INR; monitor closely",
+      "Digoxin: eleutheroside E may interfere with digoxin immunoassays, producing falsely elevated readings",
+      "Immunosuppressants (cyclosporine, tacrolimus): immune-stimulating activity may antagonize effect",
+      "Sedatives and anxiolytics (benzodiazepines, barbiturates): may reduce sedative efficacy",
+      "Antidiabetic agents (metformin, insulin): additive hypoglycemic effect possible"
+    ]
+  },
+  {
+    "slug": "codonopsis",
+    "name": "Codonopsis",
+    "latinName": "Codonopsis pilosula",
+    "family": "Campanulaceae",
+    "familyLatin": "Bellflower family",
+    "nativeRange": "Northern and central China, Korea, northeastern India, northern Vietnam; primarily Gansu, Shaanxi, Sichuan, and Yunnan provinces",
+    "habitat": "Montane meadows, forest margins, thickets, and rocky slopes at 1,000–3,000 m elevation; often found in disturbed areas and along streamsides",
+    "description": {
+      "overall appearance": "A twining herbaceous perennial vine growing 1–3 m in length, with slender, branching stems that wind through surrounding vegetation. The plant emits a distinctive unpleasant odor when the stems or leaves are bruised.",
+      "roots": "Fleshy, cylindrical, carrot-like taproots 15–30 cm long and 1–3 cm in diameter, yellowish-white to buff-colored, with transverse wrinkles and a sweet, slightly earthy flavor resembling ginseng",
+      "stem": "Twining, slender, herbaceous stems 1–3 m long, covered with short white hairs; green to reddish-green; exudes milky latex when cut",
+      "leaves": "Alternate or nearly opposite, ovate to ovate-oblong, 1–7 cm long and 0.8–5 cm wide, with slightly wavy or toothed margins; covered with soft hairs on both surfaces",
+      "flowers": "Bell-shaped (campanulate), pale greenish-yellow with purple veining inside, 2–3 cm long; solitary in leaf axils; blooms August–September",
+      "fruits/seeds": "Small, conical capsules 1–1.5 cm long, splitting at the top when ripe to release numerous tiny, winged seeds"
+    },
+    "compounds": [
+      "Codonopsine and codonopsinine (piperidine alkaloids)",
+      "Tangshenosides I–IV (phenylpropanoid glycosides)",
+      "Lobetyolin and lobetyol (polyacetylene glucosides)",
+      "Atractylenolides (sesquiterpene lactones)",
+      "Fructooligosaccharides and inulin-type polysaccharides",
+      "Syringin (eleutheroside B analogue)",
+      "Triterpenoid saponins and sterols (beta-sitosterol, stigmasterol)",
+      "Perlolyrine (beta-carboline alkaloid)"
+    ],
+    "partsUsed": [
+      "Root (dried, known as Dang Shen in TCM)",
+      "Young shoots and leaves (culinary use in China)",
+      "Root slices (decocted or chewed directly)"
+    ],
+    "traditionalUses": [
+      "TCM: primary 'poor man's ginseng' tonic for spleen and lung qi deficiency; part of countless classical formulas",
+      "Shen Nong Ben Cao Jing (Divine Farmer's Classic): listed as a superior herb for fatigue, shortness of breath, and loss of appetite",
+      "Korean traditional medicine (Hanbang): used interchangeably with Panax ginseng for qi tonification at lower cost",
+      "Chinese folk medicine: treatment of anemia, prolapse of organs, and chronic diarrhea from spleen weakness",
+      "Traditional pediatric medicine: decoctions for failure to thrive, poor appetite, and chronic cough in children",
+      "Lactation support: used postpartum to increase milk production and restore maternal qi",
+      "Treatment of chronic respiratory weakness and recurrent respiratory infections",
+      "Used in fermented tonics and medicinal foods (congees, slow-cooked stews) throughout China"
+    ],
+    "modernUses": [
+      "Adaptogenic effects: modulates HPA axis and reduces stress-induced corticosterone elevation in rodent models",
+      "Immunomodulation: polysaccharides enhance macrophage phagocytosis, NK cell activity, and T-cell proliferation",
+      "Hematopoietic support: increases RBC and hemoglobin levels; used as adjunct in aplastic anemia treatment in China",
+      "Antifatigue: atractylenolides shown to improve exercise tolerance and mitochondrial function",
+      "Gastroprotective: reduces gastric mucosal damage from NSAIDs and stress in animal models",
+      "Neuroprotective: lobetyolin inhibits acetylcholinesterase and shows potential in Alzheimer's disease models",
+      "Antioxidant: scavenges reactive oxygen species and upregulates SOD/catalase activity",
+      "Hypoglycemic: polysaccharides improve insulin sensitivity in type 2 diabetes animal models"
+    ],
+    "preparations": [
+      "Decoction: 9–30 g dried root simmered in 500 mL water for 30 minutes; take 2× daily",
+      "Standardized extract (20:1): 500–1,000 mg twice daily",
+      "Tincture (1:5 in 40% ethanol): 4–6 mL three times daily",
+      "Medicinal food: slow-cooked with rice (dang shen congee), chicken, or pork broth for spleen support",
+      "Honey-processed root: 2–4 slices chewed directly or dissolved in warm water",
+      "Combination formula: often paired with Astragalus 15 g and Atractylodes 9 g for qi tonification"
+    ],
+    "contraindications": [
+      "Not for use with stagnation patterns (bloating, fullness) in TCM classification without qi-moving herbs",
+      "Avoid concurrent use with Veratrum (li lu) — classical TCM contraindication (eighteen incompatibilities)",
+      "Pregnancy: use only under qualified practitioner guidance; traditionally avoided in excess qi conditions",
+      "Active infection with high fever: tonics may exacerbate pathogenic heat according to TCM principles",
+      "Hypersensitivity to Campanulaceae family plants"
+    ],
+    "sideEffects": [
+      "Bloating and abdominal distension when used without qi-moving herbs in stagnant constitutions",
+      "Mild nausea in sensitive individuals, especially on empty stomach",
+      "Mild constipation with high doses over extended periods",
+      "Allergic reactions (rare): skin rash or urticaria in Campanulaceae-sensitive individuals"
+    ],
+    "drugInteractions": [
+      "Immunosuppressants (cyclosporine, mycophenolate): immune-stimulating polysaccharides may antagonize immunosuppression",
+      "Antidiabetic agents (insulin, metformin): additive hypoglycemic effects possible; monitor blood glucose",
+      "Chemotherapy agents: in Chinese oncology, often combined but may alter drug pharmacokinetics — use only under supervision",
+      "Anticoagulants: some codonopsis preparations show mild antiplatelet activity; use caution with warfarin"
+    ]
+  },
+  {
+    "slug": "arjuna",
+    "name": "Arjuna",
+    "latinName": "Terminalia arjuna",
+    "family": "Combretaceae",
+    "familyLatin": "White mangrove family",
+    "nativeRange": "Indian subcontinent: Deccan Plateau, eastern India, Sri Lanka; river banks and moist deciduous forests throughout the Indo-Gangetic plain",
+    "habitat": "Riverbanks, stream margins, moist deciduous forests, and flood plains at elevations up to 900 m; thrives in alluvial, well-watered soils with high moisture retention",
+    "description": {
+      "overall appearance": "A large, evergreen to semi-deciduous tree reaching 20–30 m in height with a spreading canopy and a large, buttressed trunk up to 1.5 m in diameter. The bark is a distinctive pale gray to pinkish-white, exfoliating in large, smooth, papery flakes.",
+      "roots": "Deep, woody taproot system with extensive lateral roots; bark of buttress roots sometimes harvested medicinally; roots provide anchoring along erosion-prone riverbanks",
+      "stem": "Trunk large and buttressed at base, up to 1.5 m diameter; bark pale gray-white to pinkish, smooth and peeling in flat flakes; young branches pendulous and drooping at tips",
+      "leaves": "Subopposite, oblong to elliptic, 5–14 cm long and 2–4.5 cm wide; leathery, glossy green above; two glands at the base of the blade; margins entire or slightly wavy",
+      "flowers": "Small, creamy-white, borne in axillary and terminal spikes 3–5 cm long; individually tiny (2–3 mm), fragrant; blooms March–June",
+      "fruits/seeds": "Hard, woody, 5-winged drupes 2.5–5 cm long; wings fibrous and pale brown; seeds single, very hard; ripen September–November"
+    },
+    "compounds": [
+      "Arjunolic acid (triterpenoid glycoside, primary cardioactive compound)",
+      "Arjunetin, arjungenin (triterpenoid saponins)",
+      "Terminoside A (oleanolic acid glycoside)",
+      "Arjunin, arjunic acid (pentacyclic triterpenes)",
+      "Tannins: arjunin, gallic acid, ellagic acid, punicalin",
+      "Flavonoids: arjunone, arjunolone, luteolin, quercetin",
+      "Mineral complex: high calcium, magnesium, zinc, and copper content",
+      "Casuarinin and castalagin (ellagitannins)"
+    ],
+    "partsUsed": [
+      "Bark (primary medicinal part, harvested as outer bark)",
+      "Leaves",
+      "Fruit",
+      "Root bark (less common)"
+    ],
+    "traditionalUses": [
+      "Ayurveda: primary cardiac tonic (hridaya daurbalya); described in Charaka Samhita and Sushruta Samhita for heart failure, palpitations, and angina",
+      "Unani medicine: used as mufarreh qalb (cardiac tonic) and for wound healing",
+      "Traditional Indian medicine: treatment of fractures and bone injuries (accelerates callus formation)",
+      "Ayurvedic use for asthma and cough: bark decoction as bronchodilator and expectorant",
+      "Treatment of urinary tract disorders and kidney stones in folk medicine throughout India",
+      "Wound healing: bark powder applied topically to ulcers, cuts, and skin infections",
+      "Liver tonic: used in jaundice and chronic liver conditions in traditional Ayurveda",
+      "Aphrodisiac and reproductive tonic in Ayurvedic tradition for male vitality"
+    ],
+    "modernUses": [
+      "Cardiac insufficiency: clinical trials demonstrate improved ejection fraction and reduced symptoms in compensated heart failure (500 mg bark extract 3×/day)",
+      "Coronary artery disease: reduces LDL oxidation, improves endothelial function, and has anti-ischemic effects",
+      "Antihypertensive: ACE-inhibitory tannins lower blood pressure in hypertensive animal models and clinical pilots",
+      "Antiplatelet: arjunetin inhibits platelet aggregation comparable to aspirin in some studies",
+      "Hepatoprotective: reduces ALT/AST elevations and protects against carbon tetrachloride-induced liver damage",
+      "Antioxidant: ellagitannins and flavonoids scavenge DPPH, superoxide, and hydroxyl radicals",
+      "Antimicrobial: bark extracts active against S. aureus, E. coli, and drug-resistant Klebsiella",
+      "Anti-inflammatory: inhibits COX-1/COX-2 and reduces NF-κB signaling in macrophage models"
+    ],
+    "preparations": [
+      "Bark decoction (arjuna ksheera paka — milk decoction): 3–6 g bark boiled in 250 mL milk and water (1:1) until reduced by half; taken twice daily in Ayurveda",
+      "Standardized bark extract (standardized to arjunic acid): 500 mg three times daily",
+      "Bark powder (churna): 1–3 g with honey or warm water twice daily",
+      "Tincture (1:5 in 45% ethanol): 5–10 mL twice daily",
+      "Combination cardiac formula: Arjuna 500 mg + Ashwagandha 300 mg + Guggul 200 mg as standardized tablet",
+      "Topical bark paste: powdered bark mixed with sesame oil applied to wounds and bruises"
+    ],
+    "contraindications": [
+      "Bradycardia or heart block: glycosides may further slow AV conduction",
+      "Pregnancy: uterine-stimulating tannins; avoid",
+      "Hypotension: additive blood pressure lowering in already hypotensive patients",
+      "Hepatic disease: high tannin load may be hepatotoxic in liver failure",
+      "Children under 12: safety data absent"
+    ],
+    "sideEffects": [
+      "Constipation with prolonged high-dose use due to high tannin content",
+      "Headache and dizziness in hypotension-prone individuals",
+      "Nausea and gastric discomfort on empty stomach",
+      "Rare: mild liver enzyme elevation with very high doses (>3 g/day)"
+    ],
+    "drugInteractions": [
+      "Cardiac glycosides (digoxin): additive chronotropic and inotropic effects; risk of toxicity",
+      "Antihypertensive agents (beta-blockers, ACE inhibitors): additive hypotensive effect; monitor BP",
+      "Anticoagulants and antiplatelets (warfarin, aspirin, clopidogrel): enhanced antiplatelet activity; bleeding risk",
+      "Antidiabetic agents: modest hypoglycemic activity may compound insulin or metformin effects",
+      "CYP3A4 substrates: tannins may alter absorption and bioavailability of co-administered drugs"
+    ]
+  },
+  {
+    "slug": "coleus-forskohlii",
+    "name": "Coleus / Forskolin",
+    "latinName": "Plectranthus barbatus (syn. Coleus forskohlii)",
+    "family": "Lamiaceae",
+    "familyLatin": "Mint family",
+    "nativeRange": "India (Rajasthan, Uttar Pradesh, Karnataka, Tamil Nadu), Nepal, Sri Lanka, East Africa, Ethiopia; widely naturalized across tropical Asia",
+    "habitat": "Dry, rocky hillsides, scrublands, and arid to semi-arid grasslands; prefers well-drained, sandy or rocky soils in full sun at elevations up to 1,800 m",
+    "description": {
+      "overall appearance": "A perennial herb or subshrub growing 30–90 cm tall with erect, branching stems and aromatic foliage. The plant has a distinctive camphor-like scent and produces attractive blue-violet flower spikes.",
+      "roots": "Fleshy, tuberous, carrot-shaped roots up to 10 cm long and 2 cm in diameter; yellowish-white exterior; the roots contain the highest concentration of forskolin",
+      "stem": "Erect, quadrangular (square), succulent stems covered with fine, soft hairs; often tinged purple; branching from base",
+      "leaves": "Opposite, ovate to oblong, 4–9 cm long and 2–4 cm wide; margins crenate-serrate; fleshy texture; glandular hairs on both surfaces; light to mid-green with occasional purplish tints",
+      "flowers": "Tubular, bilabiate, pale blue to violet-blue; borne in whorls on terminal spikes 10–20 cm long; each flower 1–1.5 cm long; blooms October–February",
+      "fruits/seeds": "Four small nutlets (mericarps) enclosed in persistent calyx; seeds tiny, dark brown"
+    },
+    "compounds": [
+      "Forskolin (coleonol) — primary diterpene, cAMP activator, 0.1–0.3% fresh root weight",
+      "Coleonols A–F (related labdane diterpenes)",
+      "Rosmarinic acid (phenylpropanoid, anti-inflammatory)",
+      "Luteolin, apigenin (flavones with COX inhibitory activity)",
+      "Ursolic acid and oleanolic acid (triterpenoids)",
+      "Terpene phenols: thymol and carvacrol derivatives",
+      "7-deacetyl-7-benzoyloxy-6-acetoxy-8,13-epoxy-labd-14-en-11-one (bioactive diterpene)",
+      "Caffeic acid esters and chlorogenic acid"
+    ],
+    "partsUsed": [
+      "Root and root tubers (primary medicinal part)",
+      "Leaves (culinary and minor medicinal use)",
+      "Aerial parts (traditional preparations)"
+    ],
+    "traditionalUses": [
+      "Ayurveda (makandi/garmar): heart tonic for congestive heart conditions, hypertension, and angina",
+      "Traditional Indian medicine: treatment of abdominal colic, urinary retention, and painful menstruation",
+      "Unani medicine: used for skin conditions including psoriasis and eczema",
+      "Traditional use in glaucoma treatment: eye drops prepared from root extract in India",
+      "Indian folk medicine: as a digestive and carminative for bloating and gas",
+      "Traditional treatment for thyroid conditions and hypothyroidism in Ayurveda",
+      "Topical application for skin infections, burns, and insect bites",
+      "Used as a condiment and pickle ingredient in Indian cuisine (leaves)"
+    ],
+    "modernUses": [
+      "Adenylyl cyclase activation: forskolin raises intracellular cAMP, affecting virtually all cell types; used as a research tool worldwide",
+      "Weight loss and body composition: clinical trials show modest fat mass reduction (125 mg 10% extract 2×/day); FDA-recognized as a supplement ingredient",
+      "Cardiovascular: positive inotropic effect, vasodilation, and mild antihypertensive action in clinical pilots",
+      "Glaucoma: topical 1% forskolin eye drops reduce intraocular pressure comparably to beta-blocker drops",
+      "Asthma: bronchodilatory via cAMP-mediated smooth muscle relaxation; inhaled preparations studied",
+      "Testosterone support: cAMP stimulation of Leydig cells increases testosterone in one RCT (men, 12 weeks)",
+      "Hypothyroidism: stimulates thyroid hormone synthesis and release via TSH-independent cAMP pathway",
+      "Cancer research: apoptosis induction in colon, prostate, and breast cancer cell lines via cAMP/PKA pathway"
+    ],
+    "preparations": [
+      "Standardized root extract (10% forskolin): 125–250 mg twice daily",
+      "Standardized root extract (20% forskolin): 50–100 mg twice daily",
+      "Raw root powder: 500 mg–2 g daily (lower bioavailability)",
+      "Topical 1% forskolin solution: applied to affected eye twice daily for glaucoma (clinical preparation)",
+      "Tincture (1:5 in 60% ethanol): 2–4 mL twice daily",
+      "Combination weight-management formula: typically 250 mg 10% extract with green tea and L-carnitine"
+    ],
+    "contraindications": [
+      "Hypotension: vasodilatory effect can cause dangerous blood pressure drops",
+      "Hemorrhagic conditions or pre-surgery: antiplatelet activity",
+      "Pregnancy and lactation: insufficient safety data; uterine-relaxant effects possible",
+      "Polycystic kidney disease: cAMP elevation may promote cyst growth",
+      "Peptic ulcer disease: increases gastric acid secretion via cAMP pathway"
+    ],
+    "sideEffects": [
+      "Flushing, rapid heartbeat, and hypotension at high doses",
+      "Upper respiratory irritation with inhaled preparations",
+      "Tremor and restlessness at doses >500 mg/day",
+      "Increased bleeding time and easy bruising",
+      "Headache during initial use"
+    ],
+    "drugInteractions": [
+      "Antihypertensive agents (calcium channel blockers, beta-blockers, ACE inhibitors): potentiates hypotensive effect",
+      "Anticoagulants and antiplatelets (warfarin, aspirin, clopidogrel): enhanced bleeding risk",
+      "Thyroid hormones (levothyroxine): additive thyroid-stimulating effects; hyperthyroidism risk",
+      "Phosphodiesterase inhibitors (sildenafil, tadalafil): additive cAMP elevation; cardiovascular risk",
+      "Beta-2 agonists (albuterol): synergistic bronchodilation; potential cardiac overstimulation"
+    ]
+  },
+  {
+    "slug": "pygeum",
+    "name": "Pygeum",
+    "latinName": "Prunus africana",
+    "family": "Rosaceae",
+    "familyLatin": "Rose family",
+    "nativeRange": "Afromontane forests of sub-Saharan Africa: Cameroon, Democratic Republic of Congo, Kenya, Tanzania, Uganda, Malawi, Zimbabwe, Madagascar; often at 1,500–3,000 m elevation",
+    "habitat": "Montane and cloud forests on volcanic and granitic soils; found in mist-belt forest margins and Afroalpine grassland transition zones; requires cool temperatures and high rainfall (1,000–2,000 mm/year)",
+    "description": {
+      "overall appearance": "A large evergreen tree reaching 25–40 m in height with a spreading, rounded canopy and a straight trunk up to 1 m or more in diameter. The species is critically threatened by over-harvesting of its bark and is listed on CITES Appendix II.",
+      "roots": "Deep, woody taproot system; roots not used medicinally; bark of root has similar phytochemical profile to trunk bark",
+      "stem": "Trunk straight, cylindrical; bark reddish-brown to dark gray, bitter-tasting, roughly furrowed to scaly on mature trees; inner bark reddish",
+      "leaves": "Alternate, simple, elliptic to obovate, 8–20 cm long and 3–8 cm wide; glossy, dark green above; serrated margins; petiole with 2 glands at junction with blade",
+      "flowers": "Small, white, 5-petaled, borne in cylindrical racemes 4–10 cm long; fragrant; blooms varies by elevation, typically dry season",
+      "fruits/seeds": "Fleshy drupes 7–12 mm diameter, dark red to black when ripe, containing a single hard stone; eaten by monkeys and birds"
+    },
+    "compounds": [
+      "N-docosanol (n-tetracosanol) — primary phytosterol ester with 5-alpha reductase inhibitory activity",
+      "Beta-sitosterol and beta-sitosterol glucoside",
+      "Ursolic acid, oleanolic acid (pentacyclic triterpenes)",
+      "Ferulic acid esters of long-chain alcohols",
+      "Atraric acid (phenolic acid with anti-androgenic activity)",
+      "N-butylbenzene-sulfonamide (bladder-relaxant compound)",
+      "Tannins: gallic acid, ellagic acid, and ellagitannins",
+      "Phytosterol esters: linoleic and oleic acid esters"
+    ],
+    "partsUsed": [
+      "Bark (harvested from trunk; primary medicinal part)",
+      "Bark extract (fat-soluble extract, standardized product)"
+    ],
+    "traditionalUses": [
+      "Zulu and Sotho traditional medicine (South Africa): bark decoction for urinary complaints, kidney disease, and stomach disorders",
+      "Cameroonian traditional medicine: treatment of gonorrhea and other STIs",
+      "East African traditional medicine: treatment of malaria, fever, and chest pain",
+      "Traditional aphrodisiac use in Central and East Africa",
+      "Treatment of dysuria and urinary retention in sub-Saharan traditional medicine",
+      "Bark preparations used for impotence and infertility in several East African traditions",
+      "Treatment of inflammatory chest conditions and pleurisy in traditional African medicine"
+    ],
+    "modernUses": [
+      "Benign prostatic hyperplasia (BPH): meta-analyses of 18 RCTs confirm significant improvements in urinary flow, nocturia, and IPSS scores (Cochrane 2002)",
+      "5-alpha reductase inhibition: beta-sitosterol and atraric acid reduce DHT-driven prostatic growth",
+      "Anti-androgenic activity: atraric acid blocks androgen receptor binding in prostate cells",
+      "Bladder contractility: n-butylbenzene-sulfonamide relaxes detrusor muscle, reducing urgency",
+      "Prostate cancer prevention (early research): inhibits cancer cell proliferation via AR pathway suppression",
+      "Anti-inflammatory: ursolic and oleanolic acids inhibit PGE2 and COX-2 in prostatic tissue",
+      "Complementary therapy alongside alpha-blockers for BPH symptom management",
+      "Antioxidant protection of prostatic epithelium from oxidative stress"
+    ],
+    "preparations": [
+      "Lipophilic bark extract (standardized to 13% total sterols): 100 mg twice daily (most studied dose)",
+      "Fat-soluble extract capsules (25 mg phytosterols per capsule): 1–2 capsules twice daily",
+      "Bark powder: 1.5–2 g daily (lower bioavailability than lipid extract)",
+      "Standardized combination: Pygeum 100 mg + Saw Palmetto 320 mg daily",
+      "Tincture in oil base: 2–3 mL daily (supports fat-soluble compound absorption)",
+      "Sustained-release capsule (100 mg extract): once daily"
+    ],
+    "contraindications": [
+      "Pregnancy and lactation: anti-androgenic effects contraindicated",
+      "Hormone-sensitive cancers (prostate, breast): androgenic modulation requires medical oversight",
+      "Gastric ulcers: bark tannins may irritate gastric mucosa",
+      "Children: not indicated",
+      "Severe hepatic impairment: lipophilic compounds require adequate liver function for processing"
+    ],
+    "sideEffects": [
+      "Nausea and abdominal pain (most common, 5–10% of users)",
+      "Diarrhea and loose stools, especially at higher doses",
+      "Headache in initial weeks of use",
+      "Rare: constipation with extended use"
+    ],
+    "drugInteractions": [
+      "5-alpha reductase inhibitors (finasteride, dutasteride): additive DHT-lowering; monitor for excessive anti-androgenic effects",
+      "Anticoagulants (warfarin): phytosterol esters may modestly affect coagulation; monitor INR",
+      "Testosterone replacement therapy: anti-androgenic compounds may reduce testosterone efficacy",
+      "Alpha-1 blockers (tamsulosin, prazosin): additive hypotensive effect on bladder neck"
+    ]
+  },
+  {
+    "slug": "buchu",
+    "name": "Buchu",
+    "latinName": "Agathosma betulina",
+    "family": "Rutaceae",
+    "familyLatin": "Citrus/Rue family",
+    "nativeRange": "Cape Floristic Region of South Africa, particularly the Western Cape Fynbos biome; found between Clanwilliam and Albertinia; endemic",
+    "habitat": "Fynbos shrubland on well-drained, acidic, nutrient-poor sandy soils; rocky hillsides and mountain slopes at 300–1,200 m; requires high light and good drainage; associated with Protea and Restio communities",
+    "description": {
+      "overall appearance": "A small, erect, aromatic shrub growing 1–2 m tall with wiry, reddish-brown stems and small, round leaves. The entire plant is powerfully fragrant with a distinctive blackcurrant-like, peppery-menthol scent from oil glands.",
+      "roots": "Woody, fibrous root system; roots not used medicinally; shallow-rooted as typical for fynbos species on rocky soils",
+      "stem": "Erect, branching, wiry stems; reddish to brown; glabrous; gland-dotted; bark peeling on older stems",
+      "leaves": "Simple, alternate, broadly ovate to nearly orbicular, 8–18 mm long and 5–12 mm wide; leathery; margins crenate with oil glands at the notches; bright green; surface covered with prominent oil glands visible as translucent dots",
+      "flowers": "Small, 5-petaled, pink to white, about 6–8 mm across; borne in axillary clusters; blooms July–November (Cape winter–spring)",
+      "fruits/seeds": "Small schizocarp capsules 5–8 mm; splitting into 5 cocci, each with single seed; seeds black, shiny"
+    },
+    "compounds": [
+      "Diosphenol (buchu camphor) — primary antimicrobial monoterpene, up to 40% of essential oil",
+      "Isomenthone and pulegone (monoterpene ketones)",
+      "Limonene, alpha-terpinene, gamma-terpinene (monoterpene hydrocarbons)",
+      "8-mercapto-p-menthan-3-one (the blackcurrant odorant, unique to Agathosma species)",
+      "Quercetin-3-glucoronide and other flavonoid glycosides",
+      "Hesperidin and rutin (flavanone glycosides)",
+      "Diosmin (flavone glycoside with venous activity)",
+      "Alpha-pinene, sabinene, and p-menthone"
+    ],
+    "partsUsed": [
+      "Leaves (fresh or dried; primary medicinal part)",
+      "Essential oil (distilled from leaves)",
+      "Dried leaf powder",
+      "Branching tops"
+    ],
+    "traditionalUses": [
+      "Khoikhoi and San indigenous use: buchu leaves rubbed on the body as insect repellent and perfume; earliest recorded use dates to 1650s",
+      "Cape Malay and Afrikaner folk medicine: buchu brandy (leaves steeped in grape spirit) for urinary tract infections, kidney stones, and 'gravel'",
+      "Traditional South African use for digestive complaints: gas, bloating, and stomach cramps",
+      "Treatment of sexually transmitted infections, including gonorrhea and urethritis",
+      "Rheumatism and gout: diuretic properties used to eliminate uric acid",
+      "Wound healing: leaves applied topically to cuts and bruises",
+      "Antipyretic: buchu tea used to reduce fever in Cape folk medicine",
+      "Buchu vinegar: fermented preparation used as a digestive tonic and preservative"
+    ],
+    "modernUses": [
+      "Urinary tract anti-infective: diosphenol demonstrates in vitro activity against E. coli, Klebsiella, Proteus, and Staphylococcus aureus",
+      "Diuretic: increases urine output via mild irritation of renal tubules; evidence primarily traditional/mechanistic",
+      "Antioxidant: quercetin and rutin inhibit lipid peroxidation and scavenge reactive oxygen species",
+      "Anti-inflammatory: flavonoids inhibit COX-1/COX-2 and reduce prostaglandin synthesis",
+      "Antimicrobial essential oil: effective against oral pathogens and used in natural mouthwash formulations",
+      "Urinary tract symptom management: systematic reviews support use for uncomplicated UTI and urethritis",
+      "Insect repellent: essential oil has documented repellent activity against mosquitoes and ticks",
+      "Food flavoring: widely used in the food industry as a natural blackcurrant flavoring agent"
+    ],
+    "preparations": [
+      "Dried leaf infusion (tea): 1–2 g dried leaves in 200 mL boiling water for 10 minutes; taken 3× daily",
+      "Buchu brandy (tincture in spirit): 30–60 mL of 1:5 preparation in grape spirit; traditional dose 2–3× daily",
+      "Capsules (standardized leaf powder): 100–300 mg three times daily",
+      "Essential oil: 1–2 drops in carrier oil for topical or aromatic use only (not internal)",
+      "Fluid extract (1:1): 0.3–1 mL three times daily",
+      "Combination UTI formula: Buchu 200 mg + Uva ursi 200 mg + Cranberry 500 mg; twice daily"
+    ],
+    "contraindications": [
+      "Pregnancy: pulegone content is abortifacient; strictly contraindicated",
+      "Kidney inflammation (nephritis, pyelonephritis): renal irritation may worsen active kidney disease",
+      "Gastric ulcers: volatile oils irritate gastric mucosa",
+      "Liver disease: pulegone is hepatotoxic in high doses; avoid with impaired liver function",
+      "Children under 12: essential oil toxic at low doses in children"
+    ],
+    "sideEffects": [
+      "Nausea and stomach upset at high doses",
+      "Increased urinary frequency and urgency (therapeutic effect that can be bothersome)",
+      "Skin sensitization and contact dermatitis with topical essential oil",
+      "Rare hepatotoxicity with prolonged high-dose use due to pulegone content"
+    ],
+    "drugInteractions": [
+      "Diuretics (furosemide, hydrochlorothiazide): additive diuretic effects and electrolyte depletion",
+      "Anticoagulants (warfarin): diosmin has anticoagulant properties; bleeding risk",
+      "Iron supplements: tannins and flavonoids may chelate iron; take 2 hours apart",
+      "Antidiabetic agents: quercetin may enhance insulin sensitivity; monitor blood glucose"
+    ]
+  },
+  {
+    "slug": "devils-claw",
+    "name": "Devil's Claw",
+    "latinName": "Harpagophytum procumbens",
+    "family": "Pedaliaceae",
+    "familyLatin": "Sesame family",
+    "nativeRange": "Kalahari Desert and Namib regions of southern Africa: Namibia, Botswana, South Africa (Northern Cape); extends into southern Angola and Zimbabwe",
+    "habitat": "Sandy, well-drained savanna soils and dry grasslands; semi-arid to arid environments with 200–450 mm annual rainfall; full sun exposure; characteristic of Kalahari red sand grasslands",
+    "description": {
+      "overall appearance": "A prostrate, perennial herb with creeping stems radiating up to 1.5 m from a central taproot system. The plant lies flat on the ground and is named for its distinctive woody fruit bearing multiple hooked, claw-like projections that entangle in animal fur for seed dispersal.",
+      "roots": "Primary taproot descends to 50 cm, bearing secondary tuberous storage roots 15–25 cm long; these tubers are the primary medicinal part; flesh is whitish, bitter, and starchy",
+      "stem": "Prostrate, spreading stems up to 1.5 m long, often reddish; covered with fine hairs; no erect stems",
+      "leaves": "Opposite, petiolate, deeply 3–5 lobed, 3–8 cm long; gray-green; fleshy texture adapted to arid conditions; margins wavy to slightly dentate",
+      "flowers": "Tubular-campanulate, deep pink to red-violet with yellow throat, 3–5 cm long; solitary in leaf axils; strikingly ornamental; blooms January–April (southern hemisphere summer)",
+      "fruits/seeds": "Highly distinctive woody capsule 10–15 cm across with numerous recurved, hook-like protrusions (the 'claws') up to 4 cm long; splits into segments, each carrying seeds"
+    },
+    "compounds": [
+      "Harpagoside (primary iridoid glycoside, 1–3% in secondary tubers) — principal anti-inflammatory",
+      "8-p-coumaroylharpagide (iridoid glycoside)",
+      "Harpagide and procumbide (iridoid glycosides)",
+      "Acteoside/verbascoside (phenylethanoid glycoside, antioxidant and anti-inflammatory)",
+      "Isoacteoside and 6'-O-acetylacteoside",
+      "Kaempferol and luteolin glycosides",
+      "Chlorogenic acid, caffeic acid, and cinnamic acid derivatives",
+      "Triterpene acids: ursolic acid, oleanolic acid"
+    ],
+    "partsUsed": [
+      "Secondary storage roots (tubers) — primary medicinal part",
+      "Primary root (less medicinal value, lower iridoid content)",
+      "Leaves and stems (minor traditional use)"
+    ],
+    "traditionalUses": [
+      "San and Khoikhoi traditional medicine (primary users): root decoctions for pain, fever, malaria, and digestive upset",
+      "Bantu traditional medicine: poultices for sores, ulcers, boils, and skin lesions",
+      "Traditional use for childbirth complications: root used to ease delivery and postpartum pain in southern Africa",
+      "Fever and malaria treatment in traditional southern African medicine",
+      "Treatment of diseases described as 'stiffness' — likely rheumatic and arthritic conditions",
+      "Digestive bitters: root preparations used for loss of appetite and liver/gallbladder complaints",
+      "Introduced to Europe in 1950s by G.H. Mehnert and commercialized by 1970s for arthritis"
+    ],
+    "modernUses": [
+      "Osteoarthritis: 8 RCTs and multiple meta-analyses demonstrate efficacy comparable to diacerhein for knee and hip OA (harpagoside 50–100 mg/day)",
+      "Low back pain: Cochrane review (2004, updated 2014) supports superiority to placebo for non-specific LBP",
+      "Anti-inflammatory: harpagoside inhibits COX-2, TNF-α, iNOS, and NF-κB signaling in macrophage models",
+      "Analgesic: central and peripheral pain pathways modulated in rodent studies",
+      "Tendinopathy and muscle pain: sports medicine applications for DOMS and repetitive strain injuries",
+      "Uric acid excretion: mild uricosuric effect supports use in gout",
+      "Liver and gallbladder support: bitter glycosides stimulate bile flow",
+      "Heart rate reduction: harpagoside shows negative chronotropic effect in isolated heart preparations"
+    ],
+    "preparations": [
+      "Standardized dry extract (standardized to harpagoside): 600–1,200 mg three times daily (2.0–2.6% harpagoside = 50–100 mg harpagoside/day)",
+      "WS 1531 extract (proprietary aqueous preparation): 800 mg twice daily (most RCT-studied form)",
+      "Crude dried root decoction: 4.5 g root in 300 mL water, simmered 20 minutes, taken in divided doses",
+      "Tincture (1:5 in 25% ethanol): 1–2 mL three times daily with meals",
+      "Capsules of root powder: 500–750 mg three times daily",
+      "Topical gel (1% harpagoside equivalent): applied to affected joints 3× daily"
+    ],
+    "contraindications": [
+      "Peptic ulcer disease and gastroesophageal reflux: bitter glycosides stimulate gastric acid secretion",
+      "Gallstones: choleretic effect can trigger biliary colic",
+      "Pregnancy: uterine-stimulating activity; contraindicated throughout",
+      "Cardiac arrhythmia (pre-existing): negative chronotropic effects at high doses",
+      "Children under 12: no safety data"
+    ],
+    "sideEffects": [
+      "Diarrhea and loose stools (most common, 8–12% of users in trials)",
+      "Nausea, abdominal pain, and loss of appetite",
+      "Allergic reactions: skin rash and urticaria (rare, ~1%)",
+      "Mild hypoglycemia reported in one case series at high doses"
+    ],
+    "drugInteractions": [
+      "Warfarin and anticoagulants: case reports of elevated INR; monitor closely",
+      "Antidiabetic agents (insulin, metformin): possible additive hypoglycemic effect",
+      "Antiarrhythmic drugs (digoxin, amiodarone): negative chronotropic effects may be additive",
+      "NSAIDs and analgesics: potentially additive anti-inflammatory effects; beneficial combination but monitor for GI effects"
+    ]
+  },
+  {
+    "slug": "pelargonium-sidoides",
+    "name": "Pelargonium / Umckaloabo",
+    "latinName": "Pelargonium sidoides",
+    "family": "Geraniaceae",
+    "familyLatin": "Geranium family",
+    "nativeRange": "South Africa: Eastern Cape, Free State, and KwaZulu-Natal provinces; Lesotho highlands; endemic to the southern African grassland biome",
+    "habitat": "Mountain grasslands, rocky slopes, and disturbed ground on basaltic and shale-derived soils; altitude 1,000–2,800 m; adapted to summer rainfall and cold, dry winters",
+    "description": {
+      "overall appearance": "A low-growing perennial herb forming rosettes 15–30 cm in diameter from a central crown. Above the rosette, erect flower stalks rise 20–40 cm bearing distinctive dark wine-red flowers. The plant overwinters as a persistent rootstock.",
+      "roots": "Thick, cylindrical to fusiform tuberous roots 3–8 cm long and 1–3 cm in diameter; dark brown-black exterior with reddish-brown inner bark; intensely astringent and bitter; primary medicinal part",
+      "stem": "Very short central stem from which rosette leaves emerge; flower stalks erect, 20–40 cm, hairy",
+      "leaves": "Basal rosette; broadly cordate to reniform (kidney-shaped), 2–7 cm across; deeply scalloped (crenate) margins; gray-green with silver mottling; velvety soft-hairy texture; long petioles",
+      "flowers": "Distinctively dark wine-red to nearly black-red, 5-petaled, upper 2 petals slightly larger; 2–3 cm across; in few-flowered umbels atop long stalks; unique among pelargoniums for the dark color",
+      "fruits/seeds": "Schizocarp with 5 spirally-twisted carpels that disperse by hygroscopic coiling when dried"
+    },
+    "compounds": [
+      "Umckalin (6,7,8-trimethoxy-5-methylchromone) — signature coumarin of P. sidoides",
+      "Pelargonidin and pelargonin (anthocyanidin pigments)",
+      "Proanthocyanidins and condensed tannins (oligomeric, primary antiviral fraction)",
+      "Benzyl benzoate and benzyl succinate esters",
+      "Scopoletin and 5-hydroxy-7-methoxycoumarin (coumarins)",
+      "Phytol, docosanol, and other long-chain terpenols",
+      "Phenolic acids: gallic acid, protocatechuic acid, syringic acid",
+      "Oleanolic acid and related pentacyclic triterpenes"
+    ],
+    "partsUsed": [
+      "Roots (primary medicinal part, tuberous roots)",
+      "Root bark",
+      "Whole root standardized extract (EPs 7630 proprietary extract)"
+    ],
+    "traditionalUses": [
+      "Zulu traditional medicine: root decoction for lung disease — the Zulu name 'umckaloabo' means 'heavy cough'",
+      "Basotho traditional medicine (Lesotho): 'rabas' — root used for acute respiratory infections, cough, and diarrhea",
+      "Historical use: brought to England in early 20th century by Charles Stevens who was cured of TB by a Basotho healer",
+      "South African folk medicine: for dysentery, diarrhea, and bloody stool",
+      "Traditional use for sexually transmitted infections including gonorrhea",
+      "Topical application of root paste for wounds and skin lesions",
+      "Use as a general immune tonic during winter months in traditional Cape medicine"
+    ],
+    "modernUses": [
+      "Acute bronchitis: EPs 7630 extract (Umcka ColdCare) is the most evidence-supported herbal treatment; Cochrane review (2013) finds significant symptom reduction vs. placebo",
+      "Upper respiratory tract infections: meta-analysis of 8 RCTs demonstrates superior symptom scores and shorter illness duration",
+      "Antiviral: proanthocyanidins inhibit replication of herpes simplex, influenza A/B, parainfluenza, and SARS-CoV in vitro",
+      "Mucociliary clearance: EPs 7630 increases ciliary beat frequency in bronchial epithelium",
+      "Immunomodulation: stimulates macrophage phagocytosis, NK cell activity, and interferon production",
+      "Antibacterial: direct bacteriostatic activity against Streptococcus pneumoniae, Staphylococcus aureus, and drug-resistant E. coli",
+      "Pediatric respiratory infections: well-tolerated in children aged 2–12 in multiple RCTs",
+      "Community-acquired pneumonia: adjunct in mild-moderate CAP (2 pilot RCTs)"
+    ],
+    "preparations": [
+      "EPs 7630 liquid extract (proprietary standardized): adults 1.5 mL three times daily; children 1–5 years: 10 drops 3×/day",
+      "Tablets (standardized to EPs 7630 equivalent): 20 mg tablet three times daily",
+      "Tincture (1:8 in 11% ethanol): 1–2 mL three times daily",
+      "Dried root decoction: 2–3 g root boiled in 200 mL water for 15 minutes; 3× daily",
+      "Syrup (children's formulation, commercial): 2.5 mL three times daily for children",
+      "Combination preparation: EPs 7630 + Echinacea + elderberry for immune support"
+    ],
+    "contraindications": [
+      "Autoimmune disease (lupus, MS, rheumatoid arthritis): immune-stimulating activity may exacerbate",
+      "Pregnancy and lactation: insufficient safety data",
+      "Hepatic disease: rare case reports of hepatotoxicity; contraindicated with pre-existing liver damage",
+      "Anticoagulant therapy: benzyl esters may affect platelet function",
+      "Children under 1 year: not established"
+    ],
+    "sideEffects": [
+      "Gastrointestinal upset: nausea, heartburn, and loose stools (~3–5% incidence in trials)",
+      "Skin rash and urticaria (rare, ~1%)",
+      "Rare hepatotoxicity: case reports of acute liver injury; post-marketing surveillance ongoing",
+      "Headache in first week of use"
+    ],
+    "drugInteractions": [
+      "Immunosuppressants (cyclosporine, tacrolimus): immune activation may antagonize immunosuppression",
+      "Anticoagulants and antiplatelets (warfarin, aspirin): potential enhanced anticoagulant effect",
+      "CYP2C9 substrates: coumarin content may inhibit CYP2C9 in high doses; monitor narrow-TI drugs",
+      "Antiretroviral therapy (HIV medications): immune modulation interactions poorly characterized; caution"
+    ]
+  },
+  {
+    "slug": "hoodia",
+    "name": "Hoodia",
+    "latinName": "Hoodia gordonii",
+    "family": "Apocynaceae",
+    "familyLatin": "Dogbane/Milkweed family",
+    "nativeRange": "Kalahari Desert: Botswana, Namibia, South Africa (Northern Cape, Western Cape); Angola; semi-arid to arid desert scrub",
+    "habitat": "Arid desert plains and rocky outcrops; grows in dry, sandy and gravelly soils; full desert sun; extremely drought-adapted; rainfall below 100–300 mm/year; often associated with quartz fields and dry riverbeds",
+    "description": {
+      "overall appearance": "A slow-growing succulent shrub reaching 0.5–1.5 m in height with multiple erect, cylindrical, cactus-like stems covered in prominent spines. Despite resembling a cactus, it is a true succulent dicot in the milkweed family. Growth is extremely slow; plants take 5–7 years to first flower.",
+      "roots": "Fibrous root system adapted for rapid water absorption in desert rains; not used medicinally",
+      "stem": "Erect, cylindrical stems 10–15 cm in diameter; green to grayish-green; covered in rows of conical tubercles tipped with sharp, pale spines 3–5 mm long; stems are the primary food/medicinal part",
+      "leaves": "Reduced to small, scale-like rudiments at the base of spines; not functional",
+      "flowers": "Large, dish-shaped, pale to deep pink or brownish-pink, 4–6 cm across; 5-lobed; with a strong, unpleasant rotting-flesh smell that attracts blowfly pollinators; blooms during hot dry season",
+      "fruits/seeds": "Twin, slender, horn-shaped follicles 15–20 cm long; splitting to release seeds bearing silky tufts for wind dispersal"
+    },
+    "compounds": [
+      "P57AS3 (oxypregnane steroidal glycoside) — claimed appetite-suppressing compound patented by CSIR",
+      "Gordonoside F and related oxypregnane glycosides",
+      "Calogenin and related pregnane steroidal aglycones",
+      "Hoodigogenin A (steroidal saponin)",
+      "Luteolin and other flavone glycosides",
+      "Terpene esters and wax esters in stem cuticle",
+      "Citric acid, malic acid (organic acids contributing to tart taste)",
+      "Pregnane glycosides (multiple, structurally characterized in 2010–2015)"
+    ],
+    "partsUsed": [
+      "Stems and stem flesh (primary traditional use)",
+      "Standardized stem extract (commercial preparations)"
+    ],
+    "traditionalUses": [
+      "San Bushmen (primary traditional users): stems chewed during long hunts and migrations to suppress hunger and thirst; one of the most well-documented food-use ethnobotanical records",
+      "San practice: travelers and hunters on extended journeys through the Kalahari carried dried Hoodia stems",
+      "Khoikhoi pastoral use: eating stems to endure long drives with livestock across arid regions",
+      "Treatment of minor infections and digestive problems in San traditional medicine",
+      "Use as a bitter digestive tonic in San and Khoikhoi medicine"
+    ],
+    "modernUses": [
+      "Appetite suppression: P57AS3 glycoside hypothesized to act on hypothalamic appetite centers (VMH) by mimicking glucose-induced satiety signals — evidence primarily preclinical",
+      "Weight management supplement: most commercially sold for weight loss, but human RCT evidence is weak and inconsistent",
+      "One human RCT (2011, Phytomedicine): 1,100 mg/day purified P57-enriched extract over 15 days showed reduced caloric intake vs. placebo in obese women",
+      "Glucostatic hypothesis: steroidal glycosides may act on ATP-sensitive potassium channels in hypothalamus to reduce hunger signaling",
+      "Antidiabetic research: modest glycemic effects in preliminary animal studies",
+      "Hydration management: traditional claims of anti-thirst activity; not mechanistically established",
+      "Anti-inflammatory: in vitro activity against COX-2 and PGE2 production"
+    ],
+    "preparations": [
+      "Standardized dry extract (standardized to P57 glycosides): 400–800 mg twice daily before meals (commercial dose)",
+      "Whole stem powder (certified authentic): 1–2 g daily — note: widespread adulteration in market",
+      "Commercial capsules: widely available but authenticity and P57 content highly variable",
+      "Traditional fresh stem: 2–4 cm section chewed raw (not commercially available in most countries)",
+      "Liquid extract: 2 mL twice daily before meals (rare standardized forms)",
+      "CITES permit required: commercial trade regulated under CITES Appendix II"
+    ],
+    "contraindications": [
+      "Diabetes: may mask hypoglycemic symptoms by suppressing hunger signals",
+      "Eating disorders: appetite suppression contraindicated in anorexia nervosa",
+      "Pregnancy and lactation: steroidal glycosides and unknown safety profile",
+      "Cardiovascular disease: steroidal compounds may affect cardiac electrophysiology",
+      "Liver or kidney disease: metabolism of steroidal glycosides not well characterized"
+    ],
+    "sideEffects": [
+      "Nausea, vomiting, and skin sensations (noted in one clinical trial)",
+      "Rapid heart rate and elevated blood pressure (reported in clinical studies)",
+      "Severe hypoglycemia risk in diabetic patients not monitoring glucose",
+      "Headache and dizziness"
+    ],
+    "drugInteractions": [
+      "Antidiabetic medications (insulin, sulfonylureas): appetite suppression and glucose effects may cause severe hypoglycemia",
+      "Appetite stimulants (megestrol, cyproheptadine): opposing pharmacological effects",
+      "Stimulant medications (amphetamines, phentermine): additive appetite-suppressing and cardiovascular effects",
+      "Monoamine oxidase inhibitors (MAOIs): possible interactions via central satiety mechanisms"
+    ]
+  },
+  {
+    "slug": "rooibos",
+    "name": "Rooibos",
+    "latinName": "Aspalathus linearis",
+    "family": "Fabaceae",
+    "familyLatin": "Legume/Pea family",
+    "nativeRange": "Cederberg and Bokkeveld mountains of the Western Cape, South Africa; endemic; strictly limited to a small geographic region around Citrusdal and Wupperthal",
+    "habitat": "Fynbos shrublands on acidic, nutrient-poor, sandstone-derived soils (Table Mountain Sandstone); annual rainfall 250–500 mm; extremely well-drained slopes at 450–1,500 m elevation; full sun",
+    "description": {
+      "overall appearance": "An erect, branching, broom-like shrub growing 1–2 m tall with fine, needle-like green leaves that turn red-orange on fermentation. Wild plants have fine, wiry foliage; cultivated plants are denser and more uniform.",
+      "roots": "Woody taproot with nitrogen-fixing root nodules (symbiotic Bradyrhizobium); roots enable the plant to thrive in nutrient-poor fynbos soils; not used medicinally",
+      "stem": "Erect, wiry, multi-stemmed; stems thin (3–6 mm diameter); green when young, turning brown; bark peels on mature stems",
+      "leaves": "Needle-like, terete (round in cross-section), 15–60 mm long and about 1 mm wide; bright green when fresh; arranged alternately; transformed to red-orange color during fermentation process",
+      "flowers": "Small, yellow, pea-shaped (papilionaceous), 5–8 mm long; borne in axillary clusters; typical legume flower; blooms August–September",
+      "fruits/seeds": "Small, single-seeded pods 5–8 mm long; indehiscent; tan-brown when ripe; 1 seed per pod"
+    },
+    "compounds": [
+      "Aspalathin (dihydrochalcone C-glucoside) — unique to rooibos; primary antioxidant and antidiabetic compound",
+      "Nothofagin (dihydrochalcone C-glucoside, isomer of aspalathin)",
+      "Orientin and iso-orientin (luteolin C-glucosides)",
+      "Vitexin and iso-vitexin (apigenin C-glucosides)",
+      "Quercetin-3-robinobioside and rutin",
+      "Luteolin and chrysoeriol",
+      "Phenylpyruvic acid glucoside and other enol glycosides",
+      "Zinc, copper, manganese, fluoride (significant mineral content)"
+    ],
+    "partsUsed": [
+      "Leaves and stems (fermented/oxidized, producing classic red rooibos)",
+      "Green (unfermented) leaves and stems (higher aspalathin content)",
+      "Whole aerial parts (harvested and chopped for processing)"
+    ],
+    "traditionalUses": [
+      "Khoikhoi and San peoples: harvested wild rooibos as a beverage and medicine long before European contact; used as a digestive remedy",
+      "Afrikaner farming communities: adopted as a tea substitute during WWII when imported teas were unavailable",
+      "South African folk medicine: used for infantile colic, eczema, and skin allergies in babies — mothers added rooibos tea to infant formula",
+      "Traditional use as an anti-spasmodic for digestive cramps and nausea",
+      "Application of cooled tea to the skin for sunburn, eczema, and insect bites",
+      "Traditional use for insomnia as a mild sedative tea",
+      "Used as a high-iron, caffeine-free tea for pregnancy in Afrikaner tradition"
+    ],
+    "modernUses": [
+      "Antioxidant protection: ORAC value and FRAP assay show potent radical scavenging; fermented and green forms differ significantly",
+      "Antidiabetic: aspalathin shown to reduce glucose absorption, stimulate insulin secretion, and activate AMPK in cell and animal models",
+      "Cardiovascular protection: quercetin and luteolin glycosides inhibit LDL oxidation and reduce arterial inflammation",
+      "Skin benefits: topical aspalathin reduces UV-induced oxidative damage and supports collagen synthesis",
+      "Anti-cancer: in vitro studies show inhibition of cancer cell lines (colon, prostate) via apoptosis induction and COX-2 inhibition",
+      "Liver protection: aspalathin attenuates hepatic lipid accumulation in high-fat diet animal models",
+      "Infantile colic: survey studies and small clinical reports support traditional use; safe for infants",
+      "Caffeine-free beverage with low tannins: does not inhibit iron absorption, suitable for anemia-prone populations"
+    ],
+    "preparations": [
+      "Fermented (red) rooibos tea: 1.5–2 g dried herb per 200 mL boiling water, steep 5–7 minutes; 3–6 cups daily",
+      "Green (unfermented) rooibos tea: higher aspalathin; brewed same as red; more grassy flavor",
+      "Standardized green rooibos extract (standardized to aspalathin): 100–300 mg twice daily",
+      "Rooibos extract capsules: 200 mg standardized extract once daily",
+      "Topical cream (0.5–1% rooibos extract): applied to skin twice daily for eczema and sun damage",
+      "Cold-brewed concentrate: 20 g per liter, cold brew 12 hours — higher flavonoid yield than hot brew"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to Fabaceae/legume family (rare cross-reactivity possible)",
+      "Hormone-sensitive cancers: phytoestrogenic activity debated; precautionary caution warranted",
+      "Pre-surgery: mild antiplatelet effects from quercetin; discontinue 1 week before surgery",
+      "Kidney stones (calcium oxalate type): moderate oxalate content with very high intake"
+    ],
+    "sideEffects": [
+      "Generally considered extremely safe with no significant side effects at normal beverage consumption",
+      "Rare contact dermatitis with topical application",
+      "Mild estrogenic effects reported in vitro; clinical significance unknown",
+      "Excessive intake (>6 cups/day): possible mineral imbalances from fluoride content"
+    ],
+    "drugInteractions": [
+      "Antidiabetic agents: aspalathin may enhance glucose lowering; monitor for hypoglycemia",
+      "Anticoagulants (warfarin): quercetin antiplatelet activity may mildly enhance bleeding time",
+      "Chemotherapy: CYP1A2 and CYP2C8 inhibition in vitro; potential for drug-herb interaction",
+      "Iron chelation: unlike black tea, rooibos does not significantly inhibit iron absorption — actually compatible with iron supplementation"
+    ]
+  },
+  {
+    "slug": "yerba-santa",
+    "name": "Yerba Santa",
+    "latinName": "Eriodictyon californicum",
+    "family": "Hydrophyllaceae",
+    "familyLatin": "Waterleaf family",
+    "nativeRange": "Western United States: California coastal ranges, Sierra Nevada foothills, Oregon; primarily below 1,800 m elevation in California chaparral and foothill woodland",
+    "habitat": "Dry, rocky chaparral slopes, manzanita scrub, and post-fire chaparral; grows in disturbed areas following fire (fire-adapted); prefers well-drained, sandy or rocky soils; full sun; strongly associated with serpentine soils in some localities",
+    "description": {
+      "overall appearance": "An aromatic, evergreen shrub growing 1–2.5 m tall with sticky, resinous leaves and erect stems. The plant forms large, spreading colonies via underground rhizomes and is one of the first shrubs to recolonize after chaparral fires.",
+      "roots": "Extensive, woody horizontal rhizomes enable rapid vegetative spread; rhizomes not used medicinally; roots fibrous and woody",
+      "stem": "Erect, branching stems 1–2 m tall; covered with sticky, dark brown resin; bark becoming gray and fibrous on mature stems",
+      "leaves": "Alternate, lanceolate to oblanceolate, 5–15 cm long and 1–3 cm wide; leathery; upper surface dark green and heavily coated with sticky, yellowish-brown resin; underside white-woolly; margins dentate; strongly aromatic when handled",
+      "flowers": "Tubular, lavender to white, 8–12 mm long; borne in curved, scorpioid cymes (helical clusters) that straighten as flowers open; blooms May–July",
+      "fruits/seeds": "Small, egg-shaped nutlets 1–2 mm; 4 per flower; dark brown; enclosed in persistent calyx"
+    },
+    "compounds": [
+      "Eriodictyol (flavanone, primary anti-inflammatory compound)",
+      "Homoeriodictyol (flavanone, bitter-masking agent approved as GRAS flavor modifier)",
+      "Sterubin (eriodictyol-7-methyl ether, potent neuroprotective flavanone)",
+      "Chrysoeriol and luteolin (flavones)",
+      "Hispidulin (6-methoxyflavone with anxiolytic GABA activity)",
+      "Formononetin and biochanin A (isoflavones, minor)",
+      "Resinous terpene esters (coating on leaf surface)",
+      "Tannins and phenolic acids (chlorogenic, ferulic acids)"
+    ],
+    "partsUsed": [
+      "Leaves (fresh and dried)",
+      "Aerial parts (stems and leaves together)",
+      "Leaf resin (raw, topical use)"
+    ],
+    "traditionalUses": [
+      "Chumash, Yokuts, and other California Native peoples: primary respiratory medicine for coughs, colds, asthma, and tuberculosis; leaves smoked or made into tea",
+      "Spanish missionaries in California: adopted the herb enthusiastically, giving it the name 'yerba santa' (holy herb)",
+      "Costanoan tradition: poultice of warmed, resinous leaves applied to rheumatic joints and sprains",
+      "Luiseño and Cahuilla: treatment of colds and fevers with leaf tea",
+      "Traditional California herbal medicine: used topically for skin conditions including poison oak rash",
+      "Leaves used as food flavoring and to mask bitterness of other medicines in California mission tradition",
+      "Pomo tradition: steam inhalation of boiled leaves for sinus congestion and head colds"
+    ],
+    "modernUses": [
+      "Respiratory expectorant: eriodictyol increases mucociliary transport and reduces mucus viscosity — basis for use in bronchitis and productive coughs",
+      "Neuroprotection: sterubin shows exceptional activity against Alzheimer's-related oxidative stress in neuron cell models (Salk Institute, 2019); crosses blood-brain barrier",
+      "Bitter-masking: homoeriodictyol (sodium salt) is an FDA GRAS-approved flavor modifier that suppresses bitter taste by blocking bitter receptors (TAS2Rs) — used in pharmaceuticals",
+      "Anti-inflammatory: eriodictyol inhibits NF-κB, COX-2, and TNF-α; reduces airway inflammation in asthma models",
+      "Antioxidant: ORAC value comparable to quercetin; protects mitochondria from oxidative damage",
+      "Antidiabetic: eriodictyol improves insulin sensitivity and reduces postprandial glucose in rodent studies",
+      "Cardiovascular: flavanones protect LDL from oxidation and show mild ACE-inhibitory activity",
+      "Anxiolytic: hispidulin acts as a positive GABA-A allosteric modulator in vitro"
+    ],
+    "preparations": [
+      "Dried leaf tea: 1–2 g dried leaves in 200 mL boiling water, steep 10 minutes; 3× daily for respiratory conditions",
+      "Tincture (1:5 in 60% ethanol): 2–4 mL three times daily",
+      "Fluid extract (1:1): 1–2 mL three times daily",
+      "Smoked leaves: traditional inhalation for asthma (historical; not recommended as smoking route)",
+      "Steam inhalation: handful of fresh leaves in boiling water; inhale steam 5–10 minutes for sinus congestion",
+      "Topical poultice: fresh or rehydrated leaves warmed and applied to joints or skin; left in place 20–30 minutes"
+    ],
+    "contraindications": [
+      "Pregnancy: insufficient safety data; uterine effects unknown",
+      "Allergy to Hydrophyllaceae or Boraginaceae plants",
+      "Severe asthma: smoked preparations absolutely contraindicated",
+      "Renal impairment: flavonoid metabolites excreted renally; reduce dose with kidney disease"
+    ],
+    "sideEffects": [
+      "Mild GI upset with large doses",
+      "Contact dermatitis from leaf resin in sensitive individuals",
+      "Allergic rhinitis and bronchospasm from pollen during flowering season",
+      "Headache with very high doses of leaf tea"
+    ],
+    "drugInteractions": [
+      "Sedatives/anxiolytics (benzodiazepines, barbiturates): hispidulin's GABA-A activity may potentiate CNS depression",
+      "Antidiabetic agents: eriodictyol's insulin-sensitizing effects may cause additive hypoglycemia",
+      "Antihypertensives: mild ACE-inhibitory flavanones may add to antihypertensive drug effects",
+      "Bitter-taste medications: homoeriodictyol may alter taste and palatability of co-administered bitter drugs"
+    ]
+  },
+  {
+    "slug": "gravel-root",
+    "name": "Gravel Root",
+    "latinName": "Eutrochium purpureum",
+    "family": "Asteraceae",
+    "familyLatin": "Daisy/Composite family",
+    "nativeRange": "Eastern North America: from Quebec and Maine south to Georgia and Mississippi; Great Plains from North Dakota to Oklahoma; prefers moist lowland habitats",
+    "habitat": "Moist meadows, floodplain forests, thickets, and streambanks; rich, moist to wet soils; partial shade to full sun; often found in low-lying areas subject to seasonal flooding",
+    "description": {
+      "overall appearance": "A tall, upright, clump-forming perennial herb growing 1–2.5 m tall with stout, hollow or pithy purple-streaked stems and large whorled leaves. One of the most visually impressive native medicinal plants in eastern North America, with large, fluffy, pink-mauve flower heads.",
+      "roots": "Thick, fibrous rhizomes and roots; somewhat aromatic when fresh; brownish; roots and rhizomes are the primary medicinal part in traditional herbalism",
+      "stem": "Stout, erect, 1–2.5 m tall; stems characteristically hollow or pithy; distinctive purple or deep reddish-purple nodes and mottling; smooth to slightly hairy",
+      "leaves": "In whorls of 3–5, lanceolate to ovate, 10–30 cm long and 3–8 cm wide; coarsely serrated margins; lower surface softly hairy; rough texture; strongly whorled arrangement distinguishes from other Eutrochium species",
+      "flowers": "Tiny, individually tubular, pink to mauve-purple disc florets; aggregated in large, flat-topped to domed corymbs up to 20 cm across; no ray florets; blooms July–September; highly attractive to butterflies and bees",
+      "fruits/seeds": "Achenes with a pappus of white to brownish bristles for wind dispersal; 4–5 mm long"
+    },
+    "compounds": [
+      "Eupatorin (eupurpurin, a polymethoxylated flavone with diuretic activity)",
+      "Euparin (6-methoxybenzofuran-5-ol derivative)",
+      "Eupatorinoside (sesquiterpene lactone glucoside)",
+      "Resin acids: eupurpuric acid",
+      "Volatile sesquiterpenes: beta-farnesene and caryophyllene",
+      "Flavonoids: quercetin, kaempferol, and isorhamnetin glycosides",
+      "Chlorogenic acid and caffeic acid derivatives",
+      "Pyrrolizidine alkaloids (trace levels; see contraindications)"
+    ],
+    "partsUsed": [
+      "Roots and rhizomes (primary medicinal part)",
+      "Aerial parts (leaves and stems, less commonly)",
+      "Seeds (occasionally in traditional preparations)"
+    ],
+    "traditionalUses": [
+      "Iroquois traditional medicine: root decoction as primary kidney and urinary tract remedy; used for kidney stones, urinary gravel, and painful urination",
+      "Cherokee use: roots for fevers, typhoid, and as a diuretic tonic",
+      "Eclectic physicians (19th–20th century USA): 'Joe Pye Weed' widely prescribed for kidney stones, gravel, and urinary calculi; considered a specific for dissolving calcium oxalate stones",
+      "Ojibwe tradition: used for rheumatic pain and as a diaphoretic to promote sweating in fevers",
+      "American folk medicine: anti-lithic (stone-dissolving) reputation gave the plant its common name 'gravel root'",
+      "Traditional uterine tonic use in Native American and Eclectic medicine for dysmenorrhea and irregular menses",
+      "Diaphoretic tea for typhoid fever and influenza in 19th-century American herbal practice"
+    ],
+    "modernUses": [
+      "Urinary tract health: anti-lithic and demulcent properties support clinical herbalists' use for kidney gravel and calculi prevention",
+      "Diuretic: increases urine output through combination of flavonoid and resin acid activity",
+      "Anti-inflammatory: eupatorin inhibits NF-κB and reduces COX-2 expression in macrophage models",
+      "Antispasmodic: reduces smooth muscle spasm in ureter and bladder — basis for relief of renal colic",
+      "Antimicrobial: euparin shows activity against Gram-positive bacteria and some fungi",
+      "Lymphatic tonic: used in naturopathic medicine for lymphatic stagnation and chronic pelvic inflammation",
+      "Anticancer (preliminary): eupatorinoside shows cytotoxic activity against leukemia and colon cancer cell lines in vitro",
+      "Immune modulation: polysaccharide fractions activate macrophages similar to other Asteraceae family members"
+    ],
+    "preparations": [
+      "Root decoction: 3–6 g dried root in 350 mL water, simmered 20 minutes; 3× daily for urinary conditions",
+      "Tincture (1:5 in 40% ethanol): 2–4 mL three times daily",
+      "Fluid extract (1:1): 1–2 mL three times daily",
+      "Dried root capsules: 500–750 mg three times daily",
+      "Combination kidney formula: Gravel Root 2 g + Hydrangea root 2 g + Stone Root 1 g decocted together",
+      "Long-term use protocols: 4–6 week courses for anti-lithic purposes; pyrrolizidine alkaloid concern limits >3 months continuous use"
+    ],
+    "contraindications": [
+      "Pregnancy and lactation: pyrrolizidine alkaloid content and uterine-stimulating potential; avoid",
+      "Hepatic disease: pyrrolizidine alkaloids are hepatotoxic with chronic or high-dose use",
+      "Acute kidney disease and nephritis: diuretic stimulation may worsen active renal inflammation",
+      "Children: not recommended due to pyrrolizidine alkaloid content",
+      "Known allergy to Asteraceae/Compositae (ragweed, chrysanthemum family)"
+    ],
+    "sideEffects": [
+      "Nausea and gastric upset with high doses",
+      "Allergic reactions in Asteraceae-sensitive individuals",
+      "Hepatotoxicity risk with prolonged use due to trace pyrrolizidine alkaloids",
+      "Mild laxative effect at higher doses"
+    ],
+    "drugInteractions": [
+      "Diuretics (furosemide, thiazides): additive diuretic and electrolyte-depleting effects",
+      "Hepatotoxic drugs (acetaminophen, statins, methotrexate): pyrrolizidine alkaloid hepatotoxicity risk is additive",
+      "Anticoagulants: coumarins in some preparations may mildly affect clotting",
+      "Lithium: increased urinary lithium excretion from diuretic effect; monitor lithium levels"
+    ]
+  },
+  {
+    "slug": "spilanthes",
+    "name": "Spilanthes / Toothache Plant",
+    "latinName": "Acmella oleracea (syn. Spilanthes acmella, S. oleracea)",
+    "family": "Asteraceae",
+    "familyLatin": "Daisy/Composite family",
+    "nativeRange": "Tropical South America (Brazil, Peru, Ecuador); now widely cultivated and naturalized throughout tropical Africa, Asia, and the Caribbean",
+    "habitat": "Moist, disturbed tropical soils; roadsides, garden margins, and low-elevation agricultural areas; thrives in warm, humid conditions with regular rainfall; full sun to partial shade",
+    "description": {
+      "overall appearance": "A low-growing, spreading annual or short-lived perennial herb reaching 20–50 cm in height with distinctive yellow-orange, cone-shaped flower heads. Chewing any part of the plant immediately produces a powerful tingling, numbing sensation in the mouth.",
+      "roots": "Fibrous, shallow root system; pale; tap root weakly developed; plants propagate easily from cuttings",
+      "stem": "Erect to somewhat sprawling, succulent, branching; 20–50 cm; green to purplish-red; rooting at nodes when prostrate",
+      "leaves": "Opposite, ovate, 2–7 cm long and 1.5–5 cm wide; margins crenate-serrate; slightly succulent; dark green; surface somewhat rough; distinctive tingly taste when chewed",
+      "flowers": "Conical to cylindrical, 1–2.5 cm long; head lacks ray florets in most cultivars; all disc florets yellow-orange turning red at apex; borne on long peduncles; profusely produced",
+      "fruits/seeds": "Small, flat achenes 1.5–2 mm; dark brown to black; slightly hairy; pappus of 1–2 bristles or absent"
+    },
+    "compounds": [
+      "Spilanthol (N-isobutylamide alkamide) — primary local anesthetic and immunostimulant, up to 1.25% dry weight in flower heads",
+      "Affinin (N-2-methylbutyl-2E,6Z,8E-decatrienamide, another key alkamide)",
+      "Undeca-2E,7Z,9E-trienoic acid isobutylamide and related alkamides",
+      "Spilanthic acid (N-isobutylamide)",
+      "Spilanthol epoxide (oxidative metabolite)",
+      "Quercetin, kaempferol, and patuletin glycosides",
+      "Triterpenoids: alpha and beta amyrin, lupeol",
+      "Essential oil: beta-caryophyllene, myrcene, germacrene D"
+    ],
+    "partsUsed": [
+      "Flower heads (buds and flowers, highest spilanthol content)",
+      "Leaves",
+      "Whole aerial parts",
+      "Root (less common, strong alkamide activity)"
+    ],
+    "traditionalUses": [
+      "Brazilian indigenous use: fresh flower heads applied directly to teeth and gums for toothache — the most universal traditional use",
+      "Indian Ayurvedic and folk medicine: treatment of toothache, gingivitis, and oral infections; used in traditional dentistry",
+      "Nepalese traditional medicine: treatment of malaria, fever, and stomach parasites",
+      "Caribbean folk medicine: whole plant tea for cold, flu, and respiratory infections",
+      "Amazonian shamanic use: plant chewed before ceremony for saliva production and oral anesthesia",
+      "West African traditional medicine: treatment of abscesses, infected wounds, and skin boils",
+      "Indonesian traditional use (jombang): leaves used as a remedy for constipation and dyspepsia",
+      "Traditional use in India for paralysis and facial nerve conditions"
+    ],
+    "modernUses": [
+      "Local anesthetic: spilanthol activates and desensitizes TRPV1 and Nav channels; comparable to lignocaine in topical gingival applications",
+      "Immunostimulant: alkamides activate CB2 receptors and enhance macrophage activity, TNF-α, and IL-1β production — parallels Echinacea alkamides",
+      "Anti-inflammatory: spilanthol inhibits COX-2 and iNOS; reduces paw edema in carrageenan rat model comparably to indomethacin",
+      "Antimicrobial: activity against S. aureus, S. mutans (dental caries), Candida albicans, and drug-resistant bacteria",
+      "Insecticidal and larvicidal: spilanthol effective against Aedes aegypti larvae; active antimalarial research",
+      "Diuretic: consistent across animal models and some human reports",
+      "Cosmetic anti-aging: spilanthol inhibits facial muscle micro-contractions (used in 'botox-like' topical products)",
+      "Antifungal: flower extracts inhibit Trichophyton and Aspergillus species"
+    ],
+    "preparations": [
+      "Fresh flower head (toothache use): 1–2 flower heads chewed directly on affected tooth and gum for 5–10 minutes",
+      "Tincture (1:5 in 60% ethanol): 2–4 mL three times daily for immune support",
+      "Dried aerial herb tea: 1.5–3 g in 200 mL boiling water, steep 10 minutes; 2–3× daily",
+      "Standardized spilanthol extract: 300–500 mg capsule (standardized to 2% spilanthol) twice daily",
+      "Topical gel (0.5% spilanthol equivalent): applied to gums and mouth sores as needed",
+      "Cosmetic serum (Acmella oleracea extract, 0.1–0.5%): applied topically for wrinkle reduction"
+    ],
+    "contraindications": [
+      "Pregnancy: oxytocic effects of alkamides documented in animal studies; avoid",
+      "Autoimmune conditions: immune-stimulating alkamides may exacerbate autoimmune disease",
+      "Allergy to Asteraceae family plants",
+      "Children under 2: strong oral numbing may suppress feeding and gag reflex",
+      "Renal impairment: diuretic effect and potassium excretion"
+    ],
+    "sideEffects": [
+      "Intense tingling and temporary numbness of mouth and tongue (expected pharmacological effect)",
+      "Excessive salivation immediately after chewing",
+      "Mild GI upset with high doses of tea or tincture",
+      "Rare skin sensitization and contact dermatitis"
+    ],
+    "drugInteractions": [
+      "Local anesthetics (lidocaine, benzocaine): additive numbing effect; potential for excessive anesthesia",
+      "Immunosuppressants (cyclosporine, tacrolimus): immune-stimulating alkamides may antagonize",
+      "Diuretics (furosemide): additive diuretic and electrolyte effects",
+      "Anticoagulants: mild platelet-inhibitory effects of flavonoids"
+    ]
+  },
+  {
+    "slug": "lomatium",
+    "name": "Lomatium",
+    "latinName": "Lomatium dissectum",
+    "family": "Apiaceae",
+    "familyLatin": "Carrot/Parsley family",
+    "nativeRange": "Western North America: British Columbia south to California and east to Montana, Wyoming, and Colorado; Great Basin, Cascade-Sierra ranges, and Rocky Mountain foothills",
+    "habitat": "Dry, rocky hillsides, sagebrush steppes, open ponderosa pine forests, and talus slopes; prefers rocky, well-drained soils; dry meadows in the rain shadow of mountain ranges; elevations 300–2,500 m",
+    "description": {
+      "overall appearance": "A large, stout, taprooted perennial herb growing 30–100 cm tall with finely divided, ferny foliage and large, flat-topped compound umbels of yellow to purple flowers. Mature plants can live 50–100 years or more, developing enormous taproots.",
+      "roots": "Massive, fleshy taproot that can reach 30–90 cm long and 5–10 cm in diameter in mature specimens; exterior dark brown to black; interior yellowish-white; intensely aromatic with a resinous, celery-like smell; primary medicinal part",
+      "stem": "Erect, stout, solitary or few; 30–100 cm tall; glaucous (waxy coating); hollow in upper portion; purple-tinged at base",
+      "leaves": "Basal and cauline; very finely 2–3 pinnately dissected into small, thread-like segments; total leaf 10–30 cm long; strongly aromatic; gray-green; forms large, fern-like mounds",
+      "flowers": "Tiny, yellow or occasionally purple; borne in large compound umbels 10–20 cm across with 12–25 primary rays; blooms April–July depending on elevation",
+      "fruits/seeds": "Oval schizocarps 8–15 mm long; prominently winged (flat lateral wings); gland-dotted with resinous compounds; strongly scented when crushed"
+    },
+    "compounds": [
+      "Tetrahydrofuryl butyrolactone (primary antiviral compound identified in 1940s research)",
+      "Galbanic acid, columbianadin, and osthol (angular furanocoumarins)",
+      "Psoralen and bergapten (linear furanocoumarins — photosensitizing)",
+      "Falcarinol, falcarindiol (polyacetylene compounds with antimicrobial activity)",
+      "Monoterpenes: alpha-pinene, sabinene, limonene in essential oil",
+      "Sesquiterpenes: beta-caryophyllene and germacrene",
+      "Resin acids (complex uncharacterized resinous fraction)",
+      "Glucomannans and polysaccharides in root flesh"
+    ],
+    "partsUsed": [
+      "Root (primary medicinal part, fresh or dried)",
+      "Root resin (oleoresin extract)",
+      "Seeds (aromatic cooking spice; root is preferred medicinally)"
+    ],
+    "traditionalUses": [
+      "Plateau Native American peoples (Nez Perce, Yakama, Okanagan): primary antiviral and pandemic medicine; roots used during 1918 influenza pandemic with reports of high survival rates",
+      "Crow and Shoshone: dried and powdered root inhaled or smoked for respiratory infections",
+      "Great Basin Native Americans: root decoctions for syphilis and gonorrhea",
+      "Columbia Plateau tribes: root as a primary spring tonic and protective food medicine; seeds used as a spice (dried root called 'biscuit root' in some traditions)",
+      "Traditional topical use: root poultice applied to sores, wounds, and skin infections",
+      "Nez Perce and Cayuse tribes: steam baths with roots for fever and body pain",
+      "Paiute tradition: root as a food medicine — roasted and eaten during illness"
+    ],
+    "modernUses": [
+      "Antiviral: most studied for broad-spectrum antiviral activity; in vitro activity against influenza, herpes simplex, and respiratory viruses; popularized by Michael Moore (herbalist) for influenza",
+      "Immune stimulation: root extracts enhance macrophage activity and NK cell function",
+      "Antibacterial: furanocoumarins and polyacetylenes active against Gram-positive pathogens including MRSA",
+      "Respiratory infections: used by clinical herbalists as a primary herb for viral pneumonia, bronchitis, and upper respiratory viral illness",
+      "Chronic viral infections: used in naturopathic protocols for Epstein-Barr, CMV, and long COVID",
+      "Antifungal: active against Candida and dermatophytes in vitro",
+      "Lymphatic stimulant: traditional classification supported by lymph node depletion studies in rodents",
+      "Lomatium 1918 rash: a well-documented detoxification reaction in some users (see side effects)"
+    ],
+    "preparations": [
+      "Tincture (fresh root, 1:2 in 60% ethanol): 2–5 mL three times daily for acute infection",
+      "Tincture (dried root, 1:5): 3–5 mL three times daily",
+      "Root decoction: 3–6 g dried root simmered 30 minutes in 400 mL water; 3× daily",
+      "Oleoresin extract (whole-root lipophilic extract): 500 mg in capsule 3× daily",
+      "Acute viral protocol: 5 mL tincture every 2–3 hours for the first 24–48 hours",
+      "Prophylactic/immune support: 2 mL tincture once daily during cold/flu season"
+    ],
+    "contraindications": [
+      "Pregnancy: furanocoumarins have potential mutagenic and phototoxic effects; avoid",
+      "Photosensitivity disorders: linear furanocoumarins (psoralen) cause significant photosensitization",
+      "Autoimmune conditions: immune stimulation may exacerbate",
+      "Allergy to Apiaceae (carrots, celery, parsley): cross-reactivity common in this family",
+      "Prior Lomatium rash reaction: patients who experience the full-body detox rash should reduce dose significantly"
+    ],
+    "sideEffects": [
+      "'Lomatium rash' — a distinctive, whole-body measles-like eruption occurring in ~5–10% of first-time users, beginning 2–4 days into use; believed to be a Herxheimer-type reaction or detox phenomenon; resolves on stopping",
+      "Photosensitization and skin burning on sun exposure (furanocoumarin content)",
+      "Nausea and GI upset at high doses",
+      "Headache during initial use in some individuals"
+    ],
+    "drugInteractions": [
+      "Immunosuppressants: immune-stimulating polysaccharides may reduce efficacy of immunosuppressive drugs",
+      "Photosensitizing drugs (fluoroquinolones, tetracyclines, phenothiazines): additive photosensitization risk",
+      "Anticoagulants: coumarins may add to anticoagulant effects; monitor INR",
+      "CYP3A4/CYP1A2 substrates: furanocoumarins inhibit these enzymes; potential for altered drug metabolism"
+    ]
+  },
+  {
+    "slug": "oat-straw",
+    "name": "Oat Straw",
+    "latinName": "Avena sativa",
+    "family": "Poaceae",
+    "familyLatin": "Grass family",
+    "nativeRange": "Wild progenitor (Avena sterilis) from the Fertile Crescent and Near East; cultivated oats domesticated from wild oats and now grown worldwide as a cereal grain crop; naturalized in temperate regions globally",
+    "habitat": "Cultivated in temperate agricultural zones; prefers cool, moist climates; grows in loamy, well-drained soils; naturalized on roadsides, field margins, and disturbed areas in temperate Europe and North America",
+    "description": {
+      "overall appearance": "An annual cereal grass growing 60–150 cm tall with distinctive drooping, open panicle seed heads. Medicinally, 'oat straw' refers to the green, above-ground parts harvested before grain maturity ('milky oat' stage) and the dried stem.",
+      "roots": "Fibrous, shallow root system; annual; roots not used medicinally",
+      "stem": "Hollow, jointed culm (grass stem); erect, 60–150 cm tall; internodes smooth; nodes solid; pale green to yellow at maturity",
+      "leaves": "Flat, linear blades 20–40 cm long and 0.6–1.5 cm wide; smooth surface with slight roughness near margins; auricles absent; ligule membranous, 1–4 mm",
+      "flowers": "Borne in open, drooping panicles 15–30 cm long; each spikelet contains 2–3 florets enclosed in glumes; anthers yellow; wind-pollinated; blooms May–July",
+      "fruits/seeds": "Grain (caryopsis) 6–9 mm long; covered by adherent lemma and palea forming the oat hull; milky stage (milky oat) is medicinal; ripe grain contains beta-glucans and avenanthramides"
+    },
+    "compounds": [
+      "Avenanthramides A, B, C (unique to oats; polyphenol amides with antioxidant and anti-inflammatory activity)",
+      "Beta-glucan (1,3/1,4-beta-D-glucan soluble fiber; cholesterol-lowering and immune-modulating)",
+      "Avenin (oat storage protein with mild opioid-like properties)",
+      "Avenacoside A and B (steroidal saponins with estrogen-modulating activity)",
+      "Indole alkaloids: gramine and others (in immature plant)",
+      "Silica (monosilicic acid, absorbable form contributing to connective tissue support)",
+      "Vitamins: thiamine (B1), riboflavin (B2), pyridoxine (B6), folate",
+      "Minerals: magnesium, calcium, iron, zinc, manganese"
+    ],
+    "partsUsed": [
+      "Green aerial parts harvested at 'milky oat' stage (primary nervine use)",
+      "Dried stem (oat straw)",
+      "Grain (oat grain, primarily nutritive and cholesterol-lowering use)",
+      "Oat bran (fiber fraction)"
+    ],
+    "traditionalUses": [
+      "European folk medicine: oat preparations for nervous exhaustion, depression, and 'neurasthenia'",
+      "British herbal tradition (Gerard, Culpeper): oat preparations for melancholy, wasting diseases, and convalescence",
+      "Traditional Scottish use: oatmeal and oat water as nourishing foods for the sick and convalescent",
+      "Eclectic medicine (USA): milky oat tincture as a nerve tonic for anxiety, exhaustion, and withdrawal from opium and tobacco",
+      "Traditional topical use: colloidal oatmeal for itching, eczema, and dry skin conditions",
+      "Traditional use for increasing breast milk supply in lactating mothers",
+      "German folk medicine: oat baths for rheumatic pain and skin conditions"
+    ],
+    "modernUses": [
+      "Nervine tonic: clinical herbalists widely use milky oat tincture for nervous exhaustion, burnout, and adrenal fatigue; pharmacological mechanism not fully established but avenin activity proposed",
+      "Cholesterol reduction: beta-glucan (≥3 g/day) FDA-approved health claim for reducing LDL cholesterol; reduces total cholesterol by 5–10%",
+      "Blood glucose regulation: beta-glucan slows gastric emptying and reduces postprandial glucose surge; clinically documented in type 2 diabetes",
+      "Dermatology: FDA-recognized colloidal oatmeal as a skin protectant; reduces itch and inflammation in atopic dermatitis",
+      "Silica for connective tissue: absorbable silica supports hair, nail, and joint health; clinical evidence for hair growth in some studies",
+      "Anti-inflammatory: avenanthramides inhibit NF-κB and reduce histamine-induced itch",
+      "Antioxidant: avenanthramides are among the most potent phenolic antioxidants in cereal grains",
+      "Cardiovascular: beta-glucan reduces C-reactive protein and arterial stiffness in cardiovascular disease patients"
+    ],
+    "preparations": [
+      "Milky oat tincture (fresh plant, 1:2 in 60% ethanol): 3–5 mL three times daily for nervous system support",
+      "Oat straw tea (dried straw): 2–3 g per 200 mL, steep 15 minutes; 3× daily as a mineral and silica tonic",
+      "Oat grain decoction: 30 g whole oats simmered in 500 mL water for 20 minutes; strained; used as a nourishing convalescent drink",
+      "Colloidal oatmeal bath: 1–2 cups finely ground oats in warm bath; soak 15–20 minutes for skin conditions",
+      "Beta-glucan supplement: 3–5 g daily (from oat bran or isolated beta-glucan) for cholesterol management",
+      "Standardized oat extract (10:1): 200–400 mg twice daily"
+    ],
+    "contraindications": [
+      "Celiac disease and non-celiac gluten sensitivity: oats contain avenin (cross-reactive with gliadin in some patients); certified gluten-free oats may be tolerated",
+      "Oat allergy (rare): IgE-mediated allergy to avenin or contaminating grains",
+      "Colitis during acute flare: beta-glucan and fiber may aggravate active inflammatory bowel disease",
+      "Topical application: rare contact dermatitis, particularly in individuals with existing skin barrier disruption"
+    ],
+    "sideEffects": [
+      "Bloating and flatulence with high-dose beta-glucan consumption",
+      "Loose stools and diarrhea with rapid introduction of high-fiber oat products",
+      "Rare: allergic skin reactions with topical colloidal oatmeal in highly sensitized individuals",
+      "Drug absorption interference: high viscosity beta-glucan may slow absorption of co-administered drugs"
+    ],
+    "drugInteractions": [
+      "Antidiabetic agents (insulin, metformin): additive blood glucose lowering; monitor for hypoglycemia",
+      "Cholesterol-lowering drugs (statins): beta-glucan additive LDL-lowering; generally beneficial combination",
+      "Oral medications (general): high-viscosity beta-glucan may reduce absorption; take medications 1–2 hours before oat preparations",
+      "Anticoagulants: high vitamin K content in green oat preparations may affect INR; insignificant with standard doses"
+    ]
+  },
+  {
+    "slug": "horsetail",
+    "name": "Horsetail",
+    "latinName": "Equisetum arvense",
+    "family": "Equisetaceae",
+    "familyLatin": "Horsetail family",
+    "nativeRange": "Circumboreal; throughout temperate and subarctic regions of North America, Europe, and Asia; one of the most widely distributed vascular plants on Earth",
+    "habitat": "Moist to wet soils along streambanks, ditches, roadsides, railway embankments, and disturbed ground; tolerates poor, sandy, or clay soils; grows at elevations from sea level to 2,500 m",
+    "description": {
+      "overall appearance": "A primitive, spore-bearing perennial that resembles a tiny conifer or green bottle-brush. The plant has two distinct morphological phases: a fertile, brownish, unbranched spore-bearing stem in early spring followed by sterile green vegetative stems with whorled branches throughout summer.",
+      "roots": "Deep, creeping rhizomes with tuber-like swellings; extremely invasive and difficult to eradicate; rhizomes penetrate to 1.5 m depth",
+      "stem": "Two types: fertile stems brown, non-photosynthetic, 10–25 cm tall, bearing terminal strobilus; sterile stems bright green, jointed, hollow, 20–50 cm tall, with prominent longitudinal ridges (silica-impregnated)",
+      "leaves": "Reduced to small, scale-like sheaths at each node; 6–12 teeth per sheath; function replaced by green stems and branches",
+      "flowers": "No flowers — ancient spore-bearing plant; fertile strobilus (cone) at apex of fertile stem bears sporangiophores with sporangia; spores released in spring",
+      "fruits/seeds": "Spores: green, spherical, 30–50 µm, bearing hygroscopic elaters (ribbon-like appendages) that aid dispersal; vegetative reproduction via rhizome fragments"
+    },
+    "compounds": [
+      "Silica (silicon dioxide and monosilicic acid, 5–8% dry weight) — highest silica content of any medicinal plant",
+      "Equisetine (quinolizidine alkaloid, toxic; see contraindications) — primarily in green stems",
+      "Palustrine and palustrinine (piperidine alkaloids, minor)",
+      "Onitin, isoquercetin, and kaempferol glycosides (flavonoids)",
+      "Phenylpropanoids: caffeic acid, ferulic acid esters",
+      "Phytosterols: beta-sitosterol and cholesterol",
+      "Ascorbic acid (vitamin C, 0.7% in fresh plant)",
+      "Potassium, calcium, magnesium, manganese, zinc (significant mineral profile)"
+    ],
+    "partsUsed": [
+      "Sterile green vegetative stems (primary medicinal part; harvested summer)",
+      "Dried aerial parts (straw)",
+      "Aqueous extracts (silica-extracting preparations)"
+    ],
+    "traditionalUses": [
+      "Indigenous North American use (Cherokee, Iroquois): diuretic tea for kidney and bladder conditions and as a remedy for urinary infections",
+      "Native American topical use: scraped stems applied to fresh wounds to stop bleeding",
+      "Traditional European use (Dioscorides, Roman medicine): wounds, fractures, and bleeding; 'stanching blood' is among the oldest recorded uses",
+      "Medieval European herbalism: dried horsetail used as a scouring material ('scouring rush') due to silica content; also a medicinal herb for dropsy",
+      "German folk medicine (Kneipp tradition): horsetail baths and teas for kidney and bladder disorders, gout, and rheumatism",
+      "Traditional use for nail and hair strengthening in European folk medicine",
+      "Chinese traditional medicine (mu zei cao): related species used for fever, conjunctivitis, and as a hepatic tonic"
+    ],
+    "modernUses": [
+      "Silica supplementation: monosilicic acid from horsetail is the most bioavailable food-source silica; used for bone density, joint cartilage repair, and connective tissue support",
+      "Diuretic: increases urine volume with possible anti-inflammatory effect on urinary tract mucosa (German Commission E approved for 'edema' and 'UTI' support)",
+      "Nail and hair growth: silica promotes keratin cross-linking; pilot clinical trials show improved nail hardness and hair tensile strength",
+      "Bone health: silicon promotes osteoblast differentiation and collagen type I synthesis; relevant in osteoporosis prevention",
+      "Wound healing: topical preparations improve collagen deposition and accelerate wound closure",
+      "Antioxidant: flavonoid fraction with moderate radical-scavenging activity",
+      "Anti-inflammatory: kaempferol and quercetin glycosides reduce COX-2 and PGE2",
+      "Antimicrobial: extracts active against dermatophytes and S. aureus in vitro"
+    ],
+    "preparations": [
+      "Dried herb decoction: 2–4 g in 200 mL water, simmered (not steeped) 10–15 minutes to extract silica; 3× daily",
+      "Standardized silica extract: preparations providing 10–20 mg monosilicic acid daily",
+      "Capsules of dried herb: 300–900 mg three times daily",
+      "Tincture (1:5 in 25% ethanol): 1–3 mL three times daily",
+      "Topical wash: strong decoction (10 g per liter) used for wound irrigation and skin conditions",
+      "Horsetail bath: 100 g dried herb simmered in 5 L water for 30 minutes; added to bath for joint and skin conditions"
+    ],
+    "contraindications": [
+      "Thiamine (vitamin B1) deficiency: equisetine destroys thiamine; prolonged use without thiamine supplementation causes deficiency",
+      "Pregnancy and lactation: alkaloid content and diuretic effect; avoid",
+      "Kidney disease (nephritis): diuretic stimulation contraindicated in active renal inflammation",
+      "Potassium depletion: diuretic use can deplete potassium; supplement or avoid with diuretic medications",
+      "Nicotine sensitivity: structural similarity to nicotine in alkaloids; smokers may experience amplified effects"
+    ],
+    "sideEffects": [
+      "Thiamine deficiency with prolonged use: neurological symptoms (neuropathy, Wernicke's encephalopathy) if no B1 supplement",
+      "Potassium depletion and electrolyte imbalance with long-term diuretic use",
+      "GI irritation and diarrhea at high doses",
+      "Dermatitis with topical contact in sensitive individuals"
+    ],
+    "drugInteractions": [
+      "Diuretics (furosemide, hydrochlorothiazide): additive potassium-depleting diuretic effects; hypokalemia risk",
+      "Lithium: increased renal clearance reduces lithium levels; monitor therapeutic levels",
+      "Antidiabetic agents: modest hypoglycemic activity may be additive with insulin or oral agents",
+      "Cardiac glycosides (digoxin): potassium depletion from diuresis increases digoxin toxicity risk"
+    ]
+  },
+  {
+    "slug": "gotu-kola",
+    "name": "Gotu Kola",
+    "latinName": "Centella asiatica",
+    "family": "Apiaceae",
+    "familyLatin": "Carrot/Parsley family",
+    "nativeRange": "Widespread throughout tropical and subtropical Asia: India, Sri Lanka, China, Malaysia, Indonesia, Australia; also naturalized in tropical Africa, the Caribbean, and South America",
+    "habitat": "Moist, shaded environments: streambanks, forest margins, rice paddies, roadsides, and grasslands in tropical and subtropical lowlands; adapts to a wide range of soils but prefers rich, moist conditions",
+    "description": {
+      "overall appearance": "A small, creeping, stoloniferous herb with rounded, kidney-shaped leaves growing in loose mats 5–15 cm tall. The plant spreads by surface runners (stolons) with roots at each node, forming dense ground-cover colonies in moist environments.",
+      "roots": "Short, fibrous roots at each stolon node; cream-colored; mild aromatic scent; primary medicinal preparation includes roots with aerial parts",
+      "stem": "Prostrate stolons running along the soil surface, 15–80 cm long; slender, green to slightly reddish; rooting at nodes; erect peduncles bear flowers and leaves",
+      "leaves": "Reniform (kidney-shaped) to orbicular, 1–5 cm across; margins crenate; long petioles 2–8 cm; bright green; smooth; prominently veined; emerge in clusters from stolon nodes",
+      "flowers": "Tiny, pale pink to white, in small, compact umbels of 3–4 flowers on short peduncles; individual flowers 1–2 mm; blooms year-round in tropical conditions",
+      "fruits/seeds": "Small, compressed schizocarps 3–5 mm wide; 7–9 prominent ribs; hard shell; brown when ripe"
+    },
+    "compounds": [
+      "Asiaticoside (primary triterpene saponin, ~40% of triterpene fraction) — wound healing and neuroprotective",
+      "Madecassoside (triterpene saponin, primary anti-inflammatory compound)",
+      "Asiatic acid and madecassic acid (aglycones of the above saponins)",
+      "Brahmoside and brahminoside (minor saponins with mild CNS activity)",
+      "Centelloside (minor saponin)",
+      "Quercetin, kaempferol, and rutin (flavonoid glycosides)",
+      "Volatile oil: beta-caryophyllene, trans-beta-farnesene, germacrene D",
+      "Polyacetylenes: centellose and related compounds"
+    ],
+    "partsUsed": [
+      "Whole aerial parts (leaves, stems, stolons)",
+      "Leaves (fresh or dried; primary form)",
+      "Fresh leaf juice",
+      "Whole plant including roots"
+    ],
+    "traditionalUses": [
+      "Ayurveda (mandukparni/brahmi): one of the primary rasayana herbs for memory, intellect, and longevity; used in Chyawanprash and numerous formulas",
+      "Siddha medicine (Tamil Nadu): fresh leaf juice as a cognitive tonic and anti-aging remedy; known as 'vallarai'",
+      "Sri Lankan traditional medicine: eaten as a daily leafy vegetable (gotu kola mallum salad) for cognitive health and longevity",
+      "Indonesian Jamu tradition: leaves in beverage preparations for wound healing and skin clarity",
+      "Chinese medicine (ji xue cao): treatment of wounds, hepatitis, and urinary infections",
+      "Thai traditional medicine: topical and internal use for leprosy, psoriasis, and leprous ulcers",
+      "West African traditional medicine: leaves applied to wounds and skin infections",
+      "Traditional use as a longevity herb — legend that Sri Lankan elephants (long-lived) regularly eat gotu kola"
+    ],
+    "modernUses": [
+      "Wound healing: asiaticoside and madecassoside stimulate collagen synthesis and fibroblast proliferation; 8 RCTs support accelerated wound closure and reduced hypertrophic scarring",
+      "Cognitive enhancement: triterpene saponins increase BDNF, reduce acetylcholinesterase activity, and improve spatial memory in animal models and elderly clinical trials",
+      "Chronic venous insufficiency: meta-analysis of 12 RCTs shows reduced edema, improved capillary permeability, and reduced ankle swelling at 60–120 mg TTFCA/day",
+      "Anxiety reduction: brahmoside modulates GABA-A receptors; RCT shows reduced anxiety and improved mental alertness (vs. placebo)",
+      "Neuroprotection: madecassoside reduces amyloid-beta toxicity and protects against Parkinson's-like neurodegeneration in models",
+      "Stretch mark and scar prevention: topical formulations widely tested and commercially available with clinical support",
+      "Antioxidant: free radical scavenging and induction of glutathione and superoxide dismutase",
+      "Antidepressant: increased monoamine levels (5-HT, dopamine, norepinephrine) in stressed animal models"
+    ],
+    "preparations": [
+      "Fresh leaf consumption: 10–20 fresh leaves daily as food or blended into juice (Sri Lankan traditional dose)",
+      "Dried herb capsules: 500 mg–1 g twice daily",
+      "Standardized extract (TTFCA — total triterpenic fraction of Centella asiatica): 60 mg three times daily for chronic venous insufficiency (most clinically-studied form)",
+      "Tincture (1:5 in 30% ethanol): 3–5 mL twice daily",
+      "Standardized extract (8–10% asiaticosides): 300–600 mg twice daily for cognitive support",
+      "Topical cream (1% triterpene extract): applied twice daily to scars, stretch marks, and venous ulcers"
+    ],
+    "contraindications": [
+      "Pregnancy (high doses): emmenagogue activity at high doses; culinary amounts from food probably safe",
+      "Hepatic disease: rare case reports of hepatotoxicity with high-dose long-term use",
+      "Scheduled surgery: mild antiplatelet and anticoagulant effects; discontinue 2 weeks prior",
+      "Sedative drug use: mild GABA activity may potentiate CNS depression",
+      "Allergy to Apiaceae family plants"
+    ],
+    "sideEffects": [
+      "Nausea, stomach upset, and headache at high doses",
+      "Rare hepatotoxicity (case reports with very prolonged high-dose use)",
+      "Drowsiness and sedation at high therapeutic doses",
+      "Contact dermatitis with topical preparations (rare)"
+    ],
+    "drugInteractions": [
+      "Sedatives and anxiolytics (benzodiazepines, barbiturates): additive CNS depression from GABA activity",
+      "Anticoagulants and antiplatelets (warfarin, aspirin): mild antiplatelet effect; enhanced bleeding risk",
+      "Antidiabetic agents: mild blood glucose lowering; monitor for additive effect",
+      "Hepatotoxic drugs (isoniazid, acetaminophen, statins): rare hepatotoxicity risk is additive"
+    ]
+  },
+  {
+    "slug": "cramp-bark",
+    "name": "Cramp Bark",
+    "latinName": "Viburnum opulus",
+    "family": "Adoxaceae",
+    "familyLatin": "Moschatel/Elderberry family",
+    "nativeRange": "Europe, northern Africa, and Central Asia; from the British Isles east to Siberia and south to the Caucasus and Iran; widely naturalized in North America as a garden escape",
+    "habitat": "Moist woodland margins, hedgerows, riverbanks, and fen margins; grows on loamy, moderately fertile, neutral to slightly alkaline soils; partial shade to full sun; lowlands to 1,500 m elevation",
+    "description": {
+      "overall appearance": "A deciduous shrub or small tree growing 2–5 m tall with spreading branches, distinctive lobed leaves, and showy white flower clusters (resembling elderberry). The red berries are ornamental but toxic when raw.",
+      "roots": "Woody, fibrous root system; roots not used medicinally; bark of roots and stems is the medicinal part",
+      "stem": "Erect to spreading, multi-stemmed; bark gray-brown, shallowly fissured; young twigs slightly angular; opposite branching pattern",
+      "leaves": "Opposite, 3-lobed (resembling maple), 5–10 cm long and wide; irregular coarsely toothed margins; upper surface dull green, lower surface hairier; petiole has 2 glands near blade; stunning red-orange autumn color",
+      "flowers": "Creamy white, in flat-topped, lacecap-like corymbs 8–12 cm across; outer flowers sterile and enlarged (3–2.5 cm), inner flowers small and fertile; blooms May–June; fragrant",
+      "fruits/seeds": "Bright red to orange, translucent, berry-like drupes 8–12 mm diameter; in drooping clusters; bitter, containing hydrocyanic acid precursors; single flattened stone per berry; persist into winter"
+    },
+    "compounds": [
+      "Viopudial (sesquiterpene aldehyde, primary antispasmodic compound) — inhibits smooth muscle contraction",
+      "Viburnin (bitter resin mixture including valtratum and isovaltratum)",
+      "Scopoletin and scopolin (coumarins with antispasmodic and anti-inflammatory activity)",
+      "Oleanolic acid and ursolic acid (pentacyclic triterpenes)",
+      "Tannins: chlorogenic acid, caffeic acid, and condensed tannins",
+      "Valeric acid and isovaleric acid (sedative volatile acids)",
+      "Catechins and epicatechins (flavanols)",
+      "Arbutin (hydroquinone glucoside, antimicrobial, minor)"
+    ],
+    "partsUsed": [
+      "Stem bark (primary medicinal part, harvested spring or autumn)",
+      "Root bark (similar compounds, stronger)",
+      "Berries (not used medicinally; toxic raw)"
+    ],

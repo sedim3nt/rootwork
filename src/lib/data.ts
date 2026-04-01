@@ -29,7 +29,7 @@ export function getFamilyByName(familyName: string): Family | undefined {
   // Match by checking if the family name appears in the family's name field
   return families.find((f) => {
     const fName = f.name.replace(' Family', '');
-    return fName === familyName || f.commonName === familyName;
+    return fName === familyName || f.latin === familyName;
   });
 }
 

@@ -44,21 +44,21 @@ export default function SymptomsPage() {
   // If no exact category match, broaden to keyword matching
   const availableUses = useMemo(() => {
     if (!selectedSystem) return [];
-    const matched = systemCategories.flatMap((c) => c.uses);
+    const matched = systemCategories.flatMap((c) => c.plants.map((p: {slug:string,name:string}) => p.name));
     if (matched.length > 0) return [...new Set(matched)];
     // Fallback: search all categories for keyword overlap
     const keywords = selectedSystem.label.toLowerCase().split(/\s+/);
     return categories
       .filter((c) => keywords.some((k) => c.name.toLowerCase().includes(k) || c.slug.includes(k)))
-      .flatMap((c) => c.uses);
+      .flatMap((c) => c.plants.map((p: {slug:string,name:string}) => p.name));
   }, [selectedSystem, systemCategories]);
 
   const matchingPlants = useMemo(() => {
     if (selectedUses.length === 0) return [];
     // Get plants from matching categories
-    const catPlants = systemCategories.flatMap((c) => resolvePlantRefs(c.plantRefs));
+    const catPlants = systemCategories.flatMap((c) => c.plants.map((ref: {slug: string}) => plants.find((p: any) => p.slug === ref.slug)).filter(Boolean));
     const uniqueSlugs = new Set<string>();
-    const unique = catPlants.filter((p) => {
+    const unique = catPlants.filter((p): p is NonNullable<typeof p> => p != null).filter((p) => {
       if (uniqueSlugs.has(p.slug)) return false;
       uniqueSlugs.add(p.slug);
       return true;

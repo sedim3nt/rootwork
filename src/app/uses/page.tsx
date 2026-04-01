@@ -19,7 +19,7 @@ export default function UsesPage() {
 
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {categories.map((cat) => {
-          const plantCount = cat.plantRefs.filter((r) => !r.startsWith('00-')).length;
+          const plantCount = cat.plants.length;
           return (
             <Link
               key={cat.slug}
@@ -30,9 +30,9 @@ export default function UsesPage() {
                 {cat.name}
               </h3>
               <p className="text-xs text-burnt mt-1">{plantCount} plant{plantCount !== 1 ? 's' : ''}</p>
-              {cat.uses.length > 0 && (
+              {cat.plants.length > 0 && (
                 <p className="text-xs text-text-muted mt-2 line-clamp-2">
-                  {cat.uses.slice(0, 3).join(' · ')}
+                  {cat.plants.slice(0, 3).map((p: {name:string}) => p.name).join(' · ')}
                 </p>
               )}
             </Link>

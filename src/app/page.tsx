@@ -7,8 +7,8 @@ import { plants, categories, families } from '@/lib/data';
 // Pick 6 deterministic "featured" plants spread across the list
 const featured = [0, 15, 30, 50, 70, 90].map((i) => plants[i % plants.length]);
 
-// Filter to categories that have uses and plantRefs
-const browseCategories = categories.filter((c) => c.uses.length > 0 && c.plantRefs.length > 0);
+// Filter to categories that have plants
+const browseCategories = categories.filter((c) => c.plants.length > 0);
 const browseFamilies = families.slice(0, 12);
 
 // Plant of the Day — deterministic based on day of year
@@ -101,7 +101,7 @@ export default function HomePage() {
                 {cat.name}
               </h3>
               <p className="text-xs text-text-muted mt-1">
-                {cat.plantRefs.filter((r) => !r.startsWith('00-')).length} plants
+                {cat.plants.length} plants
               </p>
             </Link>
           ))}
@@ -124,7 +124,7 @@ export default function HomePage() {
                 {cat.name}
               </h3>
               <p className="text-xs text-text-muted mt-1">
-                {cat.plantRefs.filter((r) => !r.startsWith('00-')).length} plants
+                {cat.plants.length} plants
               </p>
             </Link>
           ))}
@@ -149,7 +149,7 @@ export default function HomePage() {
               <h3 className="font-medium text-parchment group-hover:text-burnt transition-colors text-sm" style={{ fontFamily: 'var(--font-display)' }}>
                 {fam.name.replace(' Family', '')}
               </h3>
-              <p className="text-xs text-text-muted mt-0.5">{fam.commonName}</p>
+              <p className="text-xs text-text-muted mt-0.5">{fam.latin}</p>
             </Link>
           ))}
         </div>

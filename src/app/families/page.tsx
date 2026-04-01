@@ -19,7 +19,7 @@ export default function FamiliesPage() {
 
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {families.map((fam) => {
-          const plantCount = fam.plantRefs.filter((r) => !r.startsWith('00-')).length;
+          const plantCount = fam.plants.length;
           return (
             <Link
               key={fam.slug}
@@ -29,11 +29,8 @@ export default function FamiliesPage() {
               <h3 className="font-semibold text-parchment group-hover:text-burnt transition-colors" style={{ fontFamily: 'var(--font-display)' }}>
                 {fam.name.replace(' Family', '')}
               </h3>
-              <p className="text-sm text-text-muted mt-0.5">{fam.commonName}</p>
+              <p className="text-sm text-text-muted mt-0.5">{fam.latin}</p>
               <p className="text-xs text-burnt mt-2">{plantCount} plant{plantCount !== 1 ? 's' : ''}</p>
-              {fam.characteristics['Key Features'] && (
-                <p className="text-xs text-text-muted mt-2 line-clamp-2">{fam.characteristics['Key Features']}</p>
-              )}
             </Link>
           );
         })}

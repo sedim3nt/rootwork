@@ -1,0 +1,1288 @@
+[
+  {
+    "slug": "maca",
+    "name": "Maca",
+    "latinName": "Lepidium meyenii",
+    "family": "Brassicaceae",
+    "familyLatin": "Mustard family",
+    "nativeRange": "Andes Mountains of Peru and Bolivia, 3,500–4,500 m elevation",
+    "habitat": "High-altitude puna grasslands, rocky volcanic soils with frost, intense UV radiation, and strong winds; grows where few crops survive",
+    "description": {
+      "overall appearance": "Low-growing herbaceous biennial forming a basal rosette 10–20 cm tall with a flattened, turnip-like hypocotyl (the edible root-stem) 3–7 cm in diameter and 4–7 cm long. The entire aboveground portion rarely exceeds 20 cm in height, giving it a compact profile suited to windswept alpine conditions.",
+      "roots": "Enlarged hypocotyl (commonly called the root) is the primary storage organ, varying in color from creamy-white and yellow to red, purple, and black; fleshy, dense, and high in nutrients. True roots extend below into rocky soil.",
+      "stem": "Extremely short, compressed stem bearing a rosette; flowering stem (scape) emerges in second year, reaching 20–25 cm, branched at apex",
+      "leaves": "Pinnately lobed, fleshy, spatula-shaped basal leaves 10–20 cm long and 2–3 cm wide; dark green with slightly wavy margins; form a ground-hugging rosette that withstands frost and hail",
+      "flowers": "Tiny white to off-white, 4-petaled cruciform flowers 2–3 mm across; arranged in short terminal racemes; self-fertile",
+      "fruits/seeds": "Small silicles (indehiscent pods) 4–5 mm long, each containing 2 oval reddish-brown seeds 2–3 mm in diameter"
+    },
+    "compounds": [
+      "Benzylglucosinolate (glucotropaeolin)",
+      "Macaridine alkaloids (imidazole alkaloids)",
+      "Macamides (N-benzyl fatty acid amides: N-benzyl-5-oxo-6E,8E-octadecadienamide)",
+      "Meyenii sterols (β-sitosterol, campesterol, ergosterol)",
+      "Glucosinolate hydrolysis products (isothiocyanates, nitriles)",
+      "Flavonoids (kaempferol, myricetin)",
+      "Anthocyanins (in red/black varieties: cyanidin-3-glucoside)",
+      "Polyunsaturated fatty acids (linolenic acid, eicosenoic acid)"
+    ],
+    "partsUsed": [
+      "Hypocotyl (dried root/root-stem)",
+      "Whole dried powder",
+      "Leaves (cooked greens, less common)"
+    ],
+    "traditionalUses": [
+      "Andean tradition: consumed by Incan warriors before battle for energy and strength",
+      "Peruvian highland medicine: fertility enhancer for both men and women; root given to livestock to improve reproduction",
+      "Traditional use for altitude sickness and fatigue at high elevation among Quechua peoples",
+      "Post-menopausal symptom relief in Andean women's traditional practice",
+      "Cognitive support and memory enhancement in elderly Andean populations",
+      "Children's nutrition supplement in highland communities to support growth and development",
+      "Traditional treatment for osteoporosis and bone fragility in post-menopausal Andean women",
+      "Energy food and general tonic used continuously for thousands of years as staple crop"
+    ],
+    "modernUses": [
+      "Clinical evidence for improvement in sexual dysfunction: RCT showing 40% improvement in IIEF scores in men with mild erectile dysfunction (Zenico et al., 2009)",
+      "Hormone-independent improvement of menopausal symptoms; double-blind trial showed reduction in hot flushes and night sweats without altering estrogen or FSH levels (Meissner et al., 2006)",
+      "Sperm quality improvement: meta-analysis of 4 RCTs showing increased sperm concentration and motility",
+      "Mood and energy: pilot study of postmenopausal women showed significant reduction in anxiety and depression scores",
+      "Bone density support via glucosinolate-derived compounds; animal studies show protection against osteoporosis",
+      "Adaptogenic activity: modulation of HPA axis stress response demonstrated in animal models",
+      "Sports performance: pilot RCT in cyclists showed improved 40 km time trial performance after 14 days",
+      "Neuroprotection via macamide inhibition of fatty acid amide hydrolase (FAAH)"
+    ],
+    "preparations": [
+      "Dried root powder: 1,500–3,000 mg/day in food or capsules; traditional dose is 20–75 g fresh root daily",
+      "Gelatinized maca powder: 1,500–3,000 mg/day; gelatinization improves digestibility and bioavailability",
+      "Hydroalcoholic extract (4:1): 500–750 mg twice daily",
+      "Aqueous decoction: 5–10 g dried root in 250 mL water, simmered 15 minutes, taken once daily",
+      "Tincture (1:5, 60% ethanol): 2–4 mL three times daily",
+      "Black maca capsules (concentrated): 600–1,000 mg/day for cognitive and bone density applications"
+    ],
+    "contraindications": [
+      "Thyroid disorders: glucosinolates may be goitrogenic; avoid in hypothyroidism or goiter without medical supervision",
+      "Hormone-sensitive conditions (breast, uterine, ovarian cancer, endometriosis): estrogenic potential remains debated; caution advised",
+      "Pregnancy and lactation: insufficient safety data; traditional use was as fertility aid, not during pregnancy",
+      "Children under 12: no established pediatric dosing for supplements"
+    ],
+    "sideEffects": [
+      "Gastrointestinal discomfort (bloating, gas, nausea) especially with raw (non-gelatinized) powder at doses >3 g/day",
+      "Insomnia or restlessness if taken in the evening due to stimulant properties",
+      "Increased libido (generally desired, but note in patients with sexual compulsion history)",
+      "Mild headache reported in first 1–2 weeks of use"
+    ],
+    "drugInteractions": [
+      "Thyroid medications (levothyroxine): glucosinolates may reduce efficacy; monitor thyroid function",
+      "Hormone therapies (HRT, oral contraceptives, tamoxifen): potential additive or antagonistic hormonal effects",
+      "Anticoagulants (warfarin): theoretical interaction via vitamin K content; monitor INR",
+      "Antihypertensives: mild hypotensive effect observed in animal studies; monitor blood pressure"
+    ]
+  },
+  {
+    "slug": "shatavari",
+    "name": "Shatavari",
+    "latinName": "Asparagus racemosus",
+    "family": "Asparagaceae",
+    "familyLatin": "Asparagus family",
+    "nativeRange": "Indian subcontinent, Sri Lanka, Nepal; also found across tropical Africa and Australia",
+    "habitat": "Tropical and subtropical forests, rocky outcrops, and scrublands from sea level to 1,500 m; prefers well-drained sandy loam soils and partial shade",
+    "description": {
+      "overall appearance": "Woody climbing vine reaching 1–2 m or more in height, with a mass of tuberous roots that can number 100+ per plant (the name 'shatavari' means 'she who has a hundred husbands,' referring to the numerous roots). The plant is evergreen, delicate in appearance despite robust root system.",
+      "roots": "Tuberous, succulent, finger-shaped roots 30–100 cm long and 1–2 cm in diameter, clustered in bundles of up to 100+; white to yellowish internally, light brown externally; highly starchy and medicinal",
+      "stem": "Slender, climbing, branched stem with recurved thorns; young stems are bright green and photosynthetically active",
+      "leaves": "True leaves are reduced to spines; photosynthesis performed by flattened cladodes (phylloclades) 0.5–2 cm long, resembling pine needles, arranged in tufts of 2–6",
+      "flowers": "Tiny white, star-shaped, fragrant flowers 3–4 mm across; arranged in unbranched racemes 2.5–5 cm long; appear in spring and monsoon",
+      "fruits/seeds": "Small globose berries 6–8 mm in diameter; green when unripe, turning deep purple-red to black at maturity; each contains 1–3 seeds"
+    },
+    "compounds": [
+      "Steroidal saponins: shatavarin I–IV (spirostanolic glycosides), shatavarin IV primary bioactive",
+      "Isoflavones: 8-methoxy-5,6,4′-trihydroxyisoflavone-7-O-β-D-glucopyranoside",
+      "Polycyclic alkaloids: asparagamine A",
+      "Oligosaccharides: fructo-oligosaccharides (prebiotic activity)",
+      "Polysaccharides: arabinogalactans (immunomodulatory)",
+      "Flavonoids: quercetin, rutin, kaempferol",
+      "Saponins: racemosol, asparanin A",
+      "Mucilaginous glycoproteins (demulcent activity)"
+    ],
+    "partsUsed": [
+      "Tuberous roots (primary)",
+      "Root powder",
+      "Root extract",
+      "Leaves and shoots (food use)"
+    ],
+    "traditionalUses": [
+      "Ayurveda: primary rasayana (rejuvenating tonic) for female reproductive system; used for menarche, fertility, pregnancy, lactation, and menopause",
+      "Ayurveda: galactagogue to promote breast milk production in nursing mothers",
+      "Charaka Samhita (ancient Ayurvedic text): recommended for conditions involving bleeding, inflammation, and nervous disorders",
+      "Traditional remedy for peptic ulcers, gastric irritation, and diarrhea due to mucilaginous roots",
+      "Adaptogen in Ayurvedic tradition for physical and mental stress; classified as medhya rasayana (brain tonic)",
+      "Topical application of root paste for rheumatic and skin conditions in folk medicine",
+      "Antidiarrheal and antiamebic uses in traditional South Asian medicine",
+      "Immune tonic in Ayurveda: given to convalescing patients and the elderly"
+    ],
+    "modernUses": [
+      "Galactagogue activity: RCT showed significant increase in serum prolactin and breast milk volume vs. placebo in lactating women",
+      "Female hormonal balance: evidence for estrogenic modulation in post-menopausal osteoporosis prevention via steroidal saponins",
+      "Gastric ulcer protection: shatavarin IV demonstrated gastroprotective activity comparable to ranitidine in animal models via mucus enhancement",
+      "Adaptogenic and anti-stress: aqueous root extract reduced corticosterone and improved stress parameters in rat models of chronic unpredictable stress",
+      "Immunomodulation: polysaccharides stimulate macrophage activation and NK cell activity in vitro and in vivo",
+      "Antioxidant: DPPH and ABTS radical scavenging activity; hepatoprotective effects shown in paracetamol-induced liver damage models",
+      "Insulin secretagogue activity: shown to improve glucose tolerance in streptozotocin-diabetic rats",
+      "Antidepressant-like activity: comparable to imipramine in FST and TST in mice via serotonergic pathway modulation"
+    ],
+    "preparations": [
+      "Root powder (churna): 3–6 g twice daily with warm milk or water; traditional Ayurvedic dose",
+      "Standardized extract (saponins 20%): 500–1,000 mg twice daily",
+      "Shatavari ghrita (root simmered in ghee): 5–10 g daily in Ayurvedic practice",
+      "Decoction (kwatha): 10–15 g dried root in 200 mL water, reduced by half; 50–60 mL twice daily",
+      "Cold infusion (hima): 5 g powder soaked overnight in 50 mL water; strained and consumed in morning",
+      "Liquid extract (1:2): 3–5 mL twice daily"
+    ],
+    "contraindications": [
+      "Estrogen-sensitive conditions (ER+ breast cancer, uterine fibroids, endometriosis): phytoestrogenic activity warrants caution",
+      "Asparagus allergy: cross-reactivity possible; avoid in known asparagus hypersensitivity",
+      "Acute kidney or urinary tract disorders: saponins may irritate inflamed mucosa; use with caution",
+      "Pregnancy: generally considered safe in Ayurveda, but high-dose supplements lack RCT safety data; consult healthcare provider"
+    ],
+    "sideEffects": [
+      "Mild gastrointestinal effects (bloating, increased stool frequency) at high doses due to prebiotic oligosaccharides",
+      "Allergic reactions (skin rash, urticaria) in individuals sensitive to asparagus or related plants",
+      "Fluid retention (edema) reported with prolonged high-dose use, possibly due to estrogenic activity",
+      "Nausea when taken on an empty stomach at full dose"
+    ],
+    "drugInteractions": [
+      "Diuretics: may potentiate diuretic effect; monitor electrolytes",
+      "Hormone therapies (oral contraceptives, HRT, tamoxifen): phytoestrogens may interfere with hormonal balance",
+      "Immunosuppressants (cyclosporine, tacrolimus): immunostimulant polysaccharides may oppose immunosuppressive therapy",
+      "Antidiabetic agents (metformin, insulin): additive hypoglycemic effect; monitor blood glucose"
+    ]
+  },
+  {
+    "slug": "he-shou-wu",
+    "name": "He Shou Wu",
+    "latinName": "Reynoutria multiflora",
+    "family": "Polygonaceae",
+    "familyLatin": "Buckwheat family",
+    "nativeRange": "Central and southern China, Taiwan, Japan; naturalized across temperate Asia",
+    "habitat": "Hillside thickets, forest margins, valley shrublands, and rocky slopes; 200–3,000 m elevation; prefers moist, well-drained soils",
+    "description": {
+      "overall appearance": "Twining perennial vine reaching 2–4 m in length, with a tuberous root that can grow very large with age (reputedly centuries old specimens reach several kilograms). Aboveground portions die back in winter; the plant emerges vigorously each spring from the persistent rootstock.",
+      "roots": "Tuberous, irregularly shaped, brown-skinned root (tuber) with reddish-brown or orange-red interior; starchy and medicinal; roots of older plants may weigh 0.5–2 kg; also fibrous roots extending outward",
+      "stem": "Twining, branched, reddish-brown to purplish, glabrous (hairless) stem; hollow internodes; tendril-like twining habit allows climbing",
+      "leaves": "Broadly ovate-cordate (heart-shaped), 4–8 cm long and 3–5 cm wide; pointed apex; smooth surface; reddish petioles 1–3 cm long; alternate arrangement",
+      "flowers": "Tiny white to greenish-white flowers 2–3 mm; clustered in large axillary and terminal panicles 10–20 cm long; appearing in late summer to autumn",
+      "fruits/seeds": "Small trigonous (three-angled) achenes 2–3.5 mm long; enclosed in winged persistent tepals forming papery-winged fruits; black when ripe"
+    },
+    "compounds": [
+      "Stilbenes: trans-resveratrol, trans-ε-viniferin, piceid (resveratrol-3-O-glucoside)",
+      "Anthraquinones: emodin, chrysophanol, rhein, physcion",
+      "Stilbene glycosides: 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside (TSG, primary bioactive)",
+      "Flavonoids: quercetin, kaempferol, catechin",
+      "Phospholipids: lecithin",
+      "Tannins: catechins and proanthocyanidins",
+      "Tocopherols (vitamin E)"
+    ],
+    "partsUsed": [
+      "Tuberous root (processed/prepared — zhì hé shǒu wū)",
+      "Unprocessed raw root (shēng hé shǒu wū — different activity profile)",
+      "Stems and leaves (Yejiaoteng; used as sedative)"
+    ],
+    "traditionalUses": [
+      "Traditional Chinese Medicine (TCM): tonifies Liver and Kidney yin; used for premature graying of hair and hair loss",
+      "TCM: anti-aging tonic; associated with longevity in classical texts including Bencao Gangmu (Li Shizhen, 1578)",
+      "TCM: nourishes blood and essence (jing); used for weakness, dizziness, soreness of lower back and knees",
+      "TCM: constipation remedy (raw/unprocessed form); anthraquinones exert laxative effect",
+      "Traditional use for malaria, carbuncles, and scrofula (lymph node TB) in Chinese folk medicine",
+      "Stems (Yejiaoteng) used as sedative in insomnia and anxiety",
+      "TCM blood tonic for irregular menstruation, anemia, and postpartum weakness",
+      "Traditional cardiovascular tonic: reputed to lower cholesterol and strengthen heart in elderly"
+    ],
+    "modernUses": [
+      "Neuroprotection: TSG shown to reduce Aβ aggregation and neuroinflammation in Alzheimer's disease models via SIRT1 and NF-κB pathways",
+      "Lipid-lowering: TSG and emodin shown to reduce LDL and total cholesterol in clinical and animal studies",
+      "Antioxidant: resveratrol and TSG are potent radical scavengers; extend lifespan in model organisms (C. elegans) via sirtuin activation",
+      "Hair follicle stimulation: TSG promotes anagen phase in hair cycle; in vitro and in vivo evidence for hair growth promotion",
+      "Hepatoprotection vs. hepatotoxicity: paradox — prepared root has hepatoprotective effects in some models, yet raw/high-dose preparations are associated with liver toxicity (emodin-mediated)",
+      "Anti-inflammatory: emodin inhibits COX-2, NF-κB, and TNF-α in multiple inflammatory models",
+      "Antimicrobial: anthraquinones effective against Staphylococcus aureus, H. pylori, and various fungal pathogens",
+      "Immunomodulation: polysaccharides and stilbenes modulate macrophage and T-cell activity"
+    ],
+    "preparations": [
+      "Prepared root powder (zhì hé shǒu wū): 6–15 g/day as decoction; black bean processing reduces anthraquinone toxicity",
+      "Standardized extract (TSG 50%): 300–600 mg twice daily",
+      "Decoction: 9–15 g processed root simmered 30–45 min in 500 mL water; taken in divided doses",
+      "Tincture (1:5, 50% ethanol): 2–4 mL three times daily; use prepared root only",
+      "TCM patent formulas (e.g., Shou Wu Pian): per product labeling (typically 3–6 tablets)",
+      "Resveratrol-standardized extract: 100–500 mg/day resveratrol equivalent"
+    ],
+    "contraindications": [
+      "Liver disease or elevated liver enzymes: raw/high-dose preparations linked to drug-induced liver injury (DILI); absolutely contraindicated",
+      "Diarrhea or loose stools: anthraquinone laxative action; avoid unprocessed form",
+      "Pregnancy and lactation: insufficient safety data; anthraquinones may stimulate uterine contractions",
+      "Children under 18: no established safety; hepatotoxicity risk",
+      "Concurrent use with hepatotoxic drugs: additive liver toxicity risk"
+    ],
+    "sideEffects": [
+      "Drug-induced liver injury (DILI): well-documented; cases of fulminant hepatitis, cholestatic hepatitis; attributed to emodin and immune-mediated reactions",
+      "Diarrhea, abdominal cramping (especially with raw/unprocessed form due to anthraquinones)",
+      "Numbness of limbs, hypokalemia with chronic high-dose use",
+      "Allergic reactions: rash, nausea; immune-mediated hepatotoxicity pattern suggests allergic component"
+    ],
+    "drugInteractions": [
+      "Hepatotoxic drugs (acetaminophen, statins, isoniazid, methotrexate): additive hepatotoxicity; avoid combination",
+      "Anticoagulants (warfarin): resveratrol inhibits CYP2C9 and CYP3A4; may increase anticoagulant effect",
+      "Antidiabetics (insulin, sulfonylureas): may enhance hypoglycemic effects",
+      "CYP450 substrates: anthraquinones and stilbenes inhibit CYP1A2, CYP2E1; monitor drugs with narrow therapeutic index"
+    ]
+  },
+  {
+    "slug": "tribulus",
+    "name": "Tribulus",
+    "latinName": "Tribulus terrestris",
+    "family": "Zygophyllaceae",
+    "familyLatin": "Caltrop family",
+    "nativeRange": "Southern Europe, southern Asia, Africa, Australia, and the Americas; cosmopolitan weed of warm climates",
+    "habitat": "Dry, sandy, and disturbed soils; roadsides, waste places, sandy fields; full sun; tolerates extreme heat and drought; sea level to 3,000 m",
+    "description": {
+      "overall appearance": "Prostrate to spreading annual or perennial herb forming dense mats 10–60 cm in diameter and 10–30 cm tall; covered in silky hairs. Valued across traditional systems for its fruits, leaves, and roots despite its weedy habit.",
+      "roots": "Taproot system with deep main root and spreading lateral roots; can penetrate 50–90 cm in dry soils to access deep moisture; off-white, woody at crown",
+      "stem": "Prostrate, spreading, much-branched stems 10–60 cm long; covered with spreading white hairs; pinnate leaves give a feathery appearance to each branch",
+      "leaves": "Pinnately compound, 2.5–5 cm long, with 3–8 pairs of leaflets; leaflets oblong-ovate, 5–15 mm long and 3–7 mm wide; silky-hairy beneath; stipules present",
+      "flowers": "Bright yellow, 5-petaled flowers 6–10 mm in diameter; solitary in leaf axils; 10 stamens; open in morning, close by afternoon",
+      "fruits/seeds": "Distinctive star-shaped woody capsule (the caltrop) 8–12 mm wide, splitting into 5 segments each bearing 2–4 sharp rigid spines 4–6 mm long; 1–5 seeds per segment"
+    },
+    "compounds": [
+      "Steroidal saponins: protodioscin (primary bioactive), protogracillin, dioscin, tribulosin",
+      "Furostanol glycosides: terrestrosins A–E",
+      "Spirostanol saponins: tigogenin and neotigogenin glycosides",
+      "Flavonoids: kaempferol, quercetin, isorhamnetin, rutin",
+      "Alkaloids: harman (β-carboline), norharmane",
+      "Cinnamic acid amides: N-trans-feruloyltyramine",
+      "Terrestribisamide and other amides",
+      "Phytosterols: β-sitosterol, stigmasterol"
+    ],
+    "partsUsed": [
+      "Aerial parts (leaves and stems)",
+      "Fruit (the caltrop burr)",
+      "Root",
+      "Seeds"
+    ],
+    "traditionalUses": [
+      "Ayurveda: Gokshura — used as diuretic, tonic for urinary tract health, and aphrodisiac; part of Dashamoola formula",
+      "TCM: Ji Li — liver tonic; used for headache, dizziness, eye redness, and skin conditions from 'liver yang rising'",
+      "Bulgarian folk medicine: used as male sexual tonic and athlete performance enhancer since 1970s–80s",
+      "Unani medicine: general tonic for kidney and urinary complaints, including dysuria and calculi",
+      "Greek and Roman traditional use for kidney stones and liver conditions",
+      "South African traditional medicine: diuretic and tonic for general weakness",
+      "Indian Ayurvedic use in managing gout and hyperuricemia via xanthine oxidase inhibition",
+      "Traditional treatment for edema and ascites in multiple Asian medical traditions"
+    ],
+    "modernUses": [
+      "Male sexual function: meta-analysis (Santos et al., 2014) found significant improvement in erectile function scores; protodioscin may stimulate androgen receptor activity",
+      "Testosterone modulation: human RCTs show inconsistent results; animal studies suggest LH-mediated testosterone increase",
+      "Urinary tract health: antispasmodic and diuretic effects; clinical evidence for reducing urinary symptoms in BPH",
+      "Antihypertensive: saponins shown to reduce blood pressure in animal models via ACE inhibition and calcium channel blocking",
+      "Cardiovascular: protodioscin shown to reduce ischemia-reperfusion injury; protective against cardiotoxicity in animal models",
+      "Antidiabetic: steroidal saponins reduce blood glucose and improve insulin sensitivity in streptozotocin-diabetic animals",
+      "Antimicrobial: extracts active against MRSA, Candida albicans, and other pathogens",
+      "Kidney stone prevention: aqueous extract shown to inhibit calcium oxalate crystallization in vitro and in animal models"
+    ],
+    "preparations": [
+      "Standardized extract (protodioscin 40–60%): 250–750 mg/day in divided doses",
+      "Whole fruit/aerial part powder: 2–5 g/day",
+      "Decoction: 5–10 g dried fruit or aerial parts in 300 mL water, simmered 20 min; 100 mL twice daily",
+      "Tincture (1:5, 40% ethanol): 3–5 mL twice daily",
+      "Aqueous extract standardized to furostanol saponins: 300–600 mg twice daily",
+      "Combination supplement with maca and ashwagandha: follow product labeling"
+    ],
+    "contraindications": [
+      "Pregnancy: uterotonic and hormonal effects; contraindicated",
+      "Hormone-sensitive cancers (prostate, breast): androgenic and estrogenic activity may stimulate growth",
+      "Prostate hyperplasia (BPH) without medical guidance: potential androgenic stimulation requires monitoring",
+      "Steroid-sensitive conditions: steroidal saponins may affect hormone balance"
+    ],
+    "sideEffects": [
+      "Gastrointestinal upset (nausea, cramping, diarrhea) at doses above 1,500 mg/day",
+      "Gynecomastia reported in men taking high-dose supplements long-term",
+      "Photosensitivity (Geeldikkop): secondary photosensitization in sheep consuming large quantities; rare in humans",
+      "Insomnia or agitation due to mild stimulant activity of alkaloid fraction"
+    ],
+    "drugInteractions": [
+      "Antidiabetic drugs (metformin, insulin): additive hypoglycemic effect; monitor blood glucose closely",
+      "Antihypertensives: additive blood pressure lowering; monitor cardiovascular parameters",
+      "Testosterone/androgen therapies and anabolic steroids: potential additive androgenic effect; avoid concurrent use",
+      "Anticoagulants (warfarin): may alter platelet aggregation; monitor INR"
+    ]
+  },
+  {
+    "slug": "bacopa",
+    "name": "Bacopa",
+    "latinName": "Bacopa monnieri",
+    "family": "Plantaginaceae",
+    "familyLatin": "Plantain family",
+    "nativeRange": "Indian subcontinent, Sri Lanka, Nepal; also tropical and subtropical regions worldwide including Australia, Africa, and the Americas",
+    "habitat": "Wetlands, muddy shores, rice paddies, and shallow freshwater; grows submerged or semi-aquatic; sea level to 1,400 m; prefers wet or waterlogged soils",
+    "description": {
+      "overall appearance": "Creeping, succulent perennial herb forming dense mats 10–30 cm tall; hairless (glabrous) throughout; well-adapted to waterlogged conditions with succulent fleshy stems and leaves that store water and gases for aquatic buoyancy.",
+      "roots": "Fibrous, adventitious roots emerging from nodes at intervals; shallow root system that anchors in mud; white to cream colored",
+      "stem": "Prostrate to ascending, succulent, branched stems 10–30 cm long; glabrous; rooting at nodes; stems 1–3 mm in diameter; light green",
+      "leaves": "Succulent, oblong-spatulate, sessile (no petiole), alternate; 6–20 mm long and 3–8 mm wide; entire margins; fleshy texture; bright green; gland-dotted on surface when dried",
+      "flowers": "White to pale purple/blue, 5-petaled tubular flowers 8–10 mm across; solitary in leaf axils on peduncles 6–15 mm long; 4 stamens",
+      "fruits/seeds": "Ovoid capsule 4–6 mm long; dehisces to release numerous tiny seeds less than 1 mm; seeds brown and striated"
+    },
+    "compounds": [
+      "Bacosides A and B (jujubogenin and pseudojujubogenin glycosides — primary nootropic actives)",
+      "Bacopaside I, II, IV, V, X (dammarane-type triterpenoid saponins)",
+      "Bacosaponins A–F",
+      "Alkaloids: brahmine, herpestine, nicotine (trace amounts)",
+      "Phenylethanoid glycosides: plantainoside B, bacopa saponin",
+      "Flavonoids: luteolin, apigenin, quercetin",
+      "Betulinic acid (pentacyclic triterpenoid)",
+      "D-mannitol and hersaponin"
+    ],
+    "partsUsed": [
+      "Whole aerial plant (leaves, stems)",
+      "Standardized extract (bacosides)",
+      "Fresh juice"
+    ],
+    "traditionalUses": [
+      "Ayurveda: classified as medhya rasayana (intellect-promoting rejuvenative); used in Charak Samhita for enhancing memory, learning, and intelligence",
+      "Ayurveda: treatment of epilepsy, anxiety, and psychological disorders; component of Brahmi ghrita formulation for mental health",
+      "Traditional use in India for asthma and bronchitis; expectorant and bronchodilator properties recorded",
+      "Ayurvedic treatment of hypothyroidism; studies confirm TSH-modulating effect",
+      "Traditional diuretic and laxative in South Asian medicine",
+      "Folk use for inflammation: topical application for joint pain and skin conditions",
+      "Traditional treatment for ulcers and digestive disorders in Indian and Sri Lankan medicine",
+      "Ayurvedic sleep aid; combined with ashwagandha for anxiety-induced insomnia"
+    ],
+    "modernUses": [
+      "Cognitive enhancement: multiple RCTs show bacosides improve verbal learning, memory consolidation, and processing speed in healthy adults; Stough et al. (2001) double-blind RCT in 46 subjects showed significant improvement in verbal information processing",
+      "Anxiolytic: RCT in healthy volunteers showing dose-dependent reduction in anxiety scores (STAI) at 300 mg/day standardized extract",
+      "ADHD: double-blind RCT in children showed improved cognitive function, decreased hyperactivity, and attention scores vs. placebo (Negi et al., 2000)",
+      "Antiepileptic: bacoside A demonstrates GABA-mimetic activity and modulates GABAergic and serotonergic pathways in animal models",
+      "Neuroprotection: bacoside A reduces β-amyloid deposition, tau hyperphosphorylation, and oxidative stress in Alzheimer's models",
+      "Antioxidant: potent SOD, catalase, and GPx induction in brain tissue; reduces lipid peroxidation",
+      "Thyroid modulation: extract significantly increases T4 levels in animal studies; may benefit hypothyroidism",
+      "Hepatoprotection: bacoside B shows significant protection against paracetamol and aflatoxin-induced hepatotoxicity"
+    ],
+    "preparations": [
+      "Standardized extract (bacosides 20–55%): 300–600 mg/day; most clinical research uses 300 mg/day standardized to 55% bacosides",
+      "Whole herb powder: 1–6 g/day traditionally; 3 g in warm milk is classic Ayurvedic preparation",
+      "Brahmi ghrita (root/leaf in ghee): 5–10 g daily in Ayurvedic use",
+      "Fresh juice: 5–10 mL twice daily (used in classical Ayurveda)",
+      "Tincture (1:5, 40% ethanol): 3–5 mL twice daily",
+      "Bacopa tea: 2–3 g dried herb steeped 10 min in 240 mL hot water; 1–2 cups daily"
+    ],
+    "contraindications": [
+      "Hypothyroidism on medication: may increase T4; monitor thyroid levels with concurrent levothyroxine",
+      "Pregnancy: insufficient clinical safety data; some animal studies suggest reproductive effects; avoid in first trimester",
+      "Bradycardia: cholinergic activity may slow heart rate further; use with caution in bradyarrhythmia",
+      "GI ulcers: cholinergic stimulation may increase gastric acid secretion; use with caution"
+    ],
+    "sideEffects": [
+      "Nausea, cramping, and diarrhea — most common side effect especially when taken without food; occurs in ~15–20% of users",
+      "Dry mouth and fatigue at high doses (>600 mg/day standardized extract)",
+      "Increased bowel motility due to serotonergic and cholinergic activity",
+      "Drowsiness with concurrent use of sedatives or at high doses"
+    ],
+    "drugInteractions": [
+      "Cholinesterase inhibitors (donepezil, rivastigmine): additive cholinergic effects; may cause cholinergic toxicity",
+      "Anticholinergics (atropine, scopolamine): bacopa may oppose therapeutic effects",
+      "Thyroid medications (levothyroxine): may alter T4 levels; monitor thyroid function",
+      "Sedatives and anxiolytics (benzodiazepines, barbiturates): additive CNS depression possible at high doses"
+    ]
+  },
+  {
+    "slug": "gotu-kola",
+    "name": "Gotu Kola",
+    "latinName": "Centella asiatica",
+    "family": "Apiaceae",
+    "familyLatin": "Carrot/parsley family",
+    "nativeRange": "Indian subcontinent, Sri Lanka, Southeast Asia, Madagascar, South Africa; pantropical",
+    "habitat": "Moist, shaded environments; stream banks, rice paddies, wetlands, forest margins; sea level to 2,000 m; prefers loamy, fertile soils with consistent moisture",
+    "description": {
+      "overall appearance": "Small, creeping perennial herb forming loose mats 5–15 cm tall, spreading by stolons to cover large areas. Recognized by its distinctive kidney-shaped (reniform) leaves and preference for wet, shaded habitats. One of the most important Ayurvedic and traditional Southeast Asian medicinal herbs.",
+      "roots": "Thin, fibrous, adventitious roots at each node; white to cream; shallow root system in upper 5–10 cm of soil; slight aromatic smell when fresh",
+      "stem": "Thin, green, glabrous stolons (horizontal stems) 10–150 cm long; rooting at nodes; forming a spreading ground cover",
+      "leaves": "Reniform (kidney-shaped) to orbicular, 1.5–6 cm wide; long petioles 3–20 cm; crenate (scalloped) margins; bright green; smooth surface; fan-veined from base; the distinctive shape is the primary identification feature",
+      "flowers": "Tiny, pinkish to whitish, 5-petaled umbellate flowers 1–2 mm; arranged in compact umbels of 3–5 flowers on short peduncles 0.5–1.5 cm arising from nodes",
+      "fruits/seeds": "Small ovoid schizocarp (splitting fruit) 3–4 mm long; strongly ribbed; two mericarps (seed halves)"
+    },
+    "compounds": [
+      "Triterpenoid saponins: asiaticoside (primary wound-healing active), madecassoside, centelloside",
+      "Triterpenoid aglycones: asiatic acid, madecassic acid, betulinic acid",
+      "Pentacyclic triterpenoids: brahmoside, brahminoside",
+      "Flavonoids: quercetin, kaempferol, rutin, myricetin",
+      "Polyacetylenes: apiamarin, centellicin",
+      "Volatile oils: β-caryophyllene, trans-β-farnesene",
+      "Tannins: condensed proanthocyanidins",
+      "Alkaloids: hydrocotylin"
+    ],
+    "partsUsed": [
+      "Whole aerial plant (leaves, stems)",
+      "Standardized extract (asiaticoside + madecassoside)",
+      "Fresh leaf juice",
+      "Leaves (culinary use in Southeast Asia)"
+    ],
+    "traditionalUses": [
+      "Ayurveda: classified as medhya rasayana; used for improving memory, concentration, and intelligence; central to Brahmi ghrita formula (note: also used interchangeably with Bacopa monnieri as 'Brahmi')",
+      "Traditional Southeast Asian medicine: wound healing and skin regeneration; leaves applied topically to cuts, burns, and ulcers",
+      "TCM: Chi Xue Cao — diuretic, anti-inflammatory, detoxifying; used for urinary tract infections and dysentery",
+      "Sri Lankan traditional medicine: longevity herb; elephants reputedly consume it and live long — 'Gotu Kola' means 'conical leaf' in Sinhalese",
+      "Ayurvedic treatment for leprosy skin lesions; asiaticoside promotes collagen synthesis",
+      "Indonesian jamu medicine: used for fever, respiratory infections, and skin diseases",
+      "Traditional treatment for venous insufficiency and varicose veins in European phytotherapy",
+      "West African traditional use: topical anti-inflammatory for skin conditions including psoriasis"
+    ],
+    "modernUses": [
+      "Wound healing: RCTs confirm asiaticoside/madecassoside stimulate collagen I and III synthesis, accelerate epithelialization; TECA (Titrated Extract of C. asiatica) approved in France for wound care",
+      "Venous insufficiency: multiple RCTs show TTFCA (total triterpenic fraction) significantly reduces leg heaviness, edema, and varicose symptoms; Cochrane review supports use",
+      "Anxiety: double-blind crossover study showed acute oral dose (12 g leaf) significantly reduced startle response and anxiety (Bradwejn et al., 2000)",
+      "Cognitive enhancement: RCT in elderly subjects showed improved memory scores after 2 months of extract use (Wattanathorn et al., 2008)",
+      "Dermatology: hypertrophic scar and keloid treatment; asiaticoside reduces TGF-β1-mediated fibroblast proliferation",
+      "Neuroprotection: madecassoside reduces Aβ-induced neurotoxicity and neuroinflammation in Alzheimer's models",
+      "Anti-psoriatic: inhibition of keratinocyte proliferation and pro-inflammatory cytokines (IL-17, TNF-α) in vitro",
+      "Radioprotection: asiaticoside demonstrated significant protection against radiation-induced DNA damage in animal models"
+    ],
+    "preparations": [
+      "Standardized extract (TECA/TTFCA, asiaticoside 40% + asiatic acid 29–30% + madecassic acid 29–30%): 60–180 mg/day in divided doses for venous insufficiency",
+      "Dried herb powder: 1–3 g three times daily",
+      "Fresh leaf: 10–15 leaves consumed daily (Sri Lankan tradition); also added to salads and drinks",
+      "Tincture (1:5, 70% ethanol): 3–5 mL twice daily",
+      "Topical cream or gel (1–2% asiaticoside): applied to wounds and scars 2–3 times daily",
+      "Decoction: 2–4 g dried herb in 200 mL water, 10 min; 1–2 cups daily"
+    ],
+    "contraindications": [
+      "Pregnancy: uterine stimulant effects at high doses; topical use generally safe but oral high-dose supplementation should be avoided",
+      "Liver disease: rare cases of hepatotoxicity reported; avoid with pre-existing liver conditions",
+      "Hypersensitivity: contact dermatitis to asiaticoside reported; patch test before topical use",
+      "Surgery: discontinue 2 weeks before surgery due to antiplatelet and sedative effects"
+    ],
+    "sideEffects": [
+      "Contact dermatitis (topical): sensitization to asiaticoside in susceptible individuals",
+      "Headache and sedation at high oral doses",
+      "Gastrointestinal upset (nausea, stomach pain) at doses above 3 g/day",
+      "Elevated liver enzymes (rare): one case report series of cholestatic hepatitis; hepatotoxicity uncommon but documented"
+    ],
+    "drugInteractions": [
+      "Sedatives and anxiolytics (benzodiazepines, barbiturates, alcohol): additive CNS depression",
+      "Hepatotoxic drugs (acetaminophen, statins): rare additive hepatotoxicity risk",
+      "Anticoagulants/antiplatelets (warfarin, aspirin): potential antiplatelet activity; monitor bleeding time",
+      "Antidiabetics: mild hypoglycemic activity; monitor blood glucose"
+    ]
+  },
+  {
+    "slug": "moringa",
+    "name": "Moringa",
+    "latinName": "Moringa oleifera",
+    "family": "Moringaceae",
+    "familyLatin": "Moringa family",
+    "nativeRange": "Northwestern India (Himalayan foothills), Pakistan, Bangladesh; widely cultivated pantropically",
+    "habitat": "Tropical and subtropical lowlands; well-drained sandy or loamy soils; drought-tolerant; sea level to 1,200 m; full sun; grows in degraded soils; fast-growing tree",
+    "description": {
+      "overall appearance": "Fast-growing, drought-deciduous small tree reaching 5–12 m (sometimes 10–12 m tall in cultivation); slender trunk with corky, gray bark; feathery, lacy foliage. Widely called the 'Miracle Tree' or 'Drumstick Tree' for its nutritional and medicinal density.",
+      "roots": "Deep taproot system with characteristic spicy, horseradish-like aroma and taste; white to cream; 'Ben oil' tree roots used as condiment substitute; roots contain moringine alkaloid",
+      "stem": "Slender, soft-wooded trunk 10–30 cm in diameter; pale gray, corky, and peeling bark; brittle branches; exudes gum when wounded",
+      "leaves": "Pinnate or bipinnate or tripinnate; 20–60 cm long; leaflets small, 1–2 cm long and 0.5–1.5 cm wide; ovate; bright green; 3–9 pairs of leaflets per pinnule; protein-rich; edible at all stages",
+      "flowers": "Fragrant, creamy-white to ivory, 5-petaled flowers 2–3 cm across; asymmetric; large branching panicles 10–25 cm long; produced year-round in tropics",
+      "fruits/seeds": "Long, slender, 3-ridged pods (the 'drumsticks') 20–50 cm long and 1–2 cm in diameter; green when young, brownish when mature; each contains 12–20 seeds; seeds round, 1–1.5 cm, with papery 3-winged hull; high in behenic acid ('ben oil')"
+    },
+    "compounds": [
+      "Isothiocyanates: moringin (4-α-L-rhamnosyloxy benzyl isothiocyanate) — primary bioactive from leaves",
+      "Glucosinolates: glucomoringin (4-α-L-rhamnosyloxybenzyl glucosinolate)",
+      "Flavonoids: quercetin-3-glucoside (rutin), kaempferol-3-glucoside, isorhamnetin",
+      "Chlorogenic acids: 3-caffeoylquinic acid (neochlorogenic), 5-caffeoylquinic acid",
+      "Alkaloids: moringine (spirochin), moringinine",
+      "Cytokinins: zeatin (anti-aging plant hormone)",
+      "Phenolic acids: ferulic acid, gallic acid, ellagic acid",
+      "Essential amino acids: complete protein profile including all 8 EAAs; 27% protein by dry weight of leaves"
+    ],
+    "partsUsed": [
+      "Leaves (primary medicinal and nutritional use)",
+      "Seeds and seed oil (ben oil)",
+      "Pods (immature drumsticks — food)",
+      "Bark and roots (traditional medicine; caution re: toxicity)",
+      "Flowers"
+    ],
+    "traditionalUses": [
+      "Ayurveda: Shigru — used for 300+ conditions including fever, inflammation, joint pain, and respiratory disorders; all parts used medicinally",
+      "Indian folk medicine: root bark applied as rubefacient; used for cardiac and circulatory stimulation",
+      "African traditional medicine: leaves used as nutritional supplement in malnutrition recovery, especially for children and pregnant women",
+      "Southeast Asian food medicine: leaves and pods cooked in soups and curries for lactation support and iron supplementation",
+      "Traditional water purification: crushed seeds used as natural coagulant to clarify turbid water (documented in Sudanese traditional practice)",
+      "Philippine traditional medicine: seed oil (ben oil) used for skin conditions and as hair treatment",
+      "Ayurvedic treatment for diabetes, hypertension, and anemia",
+      "Traditional wound healing: poultice of leaves applied to cuts and abscesses across multiple African and Asian traditions"
+    ],
+    "modernUses": [
+      "Antidiabetic: multiple animal studies and small human trials show leaf extract significantly reduces fasting blood glucose (30–47% reduction) via inhibition of α-glucosidase and α-amylase",
+      "Antihypertensive: isothiocyanates relax vascular smooth muscle; human study (N=60) showed significant systolic and diastolic reduction after 3-month supplementation",
+      "Anti-inflammatory: moringin inhibits NF-κB, COX-2, and TNF-α; comparable to indomethacin in carrageenan paw edema model",
+      "Nutrition: leaves contain 7× vitamin C of oranges, 4× vitamin A of carrots, 4× calcium of milk, 3× potassium of bananas, 2× protein of yogurt (per gram dry weight)",
+      "Water purification: seed protein MO2.1 acts as cationic polyelectrolyte; reduces turbidity by 90–99% in clinical field studies",
+      "Neuroprotection: leaf extract reduces oxidative stress and neuroinflammation in animal models of Alzheimer's and Parkinson's diseases",
+      "Antimicrobial: moringin active against H. pylori, MRSA, and multiple multidrug-resistant pathogens",
+      "Hepatoprotection: leaf extract protects against acetaminophen and CCl4-induced liver damage via antioxidant mechanisms"
+    ],
+    "preparations": [
+      "Leaf powder: 2–10 g/day added to food, smoothies, or water; most common commercial preparation",
+      "Standardized extract (isothiocyanates 0.5–1%): 400–1,200 mg/day",
+      "Fresh leaf juice: 30–60 mL daily (traditional use in Philippines and Africa)",
+      "Seed powder: 5–10 g/day; also used for water purification (1 g per liter of turbid water)",
+      "Decoction of leaves: 5–10 g fresh/dried leaves in 300 mL water, 10 min; 1–2 cups daily",
+      "Ben (seed) oil: 15–30 mL daily internally; topically as needed for skin"
+    ],
+    "contraindications": [
+      "Pregnancy: root and root bark contain spirochin alkaloid with reported abortifacient activity; avoid root products; leaf is generally considered safe in food quantities",
+      "Thyroid disorders: isothiocyanates may be goitrogenic; caution in hypothyroidism at supplemental doses",
+      "Hypotension: significant blood pressure-lowering activity; avoid in patients with low blood pressure or pre-surgical settings",
+      "Anticoagulation therapy: plant compounds may affect platelet activity; monitor"
+    ],
+    "sideEffects": [
+      "Laxative effect at high leaf doses (>10 g/day dried leaf); loose stools",
+      "Nausea and gastric discomfort with seed supplementation on empty stomach",
+      "Potential thyroid hormone disruption with chronic high-dose leaf supplementation",
+      "Mild hypoglycemia in patients on antidiabetic medications"
+    ],
+    "drugInteractions": [
+      "Antidiabetics (insulin, metformin, sulfonylureas): significant additive hypoglycemic activity; monitor blood glucose",
+      "Antihypertensives (ACE inhibitors, calcium channel blockers): additive hypotensive effect; monitor blood pressure",
+      "Thyroid medications (levothyroxine): isothiocyanate-mediated interference with thyroid hormone synthesis",
+      "Antiretrovirals (NVP, efavirenz): preliminary evidence of CYP3A4 induction; potential reduction in ARV plasma levels"
+    ]
+  },
+  {
+    "slug": "neem",
+    "name": "Neem",
+    "latinName": "Azadirachta indica",
+    "family": "Meliaceae",
+    "familyLatin": "Mahogany family",
+    "nativeRange": "Indian subcontinent (India, Pakistan, Bangladesh, Sri Lanka, Nepal, Myanmar); widely naturalized in tropical Africa, Middle East, Australia, and Central America",
+    "habitat": "Tropical and semi-arid regions; well-drained sandy, loamy, or rocky soils; sea level to 700 m; full sun; extremely drought-tolerant; can grow in areas with as little as 200 mm annual rainfall",
+    "description": {
+      "overall appearance": "Medium to large evergreen tree reaching 15–20 m in height with a spreading, rounded crown 10–20 m in diameter; trunk 30–80 cm in diameter; heavy shade producer. One of the most important medicinal trees in Asia and Africa, described in Sanskrit texts as 'Sarva Roga Nivarini' (the universal healer).",
+      "roots": "Deep taproot system enabling drought survival; roots extend far below the water table; bark is light brown to gray, fibrous and bitter; medicinally active",
+      "stem": "Stout trunk with thick, rough, deeply furrowed, grayish-brown bark; exudes bitter aromatic gum; wood is hard, heavy, and rot-resistant",
+      "leaves": "Pinnately compound, alternate, 20–40 cm long with 8–18 pairs of leaflets; leaflets lanceolate, 3–8 cm long and 1–3 cm wide; serrate (toothed) margins; slightly asymmetric at base; dark shiny green; extremely bitter taste due to limonoids",
+      "flowers": "Small, white, 5-petaled, highly fragrant flowers 5–6 mm across in axillary panicles 10–20 cm long; produced in profusion; honey bee source",
+      "fruits/seeds": "Olive-like drupe 1–2 cm long and 1 cm in diameter; fleshy yellow-green pulp around hard seed; 1 seed per fruit; seed kernel yields neem oil (30–50% oil content)"
+    },
+    "compounds": [
+      "Tetranortriterpenoid limonoids: azadirachtin A and B (primary bioactive/insecticidal), nimbin, nimbinin, nimbidinin, nimbolide",
+      "Terpenoids: gedunin, nimbolide (anticancer), epoxyazadiradione",
+      "Tetranortriterpenoids: salannin, melandriol",
+      "Sulphurous compounds: nimbicidin",
+      "Polyphenols: quercetin, kaempferol, gallic acid, catechin, epicatechin",
+      "Fatty acids in seed oil: oleic acid (50–60%), palmitic acid, stearic acid",
+      "Alkaloids: nimbidin, margosine",
+      "Sterols: β-sitosterol, stigmasterol, campesterol"
+    ],
+    "partsUsed": [
+      "Leaves",
+      "Seed oil (neem oil)",
+      "Bark",
+      "Twigs (dental use)",
+      "Seed kernel"
+    ],
+    "traditionalUses": [
+      "Ayurveda: Nimba — broad anti-infective, antiparasitic, and anti-inflammatory; one of the most widely used plants in classical Ayurvedic texts",
+      "Oral hygiene: neem twigs (datun) used as natural toothbrush across South Asia and Africa; antimicrobial against Streptococcus mutans and periodontal pathogens",
+      "Ayurvedic treatment for skin diseases including eczema, psoriasis, ringworm, and scabies",
+      "Traditional malaria treatment in sub-Saharan Africa and India; leaf decoction for fever reduction",
+      "Agricultural pesticide: azadirachtin is widely used as natural insecticide; traditional use of neem leaves to protect stored grain",
+      "Contraceptive: seed oil used vaginally as spermicide in Indian folk medicine; research confirms significant spermicidal activity",
+      "Ayurvedic blood purifier and liver tonic for chronic fevers, skin conditions, and detoxification",
+      "Traditional wound and ulcer treatment: neem leaf poultice applied to boils, abscesses, and non-healing wounds"
+    ],
+    "modernUses": [
+      "Antibacterial: leaf and bark extracts active against MRSA, E. coli, Salmonella, H. pylori; nimbolide particularly potent",
+      "Antifungal: neem oil effective against Candida albicans, Aspergillus, and dermatophytes in clinical and in vitro studies",
+      "Antidiabetic: nimbolide and gedunin inhibit α-glucosidase; leaf extract reduces blood glucose 30% in alloxan-diabetic rats",
+      "Anticancer: nimbolide induces apoptosis and inhibits proliferation in multiple cancer cell lines (breast, colon, prostate) via Akt/mTOR and Nrf2 pathways",
+      "Anti-inflammatory: nimbidin inhibits COX-2 and 5-LOX; comparable to hydrocortisone in carrageenan edema model",
+      "Oral health: RCTs confirm neem mouthwash equivalent to 0.2% chlorhexidine for reducing plaque and gingivitis scores",
+      "Spermicide/contraceptive: 100% spermicidal activity at 1 mg/mL neem oil in vitro; Phase II trial showed vaginal suppository effective at preventing pregnancy in women",
+      "Immunomodulation: polysaccharides stimulate macrophage and T-cell activity; potential adjuvant in malaria and cancer therapy"
+    ],
+    "preparations": [
+      "Leaf powder: 500–1,000 mg three times daily for blood purification and anti-infective applications",
+      "Standardized extract (nimbolide/nimbin 2.5%): 300–600 mg twice daily",
+      "Bark decoction: 5–10 g bark in 300 mL water, 20 min; 100 mL twice daily",
+      "Neem oil (topical): 0.5–2% in carrier oil for skin conditions; avoid internal use of concentrated oil",
+      "Neem mouthwash (dental): 0.5–1% leaf extract aqueous solution; rinse 30 sec twice daily",
+      "Twig chewing sticks: chew fresh neem twig 10–15 min daily (traditional oral hygiene)"
+    ],
+    "contraindications": [
+      "Pregnancy: uterine-stimulating and abortifacient activity; strictly contraindicated in all trimesters",
+      "Infants and young children: neem oil ingestion linked to Reye-like syndrome with hepatotoxicity and encephalopathy; do not use internally in children",
+      "Autoimmune conditions: immunostimulant activity may exacerbate autoimmune diseases (lupus, MS, RA)",
+      "Organ transplant patients: immunostimulation may precipitate rejection; contraindicated with immunosuppressants"
+    ],
+    "sideEffects": [
+      "Hepatotoxicity with high-dose or prolonged internal use of neem oil; case reports of liver failure in children",
+      "Nausea, vomiting, and gastric irritation with oral leaf/bark preparations",
+      "Contact dermatitis with topical neem oil in sensitive individuals",
+      "Sperm motility reduction with long-term oral leaf consumption in men (reversible)"
+    ],
+    "drugInteractions": [
+      "Immunosuppressants (cyclosporine, azathioprine, corticosteroids): immunostimulant activity may reduce efficacy",
+      "Antidiabetics (insulin, metformin): additive hypoglycemic risk; monitor blood glucose",
+      "Lithium: neem diuretic effects may increase lithium renal clearance; monitor lithium levels",
+      "Hepatotoxic drugs (isoniazid, acetaminophen, methotrexate): additive hepatotoxicity risk"
+    ]
+  },
+  {
+    "slug": "guduchi",
+    "name": "Guduchi / Giloy",
+    "latinName": "Tinospora cordifolia",
+    "family": "Menispermaceae",
+    "familyLatin": "Moonseed family",
+    "nativeRange": "Indian subcontinent (India, Sri Lanka, Myanmar); also tropical parts of China and Australia",
+    "habitat": "Tropical and subtropical forests, growing as a climbing vine on trees; sea level to 900 m; prefers humid, shaded conditions; often found on mango and neem trees",
+    "description": {
+      "overall appearance": "Large, deciduous climbing vine reaching 10–30 m in length, clinging to host trees with aerial roots. Stems are succulent, fleshy, and conspicuously papery-corky with distinctive lenticels. One of the most celebrated Ayurvedic herbs, called 'Amrita' (divine nectar) in classical texts for its rejuvenating properties.",
+      "roots": "Extensive adventitious aerial roots hanging from stems; cord-like, fleshy; long tap roots in soil; white-cream color; produce mucilage when cut",
+      "stem": "Fleshy, succulent, gray-green to brownish stems with distinctive papery, whitish, membranous bark peeling in thin layers; circular lenticels prominent; 0.5–2.5 cm diameter; contain starch-rich pith",
+      "leaves": "Cordate (heart-shaped), 10–20 cm long and 8–15 cm wide; membranous and soft; bright green; long petioles 8–16 cm; 5–7 prominent palmate veins from base; alternate",
+      "flowers": "Small, dioecious, greenish-yellow flowers 3–4 mm; female flowers solitary; male flowers in racemes 2–5 cm long; appear in summer",
+      "fruits/seeds": "Small drupes in clusters; orange-red when ripe, 6–8 mm; pea-sized; 1 seed per drupe; curved horseshoe-shaped seed 5–7 mm"
+    },
+    "compounds": [
+      "Diterpenoids: tinosporide, tinosporidine, columbin, tinosporin",
+      "Alkaloids: berberine, palmatine, magnoflorine, jatrorrhizine, tembetarine, choline",
+      "Glycosides: tinosporaside, cordifolide, cordioside",
+      "Polysaccharides: arabinogalactan (immunomodulatory activity), syringin",
+      "Steroids: β-sitosterol, δ-sitosterol, 20β-hydroxyecdysone",
+      "Lactones: furanolactone clerodane diterpenes (tinosporol)",
+      "Sesquiterpenes: tinocordioside",
+      "Phenolics: apigenin, luteolin, syrngaresinol"
+    ],
+    "partsUsed": [
+      "Stems (primary use — most potent part)",
+      "Roots",
+      "Leaves",
+      "Starch extract from stems (Giloy satva)"
+    ],
+    "traditionalUses": [
+      "Ayurveda: Rasayana (rejuvenator) and Tridosha-balancing herb; classified as bitter tonic and immunomodulator in Charaka Samhita",
+      "Ayurvedic treatment for chronic fever, malaria, and typhoid; Sanskrit name 'Jwarghna' means fever destroyer",
+      "Traditional treatment for diabetes (Madhumeha) in Ayurveda; used continuously for thousands of years",
+      "Ayurvedic liver tonic and treatment for jaundice, viral hepatitis, and liver disorders",
+      "Rheumatoid arthritis treatment in Ayurveda (Amavata); anti-inflammatory and analgesic",
+      "Immune system support in HIV/AIDS patients in Indian integrative medicine",
+      "Urinary tract infections and urinary calculi in Ayurvedic practice",
+      "Post-infectious convalescence tonic; rebuilds strength after chronic illness in traditional Indian medicine"
+    ],
+    "modernUses": [
+      "Immunomodulation: arabinogalactan activates macrophages, dendritic cells, and NK cells; increases phagocytic activity 3–5 fold in vitro; standardized extracts used in immunotherapy protocols in India",
+      "Antidiabetic: multiple animal studies show 30–40% blood glucose reduction; inhibits α-glucosidase and improves insulin sensitivity; small RCT in type 2 diabetics showed significant HbA1c reduction",
+      "Anti-inflammatory: columbin and tinosporide inhibit COX-2, NF-κB, and TNF-α; comparable to prednisolone in carrageenan edema model in rats",
+      "Hepatoprotection: standardized extract shows hepatoprotection against aflatoxin, paracetamol, and CCl4; used clinically in India for viral hepatitis",
+      "Antioxidant: SOD, catalase, and GPx induction; significant DPPH radical scavenging",
+      "Antimalarial: tinosporide, columbin active against Plasmodium falciparum in vitro; used as adjunct to antimalarial therapy",
+      "Neuroprotection: berberine and palmatine reduce Aβ aggregation and neuroinflammation in Alzheimer's animal models",
+      "COVID-19 adjunct therapy: ayush-64 formulation containing guduchi used in Indian ICMR-approved COVID trials; modestly reduced recovery time"
+    ],
+    "preparations": [
+      "Stem decoction (Kwath): 15–30 g fresh stem or 3–6 g dried in 400 mL water, reduced to 100 mL; 50 mL twice daily",
+      "Standardized aqueous extract (polysaccharides 5%): 300–900 mg twice daily",
+      "Giloy Satva (starch extract): 0.5–1 g with honey or warm water twice daily",
+      "Tincture (1:5, 40% ethanol): 3–5 mL three times daily",
+      "Powder (churna): 3–6 g/day with warm water",
+      "Fresh stem juice: 10–20 mL twice daily (most bioavailable traditional form)"
+    ],
+    "contraindications": [
+      "Autoimmune diseases (lupus, MS, RA): immunostimulant activity may exacerbate autoimmune flares",
+      "Pregnancy and lactation: insufficient safety data; immunological effects contraindicate use",
+      "Pre-surgical period: discontinue 2 weeks before surgery; may interfere with blood glucose control under anesthesia",
+      "Constipation: mild laxative activity; use cautiously in patients prone to loose stools"
+    ],
+    "sideEffects": [
+      "Hypoglycemia especially when combined with antidiabetic medications",
+      "Constipation or loose stools depending on individual constitution and dose",
+      "Case reports of autoimmune hepatitis following guduchi supplementation (possible immune-mediated hepatotoxicity); FDA alert issued 2023",
+      "Mild headache and sedation in sensitive individuals"
+    ],
+    "drugInteractions": [
+      "Immunosuppressants (cyclosporine, mycophenolate, corticosteroids): immunostimulant activity directly opposes these medications",
+      "Antidiabetics (insulin, metformin, sulfonylureas): significant additive hypoglycemic effect; monitor blood glucose",
+      "Anticoagulants (warfarin, heparin): antiplatelet activity may increase bleeding risk",
+      "Lithium: potential alteration in renal clearance; monitor lithium levels"
+    ]
+  },
+  {
+    "slug": "amla",
+    "name": "Amla / Indian Gooseberry",
+    "latinName": "Phyllanthus emblica",
+    "family": "Phyllanthaceae",
+    "familyLatin": "Phyllanthus family",
+    "nativeRange": "Indian subcontinent, Sri Lanka, Southeast Asia, southern China; widely cultivated in tropical Asia",
+    "habitat": "Tropical and subtropical dry forests, deciduous forests, scrublands; sandy and rocky hillside soils; sea level to 1,800 m; drought-semi-tolerant once established",
+    "description": {
+      "overall appearance": "Medium-sized deciduous tree 8–18 m tall with spreading, feathery crown; thin, peeling, gray-brown bark; small leaves give the tree a light, airy appearance. One of the most revered plants in all of Ayurveda; considered sacred to the goddess Lakshmi.",
+      "roots": "Deep taproot with extensive lateral root system; light brown bark; contain tannins and ellagic acid",
+      "stem": "Trunk 20–50 cm in diameter; smooth to slightly flaky bark; grayish-green to brown; branchlets deciduous with leaves",
+      "leaves": "Linear-oblong, feathery, resembling compound leaves but are simple; 10–13 mm long and 2–4 mm wide, densely arranged alternately on deciduous branchlets; light green; fall with the branchlets in dry season",
+      "flowers": "Small, greenish-yellow flowers 3–4 mm; dioecious (separate male and female); fascicled in leaf axils; inconspicuous",
+      "fruits/seeds": "Globose, fleshy drupe 1.5–2.5 cm in diameter; pale green to yellowish when ripe; extremely sour, astringent taste; deeply ribbed with 6 faint furrows; one hard 6-loculed pyrene with 6 seeds; among the highest natural sources of vitamin C (600–900 mg/100 g fresh weight)"
+    },
+    "compounds": [
+      "Hydrolyzable tannins: emblicanin A and B (unique to amla; account for stable vitamin C activity), phyllemblin, punigluconin",
+      "Gallotannins and ellagitannins: geraniin, corilagin, chebulanin, 1,6-di-O-galloyl-β-D-glucose",
+      "Ascorbic acid (vitamin C): 600–900 mg/100 g fresh fruit; most thermostable form due to tannin chelation",
+      "Polyphenols: quercetin, kaempferol, rutin, myricetin, ellagic acid, gallic acid",
+      "Curcuminoids: not present; however, chebulinic acid acts similarly",
+      "Alkaloids: phyllantine, phyllemblin, zeatin",
+      "Pectin and mucilaginous polysaccharides",
+      "Fixed oils: linolenic acid (63%), linoleic acid (10%), oleic acid (7%) in seed"
+    ],
+    "partsUsed": [
+      "Fruit (primary — fresh and dried)",
+      "Fruit powder (dried)",
+      "Seed",
+      "Leaves and bark (secondary)"
+    ],
+    "traditionalUses": [
+      "Ayurveda: primary ingredient in Triphala, Chyawanprash, and Brahma Rasayana; the most important single fruit in Ayurveda",
+      "Rasayana (rejuvenating tonic): Charaka classifies amla as the best among all rejuvenatives for general health and longevity",
+      "Ayurvedic treatment for hyperacidity, peptic ulcer, and gastritis; cooling effect on pitta dosha",
+      "Traditional hair care: amla oil massaged into scalp to promote hair growth, reduce graying, and prevent hair fall",
+      "Ayurvedic treatment for cataract prevention and vision improvement; eyewashes with amla water in traditional opthalmology",
+      "Blood purifier and anemia treatment in Ayurvedic and Unani medicine",
+      "Traditional treatment for diabetes in South and Southeast Asian folk medicine",
+      "Tibetan medicine (sowa rigpa): amla used in Triphala as cornerstone of digestive and aging therapeutics"
+    ],
+    "modernUses": [
+      "Antioxidant: emblicanin A and B shown to be more potent than vitamin C alone in ORAC assay; synergistic chelation of tannins stabilizes ascorbic acid activity at high temperatures",
+      "Cholesterol-lowering: double-blind RCT (Antony et al., 2008) showed 500 mg amla extract reduced total cholesterol, LDL, VLDL, and triglycerides significantly",
+      "Anti-atherogenic: reduces PCSK9 expression and LDL oxidation; human study showed reduced c-reactive protein and fibrinogen levels",
+      "Antidiabetic: ellagic acid and tannins inhibit α-glucosidase and improve post-prandial glucose; pilot RCT showed significant reduction in fasting glucose and HbA1c at 500 mg/day",
+      "Hepatoprotection: gallic acid and geraniin protect against paracetamol and ethanol-induced liver damage; amla shows hepatoprotective activity comparable to silymarin in some models",
+      "Anti-cancer: ellagic acid and emblicanin induce apoptosis in cancer cell lines; inhibit angiogenesis and metastasis in animal models",
+      "Gastroprotective: mucilaginous polysaccharides and tannins reduce acid secretion, protect gastric mucosa; clinical evidence in GERD and peptic ulcer",
+      "Hair growth: topical amla oil promotes anagen phase; DHT-5α reductase inhibition demonstrated for androgenic alopecia"
+    ],
+    "preparations": [
+      "Fresh fruit: 1–3 fruits daily (5–15 g); eaten raw, pickled (murabba), or as juice",
+      "Dried powder (amalaki churna): 3–6 g/day with honey or warm water",
+      "Standardized extract (emblicanins 40–70%): 500–1,000 mg/day",
+      "Triphala (with Terminalia chebula and T. bellirica): 3–6 g/day",
+      "Amla juice: 15–30 mL fresh juice diluted in water, twice daily",
+      "Chyawanprash (traditional Ayurvedic jam): 1–2 teaspoons (5–10 g) daily"
+    ],
+    "contraindications": [
+      "Anticoagulation therapy: high vitamin C and tannin content may affect INR; monitor warfarin patients closely",
+      "Iron overload conditions (hemochromatosis): high vitamin C dramatically increases iron absorption; avoid supplemental doses",
+      "Kidney stones (calcium oxalate): high oxalate content in large doses; monitor with history of oxalate nephrolithiasis",
+      "Pre-surgical period: discontinue 2 weeks before surgery; antiplatelet activity and vitamin C may affect surgical outcomes"
+    ],
+    "sideEffects": [
+      "Gastrointestinal discomfort (increased stool frequency, mild diarrhea) at doses above 1 g/day extract",
+      "Increased iron absorption at high doses — beneficial for anemia but problematic in iron overload",
+      "Hypoglycemia when combined with antidiabetics",
+      "Skin hyperpigmentation with long-term high-dose internal use (rare)"
+    ],
+    "drugInteractions": [
+      "Anticoagulants (warfarin): high vitamin C content may enhance or reduce warfarin effect depending on dose; monitor INR",
+      "Iron supplements and tetracycline antibiotics: significantly increases iron absorption; separate dosing by 2+ hours",
+      "Antidiabetics (insulin, metformin): additive hypoglycemic effect; monitor blood glucose",
+      "Antacids (aluminum, magnesium hydroxide): tannins may bind to antacid minerals; separate by 2 hours"
+    ]
+  },
+  {
+    "slug": "terminalia-chebula",
+    "name": "Haritaki / Black Myrobalan (Triphala representative)",
+    "latinName": "Terminalia chebula",
+    "family": "Combretaceae",
+    "familyLatin": "White mangrove family",
+    "nativeRange": "Indian subcontinent (India, Nepal, Sri Lanka, Bangladesh), Southeast Asia, and southwestern China",
+    "habitat": "Dry to moist tropical forests, mixed deciduous forests; sea level to 1,500 m; rocky and gravelly soils; full sun to partial shade; drought-tolerant once established",
+    "description": {
+      "overall appearance": "Medium to large deciduous tree reaching 20–30 m with a spreading crown 5–15 m wide; known as the 'King of Herbs' in Tibetan medicine and considered the most important plant in the Ayurvedic materia medica by some traditions.",
+      "roots": "Deep taproot with lateral spreading roots; bark is thick, brown, and fissured longitudinally; tannin-rich",
+      "stem": "Trunk 60–120 cm in diameter; bark dark brown to grayish, rough and deeply furrowed; branches spreading; young shoots are rusty-hairy",
+      "leaves": "Ovate to elliptic, 7–18 cm long and 4.5–9 cm wide; entire margins; opposite or sub-opposite; hairy below when young; long petiole 1–3 cm with 2 prominent glands at apex",
+      "flowers": "Small, monoecious, dull white to pale yellow, 5-petaled; arranged in terminal spike-like racemes or panicles 5–12 cm long; malodorous; appearing before or with new leaves",
+      "fruits/seeds": "Drupe 2–4 cm long; ovoid to elliptic; yellowish to blackish-brown when ripe; 5 longitudinal ridges; extremely astringent, sour, bitter pulp; one hard pyrene with oily kernel; classified into 7 varieties in Ayurveda based on taste profile"
+    },
+    "compounds": [
+      "Tannins: chebulinic acid, chebulagic acid (primary bioactives; 30–60% of dry fruit weight), corilagin, punicalagin",
+      "Ellagitannins: terchebulin, terflavin A and B, chebulanin",
+      "Gallotannins: 1,2,3,4,6-pentagalloylglucose (PGG), trigalloylglucose",
+      "Phenolic acids: gallic acid, ellagic acid, chebulic acid",
+      "Triterpenoids: arjunolic acid, chebulosidic acid",
+      "Anthraquinones: sennoside A and B (mild laxative activity)",
+      "Flavonoids: luteolin, rutin, quercetin",
+      "Polyols: shikimic acid, quinic acid"
+    ],
+    "partsUsed": [
+      "Fruit (ripe and unripe — different medicinal properties)",
+      "Fruit powder (haritaki churna)",
+      "Seed kernel",
+      "Bark"
+    ],
+    "traditionalUses": [
+      "Ayurveda: Haritaki — primary component of Triphala alongside Phyllanthus emblica (amla) and Terminalia bellirica (vibhitaki); used for digestion, detoxification, and rejuvenation",
+      "Tibetan medicine (sowa rigpa): the most important medicinal plant; depicted in the hands of the Medicine Buddha; used in thousands of formulas",
+      "Ayurvedic laxative and colon cleanser (virechana): unripe fruit is stronger laxative; ripe fruit is gentler tonic",
+      "TCM: Ke Zi (He Zi) — astringent for chronic diarrhea, dysentery, and prolapse; antitussive",
+      "Traditional treatment for diabetes, obesity, and digestive disorders across South and Southeast Asian medicine",
+      "Ayurvedic eye wash and treatment for conjunctivitis, cataracts, and vision improvement",
+      "Rasayana (longevity tonic): daily consumption of haritaki associated with anti-aging benefits in classical Ayurveda",
+      "Wound healing and oral health: gargle and mouthwash for aphthous ulcers, gingivitis, and toothache"
+    ],
+    "modernUses": [
+      "Antimicrobial: chebulic acid, chebulagic acid, and PGG highly active against MRSA, E. coli, H. pylori, and Candida; minimum inhibitory concentrations in μg/mL range",
+      "Antiviral: chebulagic acid and PGG inhibit HIV-1 integrase, HSV-1 and 2 replication; inhibit influenza neuraminidase",
+      "Antidiabetic: chebulagic acid inhibits intestinal sucrase and maltase; reduces post-prandial glucose spikes; improves GLUT-4 translocation in fat cells",
+      "Anticancer: chebulinic acid and PGG induce apoptosis in HeLa, MCF-7, and colon cancer cells via mitochondrial pathway",
+      "Cardioprotective: arjunolic acid reduces oxidative stress in myocardial ischemia; chebulagic acid inhibits LDL oxidation",
+      "Neuroprotection: chebulinic acid reduces Aβ aggregation and tau hyperphosphorylation in AD models; anti-inflammatory via NF-κB inhibition",
+      "Triphala (with amla and vibhitaki): most-studied Ayurvedic compound; multiple human trials confirm benefits for constipation, weight management, and dyslipidemia",
+      "Antifungal: strong activity against dermatophytes; clinical study of topical haritaki cream showed effectiveness in tinea infections"
+    ],
+    "preparations": [
+      "Triphala powder (equal parts T. chebula, T. bellirica, P. emblica): 3–6 g/day in warm water at bedtime",
+      "Haritaki churna (powder): 3–6 g/day with warm water or ghee",
+      "Standardized extract (tannins 40–60%): 300–600 mg twice daily",
+      "Decoction: 5–10 g fruit powder in 300 mL water, 20 min; 100 mL twice daily",
+      "Fruit soaked overnight in water: 1–3 fruits soaked in 100 mL, consumed in morning (gentle laxative)",
+      "Tincture (1:5, 50% ethanol): 2–4 mL three times daily"
+    ],
+    "contraindications": [
+      "Pregnancy: anthraquinone content has oxytocic activity; contraindicated especially in first trimester",
+      "Severe dehydration or diarrhea: laxative anthraquinone content may worsen dehydration; avoid during acute diarrhea",
+      "Concurrent use with tannin-sensitive medications: tannins bind to many drugs, reducing absorption",
+      "Wasting diseases and malnutrition: excessive use depletes nutrients; tradition warns against overuse without supportive nutrition"
+    ],
+    "sideEffects": [
+      "Dose-dependent laxative effect: higher doses (>6 g/day) may cause diarrhea and cramping",
+      "Electrolyte imbalance (hypokalemia) with chronic high-dose use due to anthraquinone stimulant laxative activity",
+      "Reduced absorption of iron, calcium, and protein due to tannin binding (take separately from meals)",
+      "Hypoglycemia with concurrent antidiabetic medication"
+    ],
+    "drugInteractions": [
+      "Iron supplements and nutritional minerals: tannins strongly chelate iron, zinc, and calcium; separate by 2–4 hours",
+      "Antibiotics (tetracyclines, fluoroquinolones): tannins reduce oral bioavailability by chelation; separate by 2 hours",
+      "Antidiabetics: additive hypoglycemic effect; monitor blood glucose",
+      "Anticoagulants (warfarin): ellagic acid may have antiplatelet activity; monitor INR"
+    ]
+  },
+  {
+    "slug": "andrographis",
+    "name": "Andrographis",
+    "latinName": "Andrographis paniculata",
+    "family": "Acanthaceae",
+    "familyLatin": "Acanthus family",
+    "nativeRange": "Indian subcontinent and Southeast Asia (India, Sri Lanka, Thailand, Malaysia, China); naturalized in parts of Central America and Africa",
+    "habitat": "Lowland moist forests, roadsides, disturbed areas, tea plantations; sea level to 1,200 m; humid tropical climate; grows in well-drained soils; common weed",
+    "description": {
+      "overall appearance": "Erect, annual or short-lived perennial herb 40–110 cm tall; highly branched with quadrangular stems; intensely bitter taste in all parts — the most bitter herb in Ayurvedic pharmacopeia. Called 'King of Bitters' and 'Kalmegh' in India.",
+      "roots": "Fibrous, yellowish taproot; bitter throughout; contains andrographolide in small concentrations",
+      "stem": "Quadrangular (four-angled), glabrous, dark green; internodes 2–8 cm; branching opposite; becomes woody at base with age",
+      "leaves": "Simple, opposite, lanceolate to ovate-lanceolate; 2–12 cm long and 1–4 cm wide; entire to slightly serrate margins; glabrous; dark green above, pale below; petiole very short (2–5 mm)",
+      "flowers": "Small white, 2-lipped tubular flowers 8–12 mm; pale purple veins on lower lip; arranged in terminal and axillary panicles; corolla tube 3–4 mm; 2 stamens",
+      "fruits/seeds": "Linear capsule 1.5–2.5 cm long and 3–4 mm wide; pubescent; splitting to release 12+ small, yellow-brown, hard, oblong seeds 1–2 mm"
+    },
+    "compounds": [
+      "Diterpenoid lactones: andrographolide (primary bioactive, 1–3% by dry weight), 14-deoxy-11,12-didehydroandrographolide (DDAG), neoandrographolide",
+      "Andrographolide derivatives: andrographiside, andropaniculoside",
+      "Flavonoids: 5-hydroxy-7,8,2′,3′-tetramethoxyflavone, andrographin, panicolin, mono-O-methylwightin",
+      "Ent-labdane diterpenoids: isoandrographolide, 14-deoxyandrographolide",
+      "Xanthones: andrographin",
+      "Polyphenols: 3,4-dicaffeoylquinic acid, chlorogenic acid",
+      "Essential oils: sesquiterpenes, β-gurjunene",
+      "Phytosterols: β-sitosterol, stigmasterol"
+    ],
+    "partsUsed": [
+      "Aerial parts (leaves and stems — harvested at flowering)",
+      "Leaves (highest andrographolide concentration)",
+      "Whole plant"
+    ],
+    "traditionalUses": [
+      "Ayurveda: Kalmegh — liver tonic, bitter digestive, antimalarial, and anti-infective; used in Kalmegh asava and other classical formulas",
+      "TCM: Chuan Xin Lian — clears heat and toxins; used for upper respiratory infections, sore throat, and dysentery",
+      "Thai traditional medicine: Fah Talai Jon — treatment of fever, cold, flu, and infections; widely sold as OTC herbal supplement in Thailand",
+      "Indian folk medicine: treatment of snakebite and insect bites; internal and topical application",
+      "Ayurvedic treatment for malaria, dengue fever, and typhoid",
+      "Traditional hepatoprotective and anti-jaundice herb in South and Southeast Asian medicine",
+      "Sri Lankan traditional medicine for eczema, skin infections, and psoriasis",
+      "Scandinavian herbal medicine (modern adoption): Kan Jang formula — evidence-based use for cold and flu"
+    ],
+    "modernUses": [
+      "Respiratory infections: multiple RCTs (Kan Jang, proprietary andrographis-eleutherococcus combination): significantly reduces duration and severity of uncomplicated upper respiratory tract infections; Cochrane review (2004) supports use",
+      "Influenza: RCT showing andrographolide significantly reduces fever, sore throat, and fatigue scores vs. paracetamol",
+      "Anti-inflammatory: andrographolide inhibits NF-κB p65 translocation, COX-2, iNOS, and TNF-α at nanomolar concentrations",
+      "Antiviral: andrographolide inhibits SARS-CoV-2 replication in vitro; also active against HIV-1, influenza, dengue, EBV",
+      "Hepatoprotection: andrographolide and neoandrographolide protect against paracetamol, ethanol, and CCl4-induced liver damage; multiple animal studies",
+      "Anticancer: DDAG and andrographolide induce apoptosis in cancer cell lines via Bcl-2 inhibition, cell cycle arrest; anti-angiogenic activity",
+      "Immunomodulation: stimulates antibody production, macrophage phagocytosis, and NK cell activity in vitro",
+      "Antidiabetic: andrographolide reduces blood glucose via AMPK activation and PPAR-γ upregulation in fat and liver cells"
+    ],
+    "preparations": [
+      "Standardized extract (andrographolide 10–30%): 200–400 mg three times daily for acute infections; 100–200 mg/day for maintenance",
+      "Dried herb powder: 1–6 g/day",
+      "Kan Jang (proprietary extract SHA-10 standardized): 200 mg standardized extract twice daily for colds/flu (RCT-validated dose)",
+      "Decoction: 3–6 g dried aerial parts in 300 mL water, 15 min; 100 mL three times daily (very bitter)",
+      "Tincture (1:5, 60% ethanol): 3–5 mL three times daily",
+      "Cold aqueous infusion: 2–3 g powder soaked overnight; strained and taken on empty stomach (Ayurvedic method)"
+    ],
+    "contraindications": [
+      "Pregnancy: antifertility effects demonstrated in animal studies; andrographolide inhibits implantation in rats; strictly contraindicated",
+      "Autoimmune conditions: immunostimulant activity may exacerbate autoimmune disease",
+      "Hypersensitivity: anaphylactic reactions reported with parenteral administration; caution with oral administration in atopic individuals",
+      "Surgery: discontinue 2 weeks pre-operatively; antiplatelet and anticoagulant activity"
+    ],
+    "sideEffects": [
+      "Significant nausea, vomiting, and anorexia — the intense bitterness is dose-limiting for many patients",
+      "Headache and fatigue at high doses (>2 g/day andrographolide equivalent)",
+      "Anaphylaxis/severe allergic reactions (rare) — primarily with injectable forms",
+      "Elevated liver enzymes with prolonged high-dose use (rare)"
+    ],
+    "drugInteractions": [
+      "Anticoagulants/antiplatelets (warfarin, heparin, aspirin): andrographolide inhibits platelet aggregation and thromboxane B2 production; significant bleeding risk",
+      "Antihypertensives: additive hypotensive effect; andrographolide dilates vascular smooth muscle",
+      "Immunosuppressants (cyclosporine, tacrolimus): immunostimulant activity directly antagonizes",
+      "Antidiabetics: additive hypoglycemic risk; monitor blood glucose"
+    ]
+  },
+  {
+    "slug": "bhringaraj",
+    "name": "Bhringaraj",
+    "latinName": "Eclipta prostrata",
+    "family": "Asteraceae",
+    "familyLatin": "Daisy/Composite family",
+    "nativeRange": "Pantropical and subtropical regions; native to Indian subcontinent and Americas; widely naturalized in Southeast Asia, China, Africa, and Australia",
+    "habitat": "Moist, disturbed areas, riverbanks, rice fields, roadsides, and waterlogged soils; sea level to 1,600 m; full sun to partial shade; cosmopolitan weed of wet habitats",
+    "description": {
+      "overall appearance": "Annual or short-lived perennial herb 10–80 cm tall, with prostrate to erect stems covered in stiff white hairs that give the plant a rough, bristly texture. Called 'Kehraj' in Assamese, 'Bhringraj' means 'ruler of hair' in Sanskrit — reflecting its renowned hair-promoting effects.",
+      "roots": "Short taproot system; white to light brown; fibrous lateral roots; non-medicinal compared to aerial parts",
+      "stem": "Cylindrical to slightly angled, 1–4 mm thick; prostrate, ascending, or erect; rough with white appressed hairs; rooting at lower nodes; branched",
+      "leaves": "Lanceolate to elliptic, 2–10 cm long and 0.5–2.5 cm wide; opposite; serrate margins; rough, hairy surface; sessile or with very short petiole; parallel venation from midrib",
+      "flowers": "Small white daisy-like capitula 6–8 mm in diameter; white ray florets (2-lobed) surrounding yellow disk florets; solitary on axillary and terminal stalks 2–5 cm; each head on peduncle 1–4 cm",
+      "fruits/seeds": "Achenes 1.5–2 mm; 2-winged or not; dark brown to black; without a pappus (or pappus of 2 small scales); produced in large quantities per plant"
+    },
+    "compounds": [
+      "Coumestans: wedelolactone (primary bioactive, 0.04–0.08%), demethylwedelolactone",
+      "Alkaloids: ecliptalbine, verazine (steroidal alkaloids)",
+      "Triterpenoid saponins: α-terthienyl, eclalbasaponin I–VI (oleanolic acid glycosides)",
+      "Sterols: β-sitosterol, daucosterol, stigmasterol",
+      "Thiophene derivatives: α-terthienyl (phototoxic compound)",
+      "Polyphenols: luteolin, apigenin, caffeic acid, protocatechuic acid",
+      "Ecliptin (flavonoid)",
+      "Nicotinic acid, vitamin A (β-carotene), and vitamin E"
+    ],
+    "partsUsed": [
+      "Whole aerial plant (leaves and stems — primary)",
+      "Leaves (fresh juice and oil infusion)",
+      "Roots (secondary)"
+    ],
+    "traditionalUses": [
+      "Ayurveda: primary herb for all hair conditions; stimulates hair growth, prevents premature graying, and strengthens hair follicles; Bhringaraj taila (oil) is cornerstone of Ayurvedic hair care",
+      "Ayurveda: liver tonic and treatment for jaundice, hepatitis, and liver enlargement; classified as hepatoprotective rasayana",
+      "TCM: Mo Han Lian — used for liver and kidney yin deficiency causing dizziness, blurred vision, premature graying; hemostatic herb",
+      "Ayurvedic treatment for respiratory conditions including asthma and bronchitis; leaf juice for cough",
+      "Snakebite antidote in folk medicine of India, Brazil, and Africa; wedelolactone has documented phospholipase A2 inhibition",
+      "Traditional skin conditions treatment: eczema, ringworm, and wounds with fresh juice application",
+      "Ayurvedic nervine tonic for epilepsy, memory, and anxiety",
+      "Indian folk medicine: treatment for splenomegaly and ascites"
+    ],
+    "modernUses": [
+      "Hair growth promotion: standardized extract demonstrated anagen phase stimulation in mice and increased keratinocyte proliferation; outperformed 2% minoxidil in one comparative study in mice",
+      "Hepatoprotection: wedelolactone inhibits NF-κB and TNF-α; aqueous extract shows hepatoprotective activity comparable to silymarin in paracetamol and CCl4-induced models",
+      "Antihepatitis B: wedelolactone inhibits HBsAg secretion and HBV DNA replication in vitro at IC50 of 20 μg/mL",
+      "Anti-snake venom: wedelolactone potently inhibits phospholipase A2 (PLA2) and metalloprotease activity of Bothrops venom; validated in Brazilian ethnobotanical research",
+      "Anti-inflammatory: wedelolactone inhibits 5-lipoxygenase and COX-2; comparable anti-inflammatory activity to indomethacin in mouse ear edema model",
+      "Antifungal: α-terthienyl demonstrates potent antifungal activity against dermatophytes under UV activation",
+      "Neuroprotection: ecliptalbine alkaloids show cholinesterase inhibitory activity and neuroprotection in oxidative stress models",
+      "Antidiabetic: saponin fraction reduces blood glucose and improves lipid profile in streptozotocin-diabetic rats via PPAR-γ and insulin receptor pathways"
+    ],
+    "preparations": [
+      "Fresh leaf juice: 5–10 mL twice daily (most potent traditional form); mixed with honey for palatability",
+      "Bhringaraj taila (oil): boil fresh plant in sesame oil 1:4 w/v; massage into scalp daily or 3× weekly",
+      "Standardized extract (wedelolactone 1–5%): 300–500 mg twice daily",
+      "Dried plant powder: 3–6 g/day with warm water or milk",
+      "Decoction: 5–10 g dried plant in 300 mL water, 15 min; 100 mL twice daily",
+      "Tincture (1:5, 40% ethanol): 3–5 mL twice daily"
+    ],
+    "contraindications": [
+      "Pregnancy: alkaloid content may stimulate uterine contractions; limited data but caution warranted",
+      "Phototoxicity risk: α-terthienyl is activated by UV light; high topical doses of the fresh plant should be used cautiously with UV exposure",
+      "Concurrent hepatotoxic drug therapy: while hepatoprotective, monitor liver enzymes when combining with other hepatically-active compounds",
+      "Anticoagulation therapy: mild antiplatelet activity; monitor INR with warfarin"
+    ],
+    "sideEffects": [
+      "Contact dermatitis possible with fresh plant (rare)",
+      "Mild diarrhea and gastric upset at doses above 5 g/day dried plant",
+      "Phototoxic reactions on skin with topical application followed by sun exposure (α-terthienyl)",
+      "Headache at high internal doses"
+    ],
+    "drugInteractions": [
+      "Anticoagulants (warfarin, aspirin): antiplatelet activity from wedelolactone; monitor bleeding parameters",
+      "Hepatotoxic drugs (acetaminophen, statins): combined hepatoprotection vs. toxicity — generally safe in combination but monitor liver function",
+      "Antidiabetics: additive hypoglycemic effect; monitor blood glucose",
+      "Testosterone/androgen therapies: potential 5α-reductase inhibitory activity; theoretical interaction with androgen-modulating drugs"
+    ]
+  },
+  {
+    "slug": "jiaogulan",
+    "name": "Jiaogulan",
+    "latinName": "Gynostemma pentaphyllum",
+    "family": "Cucurbitaceae",
+    "familyLatin": "Cucumber/Gourd family",
+    "nativeRange": "Southern China (Guizhou, Sichuan, Yunnan provinces), Japan, Korea, Vietnam, India, and Southeast Asia",
+    "habitat": "Mountain forests, hillside thickets, forest margins, and disturbed land; 300–3,200 m elevation; prefers well-drained, fertile soils in humid climates",
+    "description": {
+      "overall appearance": "Delicate, twining, herbaceous perennial vine reaching 3–5 m; slender stems; thin palmate leaves; known as 'Southern Ginseng' (Jiao Gu Lan = 'twisting blue plant') in China after the mountain village of Zhangjia Jie where centenarians reportedly consumed it daily as tea.",
+      "roots": "Shallow fibrous root system with slender rhizomes; cream-colored; non-aromatic; saponin content lower than leaves",
+      "stem": "Slender, angular, twining with tendrils arising from leaf axils; 1–3 mm diameter; green; glabrous to slightly hairy; annual dying back to rhizomes in cold climates",
+      "leaves": "Palmately compound with 3, 5, or 7 leaflets (typically 5); leaflets elliptic to lanceolate, 3–8 cm long and 1–3 cm wide; serrate margins; thin; bright green; central leaflet largest; petioles 2–6 cm",
+      "flowers": "Tiny, yellowish-green, 5-petaled flowers 2–3 mm; dioecious; arranged in elongate panicles 7–15 cm; inconspicuous",
+      "fruits/seeds": "Small globose berry 5–9 mm in diameter; black when ripe; 1–2 seeds; each seed 3–4 mm"
+    },
+    "compounds": [
+      "Triterpenoid saponins (gypenosides): 100+ gypenosides identified; gypenoside XVII (identical to ginsenoside Rb1), gypenoside LXXV (identical to Rg3) — same as Panax ginseng",
+      "Gypenosides unique to G. pentaphyllum: gypentoside A, B; total saponin content 3–8% dry weight",
+      "Flavonoids: rutin, quercetin, kaempferol, ombuoside, vitexin",
+      "Polysaccharides: arabinogalactan (immunostimulant)",
+      "Sterols: β-sitosterol, campesterol",
+      "Chlorophyll and carotenoids (in leaves)",
+      "Amino acids: glutamic acid, alanine, glycine (complete profile)"
+    ],
+    "partsUsed": [
+      "Aerial parts (leaves and stems — primary)",
+      "Whole plant powder",
+      "Dried leaves (tea)"
+    ],
+    "traditionalUses": [
+      "Guizhou Province, China: consumed as daily tea by mountain populations with documented longevity and low rates of hypertension and cancer",
+      "TCM (relatively recent adoption): adaptogenic, anti-fatigue, cardiovascular tonic; used since Ming Dynasty (15th century) in Guizhou",
+      "Japanese traditional medicine (Amachazuru): fatigue remedy and longevity tea; widely sold as 'immortality herb' supplement",
+      "Traditional Vietnamese medicine: treatment for heart disease, liver conditions, and general debility",
+      "Chinese folk medicine: treatment for bronchitis, chronic cough, and respiratory weakness",
+      "Traditional treatment for tumors and cancer in mountainous regions of southern China",
+      "South Korean traditional medicine: adaptogen and cognitive tonic",
+      "Traditional use for anxiety and insomnia in Chinese and Korean herbalism"
+    ],
+    "modernUses": [
+      "Adaptogenic/anti-stress: gypenosides activate Nrf2 and reduce cortisol; comparable adaptogenic activity to Panax ginseng in animal stress models",
+      "AMPK activation: gypenoside XVII activates AMP-activated protein kinase (AMPK) — the primary mechanism for antidiabetic, anti-obesity, and longevity effects; Huang et al. (2012) documented this pathway",
+      "Antidiabetic: human RCT (Huyen et al., 2010) in type 2 diabetics showed significant reduction in HbA1c, fasting glucose, and insulin resistance after 12 weeks of gypenoside extract",
+      "Lipid-lowering: multiple RCTs showing gypenoside extract significantly reduces total cholesterol, LDL, and triglycerides while increasing HDL; meta-analysis confirms effect",
+      "Anticancer: gypenosides including Rb1 and Rg3 equivalents induce apoptosis and inhibit angiogenesis in multiple cancer cell lines",
+      "Hepatoprotection: reduces liver fat, fibrosis, and inflammation in NAFLD animal models; clinical pilot study in NAFLD showed improved liver enzyme profile",
+      "Anti-anxiety: gypenoside extract reduces anxiety in multiple rodent models via GABA-A receptor modulation; clinical pilot study showed significant reduction in GAD scores",
+      "Telomere and longevity effects: gypenosides activate SIRT1/AMPK pathway; extend lifespan in C. elegans and reduce oxidative senescence markers"
+    ],
+    "preparations": [
+      "Dried leaf tea: 2–3 g dried leaves steeped 5–10 min in 250 mL; 1–3 cups daily (traditional long-term use)",
+      "Standardized extract (gypenosides 20–80%): 100–450 mg/day",
+      "Gynostemma capsules (whole plant powder): 500–2,000 mg/day",
+      "Tincture (1:5, 40% ethanol): 3–5 mL twice daily",
+      "Standardized gypenoside extract tablets (as used in Chinese clinical trials): 80 mg gypenosides twice daily with meals",
+      "Cold-brew tea: 5–10 g leaves cold-steeped 4–8 hours; superior gypenoside extraction at lower temperature"
+    ],
+    "contraindications": [
+      "Autoimmune conditions: immunostimulant polysaccharides may exacerbate autoimmune flares; use with caution",
+      "Surgery: discontinue 2 weeks pre-operatively; antiplatelet and adaptogenic effects may complicate anesthesia",
+      "Pregnancy and lactation: insufficient safety data; gypenosides have structural similarity to steroidal hormones",
+      "Hormone-sensitive conditions: gypenoside structural similarity to ginsenosides; caution in estrogen-sensitive cancers"
+    ],
+    "sideEffects": [
+      "Nausea and increased bowel motility at high doses (>450 mg/day standardized extract)",
+      "Hypoglycemia when combined with antidiabetic medications",
+      "Dizziness or mild sedation in sensitive individuals due to GABA-ergic activity",
+      "Rare allergic reactions; mild rash reported in some individuals"
+    ],
+    "drugInteractions": [
+      "Antidiabetics (insulin, metformin, thiazolidinediones): significant additive blood glucose lowering via AMPK activation; monitor closely",
+      "Anticoagulants/antiplatelets (warfarin, clopidogrel): antiplatelet activity demonstrated; monitor bleeding time",
+      "Immunosuppressants (cyclosporine): immunostimulant polysaccharides may reduce efficacy",
+      "Statins: additive lipid-lowering; generally beneficial but monitor for statin side effects at lower doses when combined"
+    ]
+  },
+  {
+    "slug": "cordyceps",
+    "name": "Cordyceps",
+    "latinName": "Cordyceps militaris",
+    "family": "Cordycipitaceae",
+    "familyLatin": "Cordyceps family",
+    "nativeRange": "Widely distributed in temperate and tropical Asia; C. militaris found in North America and Europe; wild C. sinensis restricted to Tibetan Plateau and Himalayan highlands at 3,500–5,000 m",
+    "habitat": "C. militaris: parasitizes pupae of Lepidoptera and other insects in soil; temperate forests and grasslands; grows on damp soil and leaf litter containing parasitized insects. C. sinensis (traditional): exclusively on ghost moth (Hepialus) larvae at high altitude alpine meadows",
+    "description": {
+      "overall appearance": "Entomopathogenic fungus; the medicinal body consists of a dried insect larva (mummified caterpillar) 3–6 cm long topped by a slender, orange-red to golden fruiting body (stroma) 2–5 cm tall. C. militaris (cultured) produces bright orange, club-shaped fruiting bodies 3–8 cm tall arising from parasitized pupae. Now commercially cultivated on grain medium without insects.",
+      "roots": "No roots; mycelium penetrates host insect internally, eventually mummifying the body. The insect body is the nutrient reservoir from which the stroma emerges.",
+      "stem": "Stroma (fruiting body stalk): cylindrical, orange to golden-yellow, 2–5 cm tall and 2–4 mm thick; slightly velvety; fertile head (perithecia-bearing) at apex in C. militaris",
+      "leaves": "Not applicable (fungus, no leaves); mycelial mass internally fills caterpillar body",
+      "flowers": "Perithecia (reproductive structures) embedded in the club-shaped fertile head at stroma apex; orange-red surface; flask-shaped structures releasing ascospores",
+      "fruits/seeds": "Ascospores: elongated, filiform (thread-like), septate; 300–500 μm long; fragmented secondary spores released in mass from mature perithecia"
+    },
+    "compounds": [
+      "Nucleosides: cordycepin (3′-deoxyadenosine) — primary bioactive; adenosine, uridine, guanosine",
+      "Polysaccharides: CS-4 polysaccharide, cordysinocan (β-D-glucan with 1,3 and 1,6 linkages)",
+      "Cyclic peptides: cyclodepsipeptides (cordycyclin A, B)",
+      "Sterols: ergosterol (provitamin D2), brassicasterol, ergosta-5,7-dienol",
+      "Polyamines: spermine, spermidine, putrescine (cell growth factors)",
+      "D-mannitol (cordycepic acid — C. sinensis marker)",
+      "Amino acids: GABA, glutamic acid, essential amino acids",
+      "Fatty acids: saturated and unsaturated fatty acids; oleic and linoleic predominant"
+    ],
+    "partsUsed": [
+      "Whole dried fungus-insect complex (Dong Chong Xia Cao — C. sinensis)",
+      "Dried fruiting body of C. militaris",
+      "Mycelial biomass (CS-4 fermented, clinical validated form)",
+      "Standardized extracts"
+    ],
+    "traditionalUses": [
+      "Tibetan medicine (sowa rigpa): Yartsa gunbu (caterpillar fungus) — used for 1,000+ years as prime lung tonic and aphrodisiac; reserved for royalty and the wealthy",
+      "TCM: Dong Chong Xia Cao — tonifies lung and kidney yang; used for fatigue, impotence, night sweats, chronic cough, and kidney deficiency",
+      "Ayurvedic adoption (Krimi Kalpa): some Indian traditions adopted cordyceps into their pharmacopeia for respiratory and energy tonic purposes",
+      "Himalayan traditional medicine: post-illness convalescence tonic; altitude sickness remedy",
+      "Chinese folk medicine: treatment for chronic bronchitis, asthma, and tuberculosis complications",
+      "Traditional use at high altitude for improving oxygen utilization and endurance",
+      "TCM treatment for chronic kidney disease and proteinuria",
+      "Traditional aphrodisiac for both male and female sexual dysfunction"
+    ],
+    "modernUses": [
+      "Athletic performance: meta-analysis of RCTs shows significant improvement in VO2max and time-to-exhaustion; cordycepin increases cellular ATP production via adenosine receptor agonism",
+      "Chronic kidney disease: CS-4 mycelial extract (Cs-4) demonstrated significant improvement in BUN, creatinine, and eGFR in RCT of 202 CKD patients (Xu et al., 1992)",
+      "Immunomodulation: β-glucans activate dendritic cells, NK cells, and macrophages; significant immunostimulant activity in cancer patients undergoing chemotherapy",
+      "Anti-tumor: cordycepin inhibits mRNA polyadenylation (3′ processing), inducing cell cycle arrest and apoptosis in cancer cells; synergizes with 5-fluorouracil and cisplatin",
+      "Antidiabetic: polysaccharides improve insulin sensitivity and glucose uptake via AMPK pathway; CS-4 shown to reduce blood glucose in human pilot studies",
+      "Anti-aging: cordycepin activates SIRT1, extends lifespan in C. elegans; reduces telomere shortening markers",
+      "Sexual function: RCT in men with decreased libido showed significant improvement in sexual desire scores after 8 weeks of CS-4",
+      "Anti-fibrotic: cordycepin inhibits TGF-β1-mediated fibroblast activation in lung and liver fibrosis models"
+    ],
+    "preparations": [
+      "Dried fruiting body powder (C. militaris): 1,500–3,000 mg/day; look for products with >0.2% cordycepin",
+      "CS-4 mycelial extract (clinically validated form): 1,000–3,000 mg/day; used in Chinese CKD trials",
+      "Hot water extract (beta-glucan focus): 1,500 mg/day; add to hot water or broth",
+      "Dual-extract (water + ethanol): 1,000–2,000 mg/day; maximizes both polysaccharide and cordycepin extraction",
+      "Tincture (1:4, 30% ethanol): 3–5 mL twice daily",
+      "Cordyceps tea: 2–5 g dried fungus body simmered 20 min in 500 mL water"
+    ],
+    "contraindications": [
+      "Autoimmune diseases: strong immunostimulant activity; may exacerbate autoimmune flares (lupus, RA, MS)",
+      "Hormone-sensitive conditions: ergosterol and polyamines may interact with hormonal balance; caution in hormone-sensitive cancers",
+      "Post-organ transplant (immunosuppressed patients): immunostimulant activity opposes immunosuppressive therapy",
+      "Adenosine-sensitive conditions: cordycepin is an adenosine analogue; caution with cardiac arrhythmias"
+    ],
+    "sideEffects": [
+      "Mild gastrointestinal effects (nausea, diarrhea) at doses >3,000 mg/day",
+      "Potential immunostimulation leading to autoimmune flare in susceptible individuals",
+      "Mild anti-coagulant effect; prolonged bleeding time at high doses",
+      "Dry mouth and mild headache reported during initial supplementation"
+    ],
+    "drugInteractions": [
+      "Immunosuppressants (cyclosporine, tacrolimus): cordycepin and β-glucans directly oppose immunosuppression; significant interaction",
+      "Anticoagulants (warfarin, heparin): adenosine-like activity may potentiate anticoagulation; monitor INR",
+      "Antidiabetics: additive hypoglycemic effect via AMPK activation; monitor blood glucose",
+      "Antiarrhythmics: cordycepin's adenosine-like activity may affect cardiac conduction; caution with digoxin and antiarrhythmic drugs"
+    ]
+  },
+  {
+    "slug": "lions-mane",
+    "name": "Lion's Mane",
+    "latinName": "Hericium erinaceus",
+    "family": "Hericiaceae",
+    "familyLatin": "Lion's mane family",
+    "nativeRange": "Temperate forests of North America, Europe, and Asia (Japan, China, Korea); circumpolar distribution in northern hemisphere",
+    "habitat": "Grows as saprotrophic/parasitic fungus on hardwood trees (especially oak, beech, walnut, maple); grows on living and dead wood, wounds, and stumps; late summer to autumn; prefers cool, moist conditions",
+    "description": {
+      "overall appearance": "Large, conspicuous mushroom with a distinctive appearance: a cascading mass of white to pale yellow hanging spines (teeth) 1–5 cm long giving the fruiting body the appearance of a lion's mane or pom-pom. No cap or gills; entire fruiting body 10–40 cm in diameter.",
+      "roots": "Mycelium is the nutritive body; white, thread-like hyphae penetrating deep into wood substrate; forms dense mycelial mass at attachment point",
+      "stem": "No true stem; fruiting body attaches directly to wood via a short, broad stalk-like base 2–5 cm thick; white, firm, and fleshy",
+      "leaves": "Not applicable; tooth-like spines (also called icicle-like teeth or spines): 1–5 cm long, pendant, crowded; white when fresh, yellowing with age",
+      "flowers": "Basidia (reproductive cells) borne on the surface of the pendant spines; microscopic; release white basidiospores in cloud when mature",
+      "fruits/seeds": "Basidiospores: smooth, cylindrical, 5–7 × 3–4 μm; white spore print; released passively from teeth surfaces"
+    },
+    "compounds": [
+      "Cyathane diterpenoids: hericenones A–H (from fruiting body) — primarily nerve growth factor (NGF) synthesis stimulants",
+      "Cyathane diterpenoids: erinacines A–K (from mycelium) — more potent NGF stimulants; cross blood-brain barrier",
+      "β-Glucans: (1→3)(1→6)-β-D-glucan polysaccharides (immunomodulatory)",
+      "Heteroglycans: hericium polysaccharide HEP-I, II (anti-tumor)",
+      "Sterols: ergosterol, brassicasterol",
+      "Fatty acids: oleic acid, linoleic acid, palmitic acid",
+      "Hericerin and related isoindolinones",
+      "GABAA receptor ligands (not yet fully characterized)"
+    ],
+    "partsUsed": [
+      "Dried fruiting body",
+      "Mycelial biomass (erinacine-rich)",
+      "Dual extracts (fruiting body + mycelium combination)",
+      "Fresh culinary mushroom"
+    ],
+    "traditionalUses": [
+      "TCM: Hou Tou Gu (Monkey Head Mushroom) — stomach tonic, digestive aid, and general debility treatment; used since at least the Han Dynasty (206 BCE–220 CE)",
+      "Japanese traditional cuisine and medicine: Yamabushitake — named for the Yamabushi Buddhist monks who wore straw robes resembling lion's mane; used for digestive health and energy",
+      "Traditional Chinese medicine for gastric ulcers, chronic gastritis, and digestive cancers",
+      "Korean traditional medicine: energy tonic and debility remedy; consumed as food-medicine",
+      "Traditional Japanese preparation: dried mushroom simmered in rice wine (sake) as digestive and strengthening tonic",
+      "Chinese folk medicine for general weakness and immune debility after illness"
+    ],
+    "modernUses": [
+      "Cognitive enhancement and neurogenesis: double-blind RCT (Mori et al., 2009) in mild cognitive impairment: 250 mg dried powder 3× daily for 16 weeks showed significantly higher cognitive test scores vs. placebo; scores declined after cessation",
+      "Nerve Growth Factor induction: erinacines stimulate NGF synthesis at low concentrations in vitro; cross blood-brain barrier; potential treatment for peripheral neuropathy and Alzheimer's disease",
+      "Depression and anxiety: open-label trial in overweight/obese menopausal women showed significant reduction in depression and anxiety scores with 2 g/day for 4 weeks",
+      "Gastroprotective: polysaccharides promote gastric mucosa regeneration; comparable to lansoprazole in animal peptic ulcer models; RCT in gastric cancer patients showed improved survival",
+      "Anti-inflammatory: hericenones inhibit NF-κB and reduce IL-6, TNF-α; oral administration reduces DSS-induced colitis in mice",
+      "Anticancer: hericium polysaccharides (HEP-I) activate NK cells and macrophages; direct cytotoxicity against colon and liver cancer cell lines",
+      "Peripheral neuropathy: pilot clinical study showed improved electromyography results in carpal tunnel and other peripheral neuropathy after 12 weeks",
+      "Multiple sclerosis model: myelin repair and axonal regrowth demonstrated in animal demyelination models via NGF upregulation"
+    ],
+    "preparations": [
+      "Standardized fruiting body extract (beta-glucans 20–30%): 500–3,000 mg/day; up to 3 g used in Mori 2009 RCT",
+      "Dual extract (fruiting body + mycelium, 1:1): 1,000–3,000 mg/day",
+      "Full-spectrum mycelial extract (erinacines focus): 300–600 mg/day",
+      "Dried fruiting body powder (whole, non-extracted): 2,000–5,000 mg/day (lower potency than extract)",
+      "Hot water decoction: 5–10 g dried fungus simmered 30–45 min in 500 mL; 1 cup twice daily",
+      "Tincture (1:4, dual-solvent): 3–5 mL twice daily with water"
+    ],
+    "contraindications": [
+      "Known mushroom allergy: cross-reactivity with other Basidiomycota possible",
+      "Autoimmune conditions: β-glucan immunostimulation may exacerbate autoimmune disease; caution advised",
+      "Post-transplant immunosuppression: immunostimulant activity opposes immunosuppressants",
+      "Bleeding disorders: antiplatelet activity at high doses; discontinue 2 weeks before surgery"
+    ],
+    "sideEffects": [
+      "Rare allergic reactions including contact dermatitis and respiratory symptoms from spore exposure",
+      "Nausea and abdominal discomfort at high doses (>5 g/day whole powder)",
+      "Itchy skin reported in initial weeks of use (possibly related to NGF stimulation of nerve growth)",
+      "Mild respiratory symptoms in those working with mycelial cultures (occupational spore exposure)"
+    ],
+    "drugInteractions": [
+      "Anticoagulants (warfarin, heparin): antiplatelet activity; monitor INR and bleeding time",
+      "Immunosuppressants (cyclosporine, tacrolimus): β-glucan immunostimulation may reduce efficacy",
+      "Antidiabetics: mild hypoglycemic activity via AMPK activation; monitor blood glucose",
+      "Chemotherapy agents: potential synergistic anticancer effects; consult oncologist before use during chemotherapy"
+    ]
+  },
+  {
+    "slug": "chaga",
+    "name": "Chaga",
+    "latinName": "Inonotus obliquus",
+    "family": "Hymenochaetaceae",
+    "familyLatin": "Crust fungus family",
+    "nativeRange": "Circumboreal — birch forests of Russia, Siberia, Scandinavia, North America (Canada, northern USA), and northeastern China and Korea",
+    "habitat": "Parasitic on birch trees (Betula spp.), primarily white birch (B. pubescens, B. pendula); also occasionally on alder, ash, and elm; boreal and temperate forests; grows in cold climates with temperatures -40°C to +20°C",
+    "description": {
+      "overall appearance": "The familiar 'chaga' is not the true fruiting body but a sterile conk (sclerotium-like mycelial mass) protruding from birch trunk wounds. Black, charcoal-like outer crust (due to melanin) with golden-orange to brown interior. Size: 15–50 cm in diameter, 3–15 kg in weight. The true fruiting body (flat, brown, bracket-like) grows under the bark and is rarely observed.",
+      "roots": "White to cream mycelium penetrates deep into birch wood, absorbing nutrients from the heartwood and sapwood; no true roots",
+      "stem": "The conk is attached directly to the birch trunk; no stem structure; interior is corky, rusty brown, with white streaks of mycelium",
+      "leaves": "Not applicable (fungus)",
+      "flowers": "True fruiting body (basidiocarp) is formed only after the host tree dies; thin, flat, rusty-brown to dark pore surface; rarely visible",
+      "fruits/seeds": "Basidiospores are oval, brownish, 7–10 × 5–7 μm; produced only from the true (cryptic) fruiting body, not the conk"
+    },
+    "compounds": [
+      "Melanin complex: unique birch-derived melanin polymer (primary outer crust compound; most abundant bioactive by weight)",
+      "Triterpenoids: inotodiol, lanosterol, ergosterol peroxide, betulinic acid (from birch), betulin",
+      "β-Glucans: (1→3)(1→6)-β-D-glucan polysaccharide (IP-I, IP-II; primary immunomodulatory compounds)",
+      "Oxalic acid (very high — up to 7% dry weight; kidney stone risk)",
+      "Polyphenols: hispidin (fungal polyphenol; antiviral), protocatechualdehyde",
+      "Sterols: ergosterol, brassicasterol",
+      "Superoxide dismutase (SOD): extracellular; among highest known SOD activity of any organism",
+      "Phytol and isoprene derivatives; chromogen complex"
+    ],
+    "partsUsed": [
+      "Conk (the sterile mycelial mass — entire harvested body)",
+      "Hot water extract (preferred for β-glucan extraction)",
+      "Dual extract (water + ethanol for full spectrum)",
