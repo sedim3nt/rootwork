@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect, useCallback } from 'react';
 import Fuse from 'fuse.js';
 import Link from 'next/link';
 import plants from '@/data/plants.json';
@@ -19,6 +19,9 @@ interface Message {
   type: 'user' | 'garden';
   text: string;
   plants?: PlantMatch[];
+  oracleText?: string;
+  oracleLoading?: boolean;
+  oracleError?: string;
 }
 
 const fuse = new Fuse(plants, {
@@ -73,16 +76,73 @@ function buildResponse(query: string, matches: PlantMatch[]): string {
 export default function AskGarden() {
   const [messages, setMessages] = useState<Message[]>([]);
   const [input, setInput] = useState('');
+  const [isStreaming, setIsStreaming] = useState(false);
   const bottomRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
-  let nextId = useRef(0);
+  const nextId = useRef(0);
+  const abortRef = useRef<AbortController | null>(null);
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages]);
 
+  const streamOracle = useCallback(async (query: string, messageId: number) => {
+    const controller = new AbortController();
+    abortRef.current = controller;
+    setIsStreaming(true);
+
+    try {
+      const res = await fetch('/api/oracle', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query }),
+        signal: controller.signal,
+      });
+
+      if (!res.ok) {
+        throw new Error(`Oracle unavailable (${res.status})`);
+      }
+
+      const reader = res.body?.getReader();
+      if (!reader) throw new Error('No response stream');
+
+      const decoder = new TextDecoder();
+      let accumulated = '';
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        accumulated += decoder.decode(value, { stream: true });
+        const text = accumulated;
+        setMessages((prev) =>
+          prev.map((m) =>
+            m.id === messageId ? { ...m, oracleText: text, oracleLoading: true } : m
+          )
+        );
+      }
+
+      setMessages((prev) =>
+        prev.map((m) =>
+          m.id === messageId ? { ...m, oracleLoading: false } : m
+        )
+      );
+    } catch (err) {
+      if ((err as Error).name === 'AbortError') return;
+      setMessages((prev) =>
+        prev.map((m) =>
+          m.id === messageId
+            ? { ...m, oracleLoading: false, oracleError: 'The Oracle is resting. Try again later.' }
+            : m
+        )
+      );
+    } finally {
+      setIsStreaming(false);
+      abortRef.current = null;
+    }
+  }, []);
+
   function ask(query: string) {
-    if (!query.trim()) return;
+    if (!query.trim() || isStreaming) return;
 
     const userMsg: Message = { id: nextId.current++, type: 'user', text: query };
 
@@ -95,16 +155,22 @@ export default function AskGarden() {
       excerpt: getExcerpt(r.item, query),
     }));
 
+    const gardenMsgId = nextId.current++;
     const gardenMsg: Message = {
-      id: nextId.current++,
+      id: gardenMsgId,
       type: 'garden',
       text: buildResponse(query, plantMatches),
       plants: plantMatches,
+      oracleText: '',
+      oracleLoading: true,
     };
 
     setMessages((prev) => [...prev, userMsg, gardenMsg]);
     setInput('');
     inputRef.current?.focus();
+
+    // Stream Oracle response
+    streamOracle(query, gardenMsgId);
   }
 
   function handleSubmit(e: React.FormEvent) {
@@ -123,7 +189,7 @@ export default function AskGarden() {
               Ask the Garden
             </h2>
             <p className="text-text-muted max-w-md mx-auto">
-              Ask about symptoms, plants, or traditional uses. The garden will search its knowledge of 100 medicinal plants.
+              Ask about symptoms, plants, or traditional uses. The garden will search its knowledge of {plants.length} medicinal plants, and the Oracle will share deeper wisdom.
             </p>
             <div className="mt-8 flex flex-wrap justify-center gap-2">
               {SUGGESTED.map((q) => (
@@ -146,26 +212,59 @@ export default function AskGarden() {
                 <p className="text-sm">{msg.text}</p>
               </div>
             ) : (
-              <div className="max-w-[90%] bg-cream border border-border rounded-2xl rounded-bl-sm px-5 py-4 space-y-3">
-                <p className="text-sm text-parchment">{msg.text}</p>
-                {msg.plants && msg.plants.length > 0 && (
-                  <div className="grid gap-2">
-                    {msg.plants.map((p) => (
-                      <Link
-                        key={p.slug}
-                        href={`/plants/${p.slug}`}
-                        className="flex items-start gap-3 bg-surface border border-border rounded-[var(--radius-card)] p-3 hover:border-burnt/40 transition-colors group"
-                      >
-                        <div className="flex-1 min-w-0">
-                          <span className="font-medium text-parchment group-hover:text-burnt transition-colors" style={{ fontFamily: 'var(--font-display)' }}>
-                            {p.name}
-                          </span>
-                          <span className="text-xs italic text-text-muted ml-2">{p.latinName}</span>
-                          <p className="text-xs text-text-muted mt-1 line-clamp-2">{p.excerpt}</p>
-                        </div>
-                        <span className="text-xs text-burnt shrink-0">{p.family}</span>
-                      </Link>
-                    ))}
+              <div className="max-w-[90%] space-y-3">
+                {/* Fuzzy search results */}
+                <div className="bg-cream border border-border rounded-2xl rounded-bl-sm px-5 py-4 space-y-3">
+                  <p className="text-sm text-parchment">{msg.text}</p>
+                  {msg.plants && msg.plants.length > 0 && (
+                    <div className="grid gap-2">
+                      {msg.plants.map((p) => (
+                        <Link
+                          key={p.slug}
+                          href={`/plants/${p.slug}`}
+                          className="flex items-start gap-3 bg-surface border border-border rounded-[var(--radius-card)] p-3 hover:border-burnt/40 transition-colors group"
+                        >
+                          <div className="flex-1 min-w-0">
+                            <span className="font-medium text-parchment group-hover:text-burnt transition-colors" style={{ fontFamily: 'var(--font-display)' }}>
+                              {p.name}
+                            </span>
+                            <span className="text-xs italic text-text-muted ml-2">{p.latinName}</span>
+                            <p className="text-xs text-text-muted mt-1 line-clamp-2">{p.excerpt}</p>
+                          </div>
+                          <span className="text-xs text-burnt shrink-0">{p.family}</span>
+                        </Link>
+                      ))}
+                    </div>
+                  )}
+                </div>
+
+                {/* Oracle response */}
+                {(msg.oracleText || msg.oracleLoading || msg.oracleError) && (
+                  <div className="bg-surface border border-burnt/20 rounded-2xl rounded-bl-sm px-5 py-4">
+                    <div className="flex items-center gap-2 mb-2">
+                      <span className="text-lg">🔮</span>
+                      <span className="text-sm font-semibold text-burnt" style={{ fontFamily: 'var(--font-display)' }}>
+                        The Oracle says…
+                      </span>
+                      {msg.oracleLoading && !msg.oracleError && (
+                        <span className="inline-block w-2 h-2 bg-burnt rounded-full animate-pulse" />
+                      )}
+                    </div>
+
+                    {msg.oracleError ? (
+                      <p className="text-sm text-text-muted italic">{msg.oracleError}</p>
+                    ) : (
+                      <div className="text-sm text-text leading-relaxed whitespace-pre-wrap">
+                        {msg.oracleText}
+                        {msg.oracleLoading && <span className="inline-block w-1 h-4 bg-burnt/60 animate-pulse ml-0.5 align-text-bottom" />}
+                      </div>
+                    )}
+
+                    {msg.oracleText && !msg.oracleLoading && (
+                      <p className="mt-3 text-xs text-text-muted italic border-t border-border pt-2">
+                        ⚠️ AI-generated information. Not medical advice. Consult a qualified herbalist or healthcare provider.
+                      </p>
+                    )}
                   </div>
                 )}
               </div>
@@ -176,7 +275,7 @@ export default function AskGarden() {
       </div>
 
       {/* Suggested questions after conversation starts */}
-      {messages.length > 0 && (
+      {messages.length > 0 && !isStreaming && (
         <div className="flex flex-wrap gap-1.5 pb-2">
           {SUGGESTED.slice(0, 4).map((q) => (
             <button
@@ -198,13 +297,14 @@ export default function AskGarden() {
             type="text"
             value={input}
             onChange={(e) => setInput(e.target.value)}
-            placeholder="Ask the garden a question…"
+            placeholder={isStreaming ? 'The Oracle is thinking…' : 'Ask the garden a question…'}
             autoFocus
-            className="flex-1 bg-surface border border-border rounded-[var(--radius-card)] px-4 py-3 text-sm text-text placeholder:text-text-muted/60 focus:outline-none focus:border-burnt focus:ring-1 focus:ring-burnt/30 transition-colors"
+            disabled={isStreaming}
+            className="flex-1 bg-surface border border-border rounded-[var(--radius-card)] px-4 py-3 text-sm text-text placeholder:text-text-muted/60 focus:outline-none focus:border-burnt focus:ring-1 focus:ring-burnt/30 transition-colors disabled:opacity-60"
           />
           <button
             type="submit"
-            disabled={!input.trim()}
+            disabled={!input.trim() || isStreaming}
             className="bg-burnt text-cream px-5 py-3 rounded-[var(--radius-card)] text-sm font-medium hover:bg-burnt/90 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
           >
             Ask
