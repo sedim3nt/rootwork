@@ -154,7 +154,7 @@ export default function GraphPage() {
         <div className="flex gap-3 mb-6">
           <button
             onClick={() => setViewMode('family')}
-            className="px-4 py-2 rounded-lg text-sm font-medium transition-all"
+            className="px-4 py-2 rounded-[4px] text-sm font-medium transition-all"
             style={{
               background: viewMode === 'family' ? '#C85A2A' : 'transparent',
               border: `1px solid ${viewMode === 'family' ? '#C85A2A' : '#5C4A32'}`,
@@ -165,7 +165,7 @@ export default function GraphPage() {
           </button>
           <button
             onClick={() => setViewMode('use')}
-            className="px-4 py-2 rounded-lg text-sm font-medium transition-all"
+            className="px-4 py-2 rounded-[4px] text-sm font-medium transition-all"
             style={{
               background: viewMode === 'use' ? '#C85A2A' : 'transparent',
               border: `1px solid ${viewMode === 'use' ? '#C85A2A' : '#5C4A32'}`,
@@ -176,12 +176,12 @@ export default function GraphPage() {
           </button>
         </div>
 
-        <div className="rounded-2xl overflow-hidden" style={{ border: '1px solid #5C4A32', background: '#0F0A04' }}>
+        <div className="rounded-[4px] overflow-hidden" style={{ border: '1px solid #5C4A32', background: '#0F0A04' }}>
           <svg ref={svgRef} width="100%" height={600} />
         </div>
 
         {selectedNode && (
-          <div className="mt-6 p-6 rounded-xl" style={{ background: '#2A1F10', border: '1px solid #5C4A32' }}>
+          <div className="mt-6 p-6 rounded-[4px]" style={{ background: '#2A1F10', border: '1px solid #5C4A32' }}>
             <h3 className="text-xl font-bold" style={{ fontFamily: 'var(--font-display), serif' }}>
               {selectedNode.name}
             </h3>
@@ -191,7 +191,7 @@ export default function GraphPage() {
                 {selectedNode.uses.length > 0 && (
                   <div className="flex flex-wrap gap-2 mt-3">
                     {selectedNode.uses.map((u) => (
-                      <span key={u} className="px-2 py-1 rounded text-xs" style={{ background: '#3A2A16', color: '#C85A2A' }}>{u}</span>
+                      <span key={u} className="px-2 py-1 rounded-[4px] text-xs" style={{ background: '#3A2A16', color: '#C85A2A' }}>{u}</span>
                     ))}
                   </div>
                 )}

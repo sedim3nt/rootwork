@@ -208,13 +208,13 @@ export default function AskGarden() {
         {messages.map((msg) => (
           <div key={msg.id} className={`flex ${msg.type === 'user' ? 'justify-end' : 'justify-start'}`}>
             {msg.type === 'user' ? (
-              <div className="max-w-[80%] bg-sienna text-cream rounded-2xl rounded-br-sm px-4 py-3">
+              <div className="max-w-[80%] bg-sienna text-cream rounded-[4px] rounded-br-sm px-4 py-3">
                 <p className="text-sm">{msg.text}</p>
               </div>
             ) : (
               <div className="max-w-[90%] space-y-3">
                 {/* Fuzzy search results */}
-                <div className="bg-cream border border-border rounded-2xl rounded-bl-sm px-5 py-4 space-y-3">
+                <div className="bg-cream border border-border rounded-[4px] rounded-bl-sm px-5 py-4 space-y-3">
                   <p className="text-sm text-parchment">{msg.text}</p>
                   {msg.plants && msg.plants.length > 0 && (
                     <div className="grid gap-2">
@@ -240,7 +240,7 @@ export default function AskGarden() {
 
                 {/* Oracle response */}
                 {(msg.oracleText || msg.oracleLoading || msg.oracleError) && (
-                  <div className="bg-surface border border-burnt/20 rounded-2xl rounded-bl-sm px-5 py-4">
+                  <div className="bg-surface border border-burnt/20 rounded-[4px] rounded-bl-sm px-5 py-4">
                     <div className="flex items-center gap-2 mb-2">
                       <span className="text-lg">🔮</span>
                       <span className="text-sm font-semibold text-burnt" style={{ fontFamily: 'var(--font-display)' }}>
