@@ -146,7 +146,7 @@ export default function SymptomsPage() {
               <button
                 key={use}
                 onClick={() => toggleUse(use)}
-                className={`text-sm px-3 py-1.5 rounded-full border transition-colors ${
+                className={`text-sm px-3 py-1.5 rounded-[4px] border transition-colors ${
                   selectedUses.includes(use)
                     ? 'bg-burnt text-cream border-burnt'
                     : 'bg-surface border-border text-text-muted hover:border-burnt/40'

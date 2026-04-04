@@ -196,7 +196,7 @@ export default function AskGarden() {
                 <button
                   key={q}
                   onClick={() => ask(q)}
-                  className="text-sm bg-surface border border-border rounded-full px-4 py-2 text-text-muted hover:border-burnt/40 hover:text-burnt transition-colors"
+                  className="text-sm bg-surface border border-border rounded-[4px] px-4 py-2 text-text-muted hover:border-burnt/40 hover:text-burnt transition-colors"
                 >
                   {q}
                 </button>
@@ -247,7 +247,7 @@ export default function AskGarden() {
                         The Oracle says…
                       </span>
                       {msg.oracleLoading && !msg.oracleError && (
-                        <span className="inline-block w-2 h-2 bg-burnt rounded-full animate-pulse" />
+                        <span className="inline-block w-2 h-2 bg-burnt rounded-[4px] animate-pulse" />
                       )}
                     </div>
 
@@ -281,7 +281,7 @@ export default function AskGarden() {
             <button
               key={q}
               onClick={() => ask(q)}
-              className="text-xs bg-surface border border-border rounded-full px-3 py-1 text-text-muted hover:border-burnt/40 hover:text-burnt transition-colors"
+              className="text-xs bg-surface border border-border rounded-[4px] px-3 py-1 text-text-muted hover:border-burnt/40 hover:text-burnt transition-colors"
             >
               {q}
             </button>

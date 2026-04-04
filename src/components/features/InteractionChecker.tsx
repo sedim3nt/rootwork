@@ -114,7 +114,7 @@ export default function InteractionChecker() {
       {selected.length > 0 && (
         <div className="flex flex-wrap gap-2">
           {selected.map((p) => (
-            <span key={p.slug} className="inline-flex items-center gap-1.5 bg-burnt/10 text-burnt text-sm px-3 py-1.5 rounded-full">
+            <span key={p.slug} className="inline-flex items-center gap-1.5 bg-burnt/10 text-burnt text-sm px-3 py-1.5 rounded-[4px]">
               <Link href={`/plants/${p.slug}`} className="hover:underline">{p.name}</Link>
               <button onClick={() => removePlant(p.slug)} className="hover:text-safety transition-colors">&times;</button>
             </span>

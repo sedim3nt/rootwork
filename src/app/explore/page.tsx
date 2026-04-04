@@ -194,7 +194,7 @@ export default function ExplorePage() {
           <button
             key={f}
             onClick={() => setFilter(f)}
-            className={`text-sm px-4 py-2 rounded-full border transition-colors ${
+            className={`text-sm px-4 py-2 rounded-[4px] border transition-colors ${
               filter === f ? 'bg-burnt text-cream border-burnt' : 'bg-surface border-border text-text-muted hover:border-burnt/40'
             }`}
           >
