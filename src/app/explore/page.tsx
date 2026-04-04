@@ -206,10 +206,10 @@ export default function ExplorePage() {
       {/* Legend */}
       <div className="flex gap-4 text-xs text-text-muted">
         <span className="flex items-center gap-1.5">
-          <span className="w-4 h-0.5 bg-burnt inline-block rounded" /> Family
+          <span className="w-4 h-0.5 bg-burnt inline-block rounded-[4px]" /> Family
         </span>
         <span className="flex items-center gap-1.5">
-          <span className="w-4 h-0.5 bg-sienna inline-block rounded" /> Shared Use
+          <span className="w-4 h-0.5 bg-sienna inline-block rounded-[4px]" /> Shared Use
         </span>
       </div>
 

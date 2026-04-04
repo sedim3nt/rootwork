@@ -199,7 +199,7 @@ export default function SymptomsPage() {
                   </div>
                   {/* Safety warning if has contraindications */}
                   {plant.contraindications.length > 0 && (
-                    <div className="mt-3 text-xs text-safety bg-safety-bg rounded px-2 py-1">
+                    <div className="mt-3 text-xs text-safety bg-safety-bg rounded-[4px] px-2 py-1">
                       ⚠ {plant.contraindications.length} contraindication{plant.contraindications.length !== 1 ? 's' : ''}
                     </div>
                   )}

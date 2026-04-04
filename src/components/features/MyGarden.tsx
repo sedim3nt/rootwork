@@ -93,7 +93,7 @@ export default function MyGarden() {
                     value={noteText}
                     onChange={(e) => setNoteText(e.target.value)}
                     placeholder="Why I saved this…"
-                    className="flex-1 text-xs bg-surface border border-border rounded px-2 py-1 text-text placeholder:text-text-muted/60 focus:outline-none focus:border-burnt"
+                    className="flex-1 text-xs bg-surface border border-border rounded-[4px] px-2 py-1 text-text placeholder:text-text-muted/60 focus:outline-none focus:border-burnt"
                     autoFocus
                     onKeyDown={(e) => e.key === 'Enter' && saveNote(plant.slug)}
                   />
