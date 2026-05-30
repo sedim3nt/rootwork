@@ -2,6 +2,10 @@ node_modules/
 .next/
 out/
 .vercel
+build/
+dist/
 public/images/botanical/raw/
+.env
+.env.*
 .env.local
 .env*.local
